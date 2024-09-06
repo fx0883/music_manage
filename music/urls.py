@@ -5,7 +5,7 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 
-from music.views import auth_views, song_views
+from music.views import song_views
 
 # router = DefaultRouter()
 # router.register(prefix="viewsets", viewset=views.CourseViewSet)

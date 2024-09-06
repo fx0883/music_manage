@@ -45,10 +45,13 @@ for file in files:
         imported_module = import_module(module_path)
         # 获取模块中的Admin类，并注册到admin.site
         for name in getattr(imported_module, '__all__', []):
-            admin_class = getattr(imported_module, name)
-            if issubclass(admin_class, admin.ModelAdmin):
-                model = admin_class.form.Meta.model
-                admin.site.register(model, admin_class)
+            try:
+                admin_class = getattr(imported_module, name)
+                if issubclass(admin_class, admin.ModelAdmin):
+                    model = admin_class.Meta.model
+                    admin.site.register(model, admin_class)
+            except Exception as e:
+                print(f"Failed to import {module_path}: {e}")
     except Exception as e:
         print(f"Failed to import {module_path}: {e}")
 

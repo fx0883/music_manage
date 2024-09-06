@@ -21,9 +21,7 @@ from drf_spectacular.views import SpectacularAPIView, SpectacularSwaggerView, Sp
 from rest_framework import routers, serializers, viewsets, permissions
 from rest_framework_simplejwt.views import TokenRefreshView
 
-from music.views import auth_views
-from music.views.auth_views import AccessTokenAPIView, UserTokenAPIView, CustomTokenObtainPairView
-from rest_framework_simplejwt import views as jwt_views
+
 
 # Serializers define the API representation.
 class UserSerializer(serializers.HyperlinkedModelSerializer):
