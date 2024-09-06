@@ -7,7 +7,7 @@ class Song(models.Model):
     album = models.TextField(blank=True, null=True)
     genre = models.CharField(max_length=50, blank=True, null=True)
     release_date = models.DateField(blank=True, null=True)
-    duration = models.DurationField()
+    duration = models.IntegerField()
     # 新增字段
     description = models.TextField(blank=True, null=True)
     kind = models.CharField(max_length=100, blank=True, null=True)

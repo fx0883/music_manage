@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django_json_widget',
     'drf_spectacular',
 
+
     'rest_framework',
     'rest_framework.authtoken',
     'rest_framework_simplejwt',
