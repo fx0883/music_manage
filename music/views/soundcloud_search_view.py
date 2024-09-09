@@ -9,8 +9,8 @@ from ..serializers import SongSerializer
 from ..utils.gconfig import GlobalConfig
 from ..utils.utils import DateUtils
 
-
 from django.db.models import Q
+
 
 class SoundCloudSearchAPIView(APIView):
 
@@ -50,14 +50,51 @@ class SoundCloudSearchAPIView(APIView):
         # Call the SoundCloud API with the combined params
         url = 'https://api-v2.soundcloud.com/search'
 
+        # headers = {
+        #     'Accept': 'application/json, text/javascript, */*; q=0.01',
+        #     'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        #     'Connection': 'keep-alive',
+        #     'Origin': 'https://soundcloud.com',
+        #     'Referer': 'https://soundcloud.com/',
+        #     'Sec-Fetch-Dest': 'empty',
+        #     'Sec-Fetch-Mode': 'cors',
+        #     'Sec-Fetch-Site': 'same-site',
+        #     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        #     'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+        #     'sec-ch-ua-mobile': '?0',
+        #     'sec-ch-ua-platform': '"Windows"'
+        # }
+
+        headers = {
+            "Accept": "application/json, text/javascript, */*; q=0.01",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Connection": "keep-alive",
+            "Host": "api-v2.soundcloud.com",
+            "Origin": "https://soundcloud.com",
+            "Referer": "https://soundcloud.com/",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "same-site",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+
         try:
-            response = requests.get(url, params=params)
+            response = requests.get(url, params=params, headers=headers)
             response_data = response.json()
         except requests.RequestException as e:
             return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
         # Map response data to Song model
         songs = []
+
+        print(
+            response.status_code)
+        print(str(response_data.get('collection', [])).encode('utf-8', errors='ignore'))
+
         for track in response_data.get('collection', []):
             title = track.get('title')
             permalink_url = track.get('permalink_url')
