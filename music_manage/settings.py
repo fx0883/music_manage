@@ -12,7 +12,10 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 from datetime import timedelta
 from pathlib import Path
 import os
+from dotenv import load_dotenv
 
+# 加载.env文件
+load_dotenv()
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -95,17 +98,18 @@ DATABASES = {
 
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "music-pro",
-        "USER": "root",
-        "PASSWORD": "12345678",
-        "HOST": "127.0.0.1",
-        "PORT": "3306",
+        "NAME": os.getenv('MYSQL_DB'),
+        "USER": os.getenv('MYSQL_USER'),
+        "PASSWORD": os.getenv('MYSQL_PASSWORD'),
+        "HOST": os.getenv('MYSQL_HOST'),
+        "PORT": os.getenv('MYSQL_PORT'),
         'OPTIONS': {
             'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
         },
     }
 
 }
+
 
 
 # Password validation
