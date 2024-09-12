@@ -4,6 +4,16 @@ FROM python:3.11-slim
 # 设置工作目录
 WORKDIR /app
 
+# 安装 MySQL client 和构建依赖
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    pkg-config \
+    default-libmysqlclient-dev \
+    gcc \
+    libssl-dev \
+    libffi-dev \
+    libmariadb-dev
+
 # 复制项目文件到容器中
 COPY . /app/
 
