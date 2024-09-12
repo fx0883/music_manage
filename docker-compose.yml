@@ -32,7 +32,8 @@ services:
     ports:
       - "8000:8000"
     depends_on:
-      - db
+      db:
+        condition: service_healthy  # 确保 MySQL 容器健康后才启动
     networks:
       - music-net
     environment:
