@@ -2,19 +2,24 @@ version: '3'
 
 services:
   db:
-    image: mysql:5.7
-    volumes:
-      - ./data/db:/var/lib/mysql
+    image: mysql:8.0
+    container_name: mysql
+    restart: always
     environment:
       MYSQL_DATABASE: ${MYSQL_DB}
       MYSQL_USER: ${MYSQL_USER}
       MYSQL_PASSWORD: ${MYSQL_PASSWORD}
-      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD}  # 使用和 root 用户相同的密码
+      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD}
     ports:
-      - "${MYSQL_PORT}:3306"
+      - "3306:3306"
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+    networks:
+      - music-net
 
   web:
     build: .
+    container_name: django_app
     command: python manage.py runserver 0.0.0.0:8000
     volumes:
       - .:/app
@@ -22,10 +27,14 @@ services:
       - "8000:8000"
     depends_on:
       - db
+    networks:
+      - music-net
     environment:
-      - DB_NAME=${MYSQL_DB}
-      - DB_USER=${MYSQL_USER}
-      - DB_PASSWORD=${MYSQL_PASSWORD}
-      - DB_HOST=db
-      - DB_PORT=3306
-      - DJANGO_DEBUG=${DJANGO_DEBUG}
+      MYSQL_DB: ${MYSQL_DB}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_HOST: db
+
+networks:
+  music-net:
+    driver: bridge
