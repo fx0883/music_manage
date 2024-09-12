@@ -1,4 +1,4 @@
-version: '3'
+version: '3.7'  # 确保版本号至少为 3.7
 
 services:
   db:
@@ -26,13 +26,18 @@ services:
   web:
     build: .
     container_name: django_app
-    command: python manage.py runserver 0.0.0.0:8000
+    command: >
+      sh -c "
+        python manage.py migrate --noinput &&
+        python manage.py runserver 0.0.0.0:8000
+      "
     volumes:
       - .:/app
     ports:
       - "8000:8000"
     depends_on:
-      - db  # 确保 MySQL 容器健康后才启动
+      db:  # 这里指定 db 服务
+        condition: service_healthy  # 确保 db 服务健康后才启动 web 服务
     networks:
       - music-net
     environment:
