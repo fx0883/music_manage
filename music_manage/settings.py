@@ -96,17 +96,30 @@ DATABASES = {
     #     'NAME': BASE_DIR / 'db.sqlite3',
     # }
 
+    # "default": {
+    #     "ENGINE": "django.db.backends.mysql",
+    #     "NAME": os.getenv('MYSQL_DB'),
+    #     "USER": os.getenv('MYSQL_USER'),
+    #     "PASSWORD": os.getenv('MYSQL_PASSWORD'),
+    #     "HOST": os.getenv('MYSQL_HOST'),
+    #
+    #     "PORT": os.getenv('MYSQL_PORT'),
+    #     'OPTIONS': {
+    #         'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
+    #     },
+
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": os.getenv('MYSQL_DB'),
-        "USER": os.getenv('MYSQL_USER'),
-        "PASSWORD": os.getenv('MYSQL_PASSWORD'),
-        "HOST": os.getenv('MYSQL_HOST'),
+        "NAME": 'music-pro',
+        "USER": 'music',
+        "PASSWORD": '12345678',
+        "HOST": 'db',
 
-        "PORT": os.getenv('MYSQL_PORT'),
+        "PORT": '3306',
         'OPTIONS': {
             'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
         },
+
     }
 
 }
