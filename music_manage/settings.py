@@ -102,6 +102,7 @@ DATABASES = {
         "USER": os.getenv('MYSQL_USER'),
         "PASSWORD": os.getenv('MYSQL_PASSWORD'),
         "HOST": os.getenv('MYSQL_HOST'),
+
         "PORT": os.getenv('MYSQL_PORT'),
         'OPTIONS': {
             'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
