@@ -36,8 +36,8 @@ services:
     ports:
       - "8000:8000"
     depends_on:
-      db:  # 这里指定 db 服务
-        condition: service_healthy  # 确保 db 服务健康后才启动 web 服务
+      db:
+        condition: service_healthy
     networks:
       - music-net
     environment:
