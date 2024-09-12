@@ -114,7 +114,6 @@ DATABASES = {
         "USER": 'music',
         "PASSWORD": '12345678',
         "HOST": 'db',
-
         "PORT": '3306',
         'OPTIONS': {
             'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
