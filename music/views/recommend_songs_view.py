@@ -88,7 +88,12 @@ class RecommendSongsAPIView(APIView):
                     'permalink_url': permalink_url,
                     'permalink_image': track.get('artwork_url'),
                     'caption': track.get('caption'),
-                    'download_url': track.get('download_url')
+                    'download_url': track.get('download_url'),
+
+                    'full_duration': track.get('full_duration'),
+                    'likes_count': track.get('likes_count'),
+                    'playback_count': track.get('playback_count'),
+                    'tag_list': track.get('tag_list')
                 }
 
                 song = Song(**song_data)

@@ -77,29 +77,64 @@ class SoundCloudSearchAPIView(APIView):
 
         songs = []
 
-        for track in response_data.get('collection', []):
-            title = track.get('title')
-            permalink_url = track.get('permalink_url')
+        for trackList in response_data.get('collection', []):
+            if not trackList.get('tracks'):
+                title = trackList.get('title')
+                permalink_url = trackList.get('permalink_url')
 
-            if title and permalink_url:
-                song_data = {
-                    'title': title,
-                    'artist': track.get('user', {}).get('username'),
-                    'album': track.get('album'),
-                    'genre': track.get('genre'),
-                    'release_date': DateUtils.convert_date(track.get('release_date')),
-                    'duration': track.get('duration'),
-                    'description': track.get('description'),
-                    'kind': track.get('kind'),
-                    'license': track.get('license'),
-                    'permalink': track.get('permalink'),
-                    'permalink_url': permalink_url,
-                    'permalink_image': track.get('artwork_url'),
-                    'caption': track.get('caption'),
-                    'download_url': track.get('download_url')
-                }
+                if title and permalink_url:
+                    song_data = {
+                        'title': title,
+                        'artist': trackList.get('user', {}).get('username'),
+                        'album': trackList.get('album'),
+                        'genre': trackList.get('genre'),
+                        'release_date': DateUtils.convert_date(trackList.get('release_date')),
+                        'duration': trackList.get('duration'),
+                        'description': trackList.get('description'),
+                        'kind': trackList.get('kind'),
+                        'license': trackList.get('license'),
+                        'permalink': trackList.get('permalink'),
+                        'permalink_url': permalink_url,
+                        'permalink_image': trackList.get('artwork_url'),
+                        'caption': trackList.get('caption'),
+                        'download_url': trackList.get('download_url'),
 
-                songs.append(song_data)
+                        'full_duration': trackList.get('full_duration'),
+                        'likes_count': trackList.get('likes_count'),
+                        'playback_count': trackList.get('playback_count'),
+                        'tag_list': trackList.get('tag_list')
+                    }
+
+                    songs.append(song_data)
+            else:
+                for track in trackList.get('tracks', []):
+                    title = track.get('title')
+                    permalink_url = track.get('permalink_url')
+
+                    if title and permalink_url:
+                        song_data = {
+                            'title': title,
+                            'artist': track.get('user', {}).get('username'),
+                            'album': track.get('album'),
+                            'genre': track.get('genre'),
+                            'release_date': DateUtils.convert_date(track.get('release_date')),
+                            'duration': track.get('duration'),
+                            'description': track.get('description'),
+                            'kind': track.get('kind'),
+                            'license': track.get('license'),
+                            'permalink': track.get('permalink'),
+                            'permalink_url': permalink_url,
+                            'permalink_image': track.get('artwork_url'),
+                            'caption': track.get('caption'),
+                            'download_url': track.get('download_url'),
+
+                            'full_duration': track.get('full_duration'),
+                            'likes_count': track.get('likes_count'),
+                            'playback_count': track.get('playback_count'),
+                            'tag_list': track.get('tag_list')
+                        }
+
+                        songs.append(song_data)
 
         # Start a new thread to save songs to the database
         threading.Thread(target=self.save_songs_to_db, args=(songs,)).start()
