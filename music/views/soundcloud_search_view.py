@@ -1,18 +1,27 @@
-import requests
+import threading
+from django.http import JsonResponse
 from drf_spectacular.types import OpenApiTypes
-from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
+from drf_spectacular.utils import extend_schema, OpenApiExample
 from rest_framework.views import APIView
-from rest_framework.response import Response
-from rest_framework import status
 from ..models import Song
 from ..serializers import SongSerializer
 from ..utils.gconfig import GlobalConfig
 from ..utils.utils import DateUtils
-
-from django.db.models import Q
-
+import requests
 
 class SoundCloudSearchAPIView(APIView):
+
+    def save_songs_to_db(self, songs_data):
+        for song_data in songs_data:
+            title = song_data.get('title')
+            permalink_url = song_data.get('permalink_url')
+
+            if title and permalink_url and not Song.objects.filter(permalink_url=permalink_url).exists():
+                song = Song(**song_data)
+                try:
+                    song.save()
+                except Exception as e:
+                    print(f"Error saving song: {e}")
 
     @extend_schema(
         operation_id='SoundCloud 搜索 API',
@@ -38,32 +47,10 @@ class SoundCloudSearchAPIView(APIView):
         }
     )
     def post(self, request):
-        # Extract all POST parameters from the request
         post_params = request.data
-
-        # Get default params from GlobalConfig
         default_params = GlobalConfig().get_config(GlobalConfig.SOUNDCLOUD)
-
-        # Merge the POST parameters with the default params
         params = {**default_params, **post_params}
-
-        # Call the SoundCloud API with the combined params
         url = 'https://api-v2.soundcloud.com/search'
-
-        # headers = {
-        #     'Accept': 'application/json, text/javascript, */*; q=0.01',
-        #     'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-        #     'Connection': 'keep-alive',
-        #     'Origin': 'https://soundcloud.com',
-        #     'Referer': 'https://soundcloud.com/',
-        #     'Sec-Fetch-Dest': 'empty',
-        #     'Sec-Fetch-Mode': 'cors',
-        #     'Sec-Fetch-Site': 'same-site',
-        #     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
-        #     'sec-ch-ua': '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
-        #     'sec-ch-ua-mobile': '?0',
-        #     'sec-ch-ua-platform': '"Windows"'
-        # }
 
         headers = {
             "Accept": "application/json, text/javascript, */*; q=0.01",
@@ -86,20 +73,14 @@ class SoundCloudSearchAPIView(APIView):
             response = requests.get(url, params=params, headers=headers)
             response_data = response.json()
         except requests.RequestException as e:
-            return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+            return JsonResponse({"error": str(e)}, status=500)
 
-        # Map response data to Song model
         songs = []
-
-        print(
-            response.status_code)
-        print(str(response_data.get('collection', [])).encode('utf-8', errors='ignore'))
 
         for track in response_data.get('collection', []):
             title = track.get('title')
             permalink_url = track.get('permalink_url')
 
-            # Add song to the list if the title is not empty
             if title and permalink_url:
                 song_data = {
                     'title': title,
@@ -118,16 +99,11 @@ class SoundCloudSearchAPIView(APIView):
                     'download_url': track.get('download_url')
                 }
 
-                # Append the song to the list
-                song = Song(**song_data)
-                songs.append(song)
+                songs.append(song_data)
 
-                # Save the song only if permalink_url does not exist
-                if permalink_url and not Song.objects.filter(permalink_url=permalink_url).exists():
-                    try:
-                        song.save()
-                    except Exception as e:
-                        print(f"Error saving song: {e}")
+        # Start a new thread to save songs to the database
+        threading.Thread(target=self.save_songs_to_db, args=(songs,)).start()
+
         # Serialize the songs data
         serializer = SongSerializer(songs, many=True)
-        return Response(serializer.data, status=status.HTTP_200_OK)
+        return JsonResponse(serializer.data, safe=False, status=200)
