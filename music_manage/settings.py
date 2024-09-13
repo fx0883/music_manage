@@ -96,31 +96,31 @@ DATABASES = {
     #     'NAME': BASE_DIR / 'db.sqlite3',
     # }
 
-    "default": {
-        "ENGINE": "django.db.backends.mysql",
-        "NAME": os.getenv('MYSQL_DB'),
-        "USER": 'root',
-        "PASSWORD": os.getenv('MYSQL_PASSWORD'),
-        "HOST": '127.0.0.1',
-
-        "PORT": os.getenv('MYSQL_PORT'),
-        'OPTIONS': {
-            'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
-        },
-       }
-
     # "default": {
     #     "ENGINE": "django.db.backends.mysql",
-    #     "NAME": 'music-pro',
-    #     "USER": 'music',
-    #     "PASSWORD": '12345678',
-    #     "HOST": 'db',
-    #     "PORT": '3306',
+    #     "NAME": os.getenv('MYSQL_DB'),
+    #     "USER": 'root',
+    #     "PASSWORD": os.getenv('MYSQL_PASSWORD'),
+    #     "HOST": '127.0.0.1',
+    #
+    #     "PORT": os.getenv('MYSQL_PORT'),
     #     'OPTIONS': {
     #         'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
     #     },
-    #
-    # }
+    #    }
+
+    "default": {
+        "ENGINE": "django.db.backends.mysql",
+        "NAME": 'music-pro',
+        "USER": 'music',
+        "PASSWORD": '12345678',
+        "HOST": 'db',
+        "PORT": '3306',
+        'OPTIONS': {
+            'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
+        },
+
+    }
 
 }
 
