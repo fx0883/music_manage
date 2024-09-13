@@ -107,6 +107,7 @@ DATABASES = {
     #     'OPTIONS': {
     #         'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
     #     },
+    #    }
 
     "default": {
         "ENGINE": "django.db.backends.mysql",
