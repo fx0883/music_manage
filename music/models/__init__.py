@@ -1,8 +1,9 @@
 from .song import Song
 from .site_config import SiteConfig
 from .config import Config
+from .genre_item import GenreItem
 
-__all__ = ['Song', 'SiteConfig', 'Config']
+__all__ = ['Song', 'SiteConfig', 'Config', 'GenreItem']
 #
 #
 # # music/models/__init__.py
