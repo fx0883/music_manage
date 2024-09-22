@@ -13,6 +13,7 @@ from music.views.soundcloud_genre_songs_view import SoundCloudGenreSongsAPIView
 from music.views.soundcloud_genres_view import SoundCloudGenresView
 from music.views.soundcloud_search_view import SoundCloudSearchAPIView
 from music.views.song_list_by_recommend_view import SongListByRecommendView
+from music.views.soundcloud_search_view_v2 import SoundCloudSearchAPIViewV2
 
 # router = DefaultRouter()
 # router.register(prefix="viewsets", viewset=views.CourseViewSet)
@@ -27,6 +28,7 @@ urlpatterns = [
 
     # path("search/", song_views.SongView.as_view(), name="song-search"),
     path('soundcloud/search/', SoundCloudSearchAPIView.as_view(), name='soundcloud-search'),
+    path('soundcloud/mobile/search/', SoundCloudSearchAPIViewV2.as_view(), name='soundcloud-search'),
     path('soundcloud/permalink/', PermalinkToOfficialURLAPIView.as_view(), name='permalink'),
     path('soundcloud/recommend-songs/', RecommendSongsAPIView.as_view(), name='recommend-songs'),
     path('soundcloud/genres/', SoundCloudGenresView.as_view(), name='soundcloud-genres'),

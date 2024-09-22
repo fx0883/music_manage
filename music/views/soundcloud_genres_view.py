@@ -10,7 +10,7 @@ from ..serializers import GenreItemSerializer
 
 class SoundCloudGenresView(APIView):
     @extend_schema(
-        summary="SoundCloud API Search",
+        summary="SoundCloud API Search for genres",
         description="调用 SoundCloud API 并返回 sections 数据，包括 items 信息",
         responses={200: 'OK'}
     )

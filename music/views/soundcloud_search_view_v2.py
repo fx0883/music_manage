@@ -1,12 +1,29 @@
+import threading
+from urllib.parse import urlencode
+
 import requests
+from django.http import JsonResponse
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiResponse
 from ..models import Song
+from ..serializers import SongSerializer
 
 
-class SoundCloudGenreSongsAPIView(APIView):
+class SoundCloudSearchAPIViewV2(APIView):
+
+    def save_songs_to_db(self, songs_data):
+        for song_data in songs_data:
+            title = song_data.get('title')
+            permalink_url = song_data.get('permalink_url')
+
+            if title and permalink_url and not Song.objects.filter(permalink_url=permalink_url).exists():
+                song = Song(**song_data)
+                try:
+                    song.save()
+                except Exception as e:
+                    print(f"Error saving song: {e}")
     @extend_schema(
         summary="Search tracks on SoundCloud",
         description=(
@@ -20,11 +37,11 @@ class SoundCloudGenreSongsAPIView(APIView):
                 description='Search term to find tracks (e.g., "Country")',
                 required=True,
                 type=str,
-                default="Country"
+                default="王菲"
             ),
             OpenApiParameter(
                 name='page',
-                description='Page index starting from 0',
+                description='Page index starting from 1',
                 required=False,
                 type=int,
                 default=1
@@ -53,7 +70,7 @@ class SoundCloudGenreSongsAPIView(APIView):
                             "full_duration": 300,
                             "likes_count": 120,
                             "playback_count": 1500,
-                            "tag_list": "tag1 tag2"
+                            "tag_list": "tag1,tag2"
                         }
                     ]
                 }
@@ -63,41 +80,63 @@ class SoundCloudGenreSongsAPIView(APIView):
         }
     )
     def get(self, request, *args, **kwargs):
-        query = request.query_params.get('query', None)
-        page = request.query_params.get('page', None)
-        if not query:
-            return Response({"error": "Missing query parameter"}, status=status.HTTP_400_BAD_REQUEST)
+        query = request.query_params.get('query', '王菲')  # 默认搜索 "王菲"
+        page = request.query_params.get('page', 3)  # 默认第 3 页
 
-        # 调用SoundCloud API
-        url = 'https://api-mobile.soundcloud.com/search/query'
+        url = "https://api-mobile.soundcloud.com/search/query"
+
+        # url = "https://api-mobile.soundcloud.com/search/query?client_id=dbdsA8b6V6Lw7wzu1x0T4CLxt58yd4Bf&limit=30&q=王菲&filter.content_type=all&version=v6&autocomplete_urn=soundcloud%3Asearch-autocomplete%3A966e6fc62c6142da8f1c84d7be2bad02&page=1"
         headers = {
             'Accept': 'application/json; charset=utf-8',
             'ADID': '83b5d936-150e-41c9-bd2a-edbe5e04cae4',
+            'ADID-TRACKING': 'true',
             'Authorization': 'OAuth 2-293571-1410263487-kCK3vEG4A5lqd',
             'App-Locale': 'en',
             'Device-Locale': 'en-US',
             'User-Agent': 'SoundCloud/2024.09.16-release (Android 13.0.0; Google Pixel 4)',
             'App-Version': '260090',
             'UDID': 'd047bfb9ffb6bddf6a6796e67936ef85',
+            'App-Requested-Features': 'api_ios_podcast=,api_ios_reduced_price=,api_ios_test=,api_test=,system_playlist_in_library=true',
+            'App-Environment': 'prod',
+            'Cookie': 'datadome=2cXNw44WLZ91mmGJBI425QlzumxPdUfwljJNhaLXAlfoyqMPghMFPZDFcY_IFQgEgvBjCf_kzT~J8VWvUYgvUnkgK~Q1pVuH12OrYNBmvVALn7mJQSYUtvRae9XEW5cm',
+            'Host': 'api-mobile.soundcloud.com'
         }
+        # params = {
+        #     'client_id': 'dbdsA8b6V6Lw7wzu1x0T4CLxt58yd4Bf',
+        #     'limit': 30,
+        #     'q': query,
+        #     'filter.content_type': 'all',
+        #     'version': 'v6',
+        #     'autocomplete_urn': 'soundcloud%3Asearch-autocomplete%3A966e6fc62c6142da8f1c84d7be2bad02',
+        #     'page': page
+        # }
+
         params = {
-            'client_id': 'dbdsA8b6Vw7wzu1x0T4CLxt58yd4Bf',
-            'size_scaling': '1.0',
-            'see_all_page': '0',
-            'page': page,
-            'query': query,
-            'previous_urn': 'soundcloud:search:de386447-afb8-44d1-a732-d344ec74a0ef',
-            'action': 'GENRE_CELL_CLICKED',
-            'layout_version': 'v4',
-            'filter.content_type': 'ALL',
-            'layout': 'soundcloud:layouts:category_page',
-            'session_urn': 'soundcloud:search:1170c2e5-4129-410c-9b12-8f4ff9cd0d7d'
+            'client_id': 'dbdsA8b6V6Lw7wzu1x0T4CLxt58yd4Bf',
+            'limit': 30,
+            'q': query,
+            'filter.content_type': 'all',
+            'version': 'v6',
+            'page': page
         }
 
-        response = requests.get(url, headers=headers, params=params)
+        # 手动构造 URL，将 autocomplete_urn 保留在 URL 中
+        query_string = "&".join([f"{key}={value}" for key, value in params.items()])
+        autocomplete_urn = 'soundcloud:search-autocomplete:966e6fc62c6142da8f1c84d7be2bad02'
+        full_url = f"{url}?{query_string}&autocomplete_urn={autocomplete_urn}"
+
+        # response = requests.request("GET", url, headers=headers, params=params, data=payload)
+
+        query_string = urlencode(params)
+
+        # 构造完整 URL
+        full_url = f"{url}?{query_string}"
+        print(full_url)
+        response = requests.get(full_url, headers=headers)
 
         if response.status_code != 200:
-            return Response({"error": "SoundCloud API request failed"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+            return Response({"error": f"SoundCloud API request failed: {response.status_code}"},
+                            status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
         data = response.json()
 
@@ -152,4 +191,10 @@ class SoundCloudGenreSongsAPIView(APIView):
                 #     },
                 tracks_data.append(song_data)
 
-        return Response(tracks_data, status=status.HTTP_200_OK)
+        threading.Thread(target=self.save_songs_to_db, args=(tracks_data,)).start()
+
+        # Serialize the songs data
+        serializer = SongSerializer(tracks_data, many=True)
+        return JsonResponse(serializer.data, safe=False, status=200)
+
+        # return Response(tracks_data, status=status.HTTP_200_OK)
