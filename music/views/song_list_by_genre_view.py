@@ -57,7 +57,8 @@ class SongListByGenreView(generics.ListAPIView):
     def get(self, request, *args, **kwargs):
         genre = request.query_params.get('genre', None)
         if genre:
-            songs = Song.objects.filter(genre__iexact=genre)
+            # 使用 icontains 进行大小写不敏感的部分匹配
+            songs = Song.objects.filter(genre__icontains=genre)
         else:
             return Response({'error': 'Genre parameter is required.'}, status=status.HTTP_400_BAD_REQUEST)
 
