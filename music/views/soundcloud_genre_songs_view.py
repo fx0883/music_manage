@@ -21,6 +21,13 @@ class SoundCloudGenreSongsAPIView(APIView):
                 required=True,
                 type=str,
                 default="Country"
+            ),
+            OpenApiParameter(
+                name='page',
+                description='Page index starting from 0',
+                required=False,
+                type=int,
+                default=1
             )
         ],
         responses={
@@ -57,6 +64,7 @@ class SoundCloudGenreSongsAPIView(APIView):
     )
     def get(self, request, *args, **kwargs):
         query = request.query_params.get('query', None)
+        page = request.query_params.get('page', None)
         if not query:
             return Response({"error": "Missing query parameter"}, status=status.HTTP_400_BAD_REQUEST)
 
@@ -76,7 +84,7 @@ class SoundCloudGenreSongsAPIView(APIView):
             'client_id': 'dbdsA8b6Vw7wzu1x0T4CLxt58yd4Bf',
             'size_scaling': '1.0',
             'see_all_page': '0',
-            'page': '0',
+            'page': page,
             'query': query,
             'previous_urn': 'soundcloud:search:de386447-afb8-44d1-a732-d344ec74a0ef',
             'action': 'GENRE_CELL_CLICKED',
@@ -112,7 +120,7 @@ class SoundCloudGenreSongsAPIView(APIView):
                     'license': track_data.get('license'),
                     'permalink': track_data.get('permalink'),
                     'permalink_url': track_data.get('permalink_url'),
-                    'permalink_image': track_data.get('artwork_url'),
+                    'permalink_image': track_data.get('artwork_url_template'),
                     'caption': track_data.get('caption'),
                     'download_url': track_data.get('download_url'),
                     'full_duration': track_data.get('full_duration'),
