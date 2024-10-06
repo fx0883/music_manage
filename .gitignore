@@ -2,3 +2,10 @@
 *.pyc
 music/__pycache__/urls.cpython-311.pyc
 *.pyc
+/music/__pycache__
+/music/migrations
+/music_manage/__pycache__
+/music/serializers/__pycache__
+/music/migrations/__pycache__
+/music/serializers/__pycache__
+/music/views/__pycache__
