@@ -2,6 +2,8 @@
 gcloud compute ssh --project=upbeat-orb-435001-b1 --zone=us-central1-f instance-music
 
 
+进入项目的目录
+
 docker-compose down
 
 docker system prune -a
