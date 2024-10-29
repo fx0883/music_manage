@@ -1,4 +1,6 @@
 主要部署命令如下
+gcloud compute ssh --project=upbeat-orb-435001-b1 --zone=us-central1-f instance-music
+
 
 docker-compose down
 
