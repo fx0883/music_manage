@@ -67,12 +67,16 @@ class SoundCloudSearchAPIView(APIView):
             "sec-ch-ua": "\"Chromium\";v=\"128\", \"Not;A=Brand\";v=\"24\", \"Google Chrome\";v=\"128\"",
             "sec-ch-ua-mobile": "?0",
             "sec-ch-ua-platform": "\"Windows\""
+
         }
 
         try:
             response = requests.get(url, params=params, headers=headers)
             response_data = response.json()
         except requests.RequestException as e:
+            if response.status_code == 401:
+                GlobalConfig().update_soundcloud_client_id()
+                return JsonResponse({"error": "Invalid API key"}, status=401)
             return JsonResponse({"error": str(e)}, status=500)
 
         songs = []
