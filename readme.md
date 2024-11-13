@@ -70,3 +70,10 @@ tar -czf backups/mysql_data_$(date +%Y%m%d_%H%M%S).tar.gz mysql_data/
 
 # 重启容器
 docker-compose up -d
+
+
+
+python manage.py import_languages
+python manage.py import_poem --file=doc/importData/tang_poem.json
+
+python manage.py export_poem 静夜思

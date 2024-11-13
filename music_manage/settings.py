@@ -41,17 +41,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'music.apps.MusicConfig',
-    'django_json_widget',
-    'drf_spectacular',
-
-
     'rest_framework',
     'rest_framework.authtoken',
-    'rest_framework_simplejwt',
-    'dj_rest_auth'
-
-
+    'music',
+    'chinese',
 ]
 
 MIDDLEWARE = [
@@ -96,31 +89,31 @@ DATABASES = {
     #     'NAME': BASE_DIR / 'db.sqlite3',
     # }
 
-    # "default": {
-    #     "ENGINE": "django.db.backends.mysql",
-    #     "NAME": os.getenv('MYSQL_DB'),
-    #     "USER": 'root',
-    #     "PASSWORD": os.getenv('MYSQL_PASSWORD'),
-    #     "HOST": '127.0.0.1',
-    #
-    #     "PORT": os.getenv('MYSQL_PORT'),
-    #     'OPTIONS': {
-    #         'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
-    #     },
-    #    }
-
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": 'music-pro',
-        "USER": 'music',
-        "PASSWORD": '12345678',
-        "HOST": 'db',
-        "PORT": '3306',
+        "NAME": os.getenv('MYSQL_DB'),
+        "USER": 'root',
+        "PASSWORD": os.getenv('MYSQL_PASSWORD'),
+        "HOST": '127.0.0.1',
+    
+        "PORT": os.getenv('MYSQL_PORT'),
         'OPTIONS': {
             'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
         },
+       }
 
-    }
+    # "default": {
+    #     "ENGINE": "django.db.backends.mysql",
+    #     "NAME": 'music-pro',
+    #     "USER": 'music',
+    #     "PASSWORD": '12345678',
+    #     "HOST": 'db',
+    #     "PORT": '3306',
+    #     'OPTIONS': {
+    #         'charset': 'utf8mb4',  # 支持存储包括表情符号在内的完整UTF-8字符集
+    #     },
+
+    # }
 
 }
 
@@ -292,7 +285,7 @@ SPECTACULAR_SETTINGS = {
 #
 #     # 配置认证方式
 #     'SECURITY': [
-#         {'jwtAuth': []},  # JWT 或其他自定义认证类型
+#         {'jwtAuth': []},  # JWT 或其���自定义认证类型
 #     ],
 #
 #     # 其他设置

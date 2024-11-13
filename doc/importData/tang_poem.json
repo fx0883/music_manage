@@ -1,0 +1,29 @@
+{
+    "title": "静夜思",
+    "author": {
+        "name": "李白",
+        "introduction": "李白（701年－762年），字太白，号青莲居士，唐代伟大的浪漫主义诗人，被后人誉为'诗仙'。",
+        "image": "libai.jpg"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+    "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng. jǔ tóu wàng míng yuè, dī tóu sī gù xiāng.",
+    "annotations": {
+        "zh": "床前：床榻前面。明月光：明亮的月光。疑是：好像是。地上霜：地上的霜。举头：抬起头来。望：看。低头：低下头。思：想念。故乡：家乡。",
+        "en": "chuang qian: in front of the bed. ming yue guang: bright moonlight. yi shi: seems like. di shang shuang: frost on the ground. ju tou: raise one's head. wang: look at. di tou: lower one's head. si: miss. gu xiang: hometown.",
+        "ja": "ベッドの前：寝台の前。明月光：明るい月の光。疑是：まるで～のよう。地上霜：地面の霜。举头：頭を上げる。望：眺める。低头：頭を下げる。思：懐かしむ。故乡：故郷。"
+    },
+    "appreciations": {
+        "zh": "这首诗以月光入怀的特定时空为背景，通过对照式的结构，将思乡之情融入自然景物的描绘之中。诗人运用白描手法，把月光、霜、举头、低头等意象组织在一起，构成一幅完整而富有诗意的画面，既表达了浓郁的思乡之情，又给人以艺术的享受。",
+        "en": "This poem uses the specific time and space when moonlight enters the room as background. Through a contrasting structure, it integrates homesickness into the description of natural scenery. The poet uses plain description to organize images such as moonlight, frost, raising and lowering head together, creating a complete and poetic picture that both expresses deep homesickness and provides artistic enjoyment.",
+        "ja": "この詩は、月光が部屋に差し込む特定の時空間を背景に、対照的な構造を通じて、自然の風景描写の中に故郷を思う気持ちを溶け込ませています。詩人は白描の手法を用いて、月光、霜、頭を上げる、頭を下げるなどのイメージを組み合わせ、完全で詩情豊かな画面を構成し、濃厚な望郷の念を表現すると同時に、芸術的な享受をも与えています。"
+    },
+    "interpretations": {
+        "zh": "在床前明亮的月光照射下，看起来就像地上铺满了白霜。抬头仰望天上的明月，低头想起远方的故乡。",
+        "en": "In front of my bed, the bright moonlight shines, looking like frost spread on the ground. I raise my head to look at the bright moon, then lower my head and think of my hometown.",
+        "ja": "床の前に明るい月の光が差し込み、まるで地面に霜が降りたかのよう。頭を上げて明るい月を眺め、頭を下げて遠い故郷を思う。"
+    }
+} 

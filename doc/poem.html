@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>诗词注解展示</title>
+    <style>
+        body {
+            font-family: "Microsoft YaHei", sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .poem-container {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .poem-title {
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        
+        .poem-author {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        
+        .poem-line {
+            font-size: 18px;
+            line-height: 2;
+            margin: 30px 0;
+            text-align: center;
+        }
+
+        .char-cell {
+            display: inline-block;
+            width: 40px;
+            margin: 0 5px;
+            vertical-align: top;
+        }
+        
+        .pinyin {
+            font-size: 12px;
+            color: #666;
+            height: 16px;
+            line-height: 16px;
+            text-align: center;
+            margin-bottom: 4px;
+        }
+        
+        .hanzi {
+            font-size: 20px;
+            line-height: 1;
+            text-align: center;
+        }
+        
+        .annotated {
+            color: #1e88e5;
+            cursor: pointer;
+            text-decoration: underline;
+            text-decoration-style: dotted;
+        }
+        
+        .annotation-panel {
+            background: white;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+        
+        .annotation-title {
+            font-weight: bold;
+            color: #1e88e5;
+            margin-bottom: 10px;
+        }
+        
+        .annotation-content {
+            margin-bottom: 10px;
+        }
+        
+        .annotation-source {
+            color: #666;
+            font-size: 0.9em;
+            font-style: italic;
+        }
+        
+        .translation {
+            color: #444;
+            margin-top: 15px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="poem-container">
+        <div class="poem-title">静夜思</div>
+        <div class="poem-author">唐 · 李白</div>
+        <div id="poem-content"></div>
+    </div>
+    
+    <div class="annotation-panel" id="annotation-panel"></div>
+
+<script>
+// 诗词数据
+const poemData = {
+    title: "静夜思",
+    author: "李白",
+    lines: [
+        {
+            content: "床前明月光",
+            pinyinArray: [
+                { char: "床", pinyin: "chuáng" },
+                { char: "前", pinyin: "qián" },
+                { char: "明", pinyin: "míng" },
+                { char: "月", pinyin: "yuè" },
+                { char: "光", pinyin: "guāng" }
+            ],
+            translation: "床前明亮的月光",
+            annotations: [
+                {
+                    number: 1,
+                    position: "明月光",
+                    title: "意象赏析",
+                    content: "明月光三字写出了月色之明净，营造出一种清澈透明的意境。",
+                    source: "《唐诗鉴赏》"
+                },
+                {
+                    number: 2,
+                    position: "床前",
+                    title: "场景描写",
+                    content: "床前二字点明诗人所处的具体位置，暗示了诗人独处的深夜情境。",
+                    source: "《李白诗歌赏析》"
+                }
+            ]
+        },
+        {
+            content: "疑是地上霜",
+            pinyinArray: [
+                { char: "疑", pinyin: "yí" },
+                { char: "是", pinyin: "shì" },
+                { char: "地", pinyin: "dì" },
+                { char: "上", pinyin: "shàng" },
+                { char: "霜", pinyin: "shuāng" }
+            ],
+            translation: "好像是地上的霜",
+            annotations: [
+                {
+                    number: 1,
+                    position: "疑是",
+                    title: "表现手法",
+                    content: "运用比喻的手法，将月光比作地上的霜，突出月光的皎洁。",
+                    source: "《诗词品鉴》"
+                }
+            ]
+        }
+    ]
+};
+
+// 创建字符单元格
+function createCharCell(charData) {
+    return `
+        <div class="char-cell">
+            <div class="pinyin">${charData.pinyin}</div>
+            <div class="hanzi">${charData.char}</div>
+        </div>
+    `;
+}
+
+// 渲染诗词内容
+function renderPoem() {
+    const poemContent = document.getElementById('poem-content');
+    
+    poemData.lines.forEach(line => {
+        const lineDiv = document.createElement('div');
+        lineDiv.className = 'poem-line';
+        
+        let contentHtml = '';
+        let processedChars = new Set();
+        
+        // 处理带注解的字符
+        line.annotations.forEach(annotation => {
+            const startPos = line.content.indexOf(annotation.position);
+            const endPos = startPos + annotation.position.length;
+            
+            contentHtml += `<span class="annotated" onclick='showAnnotation(${JSON.stringify(annotation).replace(/"/g, '&quot;')})'>`;
+            
+            for (let i = startPos; i < endPos; i++) {
+                contentHtml += createCharCell(line.pinyinArray[i]);
+                processedChars.add(i);
+            }
+            
+            contentHtml += '</span>';
+        });
+        
+        // 处理未注解的字符
+        line.pinyinArray.forEach((charData, index) => {
+            if (!processedChars.has(index)) {
+                contentHtml += createCharCell(charData);
+            }
+        });
+        
+        lineDiv.innerHTML = `
+            ${contentHtml}
+            <div class="translation">${line.translation}</div>
+        `;
+        
+        poemContent.appendChild(lineDiv);
+    });
+}
+
+// 显示注解
+function showAnnotation(annotation) {
+    const panel = document.getElementById('annotation-panel');
+    panel.innerHTML = `
+        <div class="annotation-title">${annotation.number}. ${annotation.title}</div>
+        <div class="annotation-content">${annotation.content}</div>
+        <div class="annotation-source">来源：${annotation.source}</div>
+    `;
+}
+
+// 页面加载时渲染诗词
+document.addEventListener('DOMContentLoaded', renderPoem);
+</script>
+</body>
+</html>

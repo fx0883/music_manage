@@ -25,9 +25,7 @@ class ConfigAdminForm(forms.ModelForm):
 
 
 class ConfigAdmin(admin.ModelAdmin):
-    class Meta:
-        model = Config
-        fields = ['name', 'value', 'updated_at']  # 根据需求自定义要显示的字段
+    form = ConfigAdminForm
     list_display = ('name', 'value', 'updated_at')
     search_fields = ('name',)
 
@@ -39,5 +37,5 @@ class ConfigAdmin(admin.ModelAdmin):
         super().delete_model(request, obj)
         GlobalConfig.reload_config()  # 删除配置后重新加载
 
-
-__all__ = ['ConfigAdmin']
+# 注册 model 和 admin 类
+admin.site.register(Config, ConfigAdmin)
