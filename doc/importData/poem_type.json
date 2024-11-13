@@ -1,67 +1,67 @@
 [
     {
     "name": "诗经",
-    "code": "shi jing"
+    "code": "shi_jing"
     },
     {
     "name": "楚辞",
-    "code": "chu ci"
+    "code": "chu_ci"
     },
     {
     "name": "汉乐府诗",
-    "code": "han yue fu shi"
+    "code": "han_yue_fu_shi"
     },
     {
     "name": "唐诗",
-    "code": "tang shi"
+    "code": "tang_shi"
     },
     {
     "name": "宋词",
-    "code": "song ci"
+    "code": "song_ci"
     },
     {
     "name": "元曲",
-    "code": "yuan qu"
+    "code": "yuan_qu"
     },
     {
     "name": "明清诗词",
-    "code": "ming qing shi ci"
+    "code": "ming_qing_shi_ci"
     },
     {
     "name": "先秦古谣",
-    "code": "xian qin gu yao"
+    "code": "xian_qin_gu_yao"
     },
     {
     "name": "古诗十九首",
-    "code": "gu shi shi jiu shou"
+    "code": "gu_shi_shi_jiu_shou"
     },
     {
     "name": "魏晋南北朝诗歌",
-    "code": "wei jin nan bei chao shi ge"
+    "code": "wei_jin_nan_bei_chao_shi_ge"
     },
     {
     "name": "宫体诗",
-    "code": "gong ti shi"
+    "code": "gong_ti_shi"
     },
     {
     "name": "北朝民歌",
-    "code": "bei chao min ge"
+    "code": "bei_chao_min_ge"
     },
     {
     "name": "唐五代词",
-    "code": "tang wu dai ci"
+    "code": "tang_wu_dai_ci"
     },
     {
     "name": "宋诗",
-    "code": "song shi"
+    "code": "song_shi"
     },
     {
     "name": "辽金诗",
-    "code": "liao jin shi"
+    "code": "liao_jin_shi"
     },
     {
     "name": "明清散曲",
-    "code": "ming qing san qu"
+    "code": "ming_qing_san_qu"
     }
     ]
     

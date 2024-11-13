@@ -1,7 +1,23 @@
 from django.contrib import admin
 from django.apps import apps
+from .models import (
+    Author, Poem, PoemType, Language,
+    Annotation, Interpretation, Appreciation,
+    PoemGenre, PoemGenreRelation
+)
+from .admin_classes import (
+    AuthorAdmin, PoemAdmin, PoemTypeAdmin,
+    LanguageAdmin, AnnotationAdmin, InterpretationAdmin,
+    AppreciationAdmin, PoemGenreAdmin, PoemGenreRelationAdmin
+)
 
-# 确保应用配置已加载
-app_config = apps.get_app_config('chinese')
-if not admin.site._registry:  # 只在admin站点未注册任何模型时执行
-    app_config.ready()
+# 注册所有模型和对应的管理类
+admin.site.register(Author, AuthorAdmin)
+admin.site.register(Poem, PoemAdmin)
+admin.site.register(PoemType, PoemTypeAdmin)
+admin.site.register(Language, LanguageAdmin)
+admin.site.register(Annotation, AnnotationAdmin)
+admin.site.register(Interpretation, InterpretationAdmin)
+admin.site.register(Appreciation, AppreciationAdmin)
+admin.site.register(PoemGenre, PoemGenreAdmin)
+admin.site.register(PoemGenreRelation, PoemGenreRelationAdmin)

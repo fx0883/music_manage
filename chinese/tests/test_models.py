@@ -1,6 +1,5 @@
 from django.test import TestCase
 from chinese.models.poem_type import PoemType
-from chinese.models.poem_type_interpretation import PoemTypeInterpretation
 from chinese.models.language import Language
 
 class PoemModelTest(TestCase):
@@ -24,21 +23,7 @@ class PoemModelTest(TestCase):
             name='诗经'
         )
 
-        # 创建中文解释
-        PoemTypeInterpretation.objects.create(
-            poem_type=poem_type,
-            language=self.zh_lang,
-            name='诗经',
-            description='中国最早的诗歌总集，收集了从西周初年至春秋中叶的诗歌，共311篇。'
-        )
 
-        # 创建英文解释
-        PoemTypeInterpretation.objects.create(
-            poem_type=poem_type,
-            language=self.en_lang,
-            name='Book of Songs',
-            description='The oldest existing collection of Chinese poetry, comprising 311 works dating from the 11th to 7th centuries BC.'
-        )
 
         # 验证数据
         self.assertEqual(PoemType.objects.count(), 1)

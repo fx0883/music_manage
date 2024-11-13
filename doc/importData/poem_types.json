@@ -1,0 +1,26 @@
+[
+  {
+    "code": "wu_yan_gu_shi",
+    "name": "五言古诗"
+  },
+  {
+    "code": "qi_yan_gu_shi",
+    "name": "七言古诗"
+  },
+  {
+    "code": "wu_yan_lv_shi",
+    "name": "五言律诗"
+  },
+  {
+    "code": "qi_yan_lv_shi",
+    "name": "七言律诗"
+  },
+  {
+    "code": "wu_yan_jue_ju",
+    "name": "五言绝句"
+  },
+  {
+    "code": "qi_yan_jue_ju",
+    "name": "七言绝句"
+  }
+] 

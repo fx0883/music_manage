@@ -1,9 +1,15 @@
 {
     "title": "静夜思",
+    "title_pinyin": "jing ye si",
+    "difficulty": 2,
     "author": {
         "name": "李白",
         "introduction": "李白（701年－762年），字太白，号青莲居士，唐代伟大的浪漫主义诗人，被后人誉为'诗仙'。",
         "image": "libai.jpg"
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
     },
     "type": {
         "name": "唐诗",
@@ -22,8 +28,16 @@
         "ja": "この詩は、月光が部屋に差し込む特定の時空間を背景に、対照的な構造を通じて、自然の風景描写の中に故郷を思う気持ちを溶け込ませています。詩人は白描の手法を用いて、月光、霜、頭を上げる、頭を下げるなどのイメージを組み合わせ、完全で詩情豊かな画面を構成し、濃厚な望郷の念を表現すると同時に、芸術的な享受をも与えています。"
     },
     "interpretations": {
+        "content":{
         "zh": "在床前明亮的月光照射下，看起来就像地上铺满了白霜。抬头仰望天上的明月，低头想起远方的故乡。",
         "en": "In front of my bed, the bright moonlight shines, looking like frost spread on the ground. I raise my head to look at the bright moon, then lower my head and think of my hometown.",
-        "ja": "床の前に明るい月の光が差し込み、まるで地面に霜が降りたかのよう。頭を上げて明るい月を眺め、頭を下げて遠い故郷を思う。"
+        "ja": "床の前に明るい月の光が差し込み、まるで地面に霜が降りたかのよう。頭を上げて明るい月を眺め、頭を下げて遠い故郷を思う。"},
+
+        "title_translation": {
+            "zh": "静夜思",
+            "en": "Silent Night Thoughts",
+            "ja": "静夜思"
+        }
+
     }
 } 

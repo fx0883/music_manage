@@ -1,6 +1,9 @@
 import json
 from django.core.management.base import BaseCommand
-from chinese.models import Author, Poem, PoemType, Annotation, Appreciation, Interpretation, Language
+from chinese.models import (
+    Author, Poem, PoemType, PoemGenre, PoemGenreRelation,
+    Annotation, Appreciation, Interpretation, Language
+)
 
 class Command(BaseCommand):
     help = '从JSON文件导入诗词数据'
@@ -37,15 +40,29 @@ class Command(BaseCommand):
                 defaults={'name': data['type']['name']}
             )
 
+            # 获取或创建诗歌体裁
+            genre, _ = PoemGenre.objects.get_or_create(
+                code=data['genre']['code'],
+                defaults={'name': data['genre']['name']}
+            )
+
             # 获取或创建诗词
             poem, created = Poem.objects.get_or_create(
                 title=data['title'],
                 author=author,
                 defaults={
+                    'title_pinyin': data['title_pinyin'],
                     'content': data['content'],
                     'pinyin': data['pinyin'],
+                    'difficulty': data['difficulty'],
                     'poem_type': poem_type
                 }
+            )
+
+            # 创建诗歌与体裁的关联
+            PoemGenreRelation.objects.get_or_create(
+                poem=poem,
+                genre=genre
             )
 
             if created:
@@ -58,54 +75,48 @@ class Command(BaseCommand):
 
             # 创建注释
             for lang_code, content in data['annotations'].items():
-                if lang_code == 'zh':
-                    lang = languages['zh']
-                elif lang_code == 'en':
-                    lang = languages['en']
-                elif lang_code == 'ja':
-                    lang = languages['ja']
-                else:
-                    continue
-                
-                Annotation.objects.get_or_create(
-                    poem=poem,
-                    language=lang,
-                    defaults={'content': content}
-                )
+                if lang_code in languages:
+                    Annotation.objects.get_or_create(
+                        poem=poem,
+                        language=languages[lang_code],
+                        defaults={'content': content}
+                    )
 
             # 创建赏析
             for lang_code, content in data['appreciations'].items():
-                if lang_code == 'zh':
-                    lang = languages['zh']
-                elif lang_code == 'en':
-                    lang = languages['en']
-                elif lang_code == 'ja':
-                    lang = languages['ja']
-                else:
-                    continue
-                
-                Appreciation.objects.get_or_create(
-                    poem=poem,
-                    language=lang,
-                    defaults={'content': content}
-                )
+                if lang_code in languages:
+                    Appreciation.objects.get_or_create(
+                        poem=poem,
+                        language=languages[lang_code],
+                        defaults={'content': content}
+                    )
 
             # 创建译文
-            for lang_code, content in data['interpretations'].items():
-                if lang_code == 'zh':
-                    lang = languages['zh']
-                elif lang_code == 'en':
-                    lang = languages['en']
-                elif lang_code == 'ja':
-                    lang = languages['ja']
-                else:
-                    continue
+            # for lang_code, content_data in data['interpretations'].items():
+            #     if lang_code in languages:
+            #         Interpretation.objects.get_or_create(
+            #             poem=poem,
+            #             language=languages[lang_code],
+            #             defaults={
+            #                 'content': content_data['content'],
+            #                 'title_translation': content_data['title_translation']
+            #             }
+            #         )
+
+            if 'interpretations' in data:
+                content_data = data['interpretations']['content']
+                title_translations = data['interpretations']['title_translation']
                 
-                Interpretation.objects.get_or_create(
-                    poem=poem,
-                    language=lang,
-                    defaults={'content': content}
-                )
+                for lang_code, content in content_data.items():
+                    if lang_code in languages:
+                        Interpretation.objects.get_or_create(
+                            poem=poem,
+                            language=languages[lang_code],
+                            defaults={
+                                'content': content,
+                                'title_translation': title_translations.get(lang_code, '')
+                            }
+                        )
 
             self.stdout.write(self.style.SUCCESS('数据导入完成'))
 

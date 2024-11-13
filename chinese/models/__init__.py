@@ -1,13 +1,21 @@
-from .author import Author
 from .poem import Poem
-from .annotation import Annotation
+from .poem_type import PoemType
+from .author import Author
+from .language import Language
 from .interpretation import Interpretation
 from .appreciation import Appreciation
-from .language import Language
-from .poem_type import PoemType
-from .poem_type_interpretation import PoemTypeInterpretation
+from .annotation import Annotation
+from .poem_genre import PoemGenre
+from .poem_genre_relation import PoemGenreRelation
 
 __all__ = [
-    'Author', 'Poem', 'Annotation', 'Interpretation', 
-    'Appreciation', 'Language', 'PoemType', 'PoemTypeInterpretation'
+    'Poem',
+    'PoemType',
+    'Author',
+    'Language',
+    'Interpretation',
+    'Appreciation',
+    'Annotation',
+    'PoemGenre',
+    'PoemGenreRelation'
 ] 
