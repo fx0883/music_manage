@@ -1,0 +1,57 @@
+{
+    "title": "送李少府贬峡中王少府贬长沙",
+    "difficulty": 2,
+    "author": {
+        "name": "高适",
+        "name_pinyin": "gāo shì",
+        "image": "高适.jpg",
+        "introduction": {
+            "zh": "高适，唐代著名诗人，字达夫，渤海郡蓨县（今河北省景县）人。早年仕途坎坷，后因军功显赫，官至刑部侍郎、散骑常侍，封渤海县侯。高适的诗作多反映边塞生活，风格雄浑豪放，语言简练有力，与岑参并称“高岑”，是盛唐边塞诗派的代表人物之一。其代表作有《燕歌行》、《别董大二首》等。",
+            "en": "Gao Shi, a renowned poet of the Tang Dynasty, styled Dafu, was from Tao County of Bohai Commandery (present-day Jing County, Hebei Province). He faced early career setbacks but later achieved prominence due to his military exploits, rising to the positions of Vice Minister of Justice and Imperial Attendant, and was enfeoffed as the Marquis of Bohai County. Gao Shi's poetry often reflects life on the frontier, characterized by a robust and bold style with concise and powerful language. He is paired with Cen Shen as 'Gao Cen,' representing the frontier poetry of the High Tang period. His notable works include 'Song of the Yan Frontier' and 'Farewell to Dong Er.'",
+            "ja": "高適は、唐代の著名な詩人で、字は達夫、渤海郡蓨県（現在の河北省景県）の人。若い頃は官途が不遇だったが、後に軍功により栄達し、刑部侍郎、散騎常侍にまで昇進し、渤海県侯に封ぜられた。高適の詩は辺塞生活を多く反映し、雄渾豪放なスタイルと簡潔有力な言葉遣いが特徴で、岑参と並び「高岑」と称され、盛唐期の辺塞詩派の代表的人物の一人である。代表作には「燕歌行」「別董大二首」などがある。",
+            "es": "Gao Shi, un poeta famoso de la dinastía Tang, cuyo nombre de cortesía era Dafu, nació en el condado de Tao de la comandancia de Bohai (actualmente Jing County, provincia de Hebei). En sus primeros años, enfrentó dificultades en su carrera, pero más tarde, debido a sus destacados logros militares, ascendió a los rangos de Viceministro de Justicia y Asistente Imperial, y fue nombrado Marqués del Condado de Bohai. La poesía de Gao Shi a menudo refleja la vida en la frontera, con un estilo robusto y audaz y un lenguaje conciso y poderoso. Es comparado con Cen Shen como 'Gao Cen', representando la poesía de la frontera del Tang Alto. Sus obras notables incluyen 'Canción de la Frontera de Yan' y 'Despedida a Dong Er'.",
+            "ar": "غاو شى، شاعر مشهور من عهد التانغ، وكان اسمه المستعار دافو، وهو من مقاطعة تاو في إقليم بهaimassage (الآن مقاطعة جينج في مقاطعة خبي). في شبابه، واجه صعوبات في مسيرته المهنية، ولكن لاحقًا، بسبب إنجازاته العسكرية البارزة، تدرج في المناصب حتى أصبح نائب وزير العدل ومستشار imperial، وتم تعيينه كماركيز لمقاطعة بهaimassage. قصائد غاو شى غالبًا ما تعكس الحياة في الحدود، مع أسلوب قوي ومقدام ولغة موجزة وقوية. يتم مقارنته مع تسن شن كـ 'غاو تسن'، ممثلين للشعر الحدودي في عهد التانغ العالي. من أعماله البارزة 'أغنية حدود يان' و 'وداع لدونغ إر'."
+        }
+    },
+    "annotations": {
+        "zh": "嗟君此别意何如：嗟，叹词，表示感叹；君，指李少府和王少府；此别，这次分别；意何如，心情如何。驻马衔杯问谪居：驻马，停下马；衔杯，举杯饮酒；问谪居，询问被贬谪后的居所情况。巫峡啼猿数行泪：巫峡，长江三峡之一；啼猿，猿猴的啼叫声；数行泪，形容悲伤。衡阳归雁几封书：衡阳，地名，今湖南衡阳；归雁，南飞的大雁；几封书，指书信往来。青枫江上秋帆远：青枫江，地名，指湘江；秋帆远，秋天帆船远行的景象。白帝城边古木疏：白帝城，地名，今重庆奉节；古木疏，古老的树木稀疏。圣代即今多雨露：圣代，指当时的唐朝；即今，如今；多雨露，比喻皇帝的恩泽。暂时分手莫踌躇：暂时，暂时的；分手，分别；莫踌躇，不要犹豫不决。",
+        "en": "Alas, how do you feel about this parting, my friends?/Stopping the horse and holding the cup, I ask about your exiled abode./In the Wu Gorge, the crying apes bring tears in lines,/In Hengyang, how many letters will the returning wild geese carry?/On the Qingfeng River, the autumn sails drift far away,/By the White Emperor City, ancient trees stand sparse./In this sage era, there is much grace like rain and dew,/Let us part temporarily, do not hesitate or waver.",
+        "ja": "嗟君此别意何如：嗟（ああ）、感嘆の言葉；君（きみ）、李少府と王少府を指す；此别（こべつ）、この別れ；意何如（いなんじょ）、気持ちがどうか。驻马衔杯问谪居：驻马（ちゅうば）、馬を停める；衔杯（けんぱい）、杯を持つ；问谪居（もんてききょ）、左遷先の住まいを尋ねる。巫峡啼猿数行泪：巫峡（ふかきょう）、長江三峡の一つ；啼猿（ていうん）、猿の泣き声；数行泪（すうこうるい）、悲しみの涙。衡阳归雁几封书：衡阳（こうよう）、地名、現在の湖南省衡陽市；归雁（きえん）、南に帰る雁；几封书（いくふうしょ）、手紙の数。青枫江上秋帆远：青枫江（せいふうこう）、地名、湘江を指す；秋帆远（しゅうはんえん）、秋に帆船が遠くへ行く様子。白帝城边古木疏：白帝城（はくていじょう）、地名、現在の重慶市奉節県；古木疏（こぼくそ）、古い木が疎らである。圣代即今多雨露：圣代（せいだい）、当時の唐王朝を指す；即今（そっきん）、今現在；多雨露（たうろ）、皇帝の恩恵が多い。暂时分手莫踌躇：暂时（ざんじ）、暫定的に；分手（ふんしゅ）、別れる；莫踌躇（ばくちゅうちょ）、ためらわないで。",
+        "es": "¡Ay, cómo te sientes con esta despedida, amigo!/Deteniendo el caballo y sosteniendo la copa, pregunto por tu lugar de destierro./En la Garganta de Wu, los gritos de los simios provocan lágrimas en hileras,/En Hengyang, ¿cuántas cartas llevarán las gaviotas que regresan?/En el río Qingfeng, las velas de otoño se alejan,/Al borde de la Ciudad del Emperador Blanco, los antiguos árboles están dispersos./En esta era sagrada, hay mucha gracia como lluvia y rocío,/Sepámonos temporalmente, no vaciles ni dudes.",
+        "ar": "يا صاحبي، كيف تشعر بهذا الوداع؟/واقفاً بحصاني وأمسك الكأس، أسأل عن مكان نفيك./في وادي Wu، صراخ القردة يثير دموعاً على التوالي،/في Hengyang، كم عدد الرسائل التي ستحملها الحمامات العائدة؟/على نهر Qingfeng، شراع الخريف يبتعد،/عند حافة مدينة الإمبراطور الأبيض، الأشجار القديمة متفرقة./في هذا العصر المقدس، هناك الكثير من النعمة كالمطر والندى،/لنتفرق مؤقتاً، لا تتردد أو تتأخر."
+    },
+    "appreciations": {
+        "zh": "这首诗通过送别两位被贬的友人，表达了诗人对友人的深切关怀和安慰。主题思想在于勉励友人不要因贬谪而消沉，相信未来会有转机。写作特色上，诗人运用了对比、象征等手法，如‘巫峡啼猿’与‘衡阳归雁’形成鲜明对比，增强了情感表达。艺术成就方面，诗歌情景交融，意境深远，语言凝练，具有较高的艺术价值。情感分析上，诗人抒发了对友人的同情、安慰和鼓励之情。影响意义上，这首诗在唐代送别诗中占有重要地位，对后世同类题材的创作产生了深远影响。",
+        "en": "This poem expresses the poet's deep concern and comfort for his friends who are being exiled. The main theme encourages the friends not to be disheartened by their exile, believing that there will be a turnaround in the future. In terms of writing characteristics, the poet uses techniques such as contrast and symbolism, such as the vivid contrast between the 'crying apes in the Wu Gorge' and the 'returning wild geese in Hengyang,' enhancing the emotional expression. In terms of artistic achievement, the poem blends scenery and emotions, has a profound artistic conception, and is linguistically concise, possessing high artistic value. Emotionally, the poet expresses sympathy, comfort, and encouragement for his friends. In terms of influence and significance, this poem holds an important position in Tang Dynasty farewell poetry and has had a profound impact on the creation of similar themes in later generations.",
+        "ja": "この詩は、左遷された友人たちに別れを告げることで、詩人が友人たちに対する深い配慮と慰めを表現しています。主題思想は、友人たちに左遷によって落胆しないよう励まし、将来の好転を信じることです。執筆の特色としては、対比や象徴などの手法を用いており、「巫峡の猿の泣き声」と「衡陽の帰雁」の鮮明な対比が感情表現を強化しています。芸術的成果としては、情景が融合し、意境が深遠で、言語が簡練であり、高い芸術的価値を持っています。感情分析としては、詩人は友人たちに対する同情、慰め、励ましの感情を表しています。影響と意味においては、唐代の送別詩の中で重要な地位を占め、後世の同様のテーマの創作に深い影響を与えました。",
+        "es": "Este poema expresa la profunda atención y consuelo del poeta hacia sus amigos que están siendo desterrados. El tema principal anima a los amigos a no desanimarse por su destierro, confiando en que habrá un cambio positivo en el futuro. En cuanto a las características de escritura, el poeta utiliza técnicas como el contraste y la simbología, como el vivo contraste entre los 'monos llorando en el desfiladero de Wu' y los 'gansos regresando en Hengyang', lo que refuerza la expresión emocional. En términos de logro artístico, el poema fusiona la escenografía y las emociones, tiene una concepción artística profunda y un lenguaje conciso, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa simpatía, consuelo y ánimo hacia sus amigos. En cuanto a la influencia y significado, este poema ocupa un lugar importante en la poesía de despedida de la dinastía Tang y ha tenido un profundo impacto en la creación de temas similares en generaciones posteriores.",
+        "ar": "يعبر هذا الشعر عن اهتمام الشاعر العميق وتعاطفه مع أصدقائه الذين يتم نفيهم. يهدف الموضوع الرئيسي إلى تشجيع الأصدقاء على عدم فقدان الأمل بسبب النفي، معتقدًا أن هناك تحولًا إيجابيًا في المستقبل. فيما يتعلق بميزات الكتابة، يستخدم الشاعر تقنيات مثل المقارنة والرمزية، مثل المقارنة الحادة بين 'صراخ القردة في مضيق وو' و 'الطيور المهاجرة العائدة إلى هينغيانغ'، مما يعزز التعبير العاطفي. من حيث الإنجاز الفني، يدمج الشعر المشهد والعواطف، ويملك تصورًا فنيًا عميقًا ولغة موجزة، وله قيمة فنية عالية. في تحليل العواطف، يعبر الشاعر عن التعاطف والراحة والتشجيع لأصدقائه. من حيث التأثير والمعنى، يحتل هذا الشعر مكانة مهمة في شعر الوداع في عهد التانغ ولديه تأثير عميق على إنشاء مواضيع مماثلة في الأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "叹息你们此次分别心情如何，停下马儿举杯问候贬谪之地。巫峡猿猴啼哭泪水成行，衡阳归雁能带回几封书信。青枫江上秋帆远远离去，白帝城边古树稀疏。圣朝如今恩泽如雨露，暂时分别不必犹豫。",
+            "en": "Alas, how do you feel at this parting, halting your horse to ask about your exiled abode. The apes cry in the Wu Gorge, tears streaming down; how many letters will the returning geese from Hengyang bring? The autumn sails on the Green Maple River drift far away; ancient trees by the White Emperor City stand sparse. In this sage era, blessings rain down like dew; do not hesitate, for this separation is but temporary.",
+            "ja": "お前たちの別れにどのような思いか、馬を止めて杯を持ちながら謫居を尋ねる。巫峡の猿が啼き涙の行を成す、衡陽に帰る雁はどれだけの手紙を運ぶ。青楓の江上に秋の帆が遠く去り、白帝城辺の古木は疎らである。聖代の今は雨露多く、暫くの別れにためらうなかれ。",
+            "es": "Ay, ¿cómo te sientes en esta despedida, deteniendo tu caballo para preguntar por tu lugar de destierro? Los monos lloran en las Gargantas de Wu, lágrimas en hilos; ¿cuántas cartas traerán las gansos que regresan a Hengyang? Las velas de otoño en el río de los Álamos Verdes se alejan lejos; los antiguos árboles junto a la Ciudad del Emperador Blanco están escasos. En esta era sagrada, la bondad cae como rocío; no vaciles, esta separación es solo temporal.",
+            "ar": "وا أسفاه، كيف تشعر في هذا الوداع، توقف حصانك وترفع كأسك تسأل عن مكان نفيك. القرود تبكي في وادي Wu، دموع تسيل في صفوف؛ كم عدد الرسائل التي ستجلبه البطريق العائد إلى Hengyang؟ الأشرعة الخريفية على نهر الشجر الأخضر تبتعد بعيداً؛ الأشجار القديمة بجانب مدينة الإمبراطور الأبيض قليلة. في هذا العصر المقدس، النعم تنهمر كالندى؛ لا تتردد، هذه الفراق مؤقت فقط."
+        },
+        "title_translation": {
+            "zh": "送李少府贬峡中王少府贬长沙",
+            "en": "Farewell to Li Shao-fu Exiled to the Gorge and Wang Shao-fu Exiled to Changsha",
+            "ja": "李少府を峡中に、王少府を長沙に貶すに送る",
+            "es": "Despedida a Li Shao-fu desterrado a la Garganta y a Wang Shao-fu desterrado a Changsha",
+            "ar": "الوداع للي شاوفو المنفي إلى الوادي ووانغ شاوفو المنفي إلى تشانغشا"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "嗟君此别意何如，驻马衔杯问谪居。\n巫峡啼猿数行泪，衡阳归雁几封书。\n青枫江上秋帆远，白帝城边古木疏。\n圣代即今多雨露，暂时分手莫踌躇。",
+    "title_pinyin": "sòng lǐ shǎo fǔ biǎn xiá zhōng wáng shǎo fǔ biǎn zhǎng shā",
+    "pinyin": "jiē jūn cǐ bié yì hé rú，zhù mǎ xián bēi wèn zhé jū。\nwū xiá tí yuán shù xíng lèi，héng yáng guī yàn jǐ fēng shū。\nqīng fēng jiāng shàng qiū fān yuǎn，bái dì chéng biān gǔ mù shū。\nshèng dài jí jīn duō yǔ lù，zàn shí fēn shǒu mò chóu chú。"
+}

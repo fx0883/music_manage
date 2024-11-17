@@ -1,0 +1,57 @@
+{
+    "title": "早寒江上有怀·早寒有怀",
+    "difficulty": 2,
+    "author": {
+        "name": "孟浩然",
+        "name_pinyin": "mèng hào rán",
+        "image": "孟浩然.jpg",
+        "introduction": {
+            "zh": "孟浩然（689年－740年），字浩然，号孟山人，唐代著名的山水田园诗人，与王维并称“王孟”。其诗多描绘自然景色和田园生活，风格清新淡雅，富有韵味。代表作有《春晓》、《宿建德江》等。他一生仕途坎坷，未能如愿入仕，但诗歌成就极高，对后世影响深远。",
+            "en": "Meng Haoran (689-740), styled Haoran and also known as Meng Shanren, was a renowned Tang Dynasty poet famous for his landscape and pastoral poetry. Often compared with Wang Wei, he is known for his fresh and elegant style, full of subtle charm. His notable works include 'Spring Dawn' and 'Staying at Jiande River'. Despite his unsuccessful official career, his poetic achievements were immense, leaving a profound impact on later generations.",
+            "ja": "孟浩然（689年－740年）、字は浩然、号は孟山人、唐代の著名な山水田園詩人で、王維と並び「王孟」と称される。彼の詩は自然の風景や田園生活を描くことが多く、清新で淡雅なスタイルが特徴で、味わい深い。代表作に「春暁」、「建徳江に宿る」などがある。彼は生涯官途に恵まれなかったが、詩の成就は高く、後世に大きな影響を与えた。",
+            "es": "Meng Haoran (689-740), también conocido como Meng Shanren, fue un destacado poeta de la dinastía Tang famoso por su poesía paisajística y campestre. Comparado a menudo con Wang Wei, su estilo era fresco y elegante, lleno de encanto sutil. Sus obras más conocidas incluyen 'Amanecer de primavera' y 'Permanecer en el río Jiande'. A pesar de su carrera oficial sin éxito, sus logros poéticos fueron enormes, dejando una profunda influencia en las generaciones posteriores.",
+            "ar": "مينغ هواوران (689-740)، المعروف أيضًا بـمينغ شانرين، كان شاعرًا بارزًا في عهد أسرة تانغ، مشهور بشعره الطبيعي والريف. غالبًا ما يُقارن بـوانغ وي، يتميز بأسلوبه العذب والزخرفي، مليء بالجاذبية الدقيقة. من أشهر أعماله 'الفجر الربيعي' و'البقاء في نهر جياند'. على الرغم من عدم نجاحه في مسيرته الرسمية، كانت إنجازاته الشعرية هائلة، تاركة تأثيرًا عميقًا على الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "木落雁南度：树叶脱落，大雁南飞。北风江上寒：北风吹拂，江上寒冷。我家襄水曲：我的家在襄水弯曲处。遥隔楚云端：远远隔着楚地的云端。乡泪客中尽：思乡的泪水在客居中流尽。孤帆天际看：远望天际的孤帆。迷津欲有问：迷失渡口想要询问。平海夕漫漫：平坦的海面在夕阳下显得漫漫无边。\n特殊句式：无特殊句式。\n典故解释：迷津欲有问——借用《论语·微子》中孔子使子路问津的典故，表达作者对前途的迷茫。\n意象分析：木落、雁南度——象征秋天的到来，北风、江上寒——营造寒冷的氛围，孤帆、天际——表达孤独与遥远。\n历史背景：唐代诗人孟浩然写此诗时，正客居他乡，表达了对家乡的思念和对前途的迷茫。",
+        "en": "Wood falls, wild geese fly south: Leaves fall, geese migrate south. North wind, river cold: The north wind blows, making the river cold. My home at Xiang River bend: My home is at the bend of the Xiang River. Far from Chu clouds: Far away from the clouds of the Chu region. Tears in exile run dry: Tears of homesickness dry up in exile. Lone sail seen at horizon: A lone sail is seen on the horizon. Lost at ferry, wish to ask: Lost at the ferry, wanting to ask for directions. Flat sea at dusk, vast: The flat sea appears vast at dusk.\nSpecial syntax: None.\nAllusion explanation: Lost at ferry, wish to ask - Refers to the story in 'Analects of Confucius' where Confucius asks Zi Lu to inquire about the ferry, symbolizing the author's confusion about his future.\nImagery analysis: Wood falls, wild geese fly south - Symbolize the arrival of autumn; North wind, river cold - Create a cold atmosphere; Lone sail, horizon - Express loneliness and distance.\nHistorical background: Tang Dynasty poet Meng Haoran wrote this poem while living in exile, expressing his longing for home and confusion about his future.",
+        "ja": "木落雁南度：木の葉が落ち、鴻が南に飛ぶ。北風江上寒：北風が吹き、川が寒くなる。我家襄水曲：私の家は襄水の曲がり角にある。遥隔楚云端：遠く楚の雲の端に隔てられている。郷泪客中尽：故郷への涙が客の中で尽きる。孤帆天際看：孤帆が天際に見える。迷津欲有問：迷った渡し場で尋ねたい。平海夕漫漫：平らな海が夕暮れで果てしなく広がる。\n特殊文法：なし。\n典故説明：迷津欲有問——『論語』の孔子が子路に渡し場を尋ねさせる故事を引用し、作者の未来に対する迷いを表す。\nイメージ分析：木落、雁南度——秋の到来を象徴、北風、江上寒——寒さを演出、孤帆、天際——孤独と遠さを表現。\n歴史背景：唐代の詩人孟浩然がこの詩を書いたとき、故郷を離れて暮らしており、故郷への思いと未来への迷いを表現している。",
+        "es": "Caen las hojas, las gansos vuelan al sur: Las hojas caen, los gansos migran hacia el sur. Viento del norte, río frío: El viento del norte sopla, haciendo el río frío. Mi hogar en la curva del río Xiang: Mi hogar está en la curva del río Xiang. Lejos de las nubes de Chu: Lejos de las nubes de la región de Chu. Lágrimas en el exilio se agotan: Las lágrimas de nostalgia se agotan en el exilio. Vela solitaria vista en el horizonte: Una vela solitaria es vista en el horizonte. Perdido en el ferry, quiero preguntar: Perdido en el ferry, quiero preguntar por directions. Mar plano al anochecer, vasto: El mar plano parece vasto al anochecer.\nSintaxis especial: Ninguna.\nExplicación de la alusión: Perdido en el ferry, quiero preguntar - Refiere a la historia en 'Analectas de Confucio' donde Confucio pide a Zi Lu que pregunte por el ferry, simbolizando la confusión del autor sobre su futuro.\nAnálisis de imágenes: Caen las hojas, las gansos vuelan al sur - Simbolizan la llegada del otoño; Viento del norte, río frío - Crean una atmósfera fría; Vela solitaria, horizonte - Expresan soledad y distancia.\nContexto histórico: El poeta de la dinastía Tang Meng Haoran escribió este poema mientras vivía en el exilio, expresando su anhelo por su hogar y su confusión sobre su futuro.",
+        "ar": "تساقط الأوراق، تحليق البجع نحو الجنوب: تساقط الأوراق، هجرة البجع نحو الجنوب. رياح الشمال، النهر بارد: رياح الشمال تهب، مما يجعل النهر باردًا. منزلي عند منحنى نهر شيانغ: منزلي يقع عند منحنى نهر شيانغ. بعيد عن سحب تشو: بعيد عن سحب منطقة تشو. دموع الوطن تفرغ في الغربة: دموع الشوق للوطن تفرغ في الغربة. شراع وحيد يرى في الأفق: شراع وحيد يرى في الأفق. ضائع عند المعبر، أريد أن أسأل: ضائع عند المعبر، أريد أن أسأل عن الاتجاهات. البحر المسطح عند الغسق، واسع: البحر المسطح يبدو واسعًا عند الغسق.\nالنحو الخاص: لا يوجد.\nشرح الاستعارة: ضائع عند المعبر، أريد أن أسأل - يشير إلى القصة في 'أحاديث الكونفوشيوس' حيث يطلب كونفوشيوس من زي لو أن يسأل عن المعبر، مما يعبر عن حيرة الشاعر بشأن مستقبله.\nتحليل الصور: تساقط الأوراق، تحليق البجع نحو الجنوب - يرمز إلى قدوم الخريف؛ رياح الشمال، النهر بارد - يخلق جوًا باردًا؛ شراع وحيد، الأفق - يعبر عن الوحدة والبعد.\nالخلفية التاريخية: كتب الشاعر التانغي مينغ هواوران هذا الشعر أثناء عيشه في الغربة، يعبر عن شوقه للوطن وحيرته بشأن مستقبله."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘秋天的景色和诗人对家乡的思念，表达了作者对故乡的深情和漂泊在外的孤独感。主题思想是思乡之情和对人生迷津的感慨。写作特色上，诗人运用了借景抒情的手法，通过'木落雁南度'和'北风江上寒'等意象，营造出一种凄凉的氛围。艺术成就方面，诗中的意象生动，情感真挚，结构紧凑，语言简练，具有较高的艺术价值。情感分析上，诗人在异乡感受到的孤独和对家乡的思念之情跃然纸上。影响意义上，这首诗在唐代思乡诗中占有重要地位，对后世文学产生了深远影响。",
+        "en": "This poem depicts the autumn scenery and the poet's longing for his hometown, expressing deep emotions for his homeland and the loneliness of being away. The main theme is homesickness and reflections on life's uncertainties. In terms of writing style, the poet uses the technique of expressing emotions through scenery, creating a melancholic atmosphere with images like 'leaves falling and wild geese flying south' and 'the north wind chilling the river'. Artistically, the poem is vivid in imagery, sincere in emotion, tightly structured, and concise in language, possessing high artistic value. Emotionally, the poet's loneliness and longing for home are palpable. In terms of influence, this poem holds a significant place in Tang Dynasty poetry about homesickness and has had a profound impact on later literature.",
+        "ja": "この詩は秋の景色と詩人が故郷を懐かしむ心情を描き、故郷への深い感情と外に漂泊する孤独感を表現しています。主題思想は故郷への思いと人生の迷いに対する感慨です。表現手法としては、情景を借りて感情を表す技法を用い、'木の葉が落ち雁が南に渡る'や'北風が江を寒くする'などのイメージで寂しい雰囲気を作り出しています。芸術的成就としては、イメージが生き生きとしており、感情が真挚で、構成が緊密で、言葉が簡潔であり、高い芸術価値を持っています。感情分析では、異郷での孤独感と故郷への思いが紙面に跃り出ています。影響の意味では、唐代の故郷を懐かしむ詩の中で重要な地位を占め、後世の文学に深い影響を与えました。",
+        "es": "Este poema retrata el paisaje otoñal y la añoranza del poeta por su hogar, expresando un profundo amor por su tierra natal y la soledad de estar lejos. El tema principal es el sentimiento de nostalgia y las reflexiones sobre las incertidumbres de la vida. En cuanto al estilo de escritura, el poeta utiliza la técnica de expresar emociones a través del paisaje, creando una atmósfera melancólica con imágenes como 'las hojas caen y las gaviotas migran al sur' y 'el viento del norte enfría el río'. Artísticamente, el poema es vívido en sus imágenes, sincero en sus emociones, bien estructurado y conciso en su lenguaje, poseyendo un alto valor artístico. En el análisis emocional, la soledad del poeta y su añoranza por el hogar son palpables. En términos de influencia, este poema ocupa un lugar importante en la poesía de la dinastía Tang sobre la nostalgia, y ha tenido un impacto profundo en la literatura posterior.",
+        "ar": "هذه القصيدة تصور مشاهد الخريف وحنين الشاعر إلى موطنه، تعبيراً عن حبه العميق لأرضه الأم والشعور بالوحدة في الغربة. الفكرة الرئيسية هي شوق الوطن وتأملات في متاهات الحياة. من حيث الأسلوب الكتابي، يستخدم الشاعر تقنية التعبير عن العواطف من خلال المشاهد الطبيعية، مكوناً جواً حزيناً بصور مثل 'سقوط الأوراق وعبور البجع إلى الجنوب' و'رياح الشمال تبرد النهر'. فنياً، القصيدة حية في تصاويرها، صادقة في عواطفها، متماسكة في بنيتها، وجازمة في لغتها، مما يجعلها تحمل قيمة فنية عالية. في تحليل العواطف، تبدو وحدة الشاعر وحنينه إلى الوطن واضحين. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في شعر العصر التانغ عن الشوق إلى الوطن، ولها تأثير عميق على الأدب اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "树叶飘落大雁南飞，北风呼啸江上寒冷。我的家在襄水弯曲处，远隔楚地云天之外。思乡的泪水在客中流尽，孤独的帆影在天际遥望。迷失的渡口想要询问，平坦的海面夕阳漫漫。",
+            "en": "Leaves fall and wild geese fly south, the north wind chills the river. My home lies by the winding Xiang River, far beyond the Chu clouds. Tears for home exhaust in exile, a lone sail seen on the horizon. At the迷茫 ferry I wish to inquire, as the flat sea meets the endless evening sun.",
+            "ja": "木の葉が落ちて雁が南に渡り、北風が江を寒くする。私の家は襄水の曲がり角にあり、遠く楚の雲の向こうに隔てられている。郷愁の涙は客の中で尽き、孤帆は天際に見える。迷いの渡し場で問おうとするが、平たんな海は夕暮れで広がる。",
+            "es": "Las hojas caen y las gansos migran al sur, el viento del norte enfría el río. Mi hogar está en la curva del río Xiang, lejos más allá de las nubes de Chu. Las lágrimas por el hogar se agotan en el exilio, una vela solitaria se ve en el horizonte. En el vado confuso quiero preguntar, mientras el mar plano se extiende bajo el sol poniente.",
+            "ar": "الاوراق تسقط والحمام يهاجر جنوبًا، والرياح الشمالية تبرد النهر. منزلي عند منحنى نهر شيانغ، بعيدًا خلف سحب تشو. دموع الوطن تنضب في الغربة، وخيمة وحيدة ترى في الأفق. عند المعبر المبهم أود أن أسأل، بينما البحر الهادئ يتسع تحت شمس المساء."
+        },
+        "title_translation": {
+            "zh": "早寒江上有怀·早寒有怀",
+            "en": "Early Cold by the River with Longing",
+            "ja": "早寒江上有怀·早寒有怀",
+            "es": "Reflexiones en el Río en la Temprana Escarcha",
+            "ar": "الحنين في النهر عند البرد المبكر"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "木落雁南度，北风江上寒。\n我家襄水曲，遥隔楚云端。\n乡泪客中尽，孤帆天际看。\n迷津欲有问，平海夕漫漫。",
+    "title_pinyin": "zǎo hán jiāng shàng yǒu huái·zǎo hán yǒu huái",
+    "pinyin": "mù luò yàn nán dù，běi fēng jiāng shàng hán。\nwǒ jiā xiāng shuǐ qū，yáo gé chǔ yún duān。\nxiāng lèi kè zhōng jǐn，gū fān tiān jì kàn。\nmí jīn yù yǒu wèn，píng hǎi xī màn màn。"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "终南望余雪",
+    "difficulty": 2,
+    "author": {
+        "name": "祖咏",
+        "name_pinyin": "zǔ yǒng",
+        "image": "祖咏.jpg",
+        "introduction": {
+            "zh": "祖咏，唐代著名诗人，生卒年不详，洛阳人。他的诗作以简洁明快、意境深远著称，尤其擅长写景抒情。《终南望余雪》是他的代表作之一，通过描绘终南山雪景，表达了对自然美景的赞美和对都市生活的感慨。祖咏的诗作在唐代诗坛有一定影响力，被后人广泛传颂。",
+            "en": "Zuyong, a renowned poet of the Tang Dynasty, whose birth and death years are unknown, was from Luoyang. His poetry is known for its simplicity, clarity, and profound imagery, particularly excelling in landscape and emotional expression. 'Gazing at the Remaining Snow on Mount Zhongnan' is one of his masterpieces, depicting the snowy scenery of Mount Zhongnan and expressing admiration for natural beauty and reflections on urban life. Zuyong's works had a significant impact on the Tang Dynasty's poetic circles and have been widely praised by later generations.",
+            "ja": "祖咏は唐代の著名な詩人で、生没年不詳、洛陽出身。彼の詩は簡潔明瞭で意境が深く、特に風景描写と抒情に長けている。《終南望余雪》は彼の代表作の一つで、終南山の雪景色を描き、自然の美しさへの賛美と都市生活への感慨を表している。祖咏の詩は唐代の詩壇で一定の影響力を持ち、後世広く伝えられている。",
+            "es": "Zuyong, un poeta famoso de la dinastía Tang, cuyos años de nacimiento y muerte son desconocidos, era de Luoyang. Su poesía se caracteriza por su simplicidad, claridad e imágenes profundas, destacando especialmente en la descripción de paisajes y la expresión emocional. 'Mirando la Nieve Restante en el Monte Zhongnan' es una de sus obras maestras, que retrata el paisaje nevado del Monte Zhongnan y expresa la admiración por la belleza natural y las reflexiones sobre la vida urbana. Las obras de Zuyong tuvieron un impacto significativo en la poesía de la dinastía Tang y han sido ampliamente elogiadas por las generaciones posteriores.",
+            "ar": "زو يونغ، شاعر مشهور من عهد التانغ، لم يُعرف تاريخ ميلاده ووفاته، وهو من لويانغ. اشتهرت أشعاره ببساطتها ووضوحها وتصويرها العميق، وخاصة في وصف المناظر الطبيعية والتعبير العاطفي. 'مراقبة الثلج المتبقي على جبل تشونغنان' هو واحد من أشهر أعماله، حيث يصور مشهد الثلج على جبل تشونغنان ويعبّر عن إعجابه بجمال الطبيعة وتأملاته في الحياة المدنية. أثرت أعمال زو يونغ بشكل كبير في مجال الشعر في عهد التانغ وقد تمت تلاوتها وإشادتها على نطاق واسع من قبل الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "终南阴岭秀：终南山北面的山岭景色秀丽。阴岭，山北面。积雪浮云端：积雪仿佛漂浮在云端之上。林表明霁色：林梢上显现出晴朗的色泽。霁色，晴朗的色泽。城中增暮寒：城中因雪后更加寒冷。增暮寒，傍晚时分更加寒冷。\n特殊句式：无特殊句式。\n典故解释：无明确典故。\n意象分析：终南山、积雪、云端、林表、暮寒，描绘了一幅雪后山景与城中的对比图。\n历史背景：唐代诗人祖咏在一次科举考试中以此诗应题，因诗意未尽而被考官要求续写，祖咏坚持认为此诗已尽意，不再续写。",
+        "en": "Zhongnan Yinling Xiu: The northern ridges of the Zhongnan Mountains are beautiful. Yinling refers to the north side of the mountain. Jixue Fuyun Duan: The accumulated snow seems to float above the clouds. Linbiao Ming Ji Se: The treetops show a clear color. Ji Se means clear color. Chengzhong Zeng Mu Han: The city becomes colder in the evening due to the snow. Zeng Mu Han means increased cold in the evening.\nSpecial Sentence Structure: No special sentence structure.\nAllusion Explanation: No specific allusion.\nImage Analysis: Zhongnan Mountains, accumulated snow, clouds, treetops, evening cold, depicting a contrast between the post-snow mountain scenery and the city.\nHistorical Background: The Tang Dynasty poet Zu Yong wrote this poem for an imperial examination. When asked to expand on it by the examiner, Zu Yong insisted that the poem was complete and refused to add more.",
+        "ja": "終南陰嶺秀：終南山の北側の山嶺が美しい。陰嶺は山の北側を指す。積雪浮雲端：積もった雪が雲の上に浮かんでいるようだ。林表明霁色：林の梢に晴れ渡った色が見える。霁色は晴れ渡った色の意。城中増暮寒：城の中は雪の後で夕方により寒くなる。増暮寒は夕方により寒さが増すことを意味する。\n特殊文法：特殊な文法はない。\n故事解釈：明確な故事はない。\nイメージ分析：終南山、積雪、雲端、林表、暮寒が、雪後の山の風景と城の中の対比を描いている。\n歴史背景：唐代の詩人祖咏が科挙試験でこの詩を提出し、試験官に続きを求められたが、詩が完結していると主張して追加しなかった。",
+        "es": "Zhongnan Yinling Xiu: Las laderas norte de la Montaña Zhongnan son hermosas. Yinling se refiere al lado norte de la montaña. Jixue Fuyun Duan: La nieve acumulada parece flotar sobre las nubes. Linbiao Ming Ji Se: Los extremos de los árboles muestran un color claro. Ji Se significa color claro. Chengzhong Zeng Mu Han: La ciudad se vuelve más fría por la tarde debido a la nieve. Zeng Mu Han significa aumento de frío por la tarde.\nEstructura de Oración Especial: No hay estructura de oración especial.\nExplicación de la Alusión: No hay alusión específica.\nAnálisis de Imágenes: Montaña Zhongnan, nieve acumulada, nubes, extremos de árboles, frío de la tarde, pintando un contraste entre el paisaje montañoso después de la nieve y la ciudad.\nContexto Histórico: El poeta de la dinastía Tang, Zu Yong, escribió este poema para un examen imperial. Cuando se le pidió que lo ampliara, Zu Yong insistió en que el poema estaba completo y se negó a añadir más.",
+        "ar": "Zhongnan Yinling Xiu: جبال تشونغنان من الجهة الشمالية جميلة. Yinling يشير إلى الجانب الشمالي من الجبل. Jixue Fuyun Duan: الثلج المتراكم يبدو كأنه يطفو فوق السحاب. Linbiao Ming Ji Se: أطراف الأشجار تظهر لوناً صافياً. Ji Se يعني اللون الصافي. Chengzhong Zeng Mu Han: المدينة تصبح أكثر برودة في المساء بسبب الثلج. Zeng Mu Han يعني زيادة البرودة في المساء.\nبناء الجملة الخاص: لا يوجد بناء جملة خاص.\nشرح الإستعارة: لا يوجد إستعارة محددة.\nتحليل الصور: جبال تشونغنان، الثلج المتراكم، السحاب، أطراف الأشجار، البرد المسائي، يصور تباينًا بين منظر الجبل بعد الثلج والمدينة.\nالخلفية التاريخية: الشاعر التانغي زو يونغ كتب هذا الشعر لأحد امتحانات الإمبراطورية. عندما طلب منه توسيعه، أصر زو يونغ على أن الشعر كان كاملاً ورفض إضافة المزيد."
+    },
+    "appreciations": {
+        "zh": "《终南望余雪》是唐代诗人祖咏的作品，主题思想在于通过描绘终南山余雪的景象，表达诗人对自然美景的赞美和对人间冷暖的感慨。写作特色上，诗人运用了动静结合的手法，'终南阴岭秀，积雪浮云端'以静态描绘山岭之秀，'林表明霁色，城中增暮寒'则以动态对比出雪后天晴与城中寒意。艺术成就方面，诗歌以简洁的语言勾勒出壮丽的自然景观，意境深远，给人以美的享受。情感分析上，诗人既抒发了对自然美景的喜爱，也隐含了对人间世态的冷峻观察。影响意义上，此诗在唐代山水诗中占有一席之地，对后世诗歌创作产生了深远影响。",
+        "en": "The poem 'Gazing at the Remaining Snow on Zhongnan Mountain' by the Tang Dynasty poet Zu Yong centers on the theme of admiring the natural beauty of the Zhongnan Mountains while reflecting on the contrast between nature and human life. In terms of writing style, the poet employs a combination of static and dynamic descriptions: 'The shaded slopes of Zhongnan are beautiful, with snow floating above the clouds' portrays a static beauty, while 'The forest glows with the clear light of dawn, but the city feels colder at dusk' contrasts the serene aftermath of snow with the chill in the city. Artistically, the poem is valued for its concise language that evokes a grand natural landscape, offering deep aesthetic pleasure. Emotionally, it expresses the poet's love for natural scenery while subtly observing the cold realities of human society. Historically, this poem holds a significant place in Tang Dynasty landscape poetry and has had a lasting influence on later poetic works.",
+        "ja": "唐代の詩人祖咏の「終南望余雪」は、終南山の残雪の景色を通じて、自然の美しさへの賛美と人間の世の寒暖に対する感慨を主題としています。表現手法としては、動と静の組み合わせが用いられています。「終南陰嶺秀、積雪浮雲端」は静的な山の美しさを描き、「林表明霁色、城中増暮寒」は雪後の晴れと都の寒さを対比させています。芸術的成果としては、簡潔な言葉で壮大な自然景観を描き出し、深い意境を提供しています。感情分析では、自然の美しさへの愛情と人間社会の冷厳な観察が込められています。影響の意味では、唐代の山水詩において重要な位置を占め、後世の詩作に深い影響を与えました。",
+        "es": "El poema 'Mirando la Nieve Restante en la Montaña Zhongnan' del poeta de la dinastía Tang Zu Yong, tiene como tema central la admiración por la belleza natural de la montaña Zhongnan y la reflexión sobre el contraste entre la naturaleza y la vida humana. En cuanto a la técnica de escritura, el poeta utiliza una combinación de descripciones estáticas y dinámicas: 'Las laderas umbrías de Zhongnan son bellas, con nieve flotando sobre las nubes' representa una belleza estática, mientras que 'El bosque muestra el color del amanecer claro, pero en la ciudad aumenta el frío al atardecer' contrasta la serenidad posterior a la nieve con el frío de la ciudad. Artísticamente, el poema es valorado por su lenguaje conciso que evoca un paisaje natural grandioso, ofreciendo un profundo placer estético. Emocionalmente, expresa el amor del poeta por la scenery natural mientras observa sutilmente las frías realidades de la sociedad humana. Históricamente, este poema ocupa un lugar significativo en la poesía paisajística de la dinastía Tang y ha tenido una influencia duradera en las obras poéticas posteriores.",
+        "ar": "القصيدة 'النظر إلى الثلج المتبقي على جبل تشونغنان' للشاعر التانغي زو يونغ تتناول موضوع الإعجاب بجمال الطبيعة في جبل تشونغنان وتأمل في المقارنة بين الطبيعة والحياة البشرية. من حيث الأسلوب الكتابي، يستخدم الشاعر مزيجًا من الوصفات الثابتة والديناميكية: 'المنحدرات المظللة لجبل تشونغنان جميلة، مع ثلج يطفو فوق السحب' يصور الجمال الثابت، بينما 'الغابة تظهر لون الفجر الواضح، لكن في المدينة يزيد البرد عند الغسق' ي противопоставляет الهدوء بعد الثلج على البرد في المدينة. من الناحية الفنية، القصيدة تُقدر بلغتها الموجزة التي تثير منظرًا طبيعيًا عظيمًا، تقدم متعة جمالية عميقة. من الناحية العاطفية، تعبر عن حب الشاعر لجمال الطبيعة بينما يراقب بلطف الواقع البارد للمجتمع البشري. تاريخيًا، تحتل هذه القصيدة مكانًا مهمًا في شعر المناظر الطبيعية في عهد التانغ ولها تأثير دائم على الأعمال الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "终南山的北坡景色秀丽，积雪仿佛浮在云端。林间露出晴朗的色泽，城中增添了几分暮色寒意。",
+            "en": "The northern slopes of the Zhongnan Mountains are beautifully lush, with snow that seems to float above the clouds. The forest reveals a clear color after the snow, and the city feels a deeper chill as dusk approaches.",
+            "ja": "終南山の北斜面は美しく秀麗、積雪は雲の上に浮かぶよう。林間には晴れ渡った色が見え、都中には夕暮れの寒さが増す。",
+            "es": "Las laderas norte del Monte Zhongnan son bellamente exuberantes, con nieve que parece flotar sobre las nubes. El bosque muestra un color claro tras la nieve, y en la ciudad se siente un frío más intenso al caer la tarde.",
+            "ar": "المنحدرات الشمالية لجبل تشونغنان جميلة الخضرة، مع ثلوج تبدو كأنها تطفو فوق السحب. تظهر بين الأشجار لوناً صافياً بعد الثلج، ويشعر في المدينة ببرودة أشد مع حلول المساء."
+        },
+        "title_translation": {
+            "zh": "终南望余雪",
+            "en": "Gazing at the Remaining Snow on Zhongnan Mountain",
+            "ja": "終南の残雪を望む",
+            "es": "Mirando la Nieve Restante en el Monte Zhongnan",
+            "ar": "النظر إلى الثلج الباقي على جبل تشونغنان"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "终南阴岭秀，积雪浮云端。\n林表明霁色，城中增暮寒。",
+    "title_pinyin": "zhōng nán wàng yú xuě",
+    "pinyin": "zhōng nán yīn lǐng xiù，jī xuě fú yún duān。\nlín biǎo míng jì sè，chéng zhōng zēng mù hán。"
+}

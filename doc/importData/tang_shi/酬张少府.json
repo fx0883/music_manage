@@ -1,0 +1,57 @@
+{
+    "title": "酬张少府",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（693年或694年或701年—761年），字摩诘，号摩诘居士。河东蒲州（今山西永济）人，祖籍山西祁县。唐朝诗人、画家。他精通诗、书、画、音乐等，以诗名盛于开元、天宝间，尤长五言，多咏山水田园，与孟浩然合称“王孟”，有“诗佛”之称。苏轼评价其：“味摩诘之诗，诗中有画；观摩诘之画，画中有诗。”代表作有《相思》、《山居秋暝》等，著作有《王右丞集》。",
+            "en": "Wang Wei (693, 694, or 701–761), styled Mojie, also known as Mojie居士. He was from Hedong Puzhou (present-day Yongji, Shanxi), with ancestral roots in Qixian, Shanxi. A renowned poet and painter of the Tang Dynasty, he excelled in poetry, calligraphy, painting, and music. His poetic fame peaked during the Kaiyuan and Tianbao eras, particularly in five-character verses, often depicting landscapes and pastoral scenes. He is often paired with Meng Haoran as 'Wang Meng' and is known as the 'Poetic Buddha'. Su Shi praised him: 'In Mojie's poems, one finds paintings; in his paintings, one finds poems.' His notable works include 'Yearning' and 'Autumn Evening in a Mountain Dwelling', and his collected works are compiled in 'The Collected Works of Wang Youcheng'.",
+            "ja": "王维（693年または694年または701年～761年）、字は摩詰、号は摩詰居士。河東蒲州（現在の山西省永済市）出身、祖籍は山西省祁県。唐時代の詩人、画家。詩、書、画、音楽などに精通し、開元・天宝年間に詩名を馳せ、特に五言詩に長け、山水田園を詠んだ。孟浩然と並び「王孟」と称され、「詩仏」とも呼ばれる。蘇軾は「摩詰の詩を読むと、詩の中に画がある。摩詰の画を見ると、画の中に詩がある」と評した。代表作に「相思」「山居秋暝」などがあり、著作に「王右丞集」がある。",
+            "es": "Wang Wei (693, 694 o 701-761), apodado Mojie, también conocido como Mojie居士. Nació en Hedong Puzhou (actual Yongji, Shanxi), con raíces ancestrales en Qixian, Shanxi. Fue un destacado poeta y pintor de la dinastía Tang, experto en poesía, caligrafía, pintura y música. Su fama poética alcanzó su apogeo durante las eras Kaiyuan y Tianbao, especialmente en versos de cinco caracteres, a menudo describiendo paisajes y escenas rurales. Se le asocia con Meng Haoran como 'Wang Meng' y es conocido como el 'Buda Poético'. Su Shi lo elogió: 'En los poemas de Mojie, uno encuentra pinturas; en sus pinturas, uno encuentra poemas'. Sus obras notables incluyen 'Anhelo' y 'Noche de Otoño en una Vivienda Montañosa', y sus obras completas se recopilan en 'Obras Recopiladas de Wang Youcheng'.",
+            "ar": "وان وي (693 أو 694 أو 701-761)، يُعرف بلقب مو جي، ويعرف أيضًا بـ مو جي 居士. وُلد في هيدونغ بوزو (اليوم يونغجي، شانشى)، وينحدر أصله من قي شيان، شانشى. كان شاعرًا ورسامًا مشهورًا في عهد أسرة تانغ، متخصصًا في الشعر، الخط، الرسم والموسيقى. اشتهر بشعره خلال فترتي كاي يوان وتيان باو، خاصة في الأشعار ذات الخمس حروف، والتي غالبًا ما تصف المناظر الطبيعية والمناظر الريفية. يُعتبر مع مينغ هواوران كـ 'وانغ مينغ' ويعرف بـ 'بوذا الشعر'. أشاد به سو شى: 'في أشعار مو جي، تجد الرسومات؛ في رسوماته، تجد الأشعار'. من أعماله البارزة 'الحنين' و'الليل الخريفي في منزل الجبل'، وتم جمع أعماله في 'مجموعة أعمال وانغ يوتشنج'."
+        }
+    },
+    "annotations": {
+        "zh": "晚年：指诗人年老之时。好静：喜欢安静。长策：良策，好的计谋。空知：徒然知道。旧林：指故乡或隐居之地。松风：松林中的风。解带：解开衣带，表示闲适。穷通理：穷困与通达的道理。渔歌：渔夫唱的歌。入浦深：进入深水之处。\n语法说明：无特殊句式。\n典故解释：无明确典故。\n意象分析：松风、山月象征自然与宁静，渔歌象征隐逸生活。\n历史背景：唐代社会动荡，诗人晚年追求隐居生活。",
+        "en": "Evening years: refers to the poet's old age. Loving quiet: preferring tranquility. Long strategy: good plan or counsel. Knowing in vain: knowing without purpose. Old forest: refers to the hometown or secluded place. Pine wind: wind in the pine forest. Unfastening the belt: indicates leisure. The theory of poverty and prosperity: the philosophy of hardship and success. Fisherman's song: songs sung by fishermen. Deep into the bay: entering deep waters.\nGrammar notes: No special sentence structures.\nAllusion explanation: No specific allusions.\nImagery analysis: Pine wind and mountain moon symbolize nature and tranquility, fisherman's song symbolizes a reclusive life.\nHistorical background: The Tang Dynasty was turbulent, and the poet sought a secluded life in his later years.",
+        "ja": "晩年：詩人が年老いた時期を指す。好静：静かさを好むこと。長策：良い策、優れた計画。空知：むなしく知っている。旧林：故郷や隠居地を指す。松風：松林の中の風。解帯：帯を解くこと、悠然とした様子を示す。窮通理：貧困と成功の道理。漁歌：漁師が歌う歌。入浦深：深い水辺に入ること。\n文法説明：特異な文法はない。\n典故説明：明確な典故はない。\n意象分析：松風、山月は自然と静寂を象徴し、漁歌は隠遁生活を象徴する。\n歴史背景：唐代は社会が不安定で、詩人は晩年隠居生活を求めた。",
+        "es": "Años finales: se refiere a la vejez del poeta. Amante del silencio: preferir la tranquilidad. Estrategia larga: buen plan o consejo. Saber en vano: saber sin propósito. Bosque viejo: se refiere al hogar o lugar de retiro. Viento de pino: viento en el bosque de pinos. Desatar el cinturón: indica ocio. La teoría de la pobreza y la prosperidad: la filosofía de la adversidad y el éxito. Canción de pescador: canciones cantadas por pescadores. Profundamente en la bahía: entrar en aguas profundas.\nNotas gramaticales: No hay estructuras de oraciones especiales.\nExplicación de la alusión: No hay alusiones específicas.\nAnálisis de imágenes: El viento de pino y la luna de la montaña simbolizan la naturaleza y la tranquilidad, la canción del pescador simboliza la vida retirada.\nContexto histórico: La dinastía Tang era inestable y el poeta buscaba una vida retirada en sus últimos años.",
+        "ar": "السنين الأخيرة: تشير إلى شيخوخة الشاعر. محب للهدوء: تفضيل الهدوء. استراتيجية طويلة: خطة جيدة أو نصيحة. العلم في vão: العلم بلا هدف. الغابة القديمة: تشير إلى الوطن أو مكان الإقامة. رياح الصنوبر: الرياح في غابة الصنوبر. فك الحزام: يشير إلى الراحة. نظرية الفقر والرخاء: فلسفة الصعوبة والنجاح. أغنية الصياد: الأغاني التي تغنيها الصيادون. عميقاً في الخليج: الدخول في المياه العميقة.\nملاحظات نحوية: لا توجد بنى جمل خاصة.\nشرح الإلغاز: لا توجد إلغازات محددة.\nتحليل الصور: رياح الصنوبر والقمر الجبلي يرمزان إلى الطبيعة والهدوء، أغنية الصياد ترمز إلى الحياة المنعزلة.\nالخلفية التاريخية: كانت dynastie Tang غير مستقرة والشاعر كان يبحث عن حياة منعزلة في سنواته الأخيرة."
+    },
+    "appreciations": {
+        "zh": "《酬张少府》是王维晚年之作，表达了诗人退隐山林、追求宁静生活的主题思想。写作特色上，诗人运用简洁自然的语言，通过描绘松风、山月等自然景象，营造出一种超脱尘世的意境。艺术成就方面，诗歌以平淡中见深远，展现了王维‘诗中有画’的艺术风格。情感分析上，诗人在淡泊中流露出对世事的无奈和对自然的热爱。影响意义上，这首诗在文学史上被视为唐代山水田园诗的代表作，对后世文人追求隐逸生活产生了深远影响。",
+        "en": "‘In Reply to Zhang ShaoFu’ is a late work by Wang Wei, expressing the theme of the poet's retirement to the mountains and pursuit of a tranquil life. In terms of writing style, the poet uses simple and natural language, depicting scenes such as the pine breeze and the mountain moon to create an ethereal atmosphere. Artistically, the poem achieves depth through simplicity, showcasing Wang Wei's style of ‘painting within poetry’. Emotionally, the poet conveys a sense of resignation towards worldly affairs and a deep love for nature. Historically, this poem is regarded as a representative work of Tang Dynasty landscape and pastoral poetry, profoundly influencing later literati's pursuit of reclusive life.",
+        "ja": "『酬張少府』は王維の晩年之作であり、詩人が山林に隠退し静かな生活を求める主題を表現している。書き方の特色としては、詩人は簡潔で自然な言葉遣いを用い、松風や山月などの自然景観を描いて、俗世を超えた境地を作り出している。芸術的成果としては、平淡の中に深遠を見せ、王維の「詩中有画」の芸術スタイルを示している。感情分析としては、淡泊の中に世事への無奈と自然への愛情をにじませている。影響の意味では、この詩は文学史上唐代山水田園詩の代表作とされ、後世の文人が隠逸生活を求める上で深い影響を与えた。",
+        "es": "‘En respuesta a Zhang ShaoFu’ es una obra tardía de Wang Wei, que expresa el tema de la retirada del poeta a las montañas y su búsqueda de una vida tranquila. En cuanto a estilo de escritura, el poeta utiliza un lenguaje sencillo y natural, describiendo escenas como la brisa de los pinos y la luna de la montaña para crear una atmósfera etérea. Artísticamente, el poema logra profundidad a través de la simplicidad, mostrando el estilo de Wang Wei de ‘pintura dentro de la poesía’. En análisis emocional, el poeta transmite una sensación de resignación hacia los asuntos mundanos y un profundo amor por la naturaleza. En términos de impacto, este poema se considera una obra representativa de la poesía paisajística y pastoral de la dinastía Tang, influyendo profundamente en la búsqueda de la vida ermitaña por parte de los literatos posteriores.",
+        "ar": "‘رداً على تشانغ شاو فو’ هو عمل متأخر لوانغ وي، يعبر عن موضوع اعتزال الشاعر للجبال و البحث عن حياة هادئة. فيما يتعلق بالأسلوب الكتابي، يستخدم الشاعر لغة بسيطة و طبيعية، يصف مناظر مثل نسيم الصنوبر و قمر الجبل لإنشاء جو خفيف. فنياً، يحقق الشعر العمق من خلال البساطة، و يظهر أسلوب وانغ وي ‘الرسم داخل الشعر’. في تحليل العواطف، يعبر الشاعر عن شعور بالاستسلام تجاه الأمور الدنيوية و حب عميق للطبيعة. من حيث التأثير، يعتبر هذا الشعر عملاً يمثل الشعر الريفي و المناظري للدولة التانغ، و أثر بشكل عميق في البحث عن حياة الزهد من قبل الأدباء اللاحقين."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "晚年只爱安静，万事不再关心。自思无良策，只知返回旧林。松风吹散衣带，山月照我弹琴。你问穷通之理，渔歌飘入浦深。",
+            "en": "In my later years, I only love tranquility, indifferent to all worldly affairs. Reflecting, I find no grand strategy, only knowing to return to the old woods. The pine breeze loosens my belt, the mountain moon shines as I play the lute. You ask about the theory of success and failure, the fisherman's song fades into the deep inlet.",
+            "ja": "晩年は静寂を好むのみ、万事に心を寄せず。自ら考えたところ、良策なし、ただ旧林に帰るのみ。松風が帯を解き、山月が琴を照らす。君が窮通の理を問う、漁歌は浦深く入りぬ。",
+            "es": "En mis años finales, solo amo la tranquilidad, ajeno a todos los asuntos. Reflexionando, no encuentro una gran estrategia, solo sé regresar al viejo bosque. El viento de los pinos desata mi cinturón, la luna de la montaña ilumina mientras toco el laúd. Tú preguntas sobre la razón del éxito y el fracaso, la canción del pescador se interna en la profunda bahía.",
+            "ar": "في سنواتي الأخيرة، أحب فقط الهدوء، بعيدا عن كل الأمور الدنيوية. وأنا أفكر، لا أجد سياسة جيدة، أعلم فقط العودة إلى الغابة القديمة. ريح الصنوبر تخلع حزامي، والقمر الجبلي يضيء بينما أعزف على القيثارة. تسأل عن فلسفة النجاح والفشل، أغنية الصياد تختفي في الأفق البعيد."
+        },
+        "title_translation": {
+            "zh": "酬张少府",
+            "en": "In Reply to Magistrate Zhang",
+            "ja": "張少府への返詩",
+            "es": "En respuesta al Magistrado Zhang",
+            "ar": "ردا على تشانغ شاو فو"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "晚年唯好静，万事不关心。自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。君问穷通理，渔歌入浦深。",
+    "title_pinyin": "chóu zhāng shǎo fǔ",
+    "pinyin": "wǎn nián wéi hǎo jìng，wàn shì bù guān xīn。zì gù wú zhǎng cè，kōng zhī fǎn jiù lín。\nsōng fēng chuī jiě dài，shān yuè zhào dàn qín。jūn wèn qióng tōng lǐ，yú gē rù pǔ shēn。"
+}

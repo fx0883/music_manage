@@ -1,0 +1,57 @@
+{
+    "title": "怨情",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，是唐代伟大的浪漫主义诗人，被后人誉为“诗仙”。他的诗作以豪放、奔放、想象丰富和语言优美著称，代表作品有《将进酒》、《庐山谣》、《望庐山瀑布》等。李白的诗歌对后世影响深远，是中国文学史上的重要人物。",
+            "en": "Li Bai (701-762), styled Taibai and also known as the Hermit of Qinglian, was a great romantic poet of the Tang Dynasty, revered by later generations as the 'Poet Immortal'. His poetry is renowned for its boldness, exuberance, rich imagination, and exquisite language. Representative works include 'Jiang Jin Jiu' (To the Wine), 'Lu Shan Yao' (Song of Mount Lu), and 'Wang Lu Shan Pu Bu' (Viewing the Waterfall at Mount Lu). Li Bai's poetry has had a profound influence on later generations and he is a significant figure in the history of Chinese literature.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士で、唐代の偉大な浪漫主義詩人であり、後世の人々に「詩仙」と称賛されています。彼の詩は豪放、奔放、豊かな想像力と美しい言葉遣いで知られ、代表作には「将進酒」、「廬山謠」、「望廬山瀑布」などがあります。李白の詩は後世に深い影響を与え、中国文学史上の重要な人物です。",
+            "es": "Li Bai (701-762), apodado Taibai y también conocido como el Ermitaño de Qinglian, fue un gran poeta romántico de la dinastía Tang, aclamado por las generaciones posteriores como el 'Poeta Inmortal'. Su poesía es famosa por su audacia, exuberancia, rica imaginación y lenguaje exquisito. Obras representativas incluyen 'Jiang Jin Jiu' (A la bebida), 'Lu Shan Yao' (Canto de la Montaña Lu) y 'Wang Lu Shan Pu Bu' (Viendo la Catarata de la Montaña Lu). La poesía de Li Bai ha tenido una profunda influencia en las generaciones posteriores y es una figura importante en la historia de la literatura china.",
+            "ar": "لي بائي (701-762)، ويعرف بـ تائي باي، ويسمى أيضًا رجل القديس الأخضر، كان شاعرًا رومانسيًا عظيمًا في عهد تانغ، وأُعجب به من قبل الأجيال اللاحقة كـ 'شاعر الموتى'. اشتهرت أشعاره بجرأتها، ازدهارها، خيالها الواسع ولغتها الراقية. من أعماله البارزة 'jiang jin jiu' (إلى الخمر)، 'lu shan yao' (أغنية جبل لوس)، و 'wang lu shan pu bu' (مشاهدة شلال جبل لوس). أثرت أشعار لي بائي بشكل عميق على الأجيال اللاحقة وهو شخصية مهمة في تاريخ الأدب الصيني."
+        }
+    },
+    "annotations": {
+        "zh": "美人卷珠帘，深坐颦蛾眉。但见泪痕湿，不知心恨谁。\n\n词语解释：\n- 美人：指美丽的女子。\n- 卷珠帘：指将用珍珠串成的帘子卷起。\n- 深坐：指端坐，坐得很端正。\n- 颦蛾眉：皱起眉头，形容忧愁的样子。\n- 但见：只看到。\n- 泪痕湿：眼泪留下的痕迹湿润。\n- 不知：不知道。\n- 心恨谁：心中怨恨谁。\n\n语法说明：\n- 本诗采用平仄对仗工整的绝句形式，每句七个字，节奏明快。\n\n典故解释：\n- 本诗没有直接引用具体典故，但“美人”形象在中国古典文学中常用来象征才子佳人，表达作者的情感寄托。\n\n意象分析：\n- 珠帘、深坐、颦蛾眉、泪痕等意象共同构成一幅美人幽怨的画面，表达了女子的孤独与哀愁。\n\n历史背景：\n- 唐代是中国古代诗歌的黄金时期，李白作为浪漫主义诗人，常以美人、山水等意象表达自己的情感和理想。",
+        "en": "The beauty rolls up the pearl curtain, sits deep and frowns her eyebrows. Only seeing the wet traces of tears, not knowing whom she hates in her heart.\n\nWord Explanation:\n- Beauty: Refers to a beautiful woman.\n- Rolls up the pearl curtain: Refers to rolling up the curtain made of pearls.\n- Sits deep: Refers to sitting upright and properly.\n- Frowns her eyebrows:皱起眉头，形容忧愁的样子。\n- Only seeing: Only noticing.\n- Wet traces of tears: The moist marks left by tears.\n- Not knowing: Not aware.\n- Whom she hates in her heart: Who she resents in her heart.\n\nGrammar Explanation:\n- This poem uses the form of a jueju with neatly matched tones and rhythms, each line consisting of seven characters, with a brisk rhythm.\n\nAllusion Explanation:\n- This poem does not directly quote specific allusions, but the image of the 'beauty' is often used in classical Chinese literature to symbolize talented individuals and express the author's emotional projections.\n\nImagery Analysis:\n- The imagery of the pearl curtain, deep sitting, frowned eyebrows, and tear stains collectively depict a scene of a melancholic beauty, expressing the woman's loneliness and sorrow.\n\nHistorical Background:\n- The Tang Dynasty was the golden age of ancient Chinese poetry. Li Bai, as a romantic poet, often used images of beauties and landscapes to express his emotions and ideals.",
+        "ja": "美人が真珠のカーテンを卷き上げ、深く座って眉をひそめる。涙の跡が濡れているのを見るばかり、心で誰を恨んでいるのか知らない。\n\n語彙解釈：\n- 美人：美しい女性を指す。\n- 卷き上げる：真珠で作られたカーテンを卷き上げる。\n- 深く座る：正しく座る。\n- 眉をひそめる：眉を皺く、悲しみを表す。\n- 涙の跡：涙が残した跡。\n- 誰を恨んでいるのか知らない：心で誰を恨んでいるのかわからない。\n\n文法説明：\n- この詩は平仄が整った絶句形式で、各行7文字で構成され、リズムが明快。\n\n典故解釈：\n- この詩は特定の典故を直接引用していないが、「美人」のイメージは中国古典文学で才子佳人を象徴し、作者の感情を表す。\n\nイメージ分析：\n- 真珠のカーテン、深く座る、眉をひそめる、涙の跡などが美人の悲しみを描き出す。\n\n歴史背景：\n- 唐時代は中国詩の黄金時代。李白はロマンチックな詩人として、美人や山水で自分の感情や理想を表す。",
+        "es": "La belleza enrolla la cortina de perlas, se sienta profundamente frunciendo las cejas. Solo se ven las huellas de lágrimas húmedas, sin saber a quién odia en su corazón.\n\nExplicación de palabras:\n- Belleza: Refiere a una mujer hermosa.\n- Enrolla la cortina de perlas: Refiere a subir la cortina hecha de perlas.\n- Se sienta profundamente: Refiere a sentarse derecho y adecuadamente.\n- Frunciendo las cejas: Enrugando las cejas, expresando tristeza.\n- Solo se ven: Solo se notan.\n- Huellas de lágrimas húmedas: Las marcas húmedas dejadas por las lágrimas.\n- Sin saber: Sin saber.\n- A quién odia en su corazón: A quién odia en su corazón.\n\nExplicación gramatical:\n- Este poema utiliza la forma de un cuarteto con rimas y ritmos cuidadosamente equilibrados, cada línea consta de siete caracteres, con un ritmo ágil.\n\nExplicación de alusiones:\n- Este poema no cita directamente alusiones específicas, pero la imagen de la 'belleza' se usa a menudo en la literatura clásica china para simbolizar a los talentosos y expresar las proyecciones emocionales del autor.\n\nAnálisis de imágenes:\n- Las imágenes de la cortina de perlas, sentarse profundamente, fruncir las cejas y las marcas de lágrimas juntos pintan una escena de una belleza melancólica, expresando la soledad y tristeza de la mujer.\n\nContexto histórico:\n- La dinastía Tang fue la edad de oro de la poesía china antigua. Li Bai, como poeta romántico, a menudo usaba imágenes de bellezas y paisajes para expresar sus emociones e ideales.",
+        "ar": "الجمال ترفع ستارة اللؤلؤ، تجلس بعمق وهي تتجهم الحواجب. ترى فقط آثار الدموع المبللة، لا تعرف من تكره في قلبها.\n\nشرح الكلمات:\n- الجمال: تشير إلى امرأة جميلة.\n- ترفع ستارة اللؤلؤ: تشير إلى رفع الستارة المصنوعة من اللؤلؤ.\n- تجلس بعمق: تشير إلى الجلوس بشكل مستقيم وصحيح.\n- تتجهم الحواجب: تجعد الحواجب، تعبر عن الحزن.\n- ترى فقط: ترى وحسب.\n- آثار الدموع المبللة: الآثار الرطبة التي تتركها الدموع.\n- لا تعرف: لا تدري.\n- من تكره في قلبها: من تكره في قلبها.\n\nشرح النحو:\n- يستخدم هذا الشعر شكل الأربعة الأسطر مع توزيع متناسق للأوزان والقوافي، كل سطر مكون من سبعة حروف، بنمط سريع.\n\nشرح الأمثال:\n- لا يذكر الشعر أمثالًا محددة مباشرة، لكن صورة 'الجمال' تُستخدم غالبًا في الأدب الصيني الكلاسيكي للإشارة إلى الأفراد الموهوبين للتعبير عن مشاعر المؤلف.\n\nتحليل الصور:\n- صور الستارة اللؤلؤية، الجلوس بعمق، تجهم الحواجب، وآثار الدموع معًا ترسم مشهدًا لحسناء حزينة، تعبر عن وحدتها وحزنها.\n\nالخلفية التاريخية:\n- كانت Dynastie Tang العصر الذهبي للشعر الصيني القديم. Li Bai، كشاعر رومانسي، غالبًا ما يستخدم صور الجمال والمناظر الطبيعية للتعبير عن مشاعره وأفكاره."
+    },
+    "appreciations": {
+        "zh": "《怨情》这首诗以简洁的语言描绘了一位美人的哀怨之情。主题思想是表达女子内心的孤独与苦闷。写作特色上，李白通过细节描写，如“卷珠帘”、“颦蛾眉”、“泪痕湿”，生动刻画了美人的神态，含蓄地传达了她的内心世界。艺术成就方面，诗句简练而意境深远，给人以丰富的想象空间。情感分析上，诗中流露出美人深切的哀愁和无言的怨恨，令人感同身受。影响意义上，此诗作为李白抒情诗的代表作之一，在中国文学史上具有重要地位，影响了后世许多诗人的创作。",
+        "en": "The poem 'Yuan Qing' vividly depicts the sorrow of a beautiful woman with concise language. The main theme is the expression of the woman's inner loneliness and distress. In terms of writing style, Li Bai uses detailed descriptions such as 'rolling up the bead curtain', 'frowning eyebrows', and 'wet tear marks' to vividly portray the woman's demeanor, subtly conveying her inner world. In terms of artistic achievement, the verses are succinct yet profound, offering a rich imagination space. Emotionally, the poem reveals the woman's deep sorrow and silent resentment, making readers empathize. In terms of influence, this poem, as one of Li Bai's representative lyric poems, holds an important position in the history of Chinese literature, influencing the creation of many later poets.",
+        "ja": "《怨情》は簡潔な言葉で美しい女性の悲哀を描いた詩です。主題思想は女性の内面の孤独と苦悶を表現することです。表現手法としては、李白は「珠簾を卷く」、「眉をひそめる」、「涙痕が湿る」などの詳細な描写を通じて、女性の神態を生き生きと描き、彼女の内面世界を含蓄深く伝えています。芸術的成就としては、詩句は簡練でありながら意境が深遠で、豊かな想像の余地を提供します。感情分析では、詩には女性の深い悲哀と言葉にできない恨みが流れており、読者に共感を呼び起こします。影響の意味では、李白の叙情詩の代表作の一つとして、中国文学史上重要な地位を占め、後世の多くの詩人たちの創作に影響を与えました。",
+        "es": "El poema 'Yuan Qing' retrata con lenguaje conciso la tristeza de una mujer bella. El tema principal es la expresión de la soledad y el sufrimiento interno de la mujer. En cuanto al estilo de escritura, Li Bai utiliza descripciones detalladas como 'enrollar la cortina de cuentas', 'fruncir las cejas' y 'marcas de lágrimas húmedas' para representar vívidamente la actitud de la mujer, transmitiendo sutilmente su mundo interior. En términos de logro artístico, los versos son breves pero profundos, ofreciendo un espacio rico para la imaginación. En el análisis emocional, el poema revela la profunda tristeza y el resentimiento silencioso de la mujer, generando empatía en los lectores. En cuanto a su significado e influencia, este poema, como una de las obras líricas representativas de Li Bai, ocupa un lugar importante en la historia de la literatura china, influyendo en la creación de muchos poetas posteriores.",
+        "ar": "القصيدة 'Yuan Qing' تصف ببلاغة وبكلمات موجزة حزن امرأة جميلة. الفكرة الرئيسية هي التعبير عن الوحدة والمعاناة الداخلية للمرأة. من حيث الأسلوب الأدبي، يستخدم لي باي وصفات مفصلة مثل 'لف ستارة اللؤلؤ'، 'تجهم الحواجب'، و'علامات الدموع الرطبة' ليرسم بشكل حي ملامح المرأة، متناولاً ببراعة عالمها الداخلي. من حيث الإنجاز الفني، الأبيات قصيرة لكنها عميقة، تقدم مساحة غنية للخيال. في تحليل المشاعر، تكشف القصيدة عن حزن عميق وكراهية صامتة لدى المرأة، مما يثير التعاطف لدى القراء. من حيث التأثير والمعنى، تحتل هذه القصيدة، كواحدة من أعمال لي باي الشعرية النثرية المميزة، مكانة مهمة في تاريخ الأدب الصيني، مؤثرة في إنشاء العديد من الشعراء اللاحقين."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "美人卷起珍珠帘，深坐时皱紧蛾眉。\n只见泪痕湿润，不知心中恨谁。",
+            "en": "The beauty rolls up the pearl curtain,\nSits deep, knitting her brow in sorrow.\nOnly tears are seen, wet and clear,\nBut who she hates, none can tell.",
+            "ja": "美人が真珠の簾を卷き上げ、\n深く座して眉をひそめる。\n涙の跡だけが濡れているが、\n誰を恨んでいるのか知れない。",
+            "es": "La belleza enrolla la cortina de perlas,\nSe sienta profundamente, frunciendo el ceño.\nSolo se ven lágrimas húmedas,\nNo sé a quién odia en su corazón.",
+            "ar": "فتنة ترفع ستار اللؤلؤ،\nتجلس بعمق، تتجعد حاجبيها.\nترى فقط بقايا الدموع الرطبة،\nلا تعرف من تكره في قلبها."
+        },
+        "title_translation": {
+            "zh": "怨情",
+            "en": "Resentment",
+            "ja": "恨みの情",
+            "es": "resentimiento",
+            "ar": "الحنق"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "美人卷珠帘，深坐颦蛾眉。\n但见泪痕湿，不知心恨谁。",
+    "title_pinyin": "yuàn qíng",
+    "pinyin": "měi rén juǎn zhū lián，shēn zuò pín é méi。\ndàn jiàn lèi hén shī，bù zhī xīn hèn shuí。"
+}

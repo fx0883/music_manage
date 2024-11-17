@@ -1,0 +1,57 @@
+{
+    "title": "子夜吴歌·冬歌",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，唐朝著名浪漫主义诗人，被后人尊称为“诗仙”。他的诗歌风格豪放奔放，想象丰富，语言优美，题材广泛，既有对自然美景的赞美，也有对人生哲理的深刻思考。代表作有《将进酒》、《庐山谣》、《望庐山瀑布》等。李白一生游历四方，性格豪放不羁，其诗歌作品对后世影响深远。",
+            "en": "Li Bai (701-762), styled Taibai and also known as the Hermit of Qinglian, was a renowned romantic poet of the Tang Dynasty, respectfully referred to as the 'Poet Immortal' by later generations. His poetry is characterized by its bold and unrestrained style, rich imagination, exquisite language, and diverse themes, ranging from praise of natural beauty to profound reflections on life's philosophies. His famous works include 'Jiang Jin Jiu' (To the Wine), 'Lu Shan Yao' (Song of Mount Lu), and 'Wang Lu Shan Pu Bu' (Viewing the Waterfall at Mount Lu). Li Bai traveled extensively throughout his life, possessed a free-spirited and uninhibited personality, and his poetic works have had a profound influence on later generations.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐代の著名な浪漫主義詩人であり、後世の人々から「詩仙」と崇拝されています。彼の詩は豪放で奔放なスタイル、豊かな想像力、美しい言葉遣い、幅広いテーマが特徴で、自然の美しさの賛美から人生の哲学への深い洞察までを含みます。代表作には『将進酒』、『廬山謠』、『望廬山瀑布』などがあります。李白は生涯を通じて四方を旅し、性格は豪放で束縛されず、彼の詩作品は後世に深い影響を与えました。",
+            "es": "Li Bai (701-762), también conocido como Taibai y el Ermitaño de Qinglian, fue un destacado poeta romántico de la dinastía Tang, venerado por las generaciones posteriores como el 'Poeta Inmortal'. Su poesía se caracteriza por un estilo audaz y desenfrenado, una imaginación rica, un lenguaje exquisito y temas diversos, que van desde la alabanza de la belleza natural hasta reflexiones profundas sobre la filosofía de la vida. Sus obras más famosas incluyen 'Jiang Jin Jiu' (A la bebida), 'Lu Shan Yao' (Canción de la Montaña Lu) y 'Wang Lu Shan Pu Bu' (Viendo la Catarata de la Montaña Lu). Li Bai viajó extensamente durante su vida, tenía una personalidad libre y desenfadada, y sus obras poéticas han tenido una influencia profunda en las generaciones posteriores.",
+            "ar": "لي بائي (701-762)، المعروف أيضًا بـ تايباي و راهب تشينغليان، كان شاعرًا رومانسيًا بارزًا في عهد التانغ، يُحترم من قبل الأجيال اللاحقة كـ 'شاعر الخالدين'. تتميز شاعريته بنمطها الجريء والغير مقيد، و خياله الغني، و لغته الراقية، و مواضيعها المتنوعة، التي تتراوح من مدح جمال الطبيعة إلى التأمل العميق في فلسفة الحياة. من أشهر أعماله 'jiang jin jiu' (إلى الشراب)، 'lu shan yao' (أغنية جبل لوشان)، و 'wang lu shan pu bu' (مشاهدة شلال جبل لوشان). قضى لي بائي حياته في السفر بشكل واسع، وكان يتمتع بشخصية حرة وغير تقيدية، و أعماله الشعرية أثرت بشكل عميق على الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "中文注释：\n\n- 明朝：指第二天早上。\n- 驿使：古代传递公文或消息的使者。\n- 絮征袍：用丝绵填充的战袍。\n- 素手：指女子的手，因女子手多细腻白皙。\n- 抽针：指缝纫时抽线。\n- 那堪：怎能忍受。\n- 裁缝：指裁剪缝制衣物。\n- 临洮：地名，今甘肃省临洮县，当时为边防要地。\n\n- 语法说明：'那堪把剪刀'为反问句，强调寒冷难以忍受。\n\n- 典故解释：无特殊典故。\n\n- 意象分析：'素手'象征女性的柔弱与辛劳，'征袍'象征战争与离别。\n\n- 历史背景：唐代边防战事频繁，征夫远戍，家属牵挂。",
+        "en": "English annotations:\n\n- Mingchao: Refers to the next morning.\n- Yishi: Ancient messengers who delivered official documents or messages.\n- Xu Zhengpao: War robes padded with silk floss.\n- Sushou: Refers to a woman's hands, often delicate and fair.\n- Chouzhen: Refers to threading a needle during sewing.\n- Nakan: How can one endure.\n- Caifeng: Refers to cutting and sewing clothes.\n-Lintao: A place name, now Lintao County in Gansu Province, an important border defense area at the time.\n\n- Grammar note: 'Nakan ba jiandao' is a rhetorical question, emphasizing the unbearable cold.\n\n- Allusion explanation: No specific allusions.\n\n- Imagery analysis: 'Sushou' symbolizes the weakness and hard work of women, 'Zhengpao' symbolizes war and separation.\n\n- Historical background: During the Tang Dynasty, border defenses were frequently at war, with soldiers stationed far away, causing family concerns.",
+        "ja": "日本語の注釈：\n\n- 明朝：次の朝を指す。\n- 驿使：古代、公文書や情報を伝える使者。\n- 絮征袍：絹の綿で詰めた戦袍。\n- 素手：女性の手を指す、細やかで白い。\n- 抽针：縫製時に針に糸を通すこと。\n- 那堪：どのように耐えうるか。\n- 裁缝：衣服を裁ち縫うこと。\n- 临洮：地名、現在の甘粛省臨洮県、当時は国境地帯の要地。\n\n- 文法説明：「那堪把剪刀」は反問文で、寒さの耐え難さを強調。\n\n- 典故説明：特別な典故はない。\n\n- 意象分析：「素手」は女性の弱さと労苦を象徴、「征袍」は戦争と別れを象徴。\n\n- 歴史背景：唐代には国境の戦争が頻繁で、兵士が遠くに駐屯し、家族が心配していた。",
+        "es": "Anotaciones en español:\n\n- Mingchao: Se refiere a la mañana siguiente.\n- Yishi: Mensajeros antiguos que entregaban documentos oficiales o mensajes.\n- Xu Zhengpao: Túnicas de guerra rellenas de algodón de seda.\n- Sushou: Se refiere a las manos de una mujer, generalmente delicadas y blancas.\n- Chouzhen: Hacer pasar hilo por una aguja al coser.\n- Nakan: ¿Cómo se puede soportar?\n- Caifeng: Cortar y coser ropa.\n- Lintao: Nombre de un lugar, ahora Condado de Lintao en la Provincia de Gansu, una importante área de defensa fronteriza en ese momento.\n\n- Nota gramatical: 'Nakan ba jiandao' es una pregunta retórica, enfatizando el frío insoportable.\n\n- Explicación de alusiones: No hay alusiones específicas.\n\n- Análisis de imágenes: 'Sushou' simboliza la debilidad y el trabajo duro de las mujeres, 'Zhengpao' simboliza la guerra y la separación.\n\n- Contexto histórico: Durante la dinastía Tang, las defensas fronterizas estaban frecuentemente en guerra, los soldados estaban estacionados lejos, causando preocupación a las familias.",
+        "ar": "الشروح باللغة العربية:\n\n- 明朝: يشير إلى الصباح التالي.\n- 驿使: رسل قديمون ينقلون الوثائق الرسمية أو الرسائل.\n- 絮征袍: معاطف حربية مملوءة بالقطن الحريري.\n- 素手: تشير إلى أيدي النساء، عادة ما تكون رقيقة وبيضاء.\n- 抽针: تمرير الخيط عبر الإبرة أثناء الخياطة.\n- 那堪: كيف يمكن احتمال ذلك؟\n- 裁缝: قص وخياطة الملابس.\n- 临洮: اسم مكان، الآن مقاطعة لينتاو في مقاطعة قانسو، منطقة حدودية مهمة في ذلك الوقت.\n\n- ملاحظة نحوية: '那堪把剪刀' هي جملة استفهامية تعكسية، تؤكد على البرد الشديد الذي لا يمكن احتماله.\n\n- شرح الأمثال: لا توجد أمثال محددة.\n\n- تحليل الصور: '素手' ترمز إلى ضعف واجتهاد النساء، '征袍' ترمز إلى الحرب والفراق.\n\n- الخلفية التاريخية: خلال عهد أسرة تانغ، كانت الحدود عرضة للحروب بشكل متكرر، وكان الجنود يُنقلون إلى أماكن بعيدة، مما يسبب القلق للأسر."
+    },
+    "appreciations": {
+        "zh": "《子夜吴歌·冬歌》以深情的笔触描绘了一位妻子为远征的丈夫赶制冬衣的情景。主题思想是表达了对远方亲人的深切思念和无尽牵挂。写作特色上，诗人通过细腻的动作描写和心理刻画，如\"素手抽针冷，那堪把剪刀\"，生动地展现了妻子的辛劳与不易。艺术成就方面，诗歌以简洁的语言和真挚的情感打动了读者，展现了唐代民间生活的真实面貌。情感分析上，诗中充满了妻子对丈夫的深情厚意和对战争的无奈。影响意义上，这首诗在文学史上具有重要地位，反映了唐代边塞诗的特色，对后世诗歌创作产生了深远影响。",
+        "en": "The poem \"Midnight Songs of Wu - Winter Song\" vividly depicts a wife hurriedly making winter clothes for her husband who is away at war. The central theme is the deep longing and endless concern for a distant loved one. In terms of writing style, the poet uses detailed action descriptions and psychological portrayals, such as \"Her white hands draw the needle cold, how can she bear to hold the scissors,\" to vividly depict the wife's hard work and difficulties. In terms of artistic achievement, the poem touches readers with its concise language and sincere emotions, showcasing the real life of the common people during the Tang Dynasty. Emotionally, the poem is filled with the wife's deep affection for her husband and her helplessness towards war. In terms of influence and significance, this poem holds an important place in literary history, reflecting the characteristics of Tang Dynasty border poetry and exerting a profound influence on later poetic creations.",
+        "ja": "『子夜呉歌・冬歌』は、深い情を持って、遠征中の夫に冬の衣を急いで作る妻の様子を描いています。主題思想は、遠くにいる親族への深い思いやりと尽きることのない心配りです。表現手法としては、詩人は繊細な動作描写と心理描写を用い、例えば「素手抽針冷、那堪把剪刀」という一節で、妻の労苦と困難を生き生きと描いています。芸術的成果としては、簡潔な言葉と真摯な感情で読者を動かし、唐代の民間生活の真実の姿を示しています。感情分析では、詩には妻が夫に対する深い愛情と戦争に対する無力感が満ちています。影響と意義においては、この詩は文学史上重要な地位を占め、唐代の辺塞詩の特色を反映し、後世の詩作に深い影響を与えました。",
+        "es": "El poema \"Canciones de la Medianoche de Wu - Canción de Invierno\" pinta conmovedoramente la escena de una esposa que se apresura a hacer ropa de invierno para su marido que está en campaña. El tema central es el profundo anhelo y la continua preocupación por un ser querido lejano. En cuanto a la técnica literaria, el poeta utiliza detalladas descripciones de acciones y retratos psicológicos, como en la línea \"Sus manos blancas extraen la aguja fría, ¿cómo puede sostener las tijeras?\", para representar vívidamente el arduo trabajo y las dificultades de la esposa. En términos de logro artístico, el poema emociona a los lectores con su lenguaje conciso y emociones sinceras, reflejando la vida real del pueblo durante la dinastía Tang. En el análisis emocional, el poema está lleno del profundo afecto de la esposa por su marido y su impotencia ante la guerra. En cuanto a su influencia y significado, este poema ocupa un lugar importante en la historia de la literatura, reflejando las características de la poesía fronteriza de la dinastía Tang y ejerciendo una profunda influencia en las creaciones poéticas posteriores.",
+        "ar": "القصيدة \"أغاني منتصف الليل لولاية وو - أغنية الشتاء\" تصور بشكل عاطفي مشهد زوجة تتسارع في صنع ملابس شتوية لزوجها الذي يقاتل في الحرب. الفكرة الرئيسية هي الشوق العميق والقلق المستمر تجاه الحبيب البعيد. من حيث الأسلوب الأدبي، يستخدم الشاعر وصفًا مفصلًا للحركات والتصورات النفسية، كما في السطر \"أيديها البيضاء تخرج الإبرة الباردة، كيف يمكنها حمل المقص؟\"، ليعرض بوضوح العمل الشاق والصعوبات التي تواجهها الزوجة. من حيث الإنجاز الفني، تؤثر القصيدة على القراء بلغتها المختصرة وعواطفها الصادقة، تعكس الحياة الحقيقية للناس خلال فترة سلالة تانغ. في التحليل العاطفي، تمتلئ القصيدة بمودة الزوجة العميقة لزوجها وعدم قدرتها على مواجهة الحرب. من حيث التأثير والمعنى، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، تعكس خصائص الشعر الحدودي لسلالة تانغ وتؤثر بشكل عميق على الأعمال الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "明天早晨驿使就要出发，一夜之间忙着给征人缝制棉袍。纤手抽针觉得冷，更难以握住那冰冷的剪刀。裁缝完毕寄往远方的道路，不知何时才能到达临洮。",
+            "en": "Tomorrow morning the courier will depart, sewing all night the padded robe for the soldier. Cold hands draw needles, how can they hold the scissors? Sewn and sent on a distant road, how many days till it reachesLintao?",
+            "ja": "明朝、駅使が発つ、一夜で徴袍を綿入れする。素手で針を引く冷たさ、ましてや剪刀を持つには。遠き道に縫い物を送り、何日で臨洮に着くやら。",
+            "es": "Mañana al amanecer el mensajero partirá, cosiendo toda la noche la chaqueta acolchada para el soldado. Manos delicadas hilo frío, ¿cómo pueden sostener las tijeras? Hecho y enviado por un camino lejano, ¿en cuántos días llegará a Lintao?",
+            "ar": "في صباح الغد يرحل البريد، يخيط طوال الليل المعطفاً للجندي. أيدي بيضاء تخرج الإبرة وهي باردة، كيف لها أن تمسك بالمقص؟ يُرسل الخياطة في طريق بعيد، كم من يوم حتى يصل إلى لينتاو؟"
+        },
+        "title_translation": {
+            "zh": "子夜吴歌·冬歌",
+            "en": "Midnight Songs of Wu - Winter Song",
+            "ja": "子夜呉歌・冬歌",
+            "es": "Canciones de Wu en Medianoche - Canción de Invierno",
+            "ar": "أغاني وو في منتصف الليل - أغنية الشتاء"
+        }
+    },
+    "genre": {
+        "name": "乐府",
+        "code": "yue_fu"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "明朝驿使发，一夜絮征袍。\n素手抽针冷，那堪把剪刀。\n裁缝寄远道，几日到临洮。",
+    "title_pinyin": "zi yè wú gē·dōng gē",
+    "pinyin": "míng cháo yì shǐ fā，yī yè xù zhēng páo。\nsù shǒu chōu zhēn lěng，nà kān bǎ jiǎn dāo。\ncái fèng jì yuǎn dào，jǐ rì dào lín táo。"
+}

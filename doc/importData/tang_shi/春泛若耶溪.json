@@ -1,0 +1,57 @@
+{
+    "title": "春泛若耶溪",
+    "difficulty": 2,
+    "author": {
+        "name": "綦毋潜",
+        "name_pinyin": "qí wú qián",
+        "image": "綦毋潜.jpg",
+        "introduction": {
+            "zh": "綦毋潜，唐代著名诗人，生卒年不详，字孝通，荆南（今属湖北）人。他的诗作以清新脱俗、意境深远著称，尤其擅长描写自然山水，风格近似王维、孟浩然。其诗多反映隐逸生活和山水之美，语言简练而富有韵味。《春泛若耶溪》是其代表作之一，展现了诗人对自然美景的热爱和对隐居生活的向往。",
+            "en": "Qi Wuqian was a renowned poet of the Tang Dynasty, with uncertain birth and death years. His courtesy name was Xiaotong, and he was from Jingnan (present-day Hubei). His poetry is known for its fresh and refined style, profound artistic conception, particularly excelling in depicting natural landscapes, similar in style to Wang Wei and Meng Haoran. His poems often reflect the life of seclusion and the beauty of landscapes, with concise and expressive language. 'Spring Boating on the Ruoye Stream' is one of his representative works, showcasing his love for natural scenery and longing for a reclusive life.",
+            "ja": "綦毋潜は唐代の著名な詩人で、生没年不詳、字は孝通、荊南（現在の湖北省）の人。彼の詩作は清新で俗離れしており、特に自然山水の描写に優れ、王維や孟浩然に風格が似ている。詩は多く隠逸生活や山水の美を反映し、簡潔で味わい深い言葉遣いが特徴。《春泛若耶溪》は彼の代表作の一つで、自然の美しさへの愛と隠居生活への憧れを表している。",
+            "es": "Qi Wuqian fue un poeta destacado de la dinastía Tang, con años de nacimiento y muerte desconocidos. Su nombre de cortesía era Xiaotong y era de Jingnan (actualmente en Hubei). Su poesía se caracteriza por un estilo fresco y refinado, con una concepción artística profunda, especialmente hábiles en la descripción de paisajes naturales, similar en estilo a Wang Wei y Meng Haoran. Sus poemas a menudo reflejan la vida de reclusión y la belleza de los paisajes, con un lenguaje conciso y expresivo. 'Paseo Primaveral por el Arroyo Ruoye' es una de sus obras representativas, mostrando su amor por la belleza natural y su deseo de una vida retirada.",
+            "ar": "قي وو قيان كان شاعرًا مشهورًا في عهد التانغ، غير معروف تاريخ ميلاده ووفاته. كان اسمه التقديري هو شياوتونغ وكان من جينان (الآن في هوبيي). اشتهرت قصائده بأسلوبها العذب والراقي، وبعمق مفهومها الفني، وخاصة في وصف المناظر الطبيعية، مشابهة في الأسلوب لوو وي ومينغ هواوران. كثيرا ما تعكس قصائده حياة العزلة وجمال المناظر الطبيعية، بلغة موجزة وواضحة. 'الإبحار الربيعي في وادي رووي' هو واحد من أعماله الرائدة، يظهر حبه للجمال الطبيعي ورغبته في حياة هادئة."
+        }
+    },
+    "annotations": {
+        "zh": "幽意：幽深的意趣。无断绝：没有断绝。此去：从这里出发。随所偶：随意遇到的事物。晚风：傍晚的风。行舟：行驶的船。花路：开满花的路。溪口：溪流的入口。际夜：接近夜晚。转西壑：转向西边的山谷。隔山：隔着山。望南斗：望见南斗星。潭烟：潭水上升起的雾气。飞溶溶：形容雾气飘动的样子。林月：林中的月亮。低向后：低垂并向后移动。生事：世事。且弥漫：暂且弥漫不清。愿为：愿意成为。持竿叟：手持钓竿的老人。",
+        "en": "Youyi: profound interest. Wu duan jue: unceasing. Ci qu: from here. Sui suo ou: whatever comes along. Wan feng: evening breeze. Xing zhou: moving boat. Hua lu: flower-path. Xi kou: entrance of the stream. Ji ye: at nightfall. Zhuan xi he: turn to the western valley. Ge shan: across the mountain. Wang nan dou: gaze at the Southern Dipper. Tan yan: mist over the pond. Fei rong rong: floating softly. Lin yue: moon in the forest. Di xiang hou: low and backward. Sheng shi: worldly affairs. Qie mi man: temporarily blurred. Yuan wei: willing to be. Chi gan sou: an old man holding a fishing rod.",
+        "ja": "幽意：深い趣き。無断絶：絶えず。此去：ここから。随所偶：出会ったものに従う。晚風：夕風。行舟：行く舟。花路：花咲く道。溪口：渓の入口。際夜：夜になる頃。転西壑：西の谷に転じる。隔山：山を隔てて。望南斗：南斗星を見る。潭烟：潭の霧。飛溶溶：軽やかに飛ぶ。林月：林の中の月。低向后：低く後ろに。生事：世の中の事。且弥漫：暫くははっきりしない。願為：なりたい。持竿叟：竿を持つ老人。",
+        "es": "Youyi: interés profundo. Wu duan jue: sin interrupción. Ci qu: desde aquí. Sui suo ou: lo que se encuentre. Wan feng: viento de la tarde. Xing zhou: bote en movimiento. Hua lu: camino de flores. Xi kou: entrada del arroyo. Ji ye: al anochecer. Zhuan xi he: girar hacia el valle occidental. Ge shan: a través de la montaña. Wang nan dou: mirar la Estrella del Sur. Tan yan: niebla sobre el estanque. Fei rong rong: flotando suavemente. Lin yue: luna en el bosque. Di xiang hou: baja y hacia atrás. Sheng shi: asuntos del mundo. Qie mi man: temporalmente difuso. Yuan wei: desear ser. Chi gan sou: anciano con una caña de pescar.",
+        "ar": "الويعي: الاهتمام العميق. وو دوان جي: دون انقطاع. سي كو: من هنا. سوي سو أو: أي شيء يأتي. وان فنغ: رياح المساء. سينغ تشو: القارب المتحرك. هوا لو: طريق الزهور. شي كو: مدخل النهر. جي يي: عند الغسق. تشوان شي هه: التوجه نحو الوادي الغربي. جي شان: عبر الجبل. وانغ نان دو: النظر إلى نجم الجنوب. تان يان: دخان البركة. في رونغ رونغ: يطفو بلطف. لين يي: القمر في الغابة. دي شيانغ هоу: منخفض وظهراً. شنغ شي: شؤون الحياة. تشي مي مان: مؤقتاً غير واضح. يوان وي: يرغب في أن يكون. شي غان سو: رجل عجوز يحمل عصا للصيد."
+    },
+    "appreciations": {
+        "zh": "《春泛若耶溪》描绘了诗人在春夜泛舟若耶溪的所见所感。主题思想上，诗人通过自然景物的描写，表达了对隐逸生活的向往和对世俗纷扰的厌倦。写作特色上，诗人运用细腻的笔触，将晚风、花路、潭烟、林月等元素巧妙融合，营造出一种宁静而幽美的意境。艺术成就上，此诗以简洁的语言和生动的意象，展现了高超的艺术表现力，堪称唐代山水诗的佳作。情感分析上，诗人抒发了对自然美景的热爱和对隐居生活的渴望，情感真挚而深沉。影响意义上，这首诗在文学史上具有重要地位，对后世山水诗的创作产生了深远影响。",
+        "en": "The poem 'Spring Boating on the Ruoye Stream' vividly depicts the poet's experiences and observations while boating on the Ruoye Stream on a spring night. Thematic-wise, through the description of natural scenery, the poet expresses his longing for a reclusive life and his weariness of worldly troubles. In terms of writing style, the poet uses delicate brushstrokes to seamlessly integrate elements like the evening breeze, floral paths, misty ponds, and the low-hanging moon, creating a tranquil and beautiful atmosphere. Artistically, this poem stands out for its concise language and vivid imagery, showcasing remarkable artistic prowess and is considered a masterpiece of Tang Dynasty landscape poetry. Emotionally, the poet conveys a deep love for natural beauty and a strong desire for seclusion, with genuine and profound sentiments. In terms of influence, this poem holds a significant place in literary history, profoundly impacting the creation of subsequent landscape poetry.",
+        "ja": "《春泛若耶溪》は詩人が春の夜に若耶溪を舟で漂う様子を描いた詩です。主題思想上、自然景観の描写を通じて、隠遁生活への憧れと世俗の煩わしさへの倦怠を表現しています。表現手法としては、詩人は繊細な筆致で、夕風、花の道、潭の煙、林の月などの要素を巧みに融合させ、静かで幽玄な境地を創り出しています。芸術的成果としては、簡潔な言葉と生き生きとしたイメージで、高い芸術表現力を見せており、唐代山水詩の傑作とされています。感情分析としては、自然の美しさへの愛着と隠居生活への切望を詠み込んでおり、真摯で深い感情が感じられます。影響の意味では、この詩は文学史上重要な位置を占め、後世の山水詩の創作に大きな影響を与えました。",
+        "es": "El poema 'Navegación de Primavera en el Río Ruoye' describe vívidamente las experiencias y observaciones del poeta mientras navega por el Río Ruoye en una noche de primavera. En cuanto al tema, a través de la descripción del paisaje natural, el poeta expresa su deseo de una vida retirada y su cansancio de las preocupaciones mundanas. En cuanto al estilo de escritura, el poeta utiliza pinceladas delicadas para integrar elementos como la brisa de la tarde, los caminos floridos, el humo de los estanques y la luna baja en el bosque, creando una atmósfera tranquila y hermosa. Artísticamente, este poema se destaca por su lenguaje conciso y sus imágenes vívidas, mostrando una gran habilidad artística y es considerado una obra maestra de la poesía paisajística de la dinastía Tang. En el análisis emocional, el poeta expresa un profundo amor por la belleza natural y un fuerte deseo de reclusión, con sentimientos sinceros y profundos. En términos de influencia, este poema ocupa un lugar importante en la historia de la literatura, teniendo un impacto profundo en la creación de la poesía paisajística posterior.",
+        "ar": "القصيدة 'الإبحار الربيعي في نهر روى' تصف بشكل حي تجارب وملاحظات الشاعر أثناء الإبحار في نهر روى في ليلة ربيعية. من الناحية الفكرية، من خلال وصف المناظر الطبيعية، يعبر الشاعر عن رغبته في العيش في هدوء بعيد عن صخب العالم. فيما يتعلق بالأسلوب الأدبي، يستخدم الشاعر لمسات دقيقة لدمج عناصر مثل نسيم المساء، المسارات الزهرية، دخان البرك، والقمر المنخفض في الغابة، مما يخلق جواً هادئاً وجميلاً. من الناحية الفنية، تبرز هذه القصيدة بفضل لغتها المختصرة وتصاويرها الحية، مشيرة إلى مهارة فنية عالية وهي تعد من روائع الشعر المناظري في عهد التانغ. في تحليل العواطف، يعبر الشاعر عن حبه العميق للجمال الطبيعي ورغبته القوية في العزلة، بمشاعر صادقة وعميقة. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، حيث أثرت تأثيراً عميقاً في إنشاء الشعر المناظري اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "幽深的意趣未曾断绝，此次出行随遇而安。\n晚风吹动着行舟，花径引领进入溪口。\n夜幕降临时转向西壑，隔山遥望南斗星。\n潭面烟雾飘渺，林中月色低垂向后。\n世事纷繁且迷茫，愿做持竿垂钓的老翁。",
+            "en": "The serene intent never ceases, this journey follows chance encounters.\nEvening breeze guides the boat, a floral path leads to the creek's mouth.\nAs night falls, we turn to the western valley, gazing at the Southern Dipper across the mountain.\nMisty vapors rise from the pool, the moon in the woods hangs low behind.\nLife's affairs are vast and hazy, I wish to be an old man with a fishing rod.",
+            "ja": "深い趣きは絶えず、この旅は偶然に任せて。\n夕風が舟を吹き送り、花の道が渓口へと導く。\n夜更けに西の谷へと転じ、山を隔てて南斗を望む。\n潭の煙が溶け溶け、林の月は低く後ろに沈む。\n世の中は茫漠として、竿を持つ老人になりたい。",
+            "es": "El profundo deseo nunca se interrumpe, este viaje sigue las casualidades.\nLa brisa de la tarde impulsa el bote, un sendero de flores lleva a la boca del arroyo.\nAl anochecer giramos hacia el barranco del oeste, mirando la Osa Mayor al sur a través de la montaña.\nEl humo del estanque flota densamente, la luna en el bosque se inclina hacia atrás.\nLos asuntos de la vida son vastos e inciertos, quisiera ser un anciano con una caña de pescar.",
+            "ar": "الرغبة العميقة لا تتوقف، هذه الرحلة تتبع اللقاءات العرضية.\nرياح المساء توجّه القارب، طريق الزهور يدخل فم النهر.\nمع حلول الليل نتجه نحو الوادي الغربي، ننظر إلى النجم الجنوبي عبر الجبل.\n دخان البركة يتصاعد بلطف، القمر في الغابة ينخفض إلى الخلف.\nأمور الحياة واسعة ومبهمة، أرغب في أن أصبح رجلاً عجوزًا يحمل عصا الصيد."
+        },
+        "title_translation": {
+            "zh": "春泛若耶溪",
+            "en": "Spring Excursion on Ruoye Creek",
+            "ja": "若耶渓の春泛",
+            "es": "Paseo Primaveral por el Arroyo Ruoye",
+            "ar": "رحلة ربيعية في وادي رووي"
+        }
+    },
+    "genre": {
+        "name": "五言古诗",
+        "code": "wu_yan_gu_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "幽意无断绝，此去随所偶。\n晚风吹行舟，花路入溪口。\n际夜转西壑，隔山望南斗。\n潭烟飞溶溶，林月低向后。\n生事且弥漫，愿为持竿叟。",
+    "title_pinyin": "chūn fàn ruò yé xī",
+    "pinyin": "yōu yì wú duàn jué，cǐ qù suí suǒ ǒu。\nwǎn fēng chuī xíng zhōu，huā lù rù xī kǒu。\njì yè zhuǎn xī hè，gé shān wàng nán dòu。\ntán yān fēi róng róng，lín yuè dī xiàng hòu。\nshēng shì qiě mí màn，yuàn wèi chí gān sǒu。"
+}

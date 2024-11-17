@@ -1,0 +1,57 @@
+{
+    "title": "竹里馆",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维，字摩诘，唐代著名诗人、画家，与孟浩然并称“王孟”，有“诗佛”之称。他的诗作以山水田园为主题，风格清新淡雅，善于通过自然景物抒发情感，体现了禅宗思想的影响。王维不仅诗艺精湛，还擅长绘画，被后人誉为“诗中有画，画中有诗”。《竹里馆》是其代表作之一，展现了他在幽静环境中追求精神自由的境界。",
+            "en": "Wang Wei, styled Mojie, was a renowned poet and painter of the Tang Dynasty, often mentioned alongside Meng Haoran as 'Wang Meng', and was also known as the 'Poetic Buddha'. His poetry primarily focused on landscapes and pastoral scenes, characterized by a fresh and elegant style, adept at expressing emotions through natural scenery, reflecting the influence of Zen Buddhism. Wang Wei was not only a master of poetry but also skilled in painting, earning the accolade 'there is painting in his poetry, and poetry in his painting'. 'Bamboo Pavilion' is one of his representative works, showcasing his pursuit of spiritual freedom in a tranquil environment.",
+            "ja": "王維（おうい）、字は摩詰（まごう）、唐代の著名な詩人、画家であり、孟浩然（もうこうげん）と並び称される「王孟（おうもう）」と呼ばれ、「詩仏（しいぶつ）」の異名を持つ。彼の詩は山水田園を主題とし、清新で淡雅なスタイルを持ち、自然景物を通じて感情を表現することに長け、禅宗思想の影響が見られる。王維は詩作だけでなく絵画も得意とし、後世の人々に「詩中有画、画中有詩」と讃えられた。《竹里館》は彼の代表作の一つで、静寂な環境の中で精神の自由を追求する境地を示している。",
+            "es": "Wang Wei, apodado Mojie, fue un destacado poeta y pintor de la dinastía Tang, mencionado junto a Meng Haoran como 'Wang Meng', y también conocido como el 'Buda Poético'. Su poesía se centraba principalmente en paisajes y escenas pastorales, con un estilo fresco y elegante, experto en expresar emociones a través de la naturaleza, reflejando la influencia del budismo Zen. Wang Wei no solo era un maestro de la poesía, sino también habilidoso en la pintura, ganándose elogios como 'hay pintura en su poesía, y poesía en su pintura'. 'Pabellón de Bambú' es una de sus obras representativas, mostrando su búsqueda de la libertad espiritual en un entorno tranquilo.",
+            "ar": "وانغ وي، المعروف بلقبه مو جي، كان شاعرًا وفنانًا معروفًا في عهد أسرة تانغ، يُذكر جنبًا إلى جنب مع مينغ هواوران باسم 'وانغ مينغ'، وكان يُعرف أيضًا بلقب 'البوذا الشاعر'. قصائده تركز بشكل رئيسي على المناظر الطبيعية والمناظر الريفية، بأسلوب جديد وأنيق، ماهر في التعبير عن العواطف من خلال المناظر الطبيعية، مما يعكس تأثير البوذية الزن. لم يكن وانغ وي مجرد محترف في الشعر، بل كان بارعًا في الرسم أيضًا، مما كسبه الثناء 'هناك فن في شعره، وشعر في فنه'. 'قاعة البامبو' هي واحدة من أعماله المميزة، تظهر بحثه عن الحرية الروحية في بيئة هادئة."
+        }
+    },
+    "annotations": {
+        "zh": "独坐幽篁里，弹琴复长啸。\n深林人不知，明月来相照。\n\n词语解释：\n- 独坐：独自一人坐着。\n- 幽篁：幽深的竹林。\n- 弹琴：弹奏古琴。\n- 长啸：长声呼啸。\n- 深林：深处的树林。\n- 人不知：没有人知道。\n- 明月：明亮的月亮。\n\n语法说明：\n- 本诗采用平仄韵律，四句一组，每句五字，属于五言绝句。\n\n典故解释：\n- 本诗无直接用典，但“弹琴”和“长啸”常见于古代文人表达隐逸情怀的描写。\n\n意象分析：\n- 幽篁：象征宁静与隐逸。\n- 明月：象征高洁与孤独。\n\n历史背景：\n- 唐代文人崇尚隐逸生活，此诗反映了诗人王维对自然和隐居生活的热爱。",
+        "en": "Sitting alone in the secluded bamboo grove, playing the lute and then letting out a long whistle.\nDeep in the forest, no one knows, the bright moon comes to shine upon me.\n\nWord Explanations:\n- Sitting alone: sitting by oneself.\n- Secluded bamboo grove: a deep and secluded bamboo forest.\n- Playing the lute: playing the ancient Chinese lute.\n- Long whistle: a long, loud whistle.\n- Deep in the forest: deep within the woods.\n- No one knows: nobody is aware.\n- Bright moon: the luminous moon.\n\nGrammar Notes:\n- The poem follows the tonal patterns of classical Chinese poetry, with four lines per stanza, each line containing five characters, making it a five-character jueju.\n\nAllusions Explained:\n- The poem does not directly reference any specific literary allusions, but the actions of playing the lute and whistling are common in ancient Chinese literature to express a reclusive lifestyle.\n\nImagery Analysis:\n- Secluded bamboo grove: symbolizes tranquility and seclusion.\n- Bright moon: symbolizes purity and solitude.\n\nHistorical Background:\n- During the Tang Dynasty, literati often idealized a reclusive life. This poem reflects the poet Wang Wei's love for nature and secluded living.",
+        "ja": "独りで静かな竹林に坐り、琴を弾きながら長く唸る。\n深い森の中では誰も知らず、明るい月が照らし合わせる。\n\n語句の説明：\n- 独りで坐り：一人で座っている。\n- 静かな竹林：静かで奥深い竹林。\n- 琴を弾き：古琴を弾く。\n- 長く唸る：長く大声で唸る。\n- 深い森：深い森の中。\n- 誰も知らず：誰も気づかない。\n- 明るい月：明るい月。\n\n文法の説明：\n- この詩は平仄の韻律を守り、四句一組、一句五字の五言絶句である。\n\n典故の説明：\n- この詩には直接的な典故は無いが、「琴を弾く」と「長く唸る」は古代の文人が隠逸の情怀を表す描写としてよく見られる。\n\n意象の分析：\n- 静かな竹林：静寂と隠逸を象徴する。\n- 明るい月：高潔と孤独を象徴する。\n\n歴史的背景：\n- 唐代の文人は隠逸生活を尊び、この詩は詩人王維が自然と隠居生活を愛する心情を反映している。",
+        "es": "Sentado solo en el bosque de bambúes serenos, toco el qin y luego lanzo un largo grito.\nEn el corazón del bosque, nadie lo sabe, la luna brillante viene a iluminarme.\n\nExplicación de palabras:\n- Sentado solo: sentado solo.\n- Bosque de bambúes serenos: un bosque de bambúes profundo y tranquilo.\n- Toco el qin: tocar el antiguo instrumento musical qin.\n- Lanzo un largo grito: emitir un largo y fuerte grito.\n- Corazón del bosque: profundidad del bosque.\n- Nadie lo sabe: nadie lo sabe.\n- Luna brillante: la luna resplandeciente.\n\nNotas gramaticales:\n- El poema sigue los patrones métricos de la poesía clásica china, con cuatro líneas por estrofa, cada línea de cinco caracteres, siendo un jueju de cinco caracteres.\n\nExplicación de alusiones:\n- El poema no hace referencia directa a ninguna alusión literaria específica, pero las acciones de tocar el qin y gritar son comunes en la literatura china antigua para expresar un estilo de vida reclusivo.\n\nAnálisis de imágenes:\n- Bosque de bambúes serenos: simboliza la tranquilidad y el aislamiento.\n- Luna brillante: simboliza la pureza y la soledad.\n\nContexto histórico:\n- Durante la dinastía Tang, los literatos solían idealizar la vida reclusa. Este poema refleja el amor del poeta Wang Wei por la naturaleza y la vida retirada.",
+        "ar": "جالس وحيدًا في غابة الخيزران الهادئة، أعزف على القيثارة وأطلق صيحة طويلة.\nفي أعماق الغابة، لا يعلم أحد، والقمر المضيء يأتي ليضيء علي.\n\nشرح الكلمات:\n- جالس وحيدًا: جالس بمفرده.\n- غابة الخيزران الهادئة: غابة خيزران عميقة وهادئة.\n- أعزف على القيثارة: العزف على القيثارة الصينية القديمة.\n- أطلق صيحة طويلة: إطلاق صيحة طويلة وصاخبة.\n- أعماق الغابة: داخل أعماق الغابة.\n- لا يعلم أحد: لا أحد يعلم.\n- القمر المضيء: القمر الساطع.\n\nملاحظات نحوية:\n- يتبع الشعر الأنماط الوزنية للشعر الصيني الكلاسيكي، مع أربعة أسطر لكل مقطع، كل سطر يحتوي على خمسة حروف، مما يجعله قصيدة خماسية.\n\nشرح الإشارات:\n- لا يحتوي الشعر على إشارات أدبية مباشرة، ولكن actions of playing the lute and whistling are common in ancient Chinese literature to express a reclusive lifestyle.\n\nتحليل الصور:\n- غابة الخيزران الهادئة: ترمز إلى الهدوء والانعزال.\n- القمر المضيء: ترمز إلى الطهارة والوحدة.\n\nالخلفية التاريخية:\n- خلال عهد التانغ، كان الأدباء يقدسون الحياة المنعزلة. يعكس هذا الشعر حب الشاعر وانغ وي للطبيعة والحياة المنعزلة."
+    },
+    "appreciations": {
+        "zh": "《竹里馆》是唐代诗人王维的作品，主题思想表现了诗人隐居生活的宁静与超脱。写作特色上，诗人通过简洁的白描手法，勾勒出独坐竹林、弹琴长啸的情景，营造出一种清幽脱俗的氛围。艺术成就方面，这首诗以其淡泊自然的风格和高远的意境，成为山水田园诗的典范。情感分析上，诗人抒发了对自然山水的热爱和对尘世纷扰的超然态度。影响意义上，此诗在文学史上具有重要地位，对后世文人追求隐逸生活产生了深远影响。",
+        "en": "Bamboo Grove is a work by the Tang Dynasty poet Wang Wei. The theme reflects the tranquility and detachment of the poet's reclusive life. In terms of writing features, the poet uses simple and straightforward descriptions to depict the scene of sitting alone in a bamboo grove, playing the zither and shouting, creating a serene and refined atmosphere. In terms of artistic achievements, this poem is a model of landscape and pastoral poetry with its indifferent and natural style and lofty artistic conception. In emotional analysis, the poet expresses his love for nature and his transcendent attitude towards worldly troubles. In terms of impact and significance, this poem holds an important position in the history of literature and has had a profound influence on later literati's pursuit of reclusive life.",
+        "ja": "《竹里館》は唐代の詩人王維の作品であり、主題思想は詩人の隠遁生活の静寂と超脱を表現している。書き方の特色としては、詩人は簡潔な白描手法を用い、竹林に独坐し、琴を弾き、長く嘯く情景を描き出し、清幽で俗離れた雰囲気を作り出している。芸術的成就としては、この詩はその淡泊自然なスタイルと高遠な意境で、山水田園詩の典型となっている。感情分析では、詩人は自然山川への愛と世俗の煩わしさへの超然とした態度を表している。影響と意義においては、この詩は文学史上重要な地位を占め、後世の文人が隠逸生活を追求する上で深い影響を与えた。",
+        "es": "Bosque de Bambú es una obra del poeta de la dinastía Tang, Wang Wei. El tema principal refleja la tranquilidad y el desapego de la vida retirada del poeta. En cuanto a las características de escritura, el poeta utiliza descripciones simples y directas para representar la escena de sentarse solo en un bosque de bambú, tocando el zither y gritando, creando una atmósfera serena y refinada. En términos de logros artísticos, este poema es un modelo de poesía paisajística y pastoral por su estilo indiferente y natural y su elevada concepción artística. En el análisis emocional, el poeta expresa su amor por la naturaleza y su actitud trascendental hacia los problemas mundanos. En cuanto a su impacto y significado, este poema ocupa un lugar importante en la historia de la literatura y ha tenido una profunda influencia en la búsqueda de la vida retirada por parte de los literatos posteriores.",
+        "ar": "البيت في بستان البامبو هو عمل للشاعر التانغي وانغ وي. الفكر الرئيسي يعكس هدوء وانفصال حياة الشاعر المنعزلة. من حيث خصائص الكتابة، يستخدم الشاعر وصفًا بسيطًا مباشرًا لتصوير مشهد الجلوس بمفرده في بستان البامبو، عازفًا على القيثارة وصارخًا، مما يخلق جوًا هادئًا ومتطورًا. من حيث الإنجازات الفنية، يعتبر هذا الشعر نموذجًا للشعر الطبيعي والريفية بأسلوبه غير مبالٍ وطبيعي وخياله الفني العالي. في تحليل العواطف، يعبر الشاعر عن حبه للطبيعة واتجاهه المتفوق تجاه المتاعب الدنيوية. من حيث التأثير والمعنى، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب ولديه تأثير عميق على سعي الأدباء اللاحقين للحياة المنعزلة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "独自坐在幽深的竹林里，弹奏琴声又长声啸叫。深林中无人知晓，只有明月来照耀。",
+            "en": "Sitting alone in the secluded bamboo grove, I play the zither and let out a long howl. No one knows in the deep forest, only the bright moon comes to illuminate.",
+            "ja": "静かな竹林に独り坐り、琴を弾きながら長く唸る。深い森に人知れず、明るい月が照らし出す。",
+            "es": "Sentado solo en el bosque de bambúes oscuro, toco el qín y aúlllo largamente. Nadie sabe en el bosque profundo, solo la luna brillante viene a iluminar.",
+            "ar": "جالس وحيدًا في غابة الخيزران الخفية، أعزف على القيثارة وأصدر صرخة طويلة. لا يعرف أحد في الغابة العميقة، فقط القمر المضيء يأتي ليضيء."
+        },
+        "title_translation": {
+            "zh": "竹里馆",
+            "en": "The Bamboo Lodge",
+            "ja": "竹里館",
+            "es": "La Casa en el Bambú",
+            "ar": "بيت الخيزران"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "独坐幽篁里，弹琴复长啸。\n深林人不知，明月来相照。",
+    "title_pinyin": "zhú lǐ guǎn",
+    "pinyin": "dú zuò yōu huáng lǐ，dàn qín fù zhǎng xiào。\nshēn lín rén bù zhī，míng yuè lái xiāng zhào。"
+}

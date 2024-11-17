@@ -1,0 +1,57 @@
+{
+    "title": "嫦娥",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，唐代著名诗人，字义山，号玉溪生，又号樊南生。他的诗歌风格独特，善于运用象征和隐喻，内容多涉及爱情、政治和个人感慨。李商隐的诗作情感深沉，意境朦胧，被誉为“诗魂”，对后世文学影响深远。",
+            "en": "Li Shangyin was a renowned poet of the Tang Dynasty, styled Yishan and also known as Yuxi Sheng and Fannan Sheng. His poetic style was unique, adept at using symbolism and metaphor, with themes often revolving around love, politics, and personal reflections. His poems are known for their deep emotions and ambiguous imagery, earning him the title of 'Poetic Soul' and exerting a profound influence on later literature.",
+            "ja": "李商隐は唐代の著名な詩人で、字は義山、号は玉谿生、また樊南生とも称される。彼の詩風は独特で、象徴や隠喩を巧みに使い、愛情、政治、個人的な感慨などが主なテーマである。李商隐の詩は感情が深く、意境が朧げで、「詩魂」と称され、後世の文学に大きな影響を与えた。",
+            "es": "Li Shangyin fue un poeta destacado de la dinastía Tang, conocido por su estilo único en la poesía, utilizando símbolos y metáforas, con temas que a menudo giran en torno al amor, la política y las reflexiones personales. Sus poemas son famosos por sus emociones profundas y su imaginería ambigua, siendo aclamado como el 'Alma Poética' y teniendo una influencia significativa en la literatura posterior.",
+            "ar": "لي شانغ ين كان شاعرًا مشهورًا في عهد التانغ، يتميز بأسلوبه الفريد في الشعر، حيث يستخدم الرموز والتلاعب بالكلمات، وتتناول قصائده غالبًا موضوعات الحب والسياسة والتأملات الشخصية. اشتهرت قصائده بمشاعرها العميقة وتصوراتها غير الواضحة، وأُعطي لقب 'روح الشعر'، ولديه تأثير كبير على الأدب اللاحق."
+        }
+    },
+    "annotations": {
+        "zh": "云母屏风：用云母装饰的屏风。烛影深：烛光映照下的影子显得很深。长河：指银河。晓星：晨星。沉：落下。嫦娥：神话中的月宫仙女。偷灵药：指嫦娥偷吃了后羿的仙药。碧海青天：形容夜空的广阔和深远。夜夜心：指嫦娥每晚都在思念。本诗通过描绘嫦娥在月宫的孤独与悔恨，表达了对人生选择的反思。",
+        "en": "Yunmu pingfeng: A screen decorated with mica. Zhu ying shen: The shadows cast by the candlelight are deep. Changhe: Refers to the Milky Way. Xiao xing: Morning star. Chen: Fall. Chang'e: The mythical goddess of the moon. Tou ling yao: Refers to Chang'e stealing Hou Yi's elixir. Bi hai qing tian: Describes the vast and deep night sky. Ye ye xin: Refers to Chang'e thinking every night. This poem depicts Chang'e's loneliness and regret in the moon palace, expressing reflections on life choices.",
+        "ja": "雲母屏風：雲母で飾られた屏風。燭影深：燭光によって映し出される影が深い。長河：天の川を指す。暁星：朝星。沈：落ちる。嫦娥：神話における月宮の仙女。偷霊薬：嫦娥が后羿の仙薬を盗んだこと。碧海青天：夜空の広大さと深遠さを形容する。夜々心：嫦娥が毎晩思っていること。この詩は、嫦娥が月宮での孤独と悔恨を描き、人生の選択についての反省を表現している。",
+        "es": "Yunmu pingfeng: Una pantalla decorada con mica. Zhu ying shen: Las sombras proyectadas por la luz de las velas son profundas. Changhe: Se refiere a la Vía Láctea. Xiao xing: Estrella de la mañana. Chen: Caer. Chang'e: La diosa mitológica de la luna. Tou ling yao: Se refiere a que Chang'e robó el elixir de Hou Yi. Bi hai qing tian: Describe el vasto y profundo cielo nocturno. Ye ye xin: Se refiere a que Chang'e piensa cada noche. Este poema retrata la soledad y el arrepentimiento de Chang'e en el palacio de la luna, expresando reflexiones sobre las elecciones en la vida.",
+        "ar": "یونمو بينغفينغ: شاشة مزيّنة بميكا. جو يينغ شين: ظلال مضاءة بالشموع تبدو عميقة. تشانغهي: يشير إلى درب التبانة. شياو شينغ: نجم الصباح. تشين: يسقط. تشانغ'ه: الإلهة الأسطورية للقمر. تونغ لينغ ياو: يشير إلى أن تشانغ'ه سرقت دواء الهيوي. بيهاي تشينغ تيان: يصف السماء الليلية الواسعة والعميقة. ييه ييه شين: يشير إلى أن تشانغ'ه تفكر كل ليلة. هذا الشعر يصور الوحدة والندم لتشانغ'ه في قصر القمر، ويعبر عن التفكير في خيارات الحياة."
+    },
+    "appreciations": {
+        "zh": "《嫦娥》这首诗通过描绘云母屏风上深深的烛影和长河渐落、晓星沉没的景象，营造出一种孤独冷清的氛围。主题思想是表达嫦娥偷食灵药后孤独悔恨的心情，象征了人类对无法挽回的错误的反思。写作特色上，诗人运用细腻的描写和象征手法，将自然景象与人物内心巧妙结合。艺术成就方面，诗歌以简洁的语言传达深刻的情感，具有较高的艺术价值。情感分析显示，诗人抒发了对嫦娥孤独命运的同情和对人生抉择的感慨。在文学史地位上，这首诗以其独特的意境和深刻的内涵，成为唐代诗歌中的经典之作。",
+        "en": "The poem 'Chang'e' creates a solitary and chilly atmosphere through the depiction of deep candle shadows on the mica screen and the gradual setting of the Milky Way and the sinking of the morning star. The main theme reflects Chang'e's regret and loneliness after stealing the elixir, symbolizing human reflection on irreparable mistakes. In terms of writing style, the poet skillfully combines natural scenery with inner emotions using delicate descriptions and symbolism. Artistically, the poem conveys profound emotions with concise language, possessing high artistic value. Emotionally, it expresses sympathy for Chang'e's lonely fate and reflections on life choices. Historically, this poem stands as a classic in Tang Dynasty poetry due to its unique imagery and profound meaning.",
+        "ja": "「嫦娥」这首詩は、雲母の屏風に深く映る燭影と、長河が次第に沈み、暁星が没する情景を描き出し、孤独で冷たい雰囲気を作り出しています。主題思想は、嫦娥が霊薬を盗んだ後の孤独な後悔の心情を表現し、人間が取り返しのつかない過ちに対する反省を象徴しています。写作特色としては、詩人は繊細な描写と象徴手法を用い、自然の情景と人物の内面を巧みに結びつけています。芸術的成就としては、簡潔な言語で深い感情を伝え、高い芸術価値を有しています。感情分析では、詩人は嫦娥の孤独な運命に対する同情と人生の選択に対する感慨を抒発しています。文学史の地位としては、この詩は独特の意境と深い内容で、唐代の詩歌における古典的名作となっています。",
+        "es": "El poema 'Chang'e' crea una atmósfera solitaria y fría a través de la descripción de las profundas sombras de las velas en la pantalla de mica y el gradual descenso del río largo y el hundimiento de la estrella del amanecer. El tema principal refleja el arrepentimiento y la soledad de Chang'e después de robar el elixir, simbolizando la reflexión humana sobre los errores irreparables. En cuanto al estilo de escritura, el poeta combina hábilmente el paisaje natural con los sentimientos internos mediante descripciones delicadas y simbolismo. Artísticamente, el poema transmite emociones profundas con un lenguaje conciso, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa simpatía por el destino solitario de Chang'e y reflexiones sobre las elecciones de la vida. Históricamente, este poema se destaca como una obra clásica en la poesía de la dinastía Tang debido a su única imaginería y profundo significado.",
+        "ar": "القصيدة 'تشانغ إي' تخلق جواً من الوحدة والبرودة من خلال وصف الظلال العميقة للشموع على شاشة الميكا وتراجع النهر الطويل وغرق نجم الصباح. الفكرة الرئيسية تعكس ندم وتوتر تشانغ إي بعد سرقة الدواء الروحاني، وتشير إلى تفكير الإنسان في الأخطاء التي لا يمكن إصلاحها. من حيث الأسلوب الكتابي، يجمع الشاعر ببراعة بين المناظر الطبيعية والعواطف الداخلية باستخدام وصف دقيق واستخدام الرموز. فنياً، تنقل القصيدة مشاعر عميقة بلغة موجزة، وتتمتع بقيمة فنية عالية. في التحليل العاطفي، يعبر الشاعر عن تعاطفه مع مصير تشانغ إي المنعزل وتأملاته حول خيارات الحياة. تاريخياً، تبرز هذه القصيدة كعمل كلاسيكي في شعر العصر التانغ بفضل صورتها الفريدة ومعناها العميق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "云母屏风上烛影幽深，银河渐渐西斜晨星低沉。嫦娥应该后悔偷吃了灵药，碧海青天夜夜心情孤寂。",
+            "en": "The candlelight casts deep shadows on the mica screen, the Milky Way gradually sets and the morning star sinks. Chang'e must regret stealing the elixir, under the vast blue sea and sky, her heart aches every night.",
+            "ja": "雲母の屏風に灯影深く、長河漸く沈み晓星も沈む。嫦娥は灵薬を盗んだことを悔やむべきだ、碧海青天の下、夜ごと心が寂しい。",
+            "es": "La sombra de la vela es profunda en la pantalla de mica, el río de estrellas se hunde lentamente y la estrella de la mañana se sumerge. Chang'e debe arrepentirse de haber robado la poción mágica, bajo el mar azul y el cielo, su corazón está triste cada noche.",
+            "ar": "ظلال الشموع عميقة على شاشة الميكا، النهر الطويل يغرب تدريجيًا والنجمة الصباحية تغوص. على Chang'e أن تندم على سرقة الدواء الروحاني، تحت البحر الأزرق والسماء، قلبها حزين كل ليلة."
+        },
+        "title_translation": {
+            "zh": "嫦娥",
+            "en": "Chang'e",
+            "ja": "嫦娥",
+            "es": "Chang'e",
+            "ar": "تشانغ إي"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "云母屏风烛影深，长河渐落晓星沉。\n嫦娥应悔偷灵药，碧海青天夜夜心。",
+    "title_pinyin": "cháng é",
+    "pinyin": "yún mǔ píng fēng zhú yǐng shēn，zhǎng hé jiàn luò xiǎo xīng chén。\ncháng é yīng huǐ tōu líng yào，bì hǎi qīng tiān yè yè xīn。"
+}

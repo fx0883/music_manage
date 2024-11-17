@@ -1,0 +1,57 @@
+{
+    "title": "月夜忆舍弟",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫，字子美，自号少陵野老，唐代著名现实主义诗人，与李白合称为“李杜”，被后人尊称为“诗圣”。他的诗作广泛反映了唐代的社会现实，尤其是安史之乱后的民生疾苦，具有深刻的历史意义和艺术价值。《月夜忆舍弟》是他的代表作之一，表达了诗人对故乡和亲人的深切思念。",
+            "en": "Du Fu, styled Zimei, self-titled Shaoling Ye lao, was a renowned realist poet of the Tang Dynasty, often paired with Li Bai as 'Li Du' and revered by later generations as the 'Poet Saint'. His poetry extensively reflects the social realities of the Tang Dynasty, particularly the suffering of the people after the An Lushan Rebellion, possessing profound historical significance and artistic value. 'Recalling My Younger Brother on a Moonlit Night' is one of his masterpieces, expressing the poet's deep longing for his hometown and family.",
+            "ja": "杜甫は、字を子美、自号を少陵野老と称する、唐代の著名な現実主義詩人であり、李白と共に「李杜」と並び称され、後世には「詩聖」と尊称される。彼の詩作は唐代の社会現実を広範に反映し、特に安史の乱後の民衆の苦難を描き、深い歴史的意義と芸術的価値を持つ。《月夜憶舍弟》は彼の代表作の一つで、詩人が故郷と親族への深い想いを表現している。",
+            "es": "Du Fu, conocido por su estilo Zimei y autodenominado Shaoling Ye lao, fue un destacado poeta realista de la dinastía Tang, a menudo mencionado junto a Li Bai como 'Li Du' y venerado por las generaciones posteriores como el 'Santos de la Poesía'. Su poesía refleja ampliamente las realidades sociales de la dinastía Tang, especialmente las dificultades del pueblo después de la Rebelión de An Lushan, poseyendo un profundo significado histórico y valor artístico. 'Recuerdos de mi hermano menor en una noche de luna' es una de sus obras maestras, que expresa el profundo anhelo del poeta por su hogar y su familia.",
+            "ar": "杜甫، يُعرف بلقبه \"زي مي\"، ويُلقب نفسه بـ\"شاولينغ يي لاو\"، هو شاعر واقعي شهير في عهد التانغ، يُذكر غالبًا جنبًا إلى جنب مع لي باي كـ\"لي دو\"، ويُجلّهُ الأجيال اللاحقة كـ\"قدوة الشعراء\". شعره يعكس الواقع الاجتماعي لعهد التانغ على نطاق واسع، خاصة معاناة الناس بعد تمرد أن لوشان، ويمتلك أهمية تاريخية عميقة وقيمة فنية. \"تذكر أخي الأصغر في ليلة مقمرة\" هو واحد من روائعه، يعبر عن رغبة الشاعر العميقة في موطنه وأهله."
+        }
+    },
+    "annotations": {
+        "zh": "戍鼓：边防驻军的鼓声。断人行：指鼓声响起，禁止行人通行。边秋：边塞的秋天。一雁声：孤雁的鸣叫声。露从今夜白：指今天是白露节气。月是故乡明：月亮在故乡看起来更明亮。有弟皆分散：指兄弟们都分散各地。无家问死生：没有家可回，不知兄弟们的生死。寄书长不达：寄出的书信常常不能送达。况乃未休兵：何况现在战事还未停止。本诗通过描写边塞秋夜的景象，表达了诗人对远方兄弟的思念和对战乱时局的忧虑。",
+        "en": "Shu gu: The sound of the drums from the border defense troops. Duan ren xing: Indicates that the drum sound prohibits people from passing. Bian qiu: The autumn of the border area. Yi yan sheng: The cry of a solitary wild goose. Lu cong jin ye bai: Refers to the White Dew festival today. Yue shi gu xiang ming: The moon appears brighter in the hometown. You di jie fen san: Brothers are scattered everywhere. Wu jia wen si sheng: No home to return to, unsure of the brothers' life and death. Ji shu chang bu da: Letters sent often do not reach. Kuang nai wei xiu bing: Moreover, the war has not yet stopped. This poem expresses the poet's longing for distant brothers and his worries about the turbulent times through the depiction of the autumn night scene at the border.",
+        "ja": "戍鼓：辺防軍の鼓の音。断人行：鼓の音で人々の通行を禁止する。辺秋：辺境の秋。一雁声：一羽の雁の鳴き声。露从今夜白：今日は白露の節気。月是故乡明：月は故郷でより明るく見える。有弟皆分散：兄弟たちが皆散らばっている。無家問死生：家がなく、兄弟たちの生死を尋ねられない。寄書長不達：送った手紙がよく届かない。況乃未休兵：況してや戦争がまだ終わっていない。この詩は、辺境の秋夜の情景を描きながら、詩人が遠く離れた兄弟たちへの思いや戦乱の時代に対する憂慮を表現している。",
+        "es": "Shu gu: El sonido de los tambores de las tropas de defensa fronteriza. Duan ren xing: Indica que el sonido de los tambores prohíbe el paso de las personas. Bian qiu: El otoño de la región fronteriza. Yi yan sheng: El grito de un ganso solitario. Lu cong jin ye bai: Se refiere al festival de la Rosa de los Vientos hoy. Yue shi gu xiang ming: La luna parece más brillante en el hogar. You di jie fen san: Los hermanos están dispersos por todas partes. Wu jia wen si sheng: No hay hogar al que regresar, no se sabe sobre la vida y la muerte de los hermanos. Ji shu chang bu da: Las cartas enviadas a menudo no llegan. Kuang nai wei xiu bing: Además, la guerra aún no ha terminado. Este poema expresa el anhelo del poeta por sus hermanos lejanos y su preocupación por los tiempos turbulentos a través de la descripción de la escena nocturna de otoño en la frontera.",
+        "ar": "Shu gu: صوت الطبول للجيش الحدودي. Duan ren xing: يشير إلى أن صوت الطبول يمنع مرور الناس. Bian qiu: خريف المنطقة الحدودية. Yi yan sheng: صوت غراب واحد. Lu cong jin ye bai: يشير إلى اليوم هو عيد الروضة البيضاء. Yue shi gu xiang ming: يبدو القمر أكثر إشراقًا في الوطن. You di jie fen san: الأشقاء منتشرون في كل مكان. Wu jia wen si sheng: لا يوجد منزل للعودة إليه، لا يعرف عن حياة وموت الأشقاء. Ji shu chang bu da: الرسائل المرسلة غالبًا لا تصل. Kuang nai wei xiu bing: بالإضافة إلى ذلك، الحرب لم تنته بعد. يعبر هذا الشعر عن اشتياق الشاعر لأشقائه البعيدين وقلقه تجاه الأوقات العصيبة من خلال وصف مشهد الليل الخريفي على الحدود."
+    },
+    "appreciations": {
+        "zh": "《月夜忆舍弟》是唐代诗人杜甫的名作。主题思想：表达了对远方亲人的深切思念和对战乱时局的忧虑。写作特色：通过边塞秋景的描绘，借景抒情，将个人情感与国家命运紧密结合。艺术成就：诗中“露从今夜白，月是故乡明”成为千古名句，意象鲜明，情感真挚。情感分析：抒发了诗人对兄弟离散、家破人亡的悲痛以及对和平的渴望。影响意义：在文学史上，此诗以其深沉的情感和精湛的艺术手法，成为唐代边塞诗的代表作之一。",
+        "en": "Moonlit Night Recalling My Younger Brother is a famous poem by Du Fu of the Tang Dynasty. Theme: It expresses deep longing for distant relatives and concern for the turbulent times. Writing Features: The poem uses the depiction of the autumn scenery at the border to express emotions, blending personal feelings with the fate of the nation. Artistic Achievement: The lines 'Dew turns white tonight, the moon is bright in my hometown' have become timeless, with vivid imagery and sincere emotions. Emotional Analysis: It conveys the poet's sorrow over the scattering of his brothers and the loss of his family, as well as his yearning for peace. Significance: In literary history, this poem stands out for its profound emotions and exquisite artistic techniques, making it a representative work of Tang Dynasty border poetry.",
+        "ja": "《月夜忆舍弟》は唐代の詩人杜甫の名作です。主題思想：遠方の親族への深い思いやりと乱世の時局に対する憂慮を表現しています。書き方の特色：辺塞の秋景色を描きながら、情景を借りて感情を表現し、個人の感情と国家の運命を緊密に結びつけています。芸術的成就：「露は今夜白く、月は故郷明るし」という名句が生まれ、意象が鮮明で感情が真摯です。感情分析：兄弟の離散と家族の喪失に対する悲痛な思いと平和への渇望を抒発しています。影響と意味：文学史上、この詩は深い感情と精巧な芸術手法で、唐代の辺塞詩の代表作の一つとなっています。",
+        "es": "Noche de Luna Recordando a mi Hermano es una obra famosa del poeta Tang Du Fu. Tema: Expresa un profundo anhelo por los parientes lejanos y una preocupación por la situación de guerra. Características de la escritura: Utiliza la descripción del paisaje otoñal en la frontera para expresar emociones, fusionando los sentimientos personales con el destino de la nación. Logro artístico: Las líneas 'El rocío es blanco esta noche, la luna brilla en mi tierra natal' se han convertido en famosas, con imágenes vívidas y emociones sinceras. Análisis emocional: Expresa la tristeza del poeta por la dispersión de sus hermanos y la pérdida de su hogar, así como su deseo de paz. Significado e influencia: En la historia de la literatura, este poema destaca por sus emociones profundas y técnicas artísticas exquisitas, convirtiéndose en una de las obras representativas de la poesía fronteriza de la dinastía Tang.",
+        "ar": "‘ذكرى الأخ في ليلة مقمرة’ هي عمل شهير للشاعر التانغي دو فو. الفكرة الرئيسية: يعبر عن الحنين العميق للأقارب البعيدين والقلق إزاء الأوقات العصيبة. خصائص الكتابة: يستخدم وصف مناظر الخريف على الحدود للتعبير عن المشاعر، مدمجاً المشاعر الشخصية مع مصير الأمة. الإنجاز الفني: جملة ‘الندى يصبح أبيضاً هذه الليلة، والقمر هو ألمع في مسقط رأسي’ أصبحت مشهورة، ذات صور حية وعواطف صادقة. تحليل العواطف: يعبر عن حزن الشاعر على تفرق إخوته وضياع أسرته، ورغبته في السلام. المعنى والتأثير: في تاريخ الأدب، يبرز هذا الشعر بعمق مشاعره وتقنياته الفنية الرائعة، ليصبح واحداً من أعمال الشعر الحدودي البارزة في عهد التانغ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "戍楼鼓声阻断行人，边塞秋色孤雁鸣。今夜露水格外白，故乡月光最明亮。兄弟们都已离散，无家可问生死。寄去书信常不达，何况战事未平息。",
+            "en": "The watchtower's drum halts all travelers; a lone goose cries in the frontier autumn. The dew tonight is especially white; the moonlight is brightest in my homeland. All my brothers are scattered; no home to inquire about life or death. Letters sent often fail to reach; much less in times of ongoing war.",
+            "ja": "砦の鼓の音が人を遮り、辺境の秋に雁の一声。今宵の露は特に白く、故郷の月は最も明るく。兄弟は皆散り散り、家もなく生死を尋ねられず。手紙を送っても届かず、況や戦いが休まず。",
+            "es": "El tambor de la guarnición detiene a los viajeros; un ganso solitario grazna en el otoño fronterizo. La rocío esta noche es especialmente blanco; la luz de la luna es más brillante en mi tierra natal. Todos mis hermanos están dispersos; sin hogar para preguntar por vida o muerte. Las cartas enviadas rara vez llegan; mucho menos en tiempos de guerra incesante.",
+            "ar": "دقات الطبول في الحصن توقف المسافرين؛ صوت غراب وحيد في خريف الحدود. الندى هذه الليلة أبيض بشكل خاص؛ ضوء القمر في موطني هو الأكثر إشراقًا. جميع إخوتي متفرقون؛ لا بيت لأسأل عن حياتهم أو موتهم. الرسائل المرسلة لا تصل غالبًا؛ فكيف في زمن الحرب المستمرة."
+        },
+        "title_translation": {
+            "zh": "月夜忆舍弟",
+            "en": "Recalling My Younger Brother on a Moonlit Night",
+            "ja": "月夜に弟を思い出して",
+            "es": "Recordando a mi Hermano Menor en una Noche de Luna",
+            "ar": "تذكر أخي في ليلة مقمرة"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "戍鼓断人行，边秋一雁声。\n露从今夜白，月是故乡明。\n有弟皆分散，无家问死生。\n寄书长不达，况乃未休兵。",
+    "title_pinyin": "yuè yè yì shě dì",
+    "pinyin": "shù gǔ duàn rén xíng，biān qiū yī yàn shēng。\nlù cóng jīn yè bái，yuè shì gù xiāng míng。\nyǒu dì jiē fēn sàn，wú jiā wèn sǐ shēng。\njì shū zhǎng bù dá，kuàng nǎi wèi xiū bīng。"
+}

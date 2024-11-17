@@ -1,0 +1,57 @@
+{
+    "title": "隋宫",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，唐代著名诗人，字义山，号玉溪生，怀州河内（今河南沁阳）人。他擅长诗歌创作，尤以七言律诗见长，作品多反映晚唐社会的复杂矛盾和个人仕途的坎坷，风格婉约深情，语言精美，意象朦胧，被后人誉为“诗魂”。其代表作有《锦瑟》、《无题》等。",
+            "en": "Li Shangyin was a renowned poet of the Tang Dynasty, styled Yishan and also known as Yuxi Sheng. He was born in Henei, Huai Prefecture (present-day Qinyang, Henan). Known for his expertise in poetry, particularly in seven-character regulated verse, his works often reflect the complex contradictions of the late Tang society and his own bumpy official career. His style is characterized by subtlety, deep emotion, exquisite language, and ambiguous imagery, earning him the title 'Poetic Soul'. His famous works include 'Jin Se' (The Zither) and 'Wu Ti' (Untitled).",
+            "ja": "李商隐は唐代の著名な詩人で、字は義山、号は玉谿生。懐州河内（現在の河南省沁陽市）出身。詩作に長け、特に七言律詩に優れていた。作品は多くが晩唐社会の複雑な矛盾や個人の不遇な官途を反映しており、風格は婉約で情深く、言語は精緻、意象は曖昧で、後世「詩魂」と称賛された。代表作に「錦瑟」「無題」などがある。",
+            "es": "Li Shangyin fue un destacado poeta de la dinastía Tang, conocido por su nombre de cortesía Yishan y su seudónimo Yuxi Sheng. Nació en Henei, prefectura de Huai (actualmente Qinyang, Henan). Era experto en la creación de poesía, especialmente en versos regulados de siete caracteres, y sus obras a menudo reflejan las complejas contradicciones de la sociedad del final de la dinastía Tang y las dificultades de su carrera oficial. Su estilo se caracteriza por la sutileza, la profunda emoción, el lenguaje exquisito y las imágenes ambiguas, lo que le valió el apodo de 'Alma Poética'. Entre sus obras más famosas se encuentran 'Jin Se' (El Cítara) y 'Wu Ti' (Sin Título).",
+            "ar": "لي شانغ ين كان شاعرًا مشهورًا في عهد التانغ، يعرف بلقبه يي شان ويُعرف أيضًا بيوشي شينغ. وُلد في هينيي، مقاطعة هواي (حاليًا قينيانغ، خنان). كان بارعًا في كتابة الشعر، خاصة في الأشعار المنظومة من سبعة حروف، وتُعكس أعماله غالبًا التعقيدات والم противореات في المجتمع في أواخر عهد التانغ وصعوبات مسيرته الرسمية. يتميز أسلوبه بالدقة، العاطفة العميقة، اللغة الفاخرة، والصور الغامضة، مما أهله ليُلقب بـ 'روح الشعر'. من أشهر أعماله 'جين سي' (القيثارة) و 'وو تي' (بدون عنوان)."
+        }
+    },
+    "annotations": {
+        "zh": "乘兴南游不戒严：乘着兴致南下游玩，不设防备。九重谁省谏书函：深宫之中，谁会理会谏书。春风举国裁宫锦：春风时节，全国都在裁制宫锦。半作障泥半作帆：一半用来做马匹的障泥，一半用来做船帆。\n\n词语解释：\n- 乘兴：趁着兴致。\n- 南游：向南游玩。\n- 戒严：设防备。\n- 九重：指深宫。\n- 谏书函：谏诤的书信。\n- 举国：全国。\n- 宫锦：供宫廷使用的锦缎。\n- 障泥：马匹腹下遮挡泥土的布。\n\n语法说明：\n- 无特殊句式。\n\n典故解释：\n- 无明显用典。\n\n意象分析：\n- 春风：象征繁荣和生机。\n- 宫锦：象征奢华和权力。\n\n历史背景：\n- 此诗讽刺隋炀帝杨广南游的奢侈和不顾国事，反映了隋朝末年的政治腐败。",
+        "en": "Riding high on whim, southward he tours without alert, in the deep palace, who heeds the letter of advice? In spring's breath, the whole land cuts imperial brocade, half for the horse's mud-guard, half for the ship's sail.\n\nWord Explanations:\n- Riding high on whim: Acting on a whim.\n- Southward tours: Traveling south.\n- Without alert: Without taking precautions.\n- Deep palace: Refers to the inner palace.\n- Letter of advice: Letters of remonstrance.\n- Whole land: The entire country.\n- Imperial brocade: Luxurious silk for the palace.\n- Mud-guard: Cloth under a horse to protect from mud.\n\nGrammar Notes:\n- No special sentence structures.\n\nAllusion Explanations:\n- No explicit allusions.\n\nImagery Analysis:\n- Spring's breath: Symbolizes prosperity and vitality.\n- Imperial brocade: Symbolizes luxury and power.\n\nHistorical Background:\n- This poem satirizes Emperor Yang of the Sui Dynasty's extravagant southern tours and neglect of state affairs, reflecting the political corruption during the late Sui Dynasty.",
+        "ja": "興に乗じて南遊するも警戒せず、九重の深き誰が諫書を省むや。春風の下全国が宮錦を裁ち、半は障泥に半は帆とする。\n\n語句解説：\n- 興に乗じて：興に任せて。\n- 南遊：南方への遊行。\n- 警戒せず：警戒しない。\n- 九重：深宮を指す。\n- 諫書：諫める手紙。\n- 全国：全国民。\n- 宮錦：宮廷用の錦織物。\n- 障泥：馬の腹部を泥から守る布。\n\n文法説明：\n- 特殊な文法はない。\n\n典故説明：\n- 明確な典故はない。\n\n意象分析：\n- 春風：繁栄と生命力の象徴。\n- 宮錦：豪華さと権力の象徴。\n\n歴史背景：\n- この詩は隋の煬帝の南遊の豪華さと国事への無関心を風刺し、隋末の政治の腐敗を反映している。",
+        "es": "Montado en el impulso, viaja al sur sin prevención, en las profundidades del palacio, ¿quién lee las cartas de consejo? Con la brisa de primavera, todo el reino corta brocado imperial, la mitad para las guardas de barro y la mitad para las velas.\n\nExplicación de palabras:\n- Montado en el impulso: Actuando por impulso.\n- Viaja al sur: Viajar hacia el sur.\n- Sin prevención: Sin tomar precauciones.\n- Profundidades del palacio: Se refiere al interior del palacio.\n- Cartas de consejo: Cartas de admonición.\n- Todo el reino: Todo el país.\n- Brocado imperial: Terciopelo lujoso para el palacio.\n- Guardas de barro: Tela bajo el caballo para proteger del barro.\n\nNotas gramaticales:\n- No hay estructuras gramaticales especiales.\n\nExplicación de alusiones:\n- No hay alusiones explícitas.\n\nAnálisis de imágenes:\n- Brisa de primavera: Simboliza prosperidad y vitalidad.\n- Brocado imperial: Simboliza lujo y poder.\n\nContexto histórico:\n- Este poema satiriza los viajes lujosos hacia el sur del Emperador Yang de la Dinastía Sui y su desatención a los asuntos de estado, reflejando la corrupción política en los últimos años de la Dinastía Sui.",
+        "ar": "ركب على هواك، يسافر جنوباً بلا تحسب، في أعماق القصر، من يقرأ رسائل النصح؟ مع نسمة الربيع، يقطع كل البلاد حرير القصر، نصفه لستر التراب ونصفه لشراع السفينة.\n\nشرح الكلمات:\n- ركب على هواك: التصرف بتهور.\n- يسافر جنوباً: السفر إلى الجنوب.\n- بلا تحسب: بدون اتخاذ احتياطات.\n- أعماق القصر: يشير إلى داخل القصر.\n- رسائل النصح: رسائل النقد.\n- كل البلاد: كل البلد.\n- حرير القصر: الحرير الفاخر للقصر.\n- لستر التراب: قماش تحت الحصان لحمايته من التراب.\n\nملاحظات نحوية:\n- لا توجد بنى نحوية خاصة.\n\nشرح الإشارات:\n- لا توجد إشارات واضحة.\n\nتحليل الصور:\n- نسمة الربيع: ترمز إلى الازدهار والحياة.\n- حرير القصر: ترمز إلى الرفاهية والقوة.\n\nالخلفية التاريخية:\n- هذا الشعر يسخر من رحلات الإمبراطور يانغ من سلالة سوي الجنوبية الفاخرة واهماله لأمور الدولة، مما يعكس الفساد السياسي في أواخر سلالة سوي."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘隋炀帝南游的奢华景象，揭示了统治者荒淫无度、不顾民生的主题。诗人运用简洁的白描手法，将春风裁锦、障泥帆布等细节生动展现，表达了对隋朝灭亡的深刻反思。艺术上，诗句精炼，意象鲜明，具有很高的艺术价值。情感上，诗人流露出对隋炀帝昏庸的讽刺和对国家衰败的悲叹。在文学史上，此诗作为唐代咏史题材的代表作，对后世有着深远的影响。",
+        "en": "This poem depicts the extravagant scene of Emperor Yang of the Sui Dynasty's southern tour, revealing the theme of rulers' indulgence and neglect of the people. The poet uses simple and straightforward descriptive techniques to vividly present details such as spring wind cutting brocade and mudguards becoming sails, expressing deep reflections on the fall of the Sui Dynasty. Artistically, the verses are concise and the imagery is distinct, possessing high artistic value. Emotionally, the poet conveys讽刺 towards Emperor Yang's folly and lamentation over the nation's decline. In the history of literature, this poem stands as a representative work of historical themes in the Tang Dynasty, exerting profound influence on later generations.",
+        "ja": "この詩は、隋の煬帝が南遊した豪華な情景を描き、統治者が放縦で民を省みないという主題を示している。詩人は簡潔な白描手法を用い、春風に宮錦を裁く、泥除けと帆布の細部を生き生きと表現し、隋朝の滅亡に対する深い反省を表している。芸術的には、詩句が精緻でイメージが鮮明で、高い芸術価値を持つ。感情面では、詩人は煬帝の愚昧に対する皮肉と国家衰退への嘆きを流している。文学史上では、唐代の史詠の代表作として、後世に大きな影響を与えている。",
+        "es": "Este poema retrata la escena lujosa del viaje al sur del Emperador Yang de la Dinastía Sui, revelando el tema de la indulgencia de los gobernantes y su desatención hacia el pueblo. El poeta utiliza técnicas descriptivas simples y directas para presentar vívidamente detalles como cortar brocado con el viento de primavera y convertir los guardapolvos en velas, expresando profundas reflexiones sobre la caída de la Dinastía Sui. Artísticamente, los versos son concisos y las imágenes son claras, poseyendo un alto valor artístico. Emocionalmente, el poeta muestra una sátira hacia la locura del Emperador Yang y una lamentación por el declive de la nación. En la historia de la literatura, este poema se destaca como una obra representativa del tema histórico en la Dinastía Tang, ejerciendo una influencia profunda en las generaciones posteriores.",
+        "ar": "هذه القصيدة تصور مشهد البذخ في رحلة الإمبراطور يانغ إلى الجنوب في عهد أسرة سوي، تكشف عن موضوع إسراف الحكام واهمالهم للشعب. يستخدم الشاعر تقنيات وصفية بسيطة مباشرة لتقديم تفاصيل مثل قطع الأقمشة الفاخرة مع رياح الربيع وتحويل حواجز الطين إلى أشرعة، يعبر عن تأملات عميقة حول سقوط أسرة سوي. فنياً، الأبيات موجزة والصور واضحة، تمتلك قيمة فنية عالية. عاطفياً، يظهر الشاعر السخرية من غباء الإمبراطور يانغ وأسفه على تدهور الدولة. في تاريخ الأدب، تبرز هذه القصيدة كأحد الأعمال التمثيلية لموضوع التاريخ في عهد أسرة تانغ، تمارس تأثيراً عميقاً على الأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "乘兴南游不戒严，九重谁省谏书函。\n春风举国裁宫锦，半作障泥半作帆。",
+            "en": "On a whim, he tours south without strict guard,\nWho in the palace heeds the letters of advice?\nIn spring, the whole nation cuts imperial brocade,\nHalf for mudguards, half for sails.",
+            "ja": "興に乗じて南遊び、厳戒を怠る。\n九重の内、誰が諫書を省むや。\n春風に国中が宮錦を裁き、\n半は泥除けに、半は帆にする。",
+            "es": "Con entusiasmo viaja al sur sin medidas de seguridad,\n¿Quién en el palacio lee las cartas de consejo?\nCon la primavera, todo el reino corta brocado imperial,\nLa mitad para guardapolvos, la mitad para velas.",
+            "ar": "بالمرح يمتطي الجنوب بلا تحفظات،\nمن في القصور يقرأ كتب النصح؟\nمع نسمة الربيع، يقص الجميع الحرير الإمبراطوري،\nنصفه لغطاء الطين، ونصفه لشراع."
+        },
+        "title_translation": {
+            "zh": "隋宫",
+            "en": "The Sui Palace",
+            "ja": "隋宮",
+            "es": "El Palacio Sui",
+            "ar": "قصر سوي"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "乘兴南游不戒严，九重谁省谏书函。\n春风举国裁宫锦，半作障泥半作帆。",
+    "title_pinyin": "suí gōng",
+    "pinyin": "chéng xīng nán yóu bù jiè yán，jiǔ zhòng shuí shěng jiàn shū hán。\nchūn fēng jǔ guó cái gōng jǐn，bàn zuò zhàng ní bàn zuò fān。"
+}

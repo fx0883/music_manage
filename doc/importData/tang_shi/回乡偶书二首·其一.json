@@ -1,0 +1,57 @@
+{
+    "title": "回乡偶书二首·其一",
+    "difficulty": 2,
+    "author": {
+        "name": "贺知章",
+        "name_pinyin": "hè zhī zhāng",
+        "image": "贺知章.jpg",
+        "introduction": {
+            "zh": "贺知章（约659年－约744年），字季真，越州永兴（今浙江省杭州市萧山区）人，唐代著名诗人、书法家。他早年以诗文闻名，官至秘书监，晚年因病辞官归隐。贺知章的诗作以清新自然、富有生活气息著称，代表作有《回乡偶书》、《咏柳》等。他的书法亦颇有成就，擅长草隶。贺知章性格旷达，喜欢饮酒，与李白、杜甫等诗人交游甚密，是唐代文坛的重要人物。",
+            "en": "He Zhizhang (approximately 659-744), styled Jizhen, was from Yongxing in Yuezhou (present-day Xiaoshan District, Hangzhou, Zhejiang Province), and was a renowned poet and calligrapher of the Tang Dynasty. He gained fame early in his career for his poetry and served as the Secretary-General. In his later years, he retired due to illness. He Zhizhang's poetry is known for its fresh and natural style, imbued with the essence of everyday life, with notable works including 'Homecoming Impromptu' and 'Ode to the Willow'. He was also accomplished in calligraphy, particularly in cursive and clerical scripts. He Zhizhang was known for his open and carefree personality, enjoyed drinking, and had close friendships with poets such as Li Bai and Du Fu, making him a significant figure in the literary scene of the Tang Dynasty.",
+            "ja": "賀知章（約659年－約744年）、字は季真、越州永興（現在の浙江省杭州市蕭山区）出身、唐代の著名な詩人・書家。若くして詩文で名を馳せ、秘書監にまで昇進したが、晩年病気により官を辞して隠遁した。賀知章の詩は清新自然で生活感に満ち、代表作に「帰郷偶書」、「柳を詠む」などがある。書道でも草隷に優れ、李白、杜甫など多くの詩人と親交が深かった。唐代文壇の重要人物である。",
+            "es": "He Zhizhang (aproximadamente 659-744), también conocido como Jizhen, nació en Yongxing, Yuezhou (actualmente el distrito de Xiaoshan en Hangzhou, provincia de Zhejiang), y fue un destacado poeta y calígrafo de la dinastía Tang. Se hizo famoso en su juventud por su poesía y llegó a ocupar el cargo de Secretario General. En sus últimos años, se retiró debido a una enfermedad. La poesía de He Zhizhang es conocida por su estilo fresco y natural, lleno de la esencia de la vida cotidiana, con obras destacadas como 'Impromptu al Regresar a Casa' y 'Oda al Sauce'. También destacó en caligrafía, especialmente en los estilos cursivo y clerical. He Zhizhang era conocido por su personalidad abierta y despreocupada, disfrutaba de beber y mantenía una estrecha amistad con poetas como Li Bai y Du Fu, convirtiéndose en una figura importante en la escena literaria de la dinastía Tang.",
+            "ar": "هي تشيزhang (حوالي 659-744)، ويعرف أيضاً باسم جيزن، من يونغشينغ في يويهتشو (حاليًا مقاطعة شياوشان في هانغتشو، مقاطعة تشجيانغ)، وكان شاعرًا ومخططًا بارزًا في عهد أسرة تانغ. اكتسب شهرة في شبابه بسبب شعره ووصل إلى منصب الأمين العام. في سنواته الأخيرة، تقاعد بسبب مرض. يشتهر شعر هي تشيزهانغ بأسلوبه العفوي والطبيعي، مليء بجوهر الحياة اليومية، ومن أشهر أعماله 'مقطوعة عفوية عند العودة إلى الوطن' و 'قصيدة للصفصاف'. كما برع في الخط، خاصة في الأساليب النمطية والسرلية. كان هي تشيزهانغ معروفًا بشخصيته المرحة والغير مبالية، كان يستمتع بالشرب ويحافظ على صداقات وثيقة مع شعراء مثل لي باي ودي فو، مما جعله شخصية مهمة في المشهد الأدبي لعهد أسرة تانغ."
+        }
+    },
+    "annotations": {
+        "zh": "少小：指年轻时。离家：离开家乡。老大：年纪大了。回：返回。乡音：家乡的口音。无改：没有改变。鬓毛：鬓角的头发。衰：稀疏。儿童：小孩子。相见：见面。不相识：不认识。笑问：笑着问。客：外来的人。何处：哪里。来：来到。本诗通过描写诗人年老回乡的情景，表达了时光流逝和人生沧桑的感慨。",
+        "en": "Shaoxiao: referring to youth. Li Jia: leaving home. Laoda: getting old. Hui: return. Xiangyin: local dialect. Wugai: unchanged. Binmao: hair on the temples. Shuai: sparse. Ertong: children. Xiangjian: meet. Buxiangshi: do not recognize. Xiaowen: ask with a smile. Ke: visitor. Hechu: where. Lai: come. This poem depicts the scene of the poet returning to his hometown in old age, expressing feelings about the passage of time and the vicissitudes of life.",
+        "ja": "少小：若い時のこと。離家：故郷を離れること。老大：年を取ること。回：帰ること。鄉音：故郷の方言。無改：変わらないこと。鬢毛： templeの髪。衰：薄くなること。兒童：子供たち。相見：会うこと。不相識：知らないこと。笑問：笑いながら尋ねること。客：訪問者。何処：どこ。來：来ること。この詩は、詩人が年老いて故郷に帰った情景を描き、時間の流れと人生の変わりゆく感慨を表現しています。",
+        "es": "Shaoxiao: se refiere a la juventud. Li Jia: dejar el hogar. Laoda: envejecer. Hui: regresar. Xiangyin: acento local. Wugai: sin cambiar. Binmao: cabello en las sienes. Shuai: escaso. Ertong: niños. Xiangjian: encontrarse. Buxiangshi: no reconocer. Xiaowen: preguntar con una sonrisa. Ke: visitante. Hechu: dónde. Lai: venir. Este poema describe la escena del poeta regresando a su hogar en la vejez, expresando sentimientos sobre el paso del tiempo y las vicisitudes de la vida.",
+        "ar": "شاوكسياو: يشير إلى الشباب. لي جيا: مغادرة المنزل. لاودا: التقدم في العمر. هوي: العودة. شيانجيين: لهجة المنطقة. ووغاي: دون تغيير. بينماو: شعر المعبد. شواي: نادر. إيرتونغ: الأطفال. شيانجيان: اللقاء. بوشيانغشى: عدم التعرف. شياوون: السؤال بابتسامة. كي: الزائر. هيتشو: أين. لاي: القدوم. هذا الشعر يصور مشهد الشاعر العائد إلى مسقط رأسه في الكبر، يعبر عن مشاعر حول مرور الزمن وتقلبات الحياة."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘诗人少小离家、老大回乡的情景，表达了游子对故乡的深厚感情和时光流逝的感慨。主题思想是乡愁与人生变迁。写作特色上，诗人运用对比手法，将少小与老大、乡音无改与鬓毛衰进行对比，增强了诗歌的感染力。艺术成就方面，诗歌语言朴实自然，情感真挚，情景交融，具有很高的艺术价值。情感分析上，诗人抒发了对故乡的眷恋和对岁月无情的感伤。影响意义上，这首诗在中国文学史上具有重要地位，成为表达乡愁主题的经典之作。",
+        "en": "This poem vividly depicts the scene of the poet returning to his hometown after a long absence, conveying the deep emotions of a wanderer for his native land and the感慨 of time passing. The theme centers on nostalgia and the changes of life. In terms of writing style, the poet employs contrast, juxtaposing youth and old age, and the unchanging local dialect with the withering of his temple hair, thereby enhancing the poem's emotional impact. Artistically, the poem is valued for its simple and natural language, sincere emotions, and the harmonious blend of scene and sentiment. Emotionally, it expresses the poet's longing for his hometown and sorrow over the relentless passage of time. Historically, this poem holds a significant place in Chinese literature, becoming a classic work that epitomizes the theme of nostalgia.",
+        "ja": "この詩は、詩人が長い間離れていた故郷に帰る情景を描き、放浪者としての故郷に対する深い感情と時の流れに対する感慨を表現しています。主題は郷愁と人生の変遷です。表現手法としては、詩人は対比を用い、若さと老い、変わらぬ方言と白髪の対比を描き、詩の感動を強めています。芸術的価値としては、詩は簡素で自然な言葉遣い、真摯な感情、情景の融合が高く評価されています。感情分析としては、詩人は故郷への懐かしさと時の無情さに対する悲しみを抒発しています。影響力の点では、この詩は中国文学史上で重要な地位を占め、郷愁を表現する古典的名作となっています。",
+        "es": "Este poema describe vívidamente la escena del poeta regresando a su hogar después de una larga ausencia, expresando los profundos sentimientos de un viajero por su tierra natal y la reflexión sobre el paso del tiempo. El tema central es la nostalgia y los cambios en la vida. En cuanto a la técnica literaria, el poeta utiliza el contraste, comparando la juventud con la vejez, y el dialecto local inalterado con el deterioro de su cabello canoso, lo que intensifica el impacto emocional del poema. Artísticamente, el poema es valorado por su lenguaje sencillo y natural, emociones sinceras y la armoniosa combinación de escena y sentimiento. En el análisis emocional, el poeta expresa su anhelo por su hogar y su tristeza por la implacable marcha del tiempo. En términos de influencia, este poema ocupa un lugar destacado en la literatura china, convirtiéndose en una obra clásica que representa el tema de la nostalgia.",
+        "ar": "يصف هذا الشعر بوضوح مشهد عودة الشاعر إلى مسقط رأسه بعد غياب طويل، معربًا عن المشاعر العميقة للسائح تجاه أرضه الأم ومرارة مرور الزمن. يركز الموضوع على الحنين إلى الوطن وتغيرات الحياة. من حيث الأسلوب الأدبي، يستخدم الشاعر المقارنة، محاولاً مقارنة الشباب بالشيخوخة، واللهجة المحلية غير المتغيرة بتدهور شعره الأبيض، مما يعزز من تأثير الشعر العاطفي. من الناحية الفنية، يتميز الشعر بلغته البسيطة والطبيعية، وعواطفه الصادقة، واندماج المشهد مع المشاعر. في التحليل العاطفي، يعبر الشاعر عن شوقه إلى وطنه وحزنه على مرور الزمن بلا رحمة. من حيث التأثير، يحتل هذا الشعر مكانة بارزة في الأدب الصيني، ليصبح عملاً كلاسيكيًا يمثل موضوع الحنين إلى الوطن."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "年少时离开家乡，年老时才回来，乡音没有改变，但鬓发已经斑白。家乡的儿童见到我都不认识，笑着问我是从哪里来的客人。",
+            "en": "I left home young and returned old; my accent remains unchanged, but my temples are gray. The children in my hometown don't recognize me, and laughingly ask, 'Where do you, this guest, come from?'",
+            "ja": "若い時に故郷を離れ、年老いて帰ってきた。郷音は変わらず、しかし額の毛は白くなっている。故郷の子供たちに会っても知らない。笑いながら、「お客さんはどこから来たの？」と尋ねる。",
+            "es": "De joven dejé mi hogar, de viejo regresé; mi acento no ha cambiado, pero mi pelo canoso. Los niños de mi tierra no me conocen, y me preguntan riendo: '¿De dónde viene este visitante?'",
+            "ar": "غادرت مسقط رأسي شابًا، وعُدت كبيرًا في السن؛ لم يتغير لفظي، لكن شعري قد أبيض. لا يعرفني أطفال قريتي، يسألونني مبتسمين: 'من أين يأتي هذا الزائر؟'"
+        },
+        "title_translation": {
+            "zh": "回乡偶书二首·其一",
+            "en": "Random Notes on Returning Home, Part 1",
+            "ja": "帰郷偶書 二首·其一",
+            "es": "Apuntes al Azar sobre el Regreso a Casa, Primera Parte",
+            "ar": "ملاحظات عشوائية على العودة إلى الوطن، الجزء الأول"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "少小离家老大回，乡音无改鬓毛衰。\n儿童相见不相识，笑问客从何处来。",
+    "title_pinyin": "huí xiāng ǒu shū èr shǒu·qí yī",
+    "pinyin": "shǎo xiǎo lí jiā lǎo dà huí，xiāng yīn wú gǎi bìn máo shuāi。\nér tóng xiāng jiàn bù xiāng shí，xiào wèn kè cóng hé chù lái。"
+}

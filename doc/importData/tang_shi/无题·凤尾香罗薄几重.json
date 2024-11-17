@@ -1,0 +1,57 @@
+{
+    "title": "无题·凤尾香罗薄几重",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，字义山，号玉谿生，唐代著名诗人。他生于公元813年，卒于858年。李商隐的诗歌以其含蓄婉约、意象深远著称，尤其擅长无题诗，表达了许多复杂的情感和哲理。他的诗作在唐代诗坛独树一帜，对后世影响深远。代表作有《无题·昨夜星辰昨夜风》、《锦瑟》等。",
+            "en": "Li Shangyin, styled Yishan and also known as Yuxi Sheng, was a renowned poet of the Tang Dynasty. Born in 813 and died in 858, his poetry is celebrated for its subtlety, elegance, and profound imagery. He excelled in writing untitled poems that convey complex emotions and philosophies. His unique style in the Tang poetry scene has had a lasting impact on later generations. Notable works include 'Untitled: Last Night's Stars, Last Night's Wind' and 'Jin Se'.",
+            "ja": "李商隐（りしょういん）、字義山、号玉谿生、唐代の著名な詩人。813年生まれ、858年没。彼の詩は含蓄があり、婉約で、意象が深遠であることで知られ、特に無題詩に優れ、多くの複雑な感情や哲理を表現している。唐代の詩壇で独自の地位を占め、後世に大きな影響を与えた。代表作に「無題・昨夜星辰昨夜風」、「錦瑟」などがある。",
+            "es": "Li Shangyin, también conocido como Yishan y Yuxi Sheng, fue un destacado poeta de la dinastía Tang. Nació en 813 y murió en 858. Su poesía es famosa por su sutileza, elegancia y profundo simbolismo. Se destacó en la escritura de poemas sin título que expresan emociones y filosofías complejas. Su estilo único en la poesía Tang ha tenido un impacto duradero en las generaciones posteriores. Obras destacadas incluyen 'Sin título: Estrellas de anoche, viento de anoche' y 'Jin Se'.",
+            "ar": "لي شانغ ين، المعروف أيضاً باسم يي شان ويوكس شينغ، كان شاعراً مشهوراً في عهد أسرة تانغ. وُلد في عام 813 وتوفي في عام 858. اشتهرت أشعاره ببلاغتها، ورقتها، وتعقيدها في الصور المجازية. برع في كتابة القصائد غير المعنونة التي تعبر عن مشاعر وفلسفات معقدة. وقد شكل أسلوبه الفريد في الشعر التانغي تأثيراً دائماً على الأجيال اللاحقة. من أشهر أعماله 'غير معنون: نجوم البارحة، رياح البارحة' و'جين سي'."
+        }
+    },
+    "annotations": {
+        "zh": "凤尾香罗：指用凤凰尾羽装饰的香罗帐。薄几重：形容罗帐很薄，层次不多。碧文圆顶：指帐顶上有碧绿色的花纹。夜深缝：在深夜缝制。扇裁月魄：用扇子裁剪出月亮的形状，比喻女子的脸庞。羞难掩：羞涩难以掩饰。车走雷声：车子行驶时发出的雷鸣般的声音。语未通：未能互通言语。曾是寂寥：曾经感到孤独寂寞。金烬暗：指金制的灯烬已暗淡。断无消息：完全没有消息。石榴红：石榴花红，象征时间流逝。斑骓：杂色的马。只系垂杨岸：只系在垂杨树下的岸边。何处西南任好风：不知何处能迎来西南的好风，比喻期盼好消息的到来。",
+        "en": "Phoenix-tail fragrant silk: refers to a fragrant silk canopy decorated with phoenix tail feathers. Thin layers: describes the canopy being very thin with few layers. Green-patterned round top: the canopy top has green patterns. Sewn deep at night: sewn late at night. Fan-cut moon soul: using a fan to cut out the shape of the moon, metaphorically referring to a woman's face. Shame hard to hide: the shyness is hard to conceal. Carriage rolls like thunder: the sound of a carriage moving like thunder. Words not exchanged: unable to communicate verbally. Once lonely: once felt lonely and desolate. Golden ashes dim: the golden lamp ashes have dimmed. No news at all: completely no news. Pomegranate red: pomegranate flowers blooming, symbolizing the passage of time. Speckled horse: a mottled horse. Tied only at the willow bank: tied only at the bank under the willow tree. Where southwest blows the favorable wind: wondering where the favorable southwest wind will blow, metaphorically hoping for good news.",
+        "ja": "鳳尾香羅：鳳凰の尾羽で飾られた香りの良い羅の帳を指す。薄き重ね：羅の帳が薄く、層が少ないことを形容する。碧文円頂：帳の天井に碧色の文様がある。深夜に縫う：深夜に縫製する。扇で月魄を裁く：扇で月の形を裁くこと、女性の顔を喻う。恥ずかしくて隠せない：恥ずかしさが隠せない。車は雷の音で走る：車が雷のような音を立てて走る。言葉は通じない：言葉が通じない。寂寥だった：寂しく孤独だった。金の灰が暗い：金製の灯火の灰が暗くなる。絶対に音沙汰なし：全く音沙汰がない。石榴の赤：石榴の花が赤く、時間の経過を象徴する。斑点の馬：斑点のある馬。柳の岸にのみ繋ぐ：柳の下の岸にのみ繋ぐ。どこで西南の好風が吹くか：どこで西南の良い風が吹くか、良い知らせを待つことを喻う。",
+        "es": "Seda fragante de cola de fénix: se refiere a un dosel de seda perfumada decorado con plumas de cola de fénix. Capas delgadas: describe el dosel como muy delgado con pocas capas. Techo redondo con patrones verdes: el techo del dosel tiene patrones verdes. Cosido en la noche profunda: cosido tarde en la noche. Abanico que corta la esencia de la luna: usar un abanico para cortar la forma de la luna, metafóricamente refiriéndose al rostro de una mujer. Vergüenza difícil de ocultar: la vergüenza es difícil de esconder. Carro que rueda como trueno: el sonido de un carro en movimiento como trueno. Palabras no intercambiadas: incapaz de comunicarse verbalmente. Una vez solitario: una vez sintiéndose solo y desolado. Cenizas doradas oscuras: las cenizas de una lámpara de oro se han oscurecido. Sin noticias en absoluto: completamente sin noticias. Granada roja: flores de granada en rojo, simbolizando el paso del tiempo. Caballo manchado: un caballo moteado. Atado solo en la orilla de los sauces: atado solo en la orilla bajo los sauces. ¿Dónde sopla el buen viento del sudoeste?: preguntándose dónde soplará el buen viento del sudoeste, metafóricamente esperando buenas noticias.",
+        "ar": "الحرير المعطر ذو ذيل العنقاء: يشير إلى ستار حريري معطر مزين بريش ذيل العنقاء. طبقات رقيقة: يصف الستار بأنه رقيق جداً مع القليل من الطبقات. القبة المستديرة ذات النقوش الخضراء: القبة العلوية للستار تحتوي على نقوش خضراء. خيط في عمق الليل: خيط في وقت متأخر من الليل. مروحة تقطع روح القمر: استخدام مروحة لتقطيع شكل القمر، مجازياً يشير إلى وجه المرأة. الخجل يصعب إخفاؤه: الخجل يصعب إخفاؤه. عربة تسير كالرعد: صوت العربة المتحركة كالرعد. الكلمات لم تُتَبادل: غير قادر على التواصل شفهياً. كان وحيداً: كان يشعر بالوحدة وال寂寞. رماد ذهبي مظلم: رماد مصباح ذهبي قد أظلم. لا أخبار على الإطلاق: لا أخبار على الإطلاق. عنب الثعلب الأحمر: زهور العنب الثعلب الحمراء، ترمز إلى مرور الوقت. حصان مخطط: حصان عليه بقع. مربوط فقط في ضفة الأشجار الخوخية: مربوط فقط في ضفة تحت الأشجار الخوخية. أين تهب الرياح الجيدة من الجنوب الغربي؟: يتساءل أين تهب الرياح الجيدة من الجنوب الغربي، مجازياً ينتظر الأخبار الجيدة."
+    },
+    "appreciations": {
+        "zh": "《无题·凤尾香罗薄几重》是李商隐的代表作之一，主题思想围绕爱情与相思展开，表达了诗人对远方所思之人的深切思念。写作特色上，诗人运用细腻的描写和丰富的意象，如凤尾香罗、碧文圆顶等，营造出一种朦胧而深情的氛围。艺术成就方面，此诗以精妙的语言和深远的意境，展现了唐代诗歌的高超艺术水平。情感分析上，诗中流露出诗人对爱情的执着与无奈，以及对时光流逝的感伤。影响意义上，这首诗在文学史上具有重要地位，被视为无题诗的典范，对后世诗歌创作产生了深远影响。",
+        "en": "The poem 'Untitled·How Many Layers of Phoenix Tail Fragrant Silk' by Li Shangyin centers on the themes of love and longing, expressing the poet's deep yearning for a distant beloved. In terms of writing style, the poet employs delicate descriptions and rich imagery, such as phoenix tail silk and green-patterned dome, creating a misty and affectionate atmosphere. In terms of artistic achievement, this poem, with its exquisite language and profound artistic conception, showcases the high artistic level of Tang Dynasty poetry. Emotionally, the poem reveals the poet's persistence and helplessness in love, as well as a sense of melancholy over the passage of time. In terms of influence, this poem holds a significant place in literary history, being regarded as a model of untitled poetry and exerting a profound impact on later poetic creation.",
+        "ja": "李商隐の代表作の一つである「無題・鳳尾香羅薄き重なる」は、愛と相思を主題とし、詩人が遠く離れた想い人への深い切望を表現しています。書き方の特色としては、詩人は繊細な描写と豊かなイメージを駆使し、鳳尾香羅や碧文円頂などを使って、朧げでありながら深い感情の雰囲気を作り出しています。芸術的成就としては、この詩は精緻な言葉と深遠な意境を持ち、唐代詩歌の高い芸術水準を示しています。感情分析としては、詩中には詩人の愛情に対する執着と無念、時の流れに対する感傷がにじみ出ています。影響の意味では、この詩は文学史上重要な地位を占め、無題詩の典型とされ、後世の詩作に大きな影響を与えました。",
+        "es": "El poema 'Sin título·Cuántas Capas de Seda Fragante de Cola de Fénix' de Li Shangyin gira en torno a los temas del amor y el anhelo, expresando el profundo deseo del poeta por un ser amado lejano. En cuanto al estilo de escritura, el poeta utiliza descripciones delicadas y una rica imaginería, como la seda de cola de fénix y el techo circular de patrones verdes, creando una atmósfera nebulosa y afectuosa. En términos de logro artístico, este poema, con su lenguaje exquisito y su profunda concepción artística, muestra el alto nivel artístico de la poesía de la dinastía Tang. En el análisis emocional, el poema revela la persistencia y la impotencia del poeta en el amor, así como una melancolía por el paso del tiempo. En cuanto a su significado e influencia, este poema ocupa un lugar importante en la historia de la literatura, siendo considerado un modelo de poesía sin título y ejerciendo una profunda influencia en la creación poética posterior.",
+        "ar": "القصيدة 'غير معنونة·كم طبقة من حرير الذيل العنبري الرقيق' للشاعر لي شانغيان تتناول موضوعات الحب والاشتياق، وتعبر عن شوق الشاعر العميق لمن يكن له في البعد. فيما يتعلق بالنمط الكتابي، يستخدم الشاعر وصفًا دقيقًا وتصورات غنية، مثل حرير الذيل العنبري والسقف المستدير ذو النقوش الخضراء، مما يخلق جوًا ضبابيًا ومحبوبًا. من حيث الإنجاز الفني، تظهر هذه القصيدة، بلسانها الراقي وتصورها العميق، المستوى الفني العالي للشعر في عهد التانغ. في تحليل العواطف، تكشف القصيدة عن تمسك الشاعر وعجزه في الحب، وكذلك حزنه على مرور الزمن. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، وتعتبر نموذجًا للشعر غير المعنون، ولها تأثير عميق على كتابة الشعر فيما بعد."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "凤尾香罗轻柔几层，碧纹圆顶深夜缝制。\\n扇子裁剪如月羞涩难掩，车行雷声言语未通。\\n曾经寂寞金烛暗淡，断无音讯石榴花红。\\n斑骓马只系在垂杨岸边，何处西南任凭好风吹。",
+            "en": "How many layers of phoenix-tail fragrant silk,\\nA green-patterned round canopy sewn deep at night.\\nThe fan cut like the moon's phase, shame hard to hide,\\nThunderous cart passes, words never exchanged.\\nOnce lonely, the golden candle's glow dimmed,\\nNo news, the pomegranate flowers blazed red.\\nThe speckled horse tied only at the willow bank,\\nWhere in the southwest does the favorable wind blow?",
+            "ja": "鳳尾の香る羅が軽やかに幾重にも、\\n碧の文様の丸い天井を深夜に縫う。\\n扇が月のように裁ち、恥ずかしさが隠せず、\\n車は雷の音を立て、言葉は交わされず。\\nかつて寂しく金の灯が暗くなり、\\n音沙汰なしに石榴の花が紅く咲く。\\n斑点の馬は柳の岸辺に繋がれ、\\n西南のどこで心地よい風が吹くのだろう。",
+            "es": "Cuántas capas de seda fragante con cola de fénix,\\nUn toldo redondo con patrones verdes cosido en la noche profunda.\\nEl abanico cortado como la fase de la luna, la vergüenza difícil de ocultar,\\nEl carro pasa con ruido de trueno, palabras nunca intercambiadas.\\nUna vez solitario, la llama dorada se oscurece,\\nSin noticias, las flores del granado se vuelven rojas.\\nEl caballo manchado está atado solo en la orilla del sauce,\\n¿Dónde en el sudoeste sopla el buen viento?",
+            "ar": "كم طبقة من الحرير المعطر بنهاية الفينيق،\\nقبة دائرية مزخرفة بالأخضر تُخاط في عمق الليل.\\nالمروحة مقطوعة كشكل القمر، الخجل يصعب إخفاؤه،\\nالعربة تسير بصوت الرعد، الكلمات لم تُتَبادَل.\\nكانت وحيدة ذات يوم، ضوء الشمعة الذهبية يخفت،\\nدون أي خبر، زهور الرمان تُزهِر بالأحمر.\\nالحصان النقطي مربوط فقط على شاطئ الصفصاف،\\nأين في الجنوب الغربي يهب العيد الريح الطيبة؟"
+        },
+        "title_translation": {
+            "zh": "无题·凤尾香罗薄几重",
+            "en": "Untitled: How Many Layers of Phoenix-Tail Fragrant Silk",
+            "ja": "無題・鳳尾の香る羅が軽やかに幾重にも",
+            "es": "Sin título: Cuántas capas de seda fragante con cola de fénix",
+            "ar": "بدون عنوان: كم طبقة من الحرير المعطر بنهاية الفينيق"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "凤尾香罗薄几重，碧文圆顶夜深缝。\n扇裁月魄羞难掩，车走雷声语未通。\n曾是寂寥金烬暗，断无消息石榴红。\n斑骓只系垂杨岸，何处西南任好风。",
+    "title_pinyin": "wú tí·fèng wěi xiāng luó báo jǐ zhòng",
+    "pinyin": "fèng wěi xiāng luó báo jǐ zhòng，bì wén yuán dǐng yè shēn fèng。\nshàn cái yuè pò xiū nán yǎn，chē zǒu léi shēng yǔ wèi tōng。\ncéng shì jì liáo jīn jìn àn，duàn wú xiāo xī shí liú hóng。\nbān zhuī zhǐ xì chuí yáng àn，hé chù xī nán rèn hǎo fēng。"
+}

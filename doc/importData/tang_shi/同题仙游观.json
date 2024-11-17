@@ -1,0 +1,57 @@
+{
+    "title": "同题仙游观",
+    "difficulty": 2,
+    "author": {
+        "name": "韩翃",
+        "name_pinyin": "hán hóng",
+        "image": "韩翃.jpg",
+        "introduction": {
+            "zh": "韩翃，唐代著名诗人，字君平，南阳（今属河南）人。生卒年不详，活动于唐玄宗至唐代宗时期。韩翃工诗，尤其擅长写送别诗和写景诗，风格清新自然，语言精炼。他的诗作在当时颇受赞誉，与钱起、卢纶等人并称“大历十才子”。《同题仙游观》是其代表作之一，展现了其对自然景色的细腻描绘和对隐逸生活的向往。",
+            "en": "Han Hong, a renowned poet of the Tang Dynasty, styled Junping, was from Nanyang (present-day Henan Province). His exact years of birth and death are unknown, but he was active during the reigns of Emperor Xuanzong and Emperor Daizong of Tang. Han Hong excelled in poetry, particularly in farewell and landscape poems, known for his fresh and natural style and refined language. His works were highly praised during his time, and he was counted among the 'Ten Talents of the Dali Era' along with Qian Qi, Lu Lun, and others. 'Tong Ti Xian You Guan' is one of his representative works, showcasing his delicate depiction of natural scenery and his longing for a reclusive life.",
+            "ja": "韓翃は、唐代の著名な詩人で、字は君平、南陽（現在の河南省に属する）出身。生没年不詳で、唐の玄宗から代宗の時期に活動していた。韓翃は詩作に優れ、特に送別詩や風景詩に長け、清新で自然なスタイルと精緻な言葉遣いが特徴である。その詩作品は当時高く評価され、錢起、盧綸らと共に「大暦の十才子」と称された。《同題仙遊観》はその代表作の一つで、自然景観の繊細な描写と隠遁生活への憧れを表している。",
+            "es": "Han Hong, un poeta famoso de la dinastía Tang, cuyo nombre de cortesía era Junping, nació en Nanyang (actualmente en la provincia de Henan). Sus años exactos de nacimiento y muerte son desconocidos, pero estuvo activo durante los reinados de los Emperadores Xuanzong y Daizong de Tang. Han Hong era hábil en la poesía, especialmente en poemas de despedida y paisajes, conocido por su estilo fresco y natural y su lenguaje refinado. Sus obras fueron muy alabadas en su tiempo, y se contaba entre los 'Diez Talentos del Período Dali' junto con Qian Qi, Lu Lun y otros. 'Tong Ti Xian You Guan' es una de sus obras representativas, que muestra su detallada descripción de la naturaleza y su anhelo por una vida retirada.",
+            "ar": "هان هونغ، شاعر مشهور من عهد التانغ، كان اسمه المستعار جون بينغ، وهو من نان يانغ (تقع الآن في مقاطعة خنان). لم تُعرف سنة ميلاده ووفاته بدقة، ولكنه كان نشطًا خلال فترات حكم الإمبراطور شوانزونغ والإمبراطور دايزونغ من عهد التانغ. كان هان هونغ ماهرًا في كتابة الشعر، خاصة في قصائد الوداع والمناظر الطبيعية، معروفًا بأسلوبه الطازج والطبيعي ولغته المتقنة. تمت الإشادة بشعره بشكل كبير في وقته، وكان يُعتبر واحدًا من 'عشرة مواهب عصر دالي' إلى جانب تشيان تشي، لولون وأخرين. 'تونغ تي شيان يو غوان' هو واحد من أعماله البارزة، حيث يظهر فيه وصفه الدقيق للطبيعة ورغبته في حياة الوحدة."
+        }
+    },
+    "annotations": {
+        "zh": "仙台初见五城楼，风物凄凄宿雨收。\n仙台：指仙游观的台阁。\n五城楼：传说中仙界的楼阁。\n风物：自然景物。\n凄凄：形容冷清。\n宿雨：昨夜的雨。\n山色遥连秦树晚，砧声近报汉宫秋。\n秦树：秦地的树木。\n砧声：捣衣声。\n汉宫：借指唐宫。\n秋：秋季。\n疏松影落空坛静，细草香闲小洞幽。\n疏松：稀疏的松树。\n空坛：空旷的祭坛。\n细草：细小的草。\n小洞：小山洞。\n幽：幽静。\n何用别寻方外去，人间亦自有丹丘。\n何用：何必。\n方外：世外仙境。\n丹丘：传说中的仙境。",
+        "en": "Xiantai chu jian wu cheng lou, feng wu qiqi su yu shou.\nXiantai: Refers to the pavilion of Xianyou Temple.\nWu cheng lou: Mythical towers in the celestial realm.\nFeng wu: Natural scenery.\nQiqi: Describing a desolate atmosphere.\nSu yu: Rain from the previous night.\nShan se yao lian qin shu wan, zhen sheng jin bao han gong qiu.\nQin shu: Trees in the region of Qin.\nZhen sheng: Sound of pounding clothes.\nHan gong: Referring to the Tang palace.\nQiu: Autumn.\nShu song ying luo kong tan jing, xi cao xiang xian xiao dong you.\nShu song: Sparse pine trees.\nKong tan: Empty altar.\nXi cao: Fine grass.\nXiao dong: Small cave.\nYou: Quiet.\nHe yong bie xun fang wai qu, ren jian yi zi you dan qiu.\nHe yong: Why.\nFang wai: Extra-worldly paradise.\nDan qiu: Legendary fairyland.",
+        "ja": "仙台初見五城楼、風物淒淒宿雨収。\n仙台：仙遊観の台閣を指す。\n五城楼：伝説中の仙界の楼閣。\n風物：自然の風景。\n淒淒：冷たい様子を表す。\n宿雨：昨夜の雨。\n山色遥連秦樹晚、砧声近報漢宮秋。\n秦樹：秦の地の木々。\n砧声：衣類をたたく音。\n漢宮：唐宮を借指。\n秋：秋の季節。\n疏松影落空壇静、細草香閑小洞幽。\n疏松：疎らな松の木。\n空壇：空き地の祭壇。\n細草：細かい草。\n小洞：小さな洞穴。\n幽：静か。\n何用別尋方外去、人間亦自 有丹丘。\n何用：何必。\n方外：世外の仙境。\n丹丘：伝説上の仙境。",
+        "es": "Xiantai chu jian wu cheng lou, feng wu qiqi su yu shou.\nXiantai: Se refiere a la pagoda del Templo Xianyou.\nWu cheng lou: Torres míticas del reino celestial.\nFeng wu: Paisaje natural.\nQiqi: Descripción de un ambiente desolado.\nSu yu: Lluvia de la noche anterior.\nShan se yao lian qin shu wan, zhen sheng jin bao han gong qiu.\nQin shu: Árboles de la región de Qin.\nZhen sheng: Sonido de batir ropa.\nHan gong: Refiriéndose al palacio Tang.\nQiu: Otoño.\nShu song ying luo kong tan jing, xi cao xiang xian xiao dong you.\nShu song: Pinos dispersos.\nKong tan: Altar vacío.\nXi cao: Hierba fina.\nXiao dong: Pequeña cueva.\nYou: Tranquilo.\nHe yong bie xun fang wai qu, ren jian yi zi you dan qiu.\nHe yong: ¿Por qué.\nFang wai: Paraíso extraterrenal.\nDan qiu: Tierra de hadas legendaria.",
+        "ar": "Xiantai chu jian wu cheng lou, feng wu qiqi su yu shou.\nXiantai: يشير إلى البرج في معبد Xianyou.\nWu cheng lou: أبراج أسطورية في العالم السماوي.\nFeng wu: المناظر الطبيعية.\nQiqi: يصف جواً بارداً.\nSu yu: المطر من الليلة السابقة.\nShan se yao lian qin shu wan, zhen sheng jin bao han gong qiu.\nQin shu: الأشجار في منطقة Qin.\nZhen sheng: صوت طحن الملابس.\nHan gong: يشير إلى قصر Tang.\nQiu: الخريف.\nShu song ying luo kong tan jing, xi cao xiang xian xiao dong you.\nShu song: أشجار الصنوبر المتفرقة.\nKong tan: مذبح فارغ.\nXi cao: عشب رقيق.\nXiao dong: كهف صغير.\nYou: هادئ.\nHe yong bie xun fang wai qu, ren jian yi zi you dan qiu.\nHe yong: لماذا.\nFang wai: جنة خارج العالم.\nDan qiu: أرض الآلهة الأسطورية."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘仙游观的景色，表达了诗人对人间仙境的向往和对现实生活的超脱。主题思想在于赞美自然之美，同时暗示不必远求方外之地，人间亦有如丹丘般的美好所在。写作特色上，诗人运用了细腻的描写手法，如‘山色遥连秦树晚’、‘砧声近报汉宫秋’，通过视觉和听觉的结合，营造出一种宁静而深远的意境。艺术成就方面，诗歌结构严谨，语言精炼，意象鲜明，具有较高的艺术价值。情感分析上，诗人抒发了对自然美景的喜爱和对超然境界的追求。影响意义上，此诗在唐代山水诗中占有一定地位，对后世文人追求心灵净土有一定启发。",
+        "en": "This poem depicts the scenery of the Xianyou Temple, expressing the poet's longing for an earthly paradise and his detachment from worldly life. The theme centers on praising the beauty of nature, suggesting that one need not seek distant utopias, as there are places like丹丘right here on earth. In terms of writing style, the poet employs detailed descriptions, such as 'mountain hues blending with distant Qin trees at dusk' and 'the sound of cloth being beaten nearby heralds the autumn of the Han palace,' combining visual and auditory elements to create a serene and profound atmosphere. Artistically, the poem is structured meticulously, with concise language and vivid imagery, holding significant artistic value. Emotionally, it conveys the poet's love for natural beauty and his pursuit of a transcendent state. Historically, this poem holds a place in Tang Dynasty landscape poetry, inspiring later literati in their quest for spiritual purity.",
+        "ja": "この詩は仙遊観の景色を描き、詩人が現実生活から超脱し、人間界の仙境に憧れる心情を表現しています。主題思想は自然の美しさを讃え、遠く求める必要はなく、人間界にも丹丘のような素晴らしい場所があることを示唆しています。表現手法としては、「山色遥連秦樹晚」、「砧声近報漢宮秋」のように視覚と聴覚を結合した繊細な描写が特徴です。芸術的価値としては、詩の構成が緻密で、言語が簡潔、意象が鮮明であり、高い芸術的価値を持っています。感情分析では、自然の美に対する愛と超然とした境地への追求が抒発されています。影響の点では、唐代の山水詩において一定の地位を占め、後世の文人が心の浄土を求める上で一定の啓発を与えました。",
+        "es": "Este poema describe la escena del Templo Xianyou, expresando el anhelo del poeta por un paraíso terrenal y su desapego de la vida cotidiana. El tema principal es alabar la belleza de la naturaleza, sugiriendo que no es necesario buscar utopías lejanas, ya que hay lugares como 丹丘 aquí en la tierra. En cuanto al estilo de escritura, el poeta utiliza descripciones detalladas, como 'los colores de las montañas se mezclan con los árboles distantes de Qin al anochecer' y 'el sonido cercano de la ropa siendo batida anuncia el otoño del palacio Han', combinando elementos visuales y auditivos para crear una atmósfera serena y profunda. Artísticamente, el poema está estructurado meticulosamente, con un lenguaje conciso e imágenes vívidas, lo que le confiere un alto valor artístico. Emocionalmente, transmite el amor del poeta por la belleza natural y su búsqueda de un estado trascendente. En términos de influencia, este poema ocupa un lugar en la poesía paisajística de la dinastía Tang, inspirando a los literatos posteriores en su búsqueda de pureza espiritual.",
+        "ar": "يتناول هذا الشعر وصف منظر معبد شيانユー، معربًا عن تطلع الشاعر نحو جنة أرضية وانفصاله عن الحياة اليومية. يركز الموضوع الرئيسي على مدح جمال الطبيعة، مشيرًا إلى أن لا داعي للبحث عن أوطان مثالية بعيدة، حيث توجد أماكن مثل دانيانغ هنا على الأرض. من حيث الأسلوب الكتابي، يستخدم الشاعر وصفًا مفصلاً، مثل 'ألوان الجبال تندمج مع أشجار تشين البعيدة عند الغسق' و 'صوت الطحن القريب يعلن عن خريف القصر الهان'، مدمجًا العناصر البصرية والسمعية لخلق جو هادئ وعميق. من الناحية الفنية، يتميز الشعر ببنية دقيقة، ولغة موجزة، وتصاوير واضحة، مما يمنحه قيمة فنية عالية. من الناحية العاطفية، يعبر عن حب الشاعر للجمال الطبيعي وتطلعه نحو حالة متعالية. من حيث التأثير، يحتل هذا الشعر مكانًا في شعر المناظر الطبيعية في عهد التانغ، مما ألهم الأدباء اللاحقين في سعيهم نحو نقاء الروح."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "初次见到仙台上的五城楼，风物凄凉，夜雨初收。\n山色遥遥连着秦地的树木，傍晚时分，砧声近处报来汉宫的秋意。\n稀疏的松影落在空旷的坛上，显得格外宁静，细草的香气在小洞中弥漫，显得格外幽深。\n何必再去寻找方外的仙境，人间也自有丹丘这样的胜地。",
+            "en": "First glimpse of the five towers on the fairy terrace, the scenery is bleak as the night rain ceases.\nDistant mountains blend with trees of Qin in the evening, nearby the sound of the hammer announces autumn in the Han palace.\nSparse pine shadows fall on the empty altar, serene, while the scent of fine grass fills the small cave, deeply tranquil.\nWhy seek the realm beyond? In this world, there are also such blessed lands as丹丘.",
+            "ja": "初めて仙台の五城楼を見る、風物は淋しく、夜雨が収まる。\n山の色は遠く秦の木々と連なり、夕刻、砧の音が近くで漢宮の秋を告げる。\n疎らな松の影が空き壇に落ち、静寂を添え、細草の香りが小さな洞穴に漂い、深い幽玄を醸す。\n何ぞ他に仙境を求むるや、この世にも丹丘なる勝地あり。",
+            "es": "Primer vistazo a las cinco torres en la terraza de los dioses, el paisaje es melancólico tras la lluvia nocturna.\nLas montañas se unen a los árboles de Qin en la distancia al atardecer, cerca el sonido de la muela anuncia el otoño en el palacio Han.\nLas sombras dispersas de los pinos caen sobre el altar vacío, en silencio, mientras el aroma de la hierba fina llena la pequeña cueva, profundamente serena.\n¿Para qué buscar el paraíso fuera? En este mundo también hay tierras benditas como丹丘.",
+            "ar": "أول نظرة على الأبراج الخمسة في منصة الأصنام، الطبيعة حزينة بعد هطول المطر الليلي.\nألوان الجبال تتصل بغابة تشين البعيدة عند المساء، بالقرب من صوت المدقة يعلن عن خريف القصر الهان.\nأشعة الأشجار الصنوبرية تتساقط على المذبح الفارغ، في هدوء، ورائحة العشب الرقيق تملأ الكهف الصغير، في عمق السكون.\nما الفائدة من البحث عن جنة أخرى؟ في هذا العالم هناك أيضاً أراضٍ مباركة مثل丹丘."
+        },
+        "title_translation": {
+            "zh": "同题仙游观",
+            "en": "Joint Topic: Visiting the Fairy Terrace",
+            "ja": "同名の仙遊観",
+            "es": "Tema Común: Visita a la Terraza de los Dioses",
+            "ar": "الموضوع المشترك: زيارة منصة الأصنام"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "仙台初见五城楼，风物凄凄宿雨收。\n山色遥连秦树晚，砧声近报汉宫秋。\n疏松影落空坛静，细草香闲小洞幽。\n何用别寻方外去，人间亦自有丹丘。",
+    "title_pinyin": "tóng tí xiān yóu guān",
+    "pinyin": "xiān tái chū jiàn wǔ chéng lóu，fēng wù qī qī sù yǔ shōu。\nshān sè yáo lián qín shù wǎn，zhēn shēng jìn bào hàn gōng qiū。\nshū sōng yǐng luò kōng tán jìng，xì cǎo xiāng xián xiǎo dòng yōu。\nhé yòng bié xún fāng wài qù，rén jiān yì zì yǒu dān qiū。"
+}

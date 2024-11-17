@@ -1,0 +1,57 @@
+{
+    "title": "清明日宴梅道士房",
+    "difficulty": 2,
+    "author": {
+        "name": "孟浩然",
+        "name_pinyin": "mèng hào rán",
+        "image": "孟浩然.jpg",
+        "introduction": {
+            "zh": "孟浩然（689年—740年），字浩然，号孟山人，襄州襄阳（今湖北襄阳）人，唐代著名的山水田园诗人。他的诗多描写自然风光和田园生活，风格清新自然，语言朴实无华，被誉为“诗杰”。代表作有《春晓》、《宿建德江》等。他的诗风对后世诗人产生了深远影响。",
+            "en": "Meng Haoran (689-740), styled Haoran and also known as Meng Shanren, was a renowned Tang Dynasty poet from Xiangyang, Xiangzhou (present-day Xiangyang, Hubei). His poetry predominantly depicted natural landscapes and rural life, characterized by a fresh and natural style and plain language, earning him the title 'Poetic Genius'. His notable works include 'Spring Dawn' and 'Staying at Jiande River'. His poetic style had a profound influence on later generations of poets.",
+            "ja": "孟浩然（689年～740年）、字は浩然、号は孟山人、襄州襄陽（現在の湖北省襄陽市）出身の唐代の著名な山水田園詩人。彼の詩は自然風景や田園生活を多く描き、清新で自然なスタイル、質素な言葉遣いが特徴で、「詩傑」と称される。代表作に「春暁」、「建徳江に宿る」などがある。彼の詩風は後世の詩人に大きな影響を与えた。",
+            "es": "Meng Haoran (689-740), también conocido como Haoran y Meng Shanren, era un poeta famoso de la dinastía Tang originario de Xiangyang, Xiangzhou (actualmente Xiangyang, Hubei). Sus poemas suelen describir paisajes naturales y la vida campestre, con un estilo fresco y natural y un lenguaje sencillo, lo que le valió el apodo de 'Genio Poético'. Entre sus obras destacadas se encuentran 'Amanecer de Primavera' y 'Alojarse en el Río Jiande'. Su estilo poético tuvo una influencia profunda en los poetas de generaciones posteriores.",
+            "ar": "مينغ هاؤران (689-740)، المعروف أيضًا باسم هاؤران ومينغ شانرين، كان شاعرًا مشهورًا في عهد أسرة تانغ من مدينة شيانغيانغ، شيانغتشو (الآن شيانغيانغ، هوبيي). قصائده غالبًا ما تصف المناظر الطبيعية والحياة الريفية، بأسلوب طازج وجذاب ولغة بسيطة، مما أهله ليُعرف بـ \"عبقري الشعر\". من أشهر أعماله \"فجر الربيع\" و \"إقامة في نهر جياندي\". تأثير أسلوبه الشعري كان عميقًا على الشعراء من الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "林卧：指隐居山林。愁春尽：因春天将尽而感到忧愁。搴帷：揭开帷幕。览物华：观赏自然景物。青鸟使：传说中为西王母传递信息的神鸟，这里指梅道士的信使。赤松家：指梅道士的居所，赤松子是传说中的仙人。丹灶：炼丹的炉灶。初开火：刚开始生火炼丹。仙桃：传说中的仙果。童颜：指年轻的面容。若可驻：如果可以保持。何惜：何必吝惜。醉流霞：指饮美酒，流霞是传说中的仙酒。",
+        "en": "Lin wo: refers to living in seclusion in the mountains. Chou chun jin: feeling sad because spring is coming to an end. Qian wei: lifting the curtain. Lan wu hua: enjoying the natural scenery. Qing niao shi: a mythical bird that delivers messages for the Queen Mother of the West, here referring to Mei Dao's messenger. Chi song jia: refers to Mei Dao's residence, Chi Songzi is a legendary immortal. Dan zao: an alchemical furnace. Chu kai huo: just starting to light the fire for alchemy. Xian tao: legendary fairy fruit. Tong yan: youthful appearance. Ruo ke zhu: if it can be maintained. He xi: why hesitate. Zui liu xia: refers to drinking fine wine, Liu Xia is a legendary fairy wine.",
+        "ja": "林卧：山林地に隠棲すること。愁春尽：春の終わりに愁うこと。搴帷：幕をめくること。覧物華：自然の景物を鑑賞すること。青鳥使：西王母の使いとして伝説上の鳥、ここでは梅道士の使者を指す。赤松家：梅道士の住まいを指す、赤松子は伝説上の仙人。丹灶：丹薬を煮る炉。初開火：丹薬を煮始めること。仙桃：伝説上の仙果。童顔：若い顔。若可駐：もし保てるなら。何惜：どうして惜しむことか。醉流霞：美酒を飲むこと、流霞は伝説上の仙酒。",
+        "es": "Lin wo: se refiere a vivir en reclusión en el bosque. Chou chun jin: sentir tristeza porque la primavera está terminando. Qian wei: levantar la cortina. Lan wu hua: disfrutar del paisaje natural. Qing niao shi: un pájaro mítico que lleva mensajes para la Reina Madre del Oeste, aquí se refiere al mensajero de Mei Dao. Chi song jia: se refiere a la residencia de Mei Dao, Chi Songzi es un inmortal legendario. Dan zao: un horno alquímico. Chu kai huo: empezar a encender el fuego para la alquimia. Xian tao: fruta mítica de los inmortales. Tong yan: apariencia juvenil. Ruo ke zhu: si se puede mantener. He xi: ¿por qué dudar? Zui liu xia: beber vino fino, Liu Xia es un vino mítico de los inmortales.",
+        "ar": "لين وو: يعني العيش في العزلة في الغابات. تشو تشون جين: الشعور بالحزن لأن الربيع على وشك الانتهاء. تشيان وي: رفع الستار. لان وو هوا: التمتع بالمناظر الطبيعية. تشينغ نياو شي: طائر أسطوري ينقل الرسائل للملكة الأم الغربية، هنا يشير إلى رسول ميه داو. تشي سونغ جيا: يشير إلى منزل ميه داو، تشي سونغزي هو Immortal أسطوري. دان زاو: فرن Alchemical. تشو كاي هوا: بدء إشعال النار لل Alchemy. شيان تاو: فاكهة أسطورية لل Immortals. تونغ يان: مظهر شبابي. رو كي تشو: إذا كان يمكن الحفاظ عليها. هه شي: لماذا تتردد؟ زوي ليو شيا: شرب الخمر الفاخر، ليو شيا هو نبيذ أسطوري لل Immortals."
+    },
+    "appreciations": {
+        "zh": "《清明日宴梅道士房》一诗描绘了诗人在春尽时节的愁绪，以及偶遇梅道士并受邀赴宴的情景。主题思想上，诗人通过描写与道士的交往，表达了对隐逸生活的向往和对仙道的追求。写作特色上，运用了丰富的意象，如青鸟使、赤松家、丹灶、仙桃等，营造出一种超脱尘世的氛围。艺术成就上，诗歌语言精炼，意境深远，展现了唐代文人特有的闲适与超然。情感分析上，诗人在春愁中透露出对仙道的渴望和对世俗的淡泊。影响意义上，此诗在文学史上体现了唐代文人对道教文化的热衷，对后世文人诗风有一定影响。",
+        "en": "The poem 'Qingming Day Banquet at Mei Daoist's House' depicts the poet's melancholy at the end of spring and his unexpected encounter with Mei Daoist, who invites him to a banquet. Thematically, the poet expresses his longing for a reclusive life and pursuit of Taoism through his interaction with the Daoist. In terms of writing style, the poem employs rich imagery such as the blue bird messenger, the red pine home, the alchemical furnace, and the immortal peach, creating an ethereal atmosphere. Artistically, the poem is concise in language and profound in意境, showcasing the leisure and transcendence typical of Tang Dynasty literati. Emotionally, the poet reveals his yearning for Taoism and indifference to worldly affairs amidst his spring sorrow. Historically, this poem reflects the Tang literati's enthusiasm for Taoist culture, exerting a certain influence on later literary styles.",
+        "ja": "《清明日宴梅道士房》は、春の終わりの憂鬱と、梅道士との偶然の出会いとその招きによる宴の情景を描いた詩です。主題思想上、詩人は道士との交流を通じて、隠逸生活への憧れと仙道への追求を表現しています。表現手法としては、青鳥使い、赤松の家、丹爐、仙桃などの豊かなイメージを用い、俗世を超えた雰囲気を醸し出しています。芸術的成就としては、詩の言語は精緻で、意境は深遠であり、唐代文人特有の閑適と超然を示しています。感情分析としては、春の憂鬱の中に仙道への渇望と世俗への淡泊がにじみ出ています。影響意义上は、この詩は文学史上において唐代文人の道教文化への熱狂を体現し、後世の文人詩風に一定の影響を与えました。",
+        "es": "El poema 'Banquete en la Casa del Taoísta Mei en el Día de Qingming' describe la melancolía del poeta al final de la primavera y su encuentro inesperado con el taoísta Mei, quien lo invita a un banquete. Temáticamente, el poeta expresa su deseo de una vida reclusa y su búsqueda del Tao a través de su interacción con el taoísta. En cuanto al estilo de escritura, el poema emplea una rica imaginería, como el mensajero del pájaro azul, la casa del pino rojo, el horno alquímico y el melocotón inmortal, creando una atmósfera etérea. Artísticamente, el poema es conciso en su lenguaje y profundo en su significado, mostrando la típica indolencia y trascendencia de los literatos de la dinastía Tang. Emocionalmente, el poeta revela su anhelo por el Tao y su indiferencia hacia los asuntos mundanos en medio de su tristeza primaveral. Históricamente, este poema refleja el entusiasmo de los literatos de la dinastía Tang por la cultura taoísta, ejerciendo cierta influencia en los estilos literarios posteriores.",
+        "ar": "القصيدة 'وليمة في بيت الداويش مي يوم قينغمينغ' تصف حزن الشاعر عند نهاية الربيع ووقوعه على غير انتظار على الداويش مي، الذي دعاه لحضور وليمة. في الفكرة الرئيسية، يعبر الشاعر عن رغبته في العيش المنعزل وطلب الطريق الروحاني من خلال تفاعله مع الداويش. من حيث الأسلوب الأدبي، تستخدم القصيدة صورًا غنية مثل رسول الطائر الأزرق، بيت الصنوبر الأحمر، الفرن الكيميائي، والخوخ الخالد، مما يخلق جوًا خفيفًا. من الناحية الفنية، القصيدة موجزة في لغتها وعميقة في معناها، تظهر اللامبالاة والتعالي التي تتميز بها أدباء عهد التانغ. من الناحية العاطفية، يكشف الشاعر عن اشتياقه للطريق الروحاني وعدم اكتراثه بالشؤون الدنيوية وسط حزنه الربيعي. من الناحية التاريخية، تعكس هذه القصيدة حماس أدباء عهد التانغ للثقافة الروحانية، ولها تأثير معين على الأنماط الأدبية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "林中静卧，忧愁春光将尽，揭开帷幕，观赏万物繁华。忽然遇到青鸟使者，邀请我进入赤松子的家。丹炉刚刚点燃火焰，仙桃正在飘落花瓣。如果童颜能够常驻，又何妨畅饮流霞美酒。",
+            "en": "Lying in the forest, I mourn the end of spring, Parting the curtains to admire the vibrant scene. Suddenly, a bluebird messenger appears, Inviting me to the home of the Red Pine. The alchemical furnace newly kindles its fire, While fairy peaches shed their blossoms. If youthful looks can be preserved, Why hesitate to drink the rosy clouds of wine?",
+            "ja": "林の中で静かに卧し、春の終わりを愁い、幕を開けて万物の華を覧る。忽然、青鳥の使いに逢い、赤松の家に招かれる。丹爐に初めて火がつき、仙桃が花を落とす。童顔が留まるなら、流れ霞に酔うこと惜しまず。",
+            "es": "Reclinado en el bosque, lamento el fin de la primavera, Abro las cortinas para admirar la esplendorosa escena. De repente, un mensajero de ave azul aparece, Invitándome a la casa del Pino Rojo. El horno alquímico enciende su fuego por primera vez, Mientras los melocotones divinos caen sus flores. Si la juventud puede detenerse, ¿Por qué dudar en embriagarme con el rocío de las nubes?",
+            "ar": "مستلقي في الغابة، أتحسر على نهاية الربيع، أفتح الستائر لأستطلع بهجة الأشياء. فجأة، يظهر رسول الطائر الأزرق، يدعوني لدار الصنوبر الأحمر. تنضرم شعلة الفرن الأحمر، وثمار الجن تسقط أزهارها. إن كان يمكن تثبيت الشباب، فما المانع من التمتع بغيمات الخمر الزاهية؟"
+        },
+        "title_translation": {
+            "zh": "清明日宴梅道士房",
+            "en": "Feasting in Mei the Taoist's Room on Qingming Day",
+            "ja": "清明日に梅道士の室で宴する",
+            "es": "Banquete en la habitación del Taoísta Mei en el Día de Qingming",
+            "ar": "وليمة في غرفة الداوي Mei في يوم Qingming"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "林卧愁春尽，搴帷览物华。忽逢青鸟使，邀入赤松家。\n丹灶初开火，仙桃正落花。童颜若可驻，何惜醉流霞。",
+    "title_pinyin": "qīng míng rì yàn méi dào shì fáng",
+    "pinyin": "lín wò chóu chūn jǐn，qiān wéi lǎn wù huá。hū féng qīng niǎo shǐ，yāo rù chì sōng jiā。\ndān zào chū kāi huǒ，xiān táo zhèng luò huā。tóng yán ruò kě zhù，hé xī zuì liú xiá。"
+}

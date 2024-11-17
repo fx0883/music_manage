@@ -1,0 +1,57 @@
+{
+    "title": "九月九日忆山东兄弟",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（693年或694年或701年—761年），字摩诘，号摩诘居士。河东蒲州（今山西永济）人，祖籍山西祁县。唐朝诗人、画家。他精通诗、书、画、音乐等，以诗名盛于开元、天宝间，尤长五言，多咏山水田园，与孟浩然合称“王孟”，有“诗佛”之称。苏轼评价其：“味摩诘之诗，诗中有画；观摩诘之画，画中有诗。”存诗400余首，代表诗作有《相思》、《山居秋暝》等。著作有《王右丞集》、《画学秘诀》。",
+            "en": "Wang Wei (693, 694 or 701 - 761), styled Mojie, also known as Mojie居士. He was born in Hedong Puzhou (present-day Yongji, Shanxi) with ancestral roots in Qixian, Shanxi. He was a renowned poet and painter during the Tang Dynasty. Proficient in poetry, calligraphy, painting, and music, he was particularly celebrated for his five-character verses, often depicting landscapes and pastoral scenes. He is often paired with Meng Haoran as 'Wang Meng' and is known as the 'Poetic Buddha'. Su Shi praised him: 'In tasting Mojie's poetry, there is painting within the poetry; in observing Mojie's painting, there is poetry within the painting.' He left behind over 400 poems, with notable works including 'Xiang Si' (Longing) and 'Shan Ju Qiu Ming' (Autumn Evening in a Mountain Dwelling). His works include 'Collections of Wang You Cheng' and 'Secrets of Painting'.",
+            "ja": "王維（693年または694年または701年－761年）、字は摩詰、号は摩詰居士。河東蒲州（現在の山西省永済市）出身、本籍は山西省祁県。唐時代の詩人、画家。詩、書、画、音楽などに精通し、開元・天宝年間に詩名を馳せた。特に五言詩に長け、山水や田園を詠んだ作品が多い。孟浩然と共に「王孟」と称され、「詩仏」とも呼ばれる。蘇軾は彼の詩を評して、「摩詰の詩を味わうと、詩の中に画がある；摩詰の画を見ると、画の中に詩がある」と言った。400余篇の詩が現存し、代表作に「相思」、「山居秋暝」などがある。著作に「王右丞集」、「画学秘訣」がある。",
+            "es": "Wang Wei (693, 694 o 701 - 761), conocido por su estilo Mojie y también como Mojie居士. Nació en Hedong Puzhou (actual Yongji, Shanxi) con raíces ancestrales en Qixian, Shanxi. Fue un destacado poeta y pintor durante la dinastía Tang. Experto en poesía, caligrafía, pintura y música, fue especialmente celebrado por sus versos de cinco caracteres, a menudo describiendo paisajes y escenas campestres. Se le asocia frequentemente con Meng Haoran como 'Wang Meng' y es conocido como el 'Buda Poético'. Su Shi elogió su trabajo diciendo: 'Al saborear la poesía de Mojie, hay pintura dentro de la poesía; al observar la pintura de Mojie, hay poesía dentro de la pintura'. Dejó más de 400 poemas, destacando obras como 'Xiang Si' (Anhelo) y 'Shan Ju Qiu Ming' (Atardecer Otoñal en una Casa de Montaña). Sus obras incluyen 'Colecciones de Wang You Cheng' y 'Secretos de la Pintura'.",
+            "ar": "وانغ وي (693 أو 694 أو 701 - 761)، يعرف بأسلوبه Mojie، وكذلك بـ Mojie居士. وُلد في هيدونغ بوتشو (اليوم يونغجي، شانشي) وينحدر أصوله من قيьсяن، شانشي. كان شاعرًا ومُصوّرًا بارزًا في عهد سلالة تانغ. مُتقن للشعر، والخط، والرسم، والموسيقى، كان مشهورًا بشكل خاص بأشعاره الخماسية، التي غالبًا ما تصف المناظر الطبيعية والمناظر الريفية. يُعتبر عادة مع مينغ هاوران كـ 'وانغ مينغ' ويعرف بـ 'بوذا الشعري'. أشاد به سوشي بقوله: 'في تذوق أشعار موجي، هناك فن في الشعر؛ في مشاهدة لوحات موجي، هناك شعر في الفن'. ترك أكثر من 400 قصيدة، ومن أشهر أعماله 'سانغ سي' (الحنين) و 'شان جو تشيو مينغ' (المساء الخريفي في منزل الجبل). من مؤلفاته 'مجموعات وانغ يو تشينغ' و 'أسرار الرسم'."
+        }
+    },
+    "annotations": {
+        "zh": "独在异乡为异客：独自一人在他乡作客。异乡，指他乡；异客，指外乡人。每逢佳节倍思亲：每当遇到美好的节日就更加思念亲人。佳节，指美好的节日；倍，更加。遥知兄弟登高处：远远地知道兄弟们在登高。登高，指重阳节登高的习俗。遍插茱萸少一人：到处都插上了茱萸，只少了我一个人。茱萸，一种植物，重阳节有插茱萸的习俗。此诗表达了作者在重阳节时对家乡兄弟的思念之情。",
+        "en": "Alone in a foreign land, I am a stranger: The poet is alone in a place far from home, feeling like an outsider. Foreign land refers to a place other than one's hometown; stranger means an outsider. On every festive day, I miss my kin twice as much: During every festive occasion, the longing for family intensifies. Festive day refers to a joyous holiday; twice as much emphasizes the increased longing. Knowing from afar my brothers climb high: The poet imagines his brothers engaging in the custom of climbing heights on the Double Ninth Festival. Climb high refers to the tradition of ascending heights on this day. They all wear cornel, but one is missing: Everyone is wearing cornel, but the poet is not there. Cornel is a plant traditionally worn on the Double Ninth Festival. The poem expresses the poet's longing for his brothers during the festival.",
+        "ja": "独在異郷為異客：異郷に一人でいるのは他人のようなもの。異郷は故郷以外の土地、異客は他郷の人。每逢佳節倍思親：美しい節日には親を一層思い出す。佳節は美しい節日、倍は一層。遥知兄弟登高處：遠くにいる兄弟が高い所に登っていることを知っている。登高は重陽節の登高の習慣。遍插茱萸少一人：茱萸を挿しているが一人足りない。茱萸は重陽節に挿す植物。この詩は、重陽節に詩人が故郷の兄弟を思い出す心情を表している。",
+        "es": "Sólo en tierra extraña soy un extraño: El poeta está solo en un lugar que no es su hogar, sintiéndose como un forastero. Tierra extraña se refiere a un lugar diferente de su hogar; extraño significa forastero. En cada fiesta, extraño más a mi familia: Durante cada celebración, el deseo por la familia se intensifica. Fiesta se refiere a una celebración alegre; más enfatiza el aumento del deseo. Sabiendo desde lejos que mis hermanos suben alto: El poeta imagina a sus hermanos participando en la costumbre de subir a lugares altos en el Día del Doble Nueve. Subir alto se refiere a la tradición de ascender a alturas en ese día. Todos llevan cornel, pero falta uno: Todos llevan cornel, pero el poeta no está allí. Cornel es una planta que se usa tradicionalmente en el Día del Doble Nueve. El poema expresa el anhelo del poeta por sus hermanos durante la festividad.",
+        "ar": "وحيدًا في بلاد غريبة، أنا غريب: الشاعر وحيد في مكان بعيد عن وطنه، يشعر كأنه غريب. بلاد غريبة تشير إلى مكان غير وطنه؛ غريب يعني شخص من مكان آخر. في كل عيد، أشتاق إلى أهلي أكثر: في كل مناسبة سعيدة، يتزايد الشوق إلى العائلة. عيد يشير إلى مناسبة سعيدة؛ أكثر يعني زيادة الشوق. بعيدًا أعلم أن إخوتي يصعدون المرتفعات: الشاعر يتخيل إخوته يمارسون تقليد صعود المرتفعات في يوم العيد المزدوج. يصعدون المرتفعات يشير إلى تقليد صعود المرتفعات في هذا اليوم. جميعهم يضعون الزعرور، لكن ينقص واحد: الجميع يضعون الزعرور، لكن الشاعر ليس بينهم. الزعرور هو نبات يُستخدم تقليديًا في يوم العيد المزدوج. يعبر الشعر عن شوق الشاعر لإخوته خلال العيد."
+    },
+    "appreciations": {
+        "zh": "《九月九日忆山东兄弟》是唐代诗人王维的名篇。主题思想：表达了对远方亲人的深切思念。写作特色：通过对比和想象手法，将思乡之情表现得淋漓尽致。艺术成就：简洁明快的语言，蕴含丰富情感，具有高度的艺术感染力。情感分析：抒发了作者在异乡佳节时对兄弟的牵挂和孤独感。影响意义：在文学史上，此诗成为表达思乡之情和亲情纽带的经典之作。",
+        "en": "The poem 'Remembering My Brothers in Shandong on the Double Ninth Festival' by Wang Wei of the Tang Dynasty is a celebrated work. Theme: It conveys a deep longing for distant relatives. Writing Style: Utilizes contrast and imagination to vividly depict homesickness. Artistic Achievement: The concise and clear language is rich in emotion, demonstrating high artistic appeal. Emotional Analysis: Expresses the author's longing and loneliness for his brothers during a festive occasion in a foreign land. Significance: In literary history, this poem stands as a classic expression of homesickness and familial bonds.",
+        "ja": "唐代の詩人王維の名作「九月九日に山東の兄弟を憶う」は、深い感動を与える詩です。主題思想：遠く離れた親族への切ない思いを表現しています。表現手法：対比と想像を駆使し、故郷への想いを鮮やかに描き出しています。芸術的成果：簡潔明瞭な言葉が豊かな感情を湛え、高い芸術的魅力を発揮しています。感情分析：異郷での佳節に兄弟へのねじれた想いと孤独感を抒発しています。影響意義：文学史上、この詩は故郷への想いや親族の絆を表現する古典的名作として位置づけられています。",
+        "es": "El poema 'Recordando a mis hermanos en Shandong en el Festival del Doble Nueve' de Wang Wei de la dinastía Tang es una obra destacada. Tema: Expresa un profundo anhelo por los familiares lejanos. Estilo de escritura: Usa el contraste y la imaginación para representar vívidamente el sentimiento de nostalgia. Logro artístico: El lenguaje conciso y claro está lleno de emoción, mostrando un alto atractivo artístico. Análisis emocional: Expresa la añoranza y soledad del autor por sus hermanos durante una festividad en tierra extranjera. Significado: En la historia de la literatura, este poema se considera una obra clásica que expresa la nostalgia y los lazos familiares.",
+        "ar": "القصيدة 'تذكر إخواني في شاندونغ في يوم التاسع والتاسع' للشاعر وانغ وي من العصر التانغي هي عمل متميز. الفكرة الرئيسية: تعبر عن شوق عميق للأقارب البعيدين. طريقة الكتابة: تستخدم المقارنة والخيال لتصور حنين الوطن بشكل حي. الإنجاز الفني: اللغة المختصرة الواضحة مليئة بالمشاعر، تظهر جاذبية فنية عالية. تحليل العواطف: يعبر عن شوق ووحدة الشاعر لأخوته في مناسبة احتفالية في أرض غريبة. الأهمية: في تاريخ الأدب، تعتبر هذه القصيدة عملًا كلاسيكيًا يعبر عن حنين الوطن وروابط العائلة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "独自在异乡作客，每逢佳节倍加思念亲人。遥想兄弟们登高之处，遍插茱萸却少了我一人。",
+            "en": "Alone in a foreign land, a stranger I stand; On festive days, my kin I doubly miss. From afar, I know my brothers climb the height, With dogwood sprigs in hand, but one is amiss.",
+            "ja": "異郷に独り客として、佳节には親を倍に思う。遠く兄弟が高い所に登ると知り、茱萸を挿しても一人少ない。",
+            "es": "Solo en tierra extraña, un extraño soy; En cada fiesta, añoro más a mi clan. Sé que mis hermanos suben a lo alto, Con ruda en las manos, pero falta un hermano.",
+            "ar": "وحيدًا في بلاد غريبة، غريب أنا؛ في كل عيد، أشتاق لأهلي أكثر. أعلم أن إخوتي يصعدون المرتفعات، مزروعين بالزوفا، لكن ينقصهم واحد."
+        },
+        "title_translation": {
+            "zh": "九月九日忆山东兄弟",
+            "en": "Remembering My Brothers in Shandong on the Ninth Day of the Ninth Month",
+            "ja": "九月九日に山東の兄弟を思い出す",
+            "es": "Recordando a Mis Hermanos en Shandong el Noveno Día del Noveno Mes",
+            "ar": "تذكر إخوتي في شاندونغ في اليوم التاسع من الشهر التاسع"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "独在异乡为异客，每逢佳节倍思亲。\n遥知兄弟登高处，遍插茱萸少一人。",
+    "title_pinyin": "jiǔ yuè jiǔ rì yì shān dōng xiōng dì",
+    "pinyin": "dú zài yì xiāng wèi yì kè，měi féng jiā jié bèi sī qīn。\nyáo zhī xiōng dì dēng gāo chù，biàn chā zhū yú shǎo yī rén。"
+}

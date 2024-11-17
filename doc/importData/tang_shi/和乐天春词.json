@@ -1,0 +1,57 @@
+{
+    "title": "和乐天春词",
+    "difficulty": 2,
+    "author": {
+        "name": "刘禹锡",
+        "name_pinyin": "liú yǔ xī",
+        "image": "刘禹锡.jpg",
+        "introduction": {
+            "zh": "刘禹锡（772-842），字梦得，唐代著名文学家、政治家，有“诗豪”之称。他的诗作风格多样，既有豪放之作，也有细腻之篇。曾任监察御史，因参与永贞革新被贬，后复用为礼部尚书。代表作有《陋室铭》、《竹枝词》等。",
+            "en": "Liu Yuxi (772-842), styled Mengde, was a renowned Tang Dynasty poet and statesman, often referred to as the 'Poetic Hero'. His poetry encompasses a variety of styles, ranging from grandeur to delicacy. He served as a Surveillance Commissioner and was exiled for his involvement in the Yongzhen Reform, later being reinstated as the Minister of Rites. His notable works include 'Inscription on the Humble Room' and 'Bamboo Branch Songs'.",
+            "ja": "劉禹錫（りゅう うしゃく、772-842）は、唐代の著名な文学者、政治家であり、「詩豪」と称される。彼の詩作は多様なスタイルを持ち、豪放な作品から繊細な作品まで幅広い。監察御史を務めたが、永貞革新に参加したため左遷され、後に礼部尚書として復帰した。代表作には「陋室銘」、「竹枝詞」などがある。",
+            "es": "Liu Yuxi (772-842), también conocido como Mengde, fue un destacado poeta y estadista de la dinastía Tang, conocido como el 'Héroe Poético'. Su poesía abarca una variedad de estilos, desde lo grandioso hasta lo delicado. Sirvió como Comisario de Supervisión y fue desterrado por su participación en la Reforma Yongzhen, más tarde fue restituido como Ministro de Ritos. Sus obras más famosas incluyen 'Inscripción en la Humilde Habitación' y 'Canciones de Ramas de Bambú'.",
+            "ar": "ليو يو شي (772-842)، المعروف أيضًا باسم مينغدي، كان شاعرًا وباحثًا بارزًا في عهد أسرة تانغ، ويعرف بـ 'بطل الشعر'. شعره يغطي مجموعة متنوعة من الأساليب، من العظمة إلى الدقة. شغل منصب مفوض الرقابة وكان منفيًا بسبب مشاركته في إصلاح يونغزين، ثم أعيد تعيينه كوزير للشعائر. من أشهر أعماله 'نقش على الغرفة المتواضعة' و 'أغاني فروع الخيزران'."
+        }
+    },
+    "annotations": {
+        "zh": "新妆宜面：指女子刚刚化好妆，面容适宜。下朱楼：从朱红色的楼阁中下来。深锁春光：指院中春光明媚却被锁住，无法外泄。一院愁：整个庭院都充满了愁绪。行到中庭：走到庭院的中央。数花朵：数着花朵的数量。蜻蜓飞上玉搔头：蜻蜓飞到了女子的玉簪上。此诗通过描写女子在春日中的孤独与愁绪，表达了作者对美好时光无法把握的感慨。",
+        "en": "New makeup suits the face: Refers to a woman who has just finished her makeup, looking appropriate. Down the vermilion tower: Descending from the red-colored tower. Deeply locked spring light: The bright spring scenery in the courtyard is locked inside and cannot escape. A courtyard of sorrow: The entire courtyard is filled with melancholy. Walking to the middle courtyard: Walking to the center of the courtyard. Counting flowers: Counting the number of flowers. A dragonfly lands on the jade hairpin: A dragonfly lands on the woman's jade hairpin. This poem depicts a woman's loneliness and sorrow in spring, expressing the author's sentiment about the inability to grasp beautiful moments.",
+        "ja": "新妆宜面：女性がちょうど化粧を終え、顔立ちが適していること。下朱楼：赤い楼閣から降りること。深锁春光：庭園の春の光景が深く閉じ込められていること。一院愁： entire courtyard is filled with melancholy. 行到中庭：庭の中央まで行くこと。数花朵：花の数を数えること。蜻蜓飞上玉搔头：蜻蛉が女性の玉簪に飛び乗ること。この詩は、春の中での女性の孤独と愁いを描き、作者が美しい時を捉えられない感慨を表現している。",
+        "es": "Nueva maquillaje adecuada para la cara: Se refiere a una mujer que acaba de terminar su maquillaje, luciendo apropiada. Bajar del torre roja: Descender de la torre de color rojo. Luz de primavera profundamente encerrada: La brillante escena de primavera en el patio está encerrada y no puede escapar. Un patio de tristeza: Todo el patio está lleno de melancolía. Caminar hasta el patio central: Caminar hacia el centro del patio. Contar flores: Contar la cantidad de flores. Un dragonfly lands on the jade hairpin: Un libélula se posa en el peine de jade de la mujer. Este poema describe la soledad y la tristeza de una mujer en primavera, expresando el sentimiento del autor sobre la incapacidad de capturar momentos hermosos.",
+        "ar": "الماكياج الجديد يناسب الوجه: يشير إلى امرأة قد انتهت للتو من وضع مكياجها، وتظهر بشكل مناسب. النزول من البرج الأحمر: الهبوط من البرج ذي اللون الأحمر. ضوء الربيع مغلق بعمق: مشهد الربيع المشرق في الحديقة مغلق ولا يمكنه الهروب. حديقة من الحزن: جميع الحديقة مليئة بالحزن. المشي إلى الفناء الأوسط: المشي نحو وسط الفناء. عد الأزهار: عد عدد الزهور. اليعاسيب تطير على شريحة اليشم: اليعاسيب تهبط على مشط اليشم الخاص بالمرأة. هذا الشعر يصور وحدة المرأة وحزنها في الربيع، يعبر عن شعور المؤلف بعدم القدرة على التقاط اللحظات الجميلة."
+    },
+    "appreciations": {
+        "zh": "《和乐天春词》描绘了一位深闺女子在春天里的孤独与愁绪。主题思想上，诗人通过细腻的描写，揭示了封建社会女性被束缚的命运，表达了对她们命运的同情。写作特色上，诗人运用了对比手法，将新妆的喜悦与深锁的愁苦相对照，增强了情感张力。艺术成就上，诗句简洁而富有画面感，尤其是结尾‘蜻蜓飞上玉搔头’一句，动静结合，意境深远。情感分析上，诗中流露出女子对春天的渴望和对自身处境的无奈，抒发了深切的孤独感。影响意义上，此诗在唐代闺怨诗中占有重要地位，对后世同类题材的创作产生了深远影响。",
+        "en": "The poem 'He Lü Tian Chun Ci' vividly depicts the loneliness and melancholy of a secluded woman in spring. In terms of theme, the poet reveals the fate of women confined in feudal society, expressing sympathy for their plight. Regarding writing techniques, the poet employs contrast, juxtaposing the joy of new makeup with the sorrow of being locked away, enhancing emotional tension. In artistic achievement, the verses are concise yet rich in imagery, especially the concluding line 'A dragonfly lands on the jade hairpin,' which combines motion and stillness, creating a profound atmosphere. Emotionally, the poem conveys the woman's longing for spring and her helplessness in her situation, expressing deep loneliness. In terms of impact, this poem holds a significant place in Tang Dynasty poetry about women's sorrows, influencing later works in similar themes.",
+        "ja": "《和楽天春詞》は、春の中で孤独と愁いを抱える深閨の女性を描いた詩です。主題思想上、詩人は繊細な描写を通じて、封建社会における女性の束縛された運命を明らかにし、彼女たちへの同情を表しています。表現手法としては、新粧の喜びと深く閉ざされた愁苦を対照させ、感情の緊張感を高めています。芸術的成就としては、詩句は簡潔でありながら画面感に富み、特に結末の「蜻蛉飛上玉爪頭」の一節は、動と静の融合で深遠な意境を生み出しています。感情分析としては、詩中には女性の春への渴望と自身の境遇への無力感が流露し、深い孤独感を抒発しています。影響の意味では、この詩は唐代の閨怨詩において重要な地位を占め、後世の同類題材の創作に深い影響を与えました。",
+        "es": "El poema 'He Lü Tian Chun Ci' retrata la soledad y melancolía de una mujer encerrada en primavera. En cuanto al tema, el poeta revela el destino de las mujeres confinadas en la sociedad feudal, expresando compasión por su situación. En cuanto a las técnicas de escritura, el poeta utiliza el contraste, yuxtaponiendo la alegría del nuevo maquillaje con la tristeza de estar encerrada, intensificando la tensión emocional. En logros artísticos, los versos son concisos pero ricos en imágenes, especialmente la línea final 'Un dragonfly lands on the jade hairpin,' que combina movimiento y quietud, creando una atmósfera profunda. En análisis emocional, el poema transmite el deseo de la mujer por la primavera y su impotencia en su situación, expresando una profunda soledad. En términos de impacto, este poema ocupa un lugar importante en la poesía de la dinastía Tang sobre las penas de las mujeres, influenciando obras posteriores en temas similares.",
+        "ar": "القصيدة 'وهلوتيان تشون تسى' تصور الوحدة والحزن لامرأة مغلقة في الربيع. من حيث الفكرة الرئيسية، يكشف الشاعر عن مصير النساء المحبوسات في المجتمع الفيودالي، معربا عن التعاطف مع وضعهن. فيما يتعلق بتقنيات الكتابة، يستخدم الشاعر المقارنة، محاذاة فرح المكياج الجديد مع حزن الانغلاق، مما يعزز التوتر العاطفي. في الإنجازات الفنية، الأبيات موجزة ولكنها غنية بالصور، خاصة الخط النهائي 'يعلن اليعسوب على المشط اليشم،' الذي يدمج الحركة والهدوء، خلق جو عميق. في تحليل العواطف، تعبر القصيدة عن رغبة المرأة في الربيع وعجزها عن موقفها، معربة عن شعور عميق بالوحدة. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في شعر dynasty Tang عن آلام النساء، مؤثرة في الأعمال اللاحقة في مواضيع مماثلة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "新妆女子步下红楼，满院春色却锁愁绪。行至庭院细数花蕊，蜻蜓飞落玉簪之上。",
+            "en": "With fresh makeup, she descends the vermilion tower, a courtyard of spring light locked in sorrow. Walking to the central garden, she counts the blossoms, a dragonfly lands on her jade hairpin.",
+            "ja": "新しい化粧で朱楼を下り、春の光を深く閉じ込めた一院の憂愁。中庭に至り花の数を数え、蜻蛉が玉の爪杖に飛び立つ。",
+            "es": "Con maquillaje nuevo, baja del edificio rojo, un patio de luz de primavera encerrado en tristeza. Caminando al jardín central, cuenta las flores, una libélula se posa en su peine de jade.",
+            "ar": "بمكياج جديد، تنزل من البرج الأحمر، حديقة مشرقة بالربيع مقفلة في حزن. ماشية إلى الفناء الوسط، تعد الأزهار، libélula تهبط على مشطها من اليشم."
+        },
+        "title_translation": {
+            "zh": "和乐天春词",
+            "en": "In Harmony with Letian's Spring Poem",
+            "ja": "楽天の春詞に和す",
+            "es": "En Armonía con la Poema de Primavera de Letian",
+            "ar": "بالتوافق مع قصيدة الربيع لليتيان"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "新妆宜面下朱楼，深锁春光一院愁。\n行到中庭数花朵，蜻蜓飞上玉搔头。",
+    "title_pinyin": "hé lè tiān chūn cí",
+    "pinyin": "xīn zhuāng yí miàn xià zhū lóu，shēn suǒ chūn guāng yī yuàn chóu。\nxíng dào zhōng tíng shù huā duǒ，qīng tíng fēi shàng yù sāo tóu。"
+}

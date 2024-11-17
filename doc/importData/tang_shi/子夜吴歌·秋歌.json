@@ -1,0 +1,57 @@
+{
+    "title": "子夜吴歌·秋歌",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，是唐代伟大的浪漫主义诗人，被后人尊称为“诗仙”。他的诗歌想象丰富，语言豪放，情感奔放，具有极高的艺术成就。李白一生游历四方，作品广泛涉及自然、历史、人生等多个领域，代表作有《将进酒》、《庐山谣》、《望庐山瀑布》等。",
+            "en": "Li Bai (701-762), styled Taibai and known as the Hermit of Qinglian, was a great romantic poet of the Tang Dynasty, revered as the 'Poet Immortal' by later generations. His poetry is characterized by rich imagination, bold language, and passionate emotions, achieving high artistic excellence. Li Bai traveled extensively throughout his life, and his works cover various themes such as nature, history, and life, with famous works including 'To the Wine', 'Song of Lushan', and 'Viewing the Waterfall at Lushan'.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士で、唐代の偉大な浪漫主義詩人であり、後世の人々に「詩仙」として尊敬されています。彼の詩は想像力豊かで、言葉遣いが豪放で、感情が奔放で、高い芸術的成就を誇ります。李白は一生の間に四方を遍歴し、作品は自然、歴史、人生など多岐にわたるテーマを扱っており、代表作には『将進酒』、『廬山謠』、『望廬山瀑布』などがあります。",
+            "es": "Li Bai (701-762), conocido como Taibai y apodado el Ermitaño de Qinglian, fue un gran poeta romántico de la dinastía Tang, venerado como el 'Poeta Inmortal' por las generaciones posteriores. Su poesía se caracteriza por una imaginación rica, un lenguaje audaz y emociones apasionadas, logrando una excelencia artística elevada. Li Bai viajó extensamente durante su vida, y sus obras abarcan temas diversos como la naturaleza, la historia y la vida, con obras famosas como 'A la Vino', 'Canción de Lushan' y 'Viendo la Catarata de Lushan'.",
+            "ar": "لي بائي (701-762)، يُعرف بـ تايباي ويُلقب بـ الراهب القيصري، كان شاعرًا رومانسيًا عظيمًا في عهد تانغ، ويُحترم كـ 'شاعر الخلود' من قبل الأجيال اللاحقة. قصائده تتميز بالخيال الغني، واللغة الجريئة، والعواطف الحماسية، وتحقق مستوى فنيًا عاليًا. سافر لي بائي بشكل واسع خلال حياته، وأعماله تغطي مواضيع متنوعة مثل الطبيعة، التاريخ، والحياة، ومن أشهر أعماله 'للخمر'، 'أغنية لوشان'، و'مشاهدة شلال لوشان'."
+        }
+    },
+    "annotations": {
+        "zh": "长安一片月：长安城上空一片明亮的月光。万户捣衣声：家家户户传来捣衣的声音，捣衣是为了制作寒衣。秋风吹不尽：秋风吹也吹不尽。总是玉关情：总是牵挂在玉门关外的亲人。何日平胡虏：什么时候能平定胡人侵略。良人罢远征：丈夫停止远征。\n语法说明：无特殊句式。\n典故解释：玉关情指对边关将士的思念，玉门关是古代通往西域的关口。\n意象分析：月、捣衣声、秋风、玉关情，表达了对远方亲人的思念和对和平的渴望。\n历史背景：唐代边塞战事频繁，许多士兵长期在外征战，家人思念之情深切。",
+        "en": "Chang'an a piece of moon: The bright moonlight over Chang'an city. Ten thousand households pounding clothes: The sound of pounding clothes from every household, preparing for winter. Autumn wind blows endlessly: The autumn wind cannot blow it away. Always the feeling of Jade Pass: Always thinking of loved ones at the Jade Pass. When will the Huns be pacified: When will the Hun invaders be subdued. The good man stops the distant expedition: The husband stops his distant campaign.\nGrammar notes: No special sentence structures.\nAllusion explanation: Jade Pass feeling refers to the longing for the soldiers at the border, Jade Pass was the gateway to the Western Regions in ancient times.\nImagery analysis: Moon, pounding clothes sound, autumn wind, Jade Pass feeling, expressing the longing for distant loved ones and the desire for peace.\nHistorical background: During the Tang Dynasty, border wars were frequent, and many soldiers were away for long periods, causing deep longing from their families.",
+        "ja": "長安一片月：長安の空に広がる明るい月。万戸捣衣声：家々から衣を搗く音が聞こえる、冬用の衣を作るため。秋風吹不尽：秋風が吹きつづける。总是玉関情：常に玉門関の外にいる親族を思いやる気持ち。何日平胡虜：いつ胡の侵略が平らげられるか。良人罢遠征：夫が遠征をやめる。\n文法説明：特異な文法はない。\n典故説明：玉関情は辺境の兵士への思いを指し、玉門関は古代西域への関所。\n意象分析：月、捣衣の音、秋風、玉関情、遠くの愛する人への思いと平和への渇望を表す。\n歴史背景：唐代には辺境戦争が頻繁で、多くの兵士が長期にわたり遠征し、家族の思いが深かった。",
+        "es": "Chang'an un pedazo de luna: La brillante luz de la luna sobre la ciudad de Chang'an. Diez mil hogares golpeando ropa: El sonido de golpear ropa en cada hogar, preparando para el invierno. El viento de otoño no se agota: El viento de otoño no puede soplarlo todo. Siempre el sentimiento del Paso de Jade: Siempre pensando en los seres queridos en el Paso de Jade. ¿Cuándo se pacificarán los hunos?: ¿Cuándo se someterán los invasores hunos? El buen hombre detiene la expedición lejana: El esposo detiene su campaña lejana.\nNotas gramaticales: No hay estructuras de oraciones especiales.\nExplicación de la alusión: El sentimiento del Paso de Jade se refiere al anhelo por los soldados en la frontera, el Paso de Jade era la puerta de entrada a las Regiones Occidentales en la antigüedad.\nAnálisis de imágenes: Luna, sonido de golpear ropa, viento de otoño, sentimiento del Paso de Jade, expresando el anhelo por los seres queridos lejanos y el deseo de paz.\nContexto histórico: Durante la dinastía Tang, las guerras en la frontera eran frecuentes, y muchos soldados estaban lejos durante largos períodos, causando un profundo anhelo por parte de sus familias.",
+        "ar": "Chang'an قطعة من القمر: ضوء القمر الساطع فوق مدينة Chang'an. عشرة آلاف منزل يطرقون الثياب: صوت طرق الثياب من كل منزل، تحضيرًا للشتاء. رياح الخريف لا تنضب: رياح الخريف لا يمكن أن تهبها كلها. دائمًا شعور بوابة اليشم: دائمًا التفكير في الأحباء عند بوابة اليشم. متى سيهدأ الهون؟: متى سيخضع الغزاة الهون؟ الرجل الجيد يتوقف عن الحملة البعيدة: الزوج يتوقف عن حملته البعيدة.\nملاحظات نحوية: لا توجد هياكل جمل خاصة.\nشرح الإستعارة: شعور بوابة اليشم يشير إلى الشوق للجنود عند الحدود، بوابة اليشم كانت بوابة الدخول إلى المناطق الغربية في العصور القديمة.\nتحليل الصور: القمر، صوت طرق الثياب، رياح الخريف، شعور بوابة اليشم، يعبر عن الشوق للأحباء البعيدين ورغبة في السلام.\nالخلفية التاريخية: خلال عهد أسرة تانغ، كانت الحروب على الحدود متكررة، وكان العديد من الجنود بعيدًا لفترات طويلة، مما سبب شوقًا عميقًا من قبل أسرهم."
+    },
+    "appreciations": {
+        "zh": "这首诗以长安的月夜为背景，描绘了万户捣衣的景象，表达了思妇对远征丈夫的深切思念和对和平的渴望。主题思想是反对战争，期盼团圆。写作特色上，诗人巧妙运用月光、捣衣声和秋风等意象，营造出浓厚的秋夜氛围，借景抒情，情景交融。艺术成就方面，诗歌语言简练而意境深远，音韵和谐，具有很高的艺术价值。情感分析上，诗中充满了对亲人的牵挂和对战争的厌恶，情感真挚动人。影响意义上，这首诗在文学史上具有重要地位，是唐代边塞诗中的佳作，对后世诗歌创作产生了深远影响。",
+        "en": "This poem sets the scene in the moonlit Chang'an, depicting the sound of thousands of households pounding clothes, expressing the deep longing of wives for their husbands on distant campaigns and their yearning for peace. The central theme is opposition to war and the desire for reunion. In terms of writing style, the poet skillfully uses imagery such as moonlight, the sound of pounding clothes, and the autumn wind to create a rich autumn night atmosphere, blending scenery with emotion. In terms of artistic achievement, the poem's language is concise yet profound, with harmonious rhythms, possessing high artistic value. Emotionally, the poem is filled with concern for loved ones and aversion to war, conveying sincere and moving feelings. In terms of impact and significance, this poem holds an important place in literary history, being a masterpiece of Tang Dynasty frontier poetry and exerting a profound influence on later poetic creation.",
+        "ja": "この詩は長安の月夜を背景に、万戸の衣を搗く音を描き、遠征中の夫に対する深い思いやりと平和への渇望を表現しています。主題思想は戦争反対と団圓の願いです。表現手法としては、詩人は月光、衣搗きの音、秋風などのイメージを巧みに使い、濃厚な秋の夜の雰囲気を作り出し、情景を交錯させて感情を表現しています。芸術的成果としては、詩の言語は簡潔でありながら深遠な意境を持ち、音韻が調和しており、高い芸術価値があります。感情分析では、親族への懸念と戦争への嫌悪が詰まっており、真摯で感動的な感情が伝わります。影響と意義において、この詩は文学史上重要な地位を占め、唐代の辺塞詩の傑作であり、後世の詩作に深い影響を与えました。",
+        "es": "Este poema se ambienta en la noche iluminada por la luna en Chang'an, describiendo el sonido de miles de hogares golpeando ropa, expresando el profundo anhelo de las esposas por sus maridos en campañas lejanas y su deseo de paz. El tema central es la oposición a la guerra y el deseo de reunión. En cuanto a la técnica literaria, el poeta utiliza hábilmente imágenes como la luz de la luna, el sonido de golpear ropa y el viento de otoño para crear una atmósfera densa de noche de otoño, fusionando la escenografía con la emoción. En términos de logro artístico, el lenguaje del poema es conciso pero de gran profundidad, con ritmos armoniosos, poseyendo un alto valor artístico. En el análisis emocional, el poema está lleno de preocupación por los seres queridos y aversión a la guerra, transmitiendo sentimientos sinceros y conmovedores. En cuanto a su impacto y significado, este poema ocupa un lugar importante en la historia de la literatura, siendo una obra maestra de la poesía fronteriza de la dinastía Tang y ejerciendo una profunda influencia en la creación poética posterior.",
+        "ar": "يستقر هذا الشعر في ليلة مقمرة في تشانغآن، يصور صوت آلاف المنازل تضرب الثياب، يعبر عن الاشتياق العميق للأزواج لزوجاتهم في الحملات البعيدة ورغبتهم في السلام. الفكرة الرئيسية هي معارضة الحرب ورغبة في الاجتماع. من حيث الأسلوب الأدبي، يستخدم الشاعر ببراعة صور مثل ضوء القمر، صوت ضرب الثياب، ورياح الخريف لخلق جو كثيف من ليلة خريفية، يمزج بين المشهد والعاطفة. من حيث الإنجاز الفني، لغة الشعر موجزة ومعمقة، بنغمات متوازنة، تمتلك قيمة فنية عالية. في التحليل العاطفي، الشعر ممتلئ بالاهتمام بالأحباء وكراهية للحرب، ينقل مشاعر صادقة ومؤثرة. من حيث التأثير والمعنى، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب، كونه تحفة من الشعر الحدودي في عهد التانغ وأثر بشكل عميق في الإبداع الشعري اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "长安城上空一片明月，千家万户传来捣衣声。\n秋风吹不尽的，总是那玉门关外的深情。\n何时才能平定胡虏，让我的丈夫不再远征。",
+            "en": "A bright moon over Chang'an, the sound of pounding clothes from ten thousand homes.\nAutumn winds cannot blow away, always the deep feelings for Jade Pass.\nWhen will the Hu invaders be subdued, so my husband can cease his distant campaigns?",
+            "ja": "長安に一片の月、万戸に衣を砕く音。\n秋風が吹き尽くせぬのは、常に玉門関の情。\nいつ胡を平らげ、良人よ遠征をやめるか。",
+            "es": "Una luna brillante sobre Chang'an, el sonido de batir ropa en miles de hogares.\nEl viento de otoño no puede soplarlo todo, siempre hay sentimientos por la Puerta de Jade.\n¿Cuándo se pacificarán los bárbaros, para que mi esposo deje de guerrear lejos?",
+            "ar": "قمر واحد فوق تشانغآن، صوت طحن الثياب من آلاف البيوت.\nرياح الخريف لا تستطيع أن تهبها بعيداً، دائماً مشاعر لبوابة اليشم.\nمتى سيتم قمع الغزاة، حتى يكف زوجي عن الغزو البعيد؟"
+        },
+        "title_translation": {
+            "zh": "子夜吴歌·秋歌",
+            "en": "Midnight Songs of Wu: Autumn Song",
+            "ja": "子夜呉歌·秋歌",
+            "es": "Canciones de Wu en Medianoche: Canción de Otoño",
+            "ar": "أغاني وو في منتصف الليل: أغنية الخريف"
+        }
+    },
+    "genre": {
+        "name": "乐府",
+        "code": "yue_fu"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "长安一片月，万户捣衣声。\n秋风吹不尽，总是玉关情。\n何日平胡虏，良人罢远征。",
+    "title_pinyin": "zi yè wú gē·qiū gē",
+    "pinyin": "zhǎng ān yī piàn yuè，wàn hù dǎo yī shēng。\nqiū fēng chuī bù jǐn，zǒng shì yù guān qíng。\nhé rì píng hú lǔ，liáng rén bà yuǎn zhēng。"
+}

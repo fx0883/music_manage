@@ -1,0 +1,57 @@
+{
+    "title": "新嫁娘词",
+    "difficulty": 2,
+    "author": {
+        "name": "王建",
+        "name_pinyin": "wáng jiàn",
+        "image": "王建.jpg",
+        "introduction": {
+            "zh": "王建，唐代著名诗人，字仲初，颍川（今河南许昌）人。他擅长乐府诗，作品多反映社会现实，风格清新自然，语言质朴，富有生活气息。其诗作在唐代诗坛上具有重要地位，与张籍齐名，并称“张王乐府”。《新嫁娘词》是他的代表作之一，通过细腻的描写展现了新嫁娘的谨慎与智慧。",
+            "en": "Wang Jian was a renowned poet of the Tang Dynasty, styled Zhongchu, from Yingchuan (present-day Xuchang, Henan). He excelled in Yuefu poetry, with works that often reflected social realities. His style was fresh and natural, his language simple and rich in the essence of life. His poetry held a significant place in the Tang literary scene, and he was equally famous as Zhang Ji, collectively known as 'Zhang Wang Yuefu'. 'New Bride Poem' is one of his masterpieces, delicately portraying the caution and wisdom of a new bride.",
+            "ja": "王建は唐代の著名な詩人で、字は仲初、潁川（現在の河南省許昌市）出身。楽府詩に長け、作品は多く社会現実を反映しており、清新で自然なスタイル、質素な言語、生活の息吹に満ちている。唐代の詩壇で重要な地位を占め、張籍と並び称され「張王楽府」と呼ばれる。《新嫁娘詞》は彼の代表作の一つで、新嫁娘の慎重さと知恵を繊細に描いている。",
+            "es": "Wang Jian fue un poeta destacado de la dinastía Tang, conocido por su nombre de cortesía Zhongchu, originario de Yingchuan (actual Xuchang, Henan). Se destacó en la poesía Yuefu, cuyas obras a menudo reflejaban la realidad social. Su estilo era fresco y natural, con un lenguaje sencillo y lleno de vitalidad. Ocupó un lugar importante en la escena literaria de la dinastía Tang, y fue tan famoso como Zhang Ji, conocidos colectivamente como 'Zhang Wang Yuefu'. 'Poema de la Nueva Novia' es una de sus obras maestras, que retrata con delicadeza la prudencia e inteligencia de una nueva novia.",
+            "ar": "وانغ جيان كان شاعرًا مشهورًا في عهد تانغ، واسمه المستعار هو تشونغتشو، من ينغتشوان (حاليًا شوتشوانغ، خنان). برع في الشعر اليوفو، وأعماله غالبًا ما تعكس الواقع الاجتماعي. كان أسلوبه جديدًا و طبيعيًا، ولغته بسيطة و مليئة بروح الحياة. احتل مكانة مهمة في المشهد الأدبي لعهد تانغ، وكان مشهورًا بقدر تشانغ جي، ويعرفان معًا بـ 'تشانغ وانغ يوفو'. 'قصيدة الزوجة الجديدة' هي واحدة من روائعه، حيث تصور بحساسية حذر وذكاء الزوجة الجديدة."
+        }
+    },
+    "annotations": {
+        "zh": "三日入厨下：新嫁娘婚后第三天进入厨房。三日，指婚后第三天，古代习俗中新娘婚后第三天要下厨做饭。入厨下，进入厨房。洗手作羹汤：洗手后开始做羹汤。洗手，表示洁净；作羹汤，制作汤菜。未谙姑食性：还不熟悉婆婆的口味。未谙，不熟悉；姑，婆婆；食性，口味。先遣小姑尝：先让小姑尝试。先遣，先让；小姑，丈夫的妹妹。",
+        "en": "Three days in the kitchen: The new bride enters the kitchen on the third day after marriage. Three days refers to the third day after marriage, when ancient customs dictated that the bride should cook. In the kitchen, entering the kitchen. Wash hands and make soup: After washing hands, start making soup. Wash hands, indicating cleanliness; make soup, preparing soup. Not familiar with mother-in-law's taste: Not yet familiar with the mother-in-law's taste preferences. Not familiar, unfamiliar; mother-in-law, the bride's husband's mother; taste, food preferences. First let the younger sister-in-law try: First let the younger sister-in-law taste it. First let, initially allow; younger sister-in-law, the husband's younger sister.",
+        "ja": "三日入厨下：新嫁娘が結婚後三日目に台所に入る。三日、結婚後三日目を指し、古代の習俗では新嫁娘は結婚後三日目に料理を作ることになっている。入厨下、台所に入る。洗手作羹汤：手を洗って羹汤を作る。洗手、清潔を示す；作羹汤、汁物を作る。未谙姑食性：姑の食性にまだ慣れていない。未谙、慣れていない；姑、姑さん；食性、味の好み。先遣小姑尝：まず小姑に試してもらう。先遣、まず；小姑、夫の妹。",
+        "es": "Tres días en la cocina: La nueva esposa entra en la cocina el tercer día después de la boda. Tres días se refiere al tercer día después de la boda, cuando la costumbre antigua dictaba que la esposa debía cocinar. En la cocina, entrar en la cocina. Lavarse las manos y hacer sopa: Después de lavarse las manos, empezar a hacer sopa. Lavarse las manos, indicando limpieza; hacer sopa, preparar sopa. No familiar con los gustos de la suegra: Aún no familiarizada con los gustos de la suegra. No familiar, desconocido; suegra, la madre del esposo; gustos, preferencias alimenticias. Primero dejar que la cuñada pruebe: Primero dejar que la cuñada lo pruebe. Primero dejar, inicialmente permitir; cuñada, la hermana menor del esposo.",
+        "ar": "ثلاثة أيام في المطبخ: تدخل الزوجة الجديدة المطبخ في اليوم الثالث بعد الزواج. ثلاثة أيام تشير إلى اليوم الثالث بعد الزواج، حيث كانت العادات القديمة تقتضي أن تتولى الزوجة الطهي. في المطبخ، الدخول إلى المطبخ. غسل اليدين وإعداد الحساء: بعد غسل اليدين، تبدأ في إعداد الحساء. غسل اليدين، يشير إلى النظافة؛ إعداد الحساء، تحضير الحساء. غير معتادة على أذواق حماتها: لم تتعود بعد على أذواق حماتها. غير معتادة، غير مألوفة؛ الحماة، mother-in-law؛ الأذواق، تفضيلات الطعام. أولاً تترك الأخت الصغرى تذوق: أولاً تترك الأخت الصغرى تذوقه. أولاً تترك، تسمح أولاً؛ الأخت الصغرى، أخت الزوج الأصغر."
+    },
+    "appreciations": {
+        "zh": "《新嫁娘词》描绘了一位新嫁娘在婚后第三天入厨做饭的情景。主题思想是通过新嫁娘的细心和谨慎，展现了古代女性在家庭中的角色和责任。写作特色上，诗人运用简洁的白描手法，通过具体的动作描写，如“洗手作羹汤”，生动地刻画了新嫁娘的形象。艺术成就方面，诗歌以小见大，通过细节描写反映了当时社会的伦理关系和家庭生活。情感分析上，诗中流露出新嫁娘对婆家的尊重和对小姑的依赖，体现了她的谨慎和智慧。影响意义上，这首诗在文学史上以其独特的视角和细腻的描写，成为反映古代女性生活的重要作品。",
+        "en": "The poem \"New Bride\" depicts a newly married woman entering the kitchen on the third day after her marriage to prepare a meal. The main theme is the careful and cautious nature of the new bride, reflecting the role and responsibilities of women in ancient families. In terms of writing style, the poet uses simple and straightforward descriptions, such as \"washing hands to make soup,\" to vividly portray the new bride. Artistically, the poem uses small details to reflect larger social and familial relationships. Emotionally, it shows the new bride's respect for her in-laws and reliance on her sister-in-law, highlighting her prudence and wisdom. Historically, this poem stands out in literary history for its unique perspective and detailed depiction of ancient women's lives.",
+        "ja": "『新嫁娘詞』は、新婚の女性が結婚後三日目に台所に入って料理を作る情景を描いています。主題思想は、新嫁娘の細心さと慎重さを通じて、古代の女性が家庭で果たす役割と責任を示しています。表現手法としては、詩人は簡潔な白描的手法を用い、「手を洗って羹を作る」といった具体的な動作描写で新嫁娘の姿を生き生きと描いています。芸術的成果としては、小さなことから大きなことを映し出し、当時の社会的倫理関係や家庭生活を反映しています。感情分析では、新嫁娘が姑に対する尊敬と小姑への依存を示し、彼女の慎重さと知恵が表れています。影響の意味では、この詩は独特の視点と繊細な描写で、古代女性の生活を反映する重要な作品として文学史上に位置づけられています。",
+        "es": "El poema \"Palabras de la Nueva Esposa\" describe a una mujer recién casada que entra en la cocina al tercer día de su matrimonio para preparar una comida. El tema principal es la meticulosidad y cautela de la nueva esposa, reflejando el papel y las responsabilidades de las mujeres en las familias antiguas. En cuanto al estilo de escritura, el poeta utiliza descripciones simples y directas, como \"lavarse las manos para hacer sopa\", para retratar vívidamente a la nueva esposa. Artísticamente, el poema utiliza detalles pequeños para reflejar relaciones sociales y familiares más amplias. En el análisis emocional, muestra el respeto de la nueva esposa por sus suegros y su dependencia de su cuñada, destacando su prudencia y sabiduría. En términos de impacto, este poema se destaca en la historia literaria por su perspectiva única y su detallada descripción de la vida de las mujeres en la antigüedad.",
+        "ar": "القصيدة \"كلمات العروس الجديدة\" تصف امرأة تزوجت حديثًا تدخل المطبخ في اليوم الثالث من زواجها لإعداد وجبة. الفكرة الرئيسية هي دقة وحذر العروس الجديدة، مما يعكس الدور والمسؤوليات التي تتحملها النساء في العائلات القديمة. من حيث الأسلوب الكتابي، يستخدم الشاعر وصفًا بسيطًا وواضحًا، مثل \"غسل اليدين لصنع الحساء\"، ليصور العروس الجديدة بشكل حي. فنيًا، تستخدم القصيدة تفاصيل صغيرة لترجمة علاقات اجتماعية وعائلية أوسع. في التحليل العاطفي، تظهر القصيدة احترام العروس الجديدة لزوجة أبيها واعتمادها على أخت زوجها، مما يبرز حذرها وذكائها. من حيث التأثير، تبرز هذه القصيدة في تاريخ الأدب بنظرة فريدة وتصوير مفصل لحياة النساء في العصور القديمة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "婚后第三天走进厨房，洗净双手来做羹汤。还不熟悉婆婆的口味，先让小姑品尝一番。",
+            "en": "On the third day as a bride, she enters the kitchen, washing her hands to make soup. Unfamiliar with her mother-in-law's taste, she first lets her sister-in-law try.",
+            "ja": "嫁いだ三日目に台所に入り、手を洗って汁を作る。姑の食性を知らず、まずは小姑に味を試させる。",
+            "es": "Al tercer día de casada, entra en la cocina, lava sus manos para hacer sopa. No conociendo el gusto de su suegra, primero deja que su cuñada pruebe.",
+            "ar": "في اليوم الثالث من الزواج، دخلت المطبخ، وغسلت يديها لتحضر الحساء. غير معتادة على ذوق حماتها، أرسلت أولاً للصغرى لتجربه."
+        },
+        "title_translation": {
+            "zh": "新嫁娘词",
+            "en": "Song of the New Bride",
+            "ja": "新嫁娘の歌",
+            "es": "Canción de la Novia Nueva",
+            "ar": "أغنية العروس الجديدة"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "三日入厨下，洗手作羹汤。\n未谙姑食性，先遣小姑尝。",
+    "title_pinyin": "xīn jià niáng cí",
+    "pinyin": "sān rì rù chú xià，xǐ shǒu zuò gēng tāng。\nwèi ān gū shí xìng，xiān qiǎn xiǎo gū cháng。"
+}

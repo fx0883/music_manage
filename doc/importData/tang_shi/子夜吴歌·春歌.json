@@ -1,0 +1,57 @@
+{
+    "title": "子夜吴歌·春歌",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，是唐代著名的浪漫主义诗人，被后人尊称为“诗仙”。他的诗作以豪放、奔放、想象丰富和语言优美著称，代表作品有《将进酒》、《庐山谣》、《望庐山瀑布》等。李白的诗歌广泛涉及自然、历史、神话等多个领域，展现了他对自由和理想的追求。",
+            "en": "Li Bai (701-762), styled as Taibai and also known as the Hermit of Qinglian, was a renowned romantic poet of the Tang Dynasty, respectfully referred to as the 'Poet Immortal' by later generations. His poetry is celebrated for its boldness, exuberance, rich imagination, and exquisite language, with famous works including 'To the Wine', 'Song of Lushan', and 'Viewing the Waterfall at Lushan'. Li Bai's poems cover a wide range of themes including nature, history, and mythology, reflecting his pursuit of freedom and ideals.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐代の著名な浪漫主義詩人であり、後世の人々に「詩仙」と敬称されている。彼の詩は豪放、奔放、豊かな想像力と美しい言葉遣いで知られ、「将進酒」、「廬山謠」、「望廬山瀑布」などの代表作がある。李白の詩は自然、歴史、神話など多岐にわたるテーマを扱い、彼の自由と理想への追求を示している。",
+            "es": "Li Bai (701-762), conocido por su nombre de cortesía Taibai y también como el Ermitaño de Qinglian, fue un destacado poeta romántico de la dinastía Tang, reverenciado por las generaciones posteriores como el 'Poeta Inmortal'. Su poesía es famosa por su audacia, exuberancia, rica imaginación y lenguaje exquisito, con obras destacadas como 'A la Vino', 'Canción de Lushan' y 'Viendo la Catarata de Lushan'. Los poemas de Li Bai abarcan una amplia gama de temas, incluyendo la naturaleza, la historia y la mitología, reflejando su búsqueda de la libertad y los ideales.",
+            "ar": "لي بائي (701-762)، يُعرف بلقبه تايباي وكذلك بـ راهب تشينغليان، كان شاعرًا رومانسيًا بارزًا في عهد سلالة تانغ، ويُعتبر بـ 'شاعر الملائكة' من قبل الأجيال اللاحقة. أشعاره تتميز بالجرأة، الحيوية، الخيال الغني واللغة الجميلة، ومن أشهر أعماله 'إلى الخمر', 'أغنية لوشان', و'مشاهدة شلال لوشان'. قصائده تغطي مجموعة واسعة من المواضيع تشمل الطبيعة، التاريخ، والأساطير، تعكس بحثه عن الحرية والأفكار."
+        }
+    },
+    "annotations": {
+        "zh": "秦地罗敷女：秦地指今陕西一带，罗敷是古代美女名，这里泛指采桑女。采桑绿水边：在绿水边采桑。素手青条上：素手指洁白的手，青条指嫩绿的桑枝。红妆白日鲜：红妆指女子艳丽的装扮，白日鲜指在阳光下显得更加鲜艳。蚕饥妾欲去：蚕饿了，女子想要离开去喂蚕。五马莫留连：五马指达官贵人的车马，莫留连是劝告不要纠缠。此诗描绘了采桑女子的美丽勤劳，以及她对生活的专注和对权贵的拒绝。",
+        "en": "Qin di Luo Fu nu: Qin di refers to the area around present-day Shaanxi, Luo Fu is a name of an ancient beauty, here it generally refers to a mulberry-picking woman. Cai sang lv shui bian: picking mulberries by the green waterside. Su shou qing tiao shang: Su shou means white hands, qing tiao means tender green mulberry branches. Hong zhuang bai ri xian: Hong zhuang refers to a woman's bright makeup, bai ri xian means it looks even more vivid in the sunlight. Can ji qie yu qu: The silkworms are hungry, the woman wants to leave to feed them. Wu ma mo liu lian: Wu ma refers to the carriages of high-ranking officials, mo liu lian is an advice not to linger. This poem depicts the beauty and diligence of the mulberry-picking woman, as well as her focus on life and her refusal of the aristocracy.",
+        "ja": "秦地羅敷女：秦地は現在の陝西地方を指し、羅敷は古代の美女の名で、ここでは桑摘み女を泛指する。採桑緑水辺：緑水のほとりで桑を摘む。素手青条上：素手は白い手を指し、青条は若緑の桑の枝を指す。紅粧白日鮮：紅粧は女性の鮮やかな化粧を指し、白日鮮は日光のもとで一層鮮やかに見えることを意味する。蚕飢妾欲去：蚕が飢えているので、女性は去りたいと思っている。五馬莫留連：五馬は高位の官吏の車馬を指し、莫留連は留まらないでくださいという忠告である。この詩は桑摘み女性の美しさと勤勉さ、そして生活への集中と権貴への拒絶を描いている。",
+        "es": "Qin di Luo Fu nu: Qin di se refiere a la región alrededor de la actual Shaanxi, Luo Fu es el nombre de una belleza antigua, aquí se refiere en general a una mujer que recolecta moreras. Cai sang lv shui bian: recolectar moreras al lado del agua verde. Su shou qing tiao shang: Su shou significa manos blancas, qing tiao significa ramas verdes tiernas de morera. Hong zhuang bai ri xian: Hong zhuang se refiere al maquillaje brillante de una mujer, bai ri xian significa que se ve aún más vívido a la luz del sol. Can ji qie yu qu: Las orugas están hambrientas, la mujer quiere irse para alimentarlas. Wu ma mo liu lian: Wu ma se refiere a los carruajes de los funcionarios de alto rango, mo liu lian es un consejo para no demorar. Este poema retrata la belleza y la diligencia de la mujer que recolecta moreras, así como su enfoque en la vida y su rechazo a la aristocracia.",
+        "ar": "قندى لوفو نى: قندى تشير إلى منطقة حول شانشى الحالية، لوفو هو اسم جمال قديم، هنا يشير بشكل عام إلى امرأة تقطف التوت. تساى سانغ لوشوى بين: تقطف التوت بجانب الماء الأخضر. سوشو تشينغ تاو شانغ: سوشو تعني الأيدي البيضاء، تشينغ تاو تعني فروع التوت الخضراء الطرية. هونغ تشوانغ باى رى كسيان: هونغ تشوانغ تشير إلى المكياج البرّاق للمرأة، باى رى كسيان تعني يبدو أكثر إشراقًا تحت أشعة الشمس. كان جى تشى يو تشو: ديدان الحرير جائعة، المرأة تريد الذهاب لإطعامها. وو ما مو ليو ليان: وو ما تشير إلى عربات المسؤولين ذوي الرتب العالية، مو ليو ليان هو نصيحة بعدم التباطؤ. هذا الشعر يصور جمال وتفاني المرأة التي تقطف التوت، بالإضافة إلى تركيزها على الحياة ورفضها للأرستقراطية."
+    },
+    "appreciations": {
+        "zh": "《子夜吴歌·春歌》描绘了秦地罗敷女在绿水边采桑的情景，通过细腻的描写展现了她的美丽与勤劳。主题思想是赞美劳动女性的纯真与坚韧。写作特色上，诗人运用色彩对比（素手、青条、红妆、白日）和动作描写（采桑、欲去），生动形象。艺术成就方面，诗歌语言简洁而富有画面感，情感真挚。情感分析上，诗中既有对美好生活的向往，也有对现实劳作的无奈。影响意义上，此诗在唐代民歌中具有重要地位，对后世描写女性劳动的诗作有深远影响。",
+        "en": "The poem 'Ziye Wuge - Spring Song' depicts the scene of a woman named Luofu from Qin region picking mulberry by the green waters. It celebrates the purity and resilience of working women. The writing features include vivid color contrasts (white hands, green branches, red makeup, bright day) and action descriptions (picking mulberry, wanting to leave). Artistically, the poem is concise yet rich in imagery, with sincere emotions. Emotionally, it conveys a longing for a better life and the resignation to hard work. Historically, it holds a significant place in Tang Dynasty folk songs, influencing later works on women's labor.",
+        "ja": "『子夜呉歌・春歌』は、秦の地の羅敷女が緑水のほとりで桑を摘む情景を描いています。労働する女性の純真と強靭さを讃えることが主題です。表現手法としては、色彩対比（素手、青条、紅粧、白日）と動作描写（桑摘み、去りたい）を用いて生き生きと描かれています。芸術的成果としては、簡潔で画面感に富み、感情が真摯です。感情分析では、美しい生活への憧れと現実の労働への無念さが表れています。影響の意味では、唐代の民謡の中で重要な地位を占め、後世の女性労働を描く詩作に深い影響を与えました。",
+        "es": "El poema 'Canción de la Medianoche de Wu - Canción de Primavera' describe a una mujer llamada Luofu de la región de Qin recogiendo moreras junto a las aguas verdes. Alaba la pureza y la resistencia de las mujeres trabajadoras. Las características de escritura incluyen contrastes de color vívidos (manos blancas, ramas verdes, maquillaje rojo, día brillante) y descripciones de acciones (recogiendo moreras, queriendo irse). Artísticamente, el poema es conciso pero rico en imágenes, con emociones sinceras. En el análisis emocional, expresa un deseo por una vida mejor y la resignación al trabajo duro. En términos de influencia, ocupa un lugar importante en las canciones populares de la dinastía Tang, influyendo en obras posteriores sobre el trabajo femenino.",
+        "ar": "القصيدة \"أغنية منتصف الليل لو - أغنية الربيع\" تصف مشهد امرأة تُدعى لوفو من منطقة تشين تلتقط عنب الثعلب بجانب المياه الخضراء. تحمّد النقاء والصلابة لدى النساء العاملات. تتضمن خصائص الكتابة تباينات الألوان الحية (الأيدي البيضاء، الفروع الخضراء، المكياج الأحمر، اليوم المشرق) ووصف الأفعال (التقاط عنب الثعلب، الرغبة في الذهاب). فنياً، القصيدة مختصرة ولكن غنية بالصور، ذات مشاعر صادقة. في تحليل العواطف، تعبر عن رغبة في حياة أفضل والرضا بالعمل الشاق. من حيث التأثير، تحتل مكانة مهمة في الأغاني الشعبية لعهد التانغ، مؤثرة في أعمال لاحقة حول العمل النسائي."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "秦地的罗敷女，在绿水边采桑。素手攀着青枝条，红妆在白日下鲜艳。蚕儿饿了我想离去，五马莫要再留连。",
+            "en": "In Qin land, the girl Luofu picks mulberry by the green waters. Her fair hands on the green branches, her red makeup bright in the sunlight. The silkworms are hungry, I wish to leave; oh noble steeds, do not detain me.",
+            "ja": "秦の地の羅敷女、緑水のほとりで桑を摘む。白い手が青枝に、紅粧は白昼に鮮やか。蚕が飢えて妾は去りたい、五馬よ留まらぬことなかれ。",
+            "es": "En la tierra de Qin, la doncella Luofu siega moreras junto al agua verde. Sus manos blancas en las ramas verdes, su maquillaje rojo resplandece bajo el sol. Las orugas tienen hambre, quiero irme; oh cinco caballos, no me retengáis.",
+            "ar": "في أرض تشين، الفتاة لوفو تقطف التوت الأسود عند الماء الأخضر. يديها البيضاء على الأغصان الخضراء، مكياجها الأحمر يلمع في ضوء النهار. اليرقات جائعة وأريد الذهاب؛ يا خمسة خيول، لا تقيدوني."
+        },
+        "title_translation": {
+            "zh": "子夜吴歌·春歌",
+            "en": "Midnight Songs of Wu - Spring Song",
+            "ja": "子夜呉歌・春歌",
+            "es": "Canciones de Wu a Medianoche - Canción de Primavera",
+            "ar": "أغاني وو في منتصف الليل - أغنية الربيع"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "秦地罗敷女，采桑绿水边。\n素手青条上，红妆白日鲜。\n蚕饥妾欲去，五马莫留连。",
+    "title_pinyin": "zi yè wú gē·chūn gē",
+    "pinyin": "qín dì luó fū nǚ，cǎi sāng lǜ shuǐ biān。\nsù shǒu qīng tiáo shàng，hóng zhuāng bái rì xiān。\ncán jī qiè yù qù，wǔ mǎ mò liú lián。"
+}

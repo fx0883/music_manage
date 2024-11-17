@@ -1,0 +1,57 @@
+{
+    "title": "静夜思",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，唐朝著名诗人，被后人尊称为“诗仙”。他的诗作以豪放、奔放、想象丰富和语言优美著称，代表作品有《将进酒》、《蜀道难》、《静夜思》等。李白一生游历四方，足迹遍布大半个中国，其诗歌多反映对自然、人生和理想的追求。",
+            "en": "Li Bai (701-762), styled Taibai and also known as Qinglian Jushi, was a renowned poet of the Tang Dynasty, often revered as the 'Poet Immortal' by later generations. His poetry is celebrated for its boldness, vivid imagination, and exquisite language, with famous works including 'To the Wine', 'The Difficulty of the Shu Road', and 'Thoughts in a Quiet Night'. Throughout his life, Li Bai traveled extensively, covering much of China, and his poems often reflect his pursuit of nature, life, and ideals.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐時代の著名な詩人であり、後世の人々によって「詩仙」と尊称されています。彼の詩作は豪放、奔放、豊かな想像力と美しい言葉遣いで知られ、代表作には「将進酒」、「蜀道難」、「静夜思」などがあります。李白は一生で四方を遍歴し、中国の大半を歩き回り、その詩は自然、人生、理想への追求を多く反映しています。",
+            "es": "Li Bai (701-762), conocido por su estilo Taibai y también como Qinglian Jushi, fue un destacado poeta de la dinastía Tang, venerado por las generaciones posteriores como el 'Poeta Inmortal'. Su poesía es famosa por su audacia, imaginación vívida y lenguaje exquisito, con obras destacadas como 'Jin Jiǔ', 'La Dificultad del Camino de Shu' y 'Pensamientos en una Noche Tranquila'. A lo largo de su vida, Li Bai viajó extensamente, cubriendo gran parte de China, y sus poemas a menudo reflejan su búsqueda de la naturaleza, la vida y los ideales.",
+            "ar": "لي بائي (701-762)، المعروف بلقب تايباي وايضاً بـ تشينغليان جوشي، كان شاعرًا بارزًا في عهد أسرة تانغ، ويُعرف فيما بعد بـ 'شاعر الملائكة' من قبل الأجيال اللاحقة. أشعاره تتميز بالجرأة، الخيال الواسع واللغة الراقية، ومن أشهر أعماله 'إلى الخمر'، 'صعوبة طريق شو' و 'أفكار في ليلة هادئة'. خلال حياته، سافر لي بائي بشكل واسع، مغطياً معظم أنحاء الصين، وأشعاره تعكس غالباً بحثه عن الطبيعة، الحياة والأفكار."
+        }
+    },
+    "annotations": {
+        "zh": "床前明月光：床前的地面上洒满了明亮的月光。疑是地上霜：怀疑那是地上的霜。举头望明月：抬起头来看那明亮的月亮。低头思故乡：低下头来思念远方的故乡。\n词语解释：床前——指诗人所卧之床前；明月光——明亮的月光；疑——怀疑；地上霜——地面上的霜；举头——抬头；望——看；低头——低下头；思——思念；故乡——家乡。\n语法说明：此诗为五言绝句，每句五个字，结构简单，语言质朴。\n典故解释：无特殊典故。\n意象分析：明月、霜、故乡是诗中的重要意象，明月象征思乡之情，霜象征秋天的寒意，故乡则是诗人心中牵挂的地方。\n历史背景：此诗为唐代诗人李白所作，反映了唐代文人对故乡的深切思念。",
+        "en": "Bedside bright moonlight: The ground in front of the bed is bathed in bright moonlight. Suspect it is frost on the ground: Doubt that it is frost on the ground. Raise head to look at the bright moon: Lift the head to look at the bright moon. Lower head to think of hometown: Lower the head to miss the distant hometown.\nWord Explanation: Bedside - in front of the poet's bed; Bright moonlight - bright moonlight; Suspect - doubt; Frost on the ground - frost on the ground; Raise head - lift head; Look - see; Lower head - lower head; Think - miss; Hometown - hometown.\nGrammar Explanation: This poem is a five-character quatrain, with five characters in each line, simple in structure and plain in language.\nAllusion Explanation: No specific allusions.\nImagery Analysis: The moon, frost, and hometown are important images in the poem. The moon symbolizes homesickness, frost symbolizes the chill of autumn, and the hometown is the place the poet is deeply attached to.\nHistorical Background: This poem was written by the Tang Dynasty poet Li Bai, reflecting the deep longing for hometown among Tang Dynasty literati.",
+        "ja": "床前明月光：床の前の地面に明るい月光が照っている。疑は地上霜：それが地面の霜ではないかと疑う。挙頭望明月：頭を上げて明るい月を見る。低头思故鄉：頭を下げて遠い故郷を思い出す。\n単語の説明：床前——詩人が寝ている床の前；明月光——明るい月光；疑——疑う；地上霜——地面の霜；挙頭——頭を上げる；望——見る；低头——頭を下げる；思——思い出す；故鄉——故郷。\n文法説明：この詩は五言絶句で、各行に五文字、構造が単純で言葉が質素。\n典故説明：特別な典故はない。\n意象分析：明月、霜、故鄉は詩の中の重要な意象である。明月は故郷への思いを象徴し、霜は秋の寒さを象徴し、故鄉は詩人が心配している場所である。\n歴史背景：この詩は唐代の詩人李白によって作られ、唐代の文人が故郷に対する深い思いを反映している。",
+        "es": "Luz de luna brillante ante la cama: El suelo frente a la cama está bañado en luz de luna brillante. Dudo que sea escarcha en el suelo: Dudar de que sea escarcha en el suelo. Levanto la cabeza para mirar la luna brillante: Elevar la cabeza para ver la luna brillante. Bajo la cabeza para pensar en el hogar: Bajar la cabeza para extrañar el hogar lejano.\nExplicación de palabras: Ante la cama - delante de la cama del poeta; Luz de luna brillante - luz de luna brillante; Dudar - dudar; Escarcha en el suelo - escarcha en el suelo; Levantar la cabeza - levantar la cabeza; Mirar - ver; Bajar la cabeza - bajar la cabeza; Pensar - extrañar; Hogar - hogar.\nExplicación gramatical: Este poema es un cuarteto de cinco caracteres, con cinco caracteres en cada línea, de estructura simple y lenguaje sencillo.\nExplicación de alusiones: No hay alusiones específicas.\nAnálisis de imágenes: La luna, la escarcha y el hogar son imágenes importantes en el poema. La luna simboliza el deseo de hogar, la escarcha simboliza el frío del otoño, y el hogar es el lugar al que el poeta está profundamente apegado.\nContexto histórico: Este poema fue escrito por el poeta Li Bai de la dinastía Tang, reflejando el profundo anhelo por el hogar entre los literatos de la dinastía Tang.",
+        "ar": "ضوء القمر الساطع أمام السرير: الأرض أمام السرير مغطاة بالضوء الساطع للقمر. أشك في أنه صقيع على الأرض: أشك في أنه صقيع على الأرض. أرفع رأسي لأرى القمر الساطع: أرفع رأسي لأرى القمر الساطع. أحني رأسي لأفكر في الوطن: أحني رأسي لأفكر في الوطن البعيد.\nشرح الكلمات: أمام السرير - أمام سرير الشاعر؛ ضوء القمر الساطع - ضوء القمر الساطع؛ أشك - أشك؛ صقيع على الأرض - صقيع على الأرض؛ أرفع رأسي - أرفع رأسي؛ أرى - أرى؛ أحني رأسي - أحني رأسي؛ أفكر - أفكر؛ الوطن - الوطن.\nشرح النحو: هذا الشعر هو قصيدة من خمس كلمات، كل سطر يحتوي على خمس كلمات، بسيط في البنية وواضح في اللغة.\nشرح الإشارات: لا توجد إشارات خاصة.\nتحليل الصور: القمر، الصقيع، والوطن هي صور مهمة في الشعر. القمر يرمز إلى حنين الوطن، والصقيع يرمز إلى برودة الخريف، والوطن هو المكان الذي يرتبط به الشاعر ارتباطًا عميقًا.\nالخلفية التاريخية: كتب هذا الشعر الشاعر لي باي في عهد التانغ، ويعكس الرغبة العميقة في الوطن بين أدباء عهد التانغ."
+    },
+    "appreciations": {
+        "zh": "《静夜思》是唐代诗人李白的名篇，主题思想是表达游子对故乡的深深思念。写作特色上，诗人运用简洁的白描手法，通过‘床前明月光’和‘疑是地上霜’两句，营造出清冷孤寂的氛围，‘举头望明月，低头思故乡’则通过动作描写，生动传达了思乡之情。艺术成就方面，这首诗以其简洁明快、意境深远而广为传颂，成为唐代五言绝句的经典之作。情感分析上，诗人通过月光引发思乡之情，抒发了对故乡的无限眷恋和孤独寂寞之感。影响意义上，此诗在文学史上具有重要地位，影响了后世无数诗人，成为表达思乡之情的典范。",
+        "en": "Jing Ye Si by Li Bai is a renowned Tang Dynasty poem, whose central theme is the profound longing of a traveler for his hometown. In terms of writing style, the poet employs simple and straightforward descriptions, creating a cold and solitary atmosphere through the lines 'Moonlight before my bed' and 'I mistook for frost on the ground.' The lines 'I raise my head to watch the moon, I lower it and think of home' vividly convey homesickness through action. Artistically, this poem is celebrated for its simplicity and profound imagery, making it a classic of Tang Dynasty five-character quatrains. Emotionally, the poet uses moonlight to trigger feelings of homesickness, expressing deep longing and solitude. Historically, this poem holds a significant place in literary history, influencing countless poets and becoming a model for expressing homesickness.",
+        "ja": "『静夜思』は唐代の詩人李白の名作であり、主題は旅人のもどかしい故郷への思慕である。表現方法としては、簡潔な白描手法を用い、‘床前明月光’と‘疑是地上霜’の二句で冷たい孤独な雰囲気を作り出し、‘举头望明月，低头思故乡’では動作を描写して故郷への思いを生き生きと伝える。芸術的成果としては、簡潔明瞭で意境深いことで広く称賛され、唐代の五言絶句の傑作とされる。感情分析では、月光をきっかけに故郷への思いを表し、無限のねたみと孤独感を抒発する。影響力としては、文学史上重要な位置を占め、後世の多くの詩人に影響を与え、故郷への思いを表現する典型となっている。",
+        "es": "Jing Ye Si de Li Bai es una obra famosa de la dinastía Tang, cuyo tema principal es el profundo anhelo del viajero por su hogar. En cuanto a la técnica literaria, el poeta utiliza descripciones sencillas y directas, creando una atmósfera fría y solitaria a través de las líneas 'Luz de luna ante mi cama' y 'Parece ser escarcha en el suelo.' Las líneas 'Alzo la cabeza y miro la luna, Bajo la cabeza y pienso en mi hogar' transmiten vívidamente la nostalgia a través de acciones. Artísticamente, este poema es aclamado por su simplicidad y profunda imaginería, convirtiéndose en un clásico de los cuartetos de cinco caracteres de la dinastía Tang. En el análisis emocional, el poeta utiliza la luz de la luna para desencadenar sentimientos de nostalgia, expresando un profundo anhelo y soledad. En términos de impacto, este poema ocupa un lugar significativo en la historia literaria, influenciando a innumerables poetas y convirtiéndose en un modelo para expresar la nostalgia.",
+        "ar": "‘التفكير في الليل الهادئ‘ للشاعر لي باي هو عمل شهير من عهد التانغ، حيث يركز موضوعه الرئيسي على الشوق العميق للمسافر نحو وطنه. من حيث الأسلوب الأدبي، يستخدم الشاعر وصفًا بسيطًا مباشرًا، لينشئ جوًا باردًا ووحيدًا من خلال السطور ‘ضوء القمر أمام سريري‘ و‘ظننت أنها صقيع على الأرض.‘ السطور ‘أرفع رأسي لأرى القمر، أحني رأسي وأفكر في وطني‘ تنقل بوضوح شديد شوق الوطن من خلال الأفعال. من الناحية الفنية، يُشاد بهذا الشعر ل بساطته وتصوره العميق، مما جعله كلاسيكيًا من الأرباعيات ذات الخمس حروف في عهد التانغ. من حيث التحليل العاطفي، يستخدم الشاعر ضوء القمر لتحفيز مشاعر الشوق، معربًا عن رغبة عميقة ووحده. من حيث التأثير، يحتل هذا الشعر مكانة هامة في تاريخ الأدب، مؤثرًا على العديد من الشعراء، وأصبح نموذجًا للتعبير عن شوق الوطن."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "床前的明月光亮，仿佛是地上的白霜。抬头仰望那轮明月，低头时却思念起故乡。",
+            "en": "The bright moonlight before my bed seems like frost upon the ground. I look up to the moon, then bow my head and think of home.",
+            "ja": "床の前の明月は光り、地に霜があるかと疑う。頭を上げて明月を望み、頭を垂れて故郷を思う。",
+            "es": "La luz de la luna clara ante mi cama, parece ser escarcha en el suelo. Alzo la cabeza y miro la luna, bajo la cabeza y pienso en mi tierra.",
+            "ar": "النور الساطع للقمر أمام سريري، يبدو كالندى على الأرض. أرفع رأسي وأشاهد القمر، أحني رأسي وأفكر في موطني."
+        },
+        "title_translation": {
+            "zh": "静夜思",
+            "en": "Jingye Si (Thoughts in a Quiet Night)",
+            "ja": "静夜思",
+            "es": "Reflexiones en una Noche Tranquila",
+            "ar": "التفكير في ليلة هادئة"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "床前明月光，疑是地上霜。\n举头望明月，低头思故乡。",
+    "title_pinyin": "jìng yè sī",
+    "pinyin": "chuáng qián míng yuè guāng，yí shì dì shàng shuāng。\njǔ tóu wàng míng yuè，dī tóu sī gù xiāng。"
+}

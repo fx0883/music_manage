@@ -1,0 +1,57 @@
+{
+    "title": "宿建德江",
+    "difficulty": 2,
+    "author": {
+        "name": "孟浩然",
+        "name_pinyin": "mèng hào rán",
+        "image": "孟浩然.jpg",
+        "introduction": {
+            "zh": "孟浩然（689年－740年），唐代著名诗人，襄州襄阳（今湖北襄阳）人。他的诗多描写自然山水和田园风光，风格清新自然，意境深远，被誉为“山水田园诗派”的代表人物之一。代表作有《春晓》、《宿建德江》等。孟浩然的一生仕途不畅，但他的诗歌却广受赞誉，对后世影响深远。",
+            "en": "Meng Haoran (689-740), a renowned poet of the Tang Dynasty, was born in Xiangyang, Xiangzhou (present-day Xiangyang, Hubei). His poems predominantly depict natural landscapes and rural scenery, characterized by a fresh and natural style and profound artistic conception, earning him the title of one of the representatives of the 'Landscape and Pastoral Poetry School'. His notable works include 'Spring Dawn' and 'A Night Mooring on the Jiande River'. Despite his unsuccessful official career, Meng Haoran's poetry was highly praised and has had a profound influence on later generations.",
+            "ja": "孟浩然（689年－740年）は、唐代の著名な詩人であり、襄州襄陽（現在の湖北省襄陽市）出身。彼の詩は自然の山水や田園風景を多く描き、清新で自然なスタイルと深遠な意境が特徴で、「山水田園詩派」の代表的人物の一人と称される。代表作には『春暁』『宿建徳江』などがある。孟浩然は官途で成功しなかったが、彼の詩は広く賞賛され、後世に大きな影響を与えた。",
+            "es": "Meng Haoran (689-740), un poeta famoso de la dinastía Tang, nació en Xiangyang, Xiangzhou (actual Xiangyang, Hubei). Sus poemas suelen describir paisajes naturales y escenas campestres, con un estilo fresco y natural y una concepción artística profunda, siendo considerado uno de los representantes de la 'Escuela de Poesía Paisajística y Pastoral'. Sus obras destacadas incluyen 'Amanecer de Primavera' y 'Una Noche en el Río Jiande'. A pesar de su carrera oficial sin éxito, la poesía de Meng Haoran fue muy elogiada y ha tenido una influencia profunda en las generaciones posteriores.",
+            "ar": "مينغ هواوران (689-740)، شاعر مشهور من عهد التانغ، وُلد في شيانغيانغ، شيانغتشو (حاليًا شيانغيانغ، هوبيي). قصائده تركز غالبًا على وصف المناظر الطبيعية والريفية، تتميز بأنماطها الطازجة والطبيعية وفكرتها العميقة، ويُعتبر واحدًا من ممثلي 'مدرسة الشعر الريفي والطبيعي'. من أشهر أعماله 'فجر الربيع' و'ليلة في نهر جيانده'. على الرغم من فشله في مسيرته الرسمية، إلا أن شعر مينغ هواوران حظي بتقدير كبير وأثر بشكل كبير في الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "移舟泊烟渚：将船停泊在烟雾缭绕的小洲上。泊，停船。烟渚，烟雾笼罩的小洲。\n日暮客愁新：傍晚时分，旅人心中涌起新的愁绪。日暮，傍晚。客愁，旅人的愁绪。\n野旷天低树：原野空旷，天空显得比树还低。野旷，原野空旷。天低树，天空低垂，似乎比树还低。\n江清月近人：江水清澈，月亮似乎离人很近。江清，江水清澈。月近人，月亮显得离人很近。\n\n语法说明：此诗均为对仗工整的句子，无特殊句式。\n典故解释：无特殊典故。\n意象分析：烟渚、日暮、野旷、天低树、江清、月近人，这些意象共同营造了一种孤独、寂寞的氛围。\n历史背景：唐代诗人孟浩然游历建德江时所作，反映了唐代文人游历山水的情怀。",
+        "en": "Moving the boat to moor at a misty islet; at dusk, the traveler's new sorrows arise. 'Moor' means to stop the boat. 'Misty islet' refers to a small island shrouded in mist. 'At dusk' indicates the evening time. 'Traveler's sorrows' are the feelings of melancholy experienced by the traveler.\nVast fields make the sky appear lower than the trees; the clear river brings the moon close to people. 'Vast fields' describe the wide-open landscape. 'Sky lower than trees' suggests the sky seems to hang lower than the treetops. 'Clear river' indicates the clarity of the water. 'Moon close to people' implies the moon appears near to the observer.\n\nGrammar: The poem uses parallel structures with no special sentence patterns.\nAllusions: No specific allusions are used.\nImagery: Misty islet, dusk, vast fields, sky lower than trees, clear river, and moon close to people collectively create an atmosphere of solitude and melancholy.\nHistorical Background: Written by Tang Dynasty poet Meng Haoran during his travels along the Jiande River, reflecting the literati's love for traveling and appreciating nature during the Tang Dynasty.",
+        "ja": "舟を移して煙のたなびく洲に停泊する。泊は船を停めること。煙渚は霧に包まれた小さな島を指す。\n日暮れて旅人の新しい憂愁が湧く。日暮れは夕方のこと。客愁は旅人の憂いを意味する。\n野が広くて空が木よりも低く見える。野が広いは広々とした原野のこと。空が木よりも低いは空が木よりも低く見えること。\n江が澄み渡って月が人に近いように見える。江が澄み渡るは江の水が澄んでいること。月が人に近いは月が人に近く見えること。\n\n文法説明：この詩は対仗が整った文で、特殊な文法はない。\n典故説明：特別な典故はない。\n意象分析：煙渚、日暮れ、野が広い、空が木よりも低い、江が澄み渡る、月が人に近い、これらの意象が孤独で寂しい雰囲気を作り出している。\n歴史背景：唐代の詩人孟浩然が建徳江を訪れた際に作った詩で、唐代の文人が山水を愛でる心情を反映している。",
+        "es": "Mover el bote para atracar en una isla neblinosa; al atardecer, surgen nuevas penas en el viajero. 'Atracar' significa detener el bote. 'Isla neblinosa' se refiere a una pequeña isla envuelta en niebla. 'Al atardecer' indica la hora del ocaso. 'Penas del viajero' son los sentimientos de tristeza del viajero.\nCampos vastos hacen que el cielo parezca más bajo que los árboles; el río claro acerca la luna a las personas. 'Campos vastos' describen una amplia extensión de tierra. 'Cielo más bajo que los árboles' sugiere que el cielo parece estar más abajo que las copas de los árboles. 'Río claro' indica la transparencia del agua. 'Luna cerca de las personas' implica que la luna parece estar cerca del observador.\n\nGramática: El poema utiliza estructuras paralelas sin patrones de oración especiales.\nReferencias: No se utilizan referencias específicas.\nImágenes: Isla neblinosa, atardecer, campos vastos, cielo más bajo que los árboles, río claro y luna cerca de las personas, juntos crean una atmósfera de soledad y melancolía.\nContexto histórico: Escrito por el poeta de la dinastía Tang Meng Haoran durante sus viajes por el río Jiande, refleja el amor de los literatos por viajar y apreciar la naturaleza durante la dinastía Tang.",
+        "ar": "نقل القارب للرسو في جزيرة دخانية؛ عند المغيب، تتجدد حزن المسافر. 'الرسو' يعني توقيف القارب. 'الجزيرة الدخانية' تشير إلى جزيرة صغيرة محاطة بالدخان. 'عند المغيب' يشير إلى وقت الغسق. 'حزن المسافر' يعني مشاعر الحزن التي يشعر بها المسافر.\nالحقول الواسعة تجعل السماء تبدو أدنى من الأشجار؛ النهر الصافي يجعل القمر يبدو قريباً من الناس. 'الحقول الواسعة' تصف المساحات الشاسعة من الأرض. 'السماء أدنى من الأشجار' تعني أن السماء تبدو أقل ارتفاعاً من قمم الأشجار. 'النهر الصافي' يشير إلى نقاء المياه. 'القمر قريب من الناس' يعني أن القمر يبدو قريباً من المراقب.\n\nالنحو: يستخدم الشعر بنية موازية دون أنماط جمل خاصة.\nالإشارات: لا توجد إشارات محددة.\nالصور: الجزيرة الدخانية، المغيب، الحقول الواسعة، السماء أدنى من الأشجار، النهر الصافي، والقمر قريب من الناس، جميعها تخلق جواً من الوحدة والكآبة.\nالخلفية التاريخية: كتبه الشاعر التانغي مينغ هواوران خلال رحلاته على نهر جيانده، يعكس حب الأدباء في عهد التانغ للسفر والتقدير للطبيعة."
+    },
+    "appreciations": {
+        "zh": "《宿建德江》是唐代诗人孟浩然的作品，主题思想表达了诗人羁旅他乡时的孤独与愁绪。写作特色上，诗人通过移舟、泊烟渚、日暮等景物描写，营造出一种宁静而又凄凉的氛围，野旷天低树、江清月近人则通过对比手法突出了诗人内心的孤寂。艺术成就方面，此诗以简洁的语言和深邃的意境，展现了唐代山水诗的独特魅力。情感分析揭示出诗人对故乡的思念和对现实无奈的感慨。影响意义上，这首诗在文学史上具有重要地位，对后世山水诗的发展产生了深远影响。",
+        "en": "Suojian Dejiang is a work of Meng Haoran, a poet of the Tang Dynasty. The theme reflects the poet's loneliness and sorrow while traveling in a foreign land. In terms of writing characteristics, the poet creates a tranquil yet desolate atmosphere through descriptions of moving boats, misty islands, and sunset. The contrast between the vast wilderness, low trees, clear river, and the close moon highlights the poet's inner solitude. In terms of artistic achievements, this poem, with its concise language and profound artistic conception, showcases the unique charm of Tang Dynasty landscape poetry. Emotional analysis reveals the poet's longing for his hometown and his feelings of helplessness towards reality. In terms of influence and significance, this poem holds an important position in the history of literature and has had a profound impact on the development of later landscape poetry.",
+        "ja": "《宿建德江》は唐代の詩人孟浩然の作品で、主題思想は詩人が異郷で感じる孤独と愁いを表現しています。書き方の特色としては、舟の移動、煙の洲に停泊、日暮れなどの風景描写を通じて、静かで淋しい雰囲気を作り出しています。野が広く、天が木よりも低く、江が澄み、月が人に近いという対比によって、詩人の内面の孤独を強調しています。芸術的成果としては、簡潔な言葉と深い意境で、唐代の山水詩の独特な魅力を示しています。感情分析では、詩人の故郷への思慕と現実に対する無力感が明らかになります。影響と意味においては、この詩は文学史上重要な地位を占め、後世の山水詩の発展に大きな影響を与えました。",
+        "es": "“Suojian Dejiang” es una obra del poeta de la dinastía Tang, Meng Haoran. El tema central expresa la soledad y la melancolía del poeta mientras viaja en tierra extranjera. En cuanto a las características de escritura, el poeta crea una atmósfera tranquila pero melancólica a través de descripciones de mudanza de barcos, islas brumosas y atardeceres. El contraste entre el vasto campo, los árboles bajos, el río claro y la luna cercana resalta la soledad interior del poeta. En términos de logros artísticos, este poema, con su lenguaje conciso y su profunda concepción artística, muestra el encanto único de la poesía paisajística de la dinastía Tang. El análisis emocional revela el anhelo del poeta por su hogar y su sentimiento de impotencia hacia la realidad. En cuanto a su influencia y significado, este poema ocupa un lugar importante en la historia de la literatura y ha tenido un impacto profundo en el desarrollo de la poesía paisajística posterior.",
+        "ar": "“Suojian Dejiang” هو عمل للشاعر التانغي Meng Haoran. الفكرة الرئيسية تعبر عن الوحدة والاكتئاب التي يشعر بها الشاعر أثناء سفره في أرض غريبة. من حيث خصائص الكتابة، يخلق الشاعر جواً هادئاً لكن حزيناً من خلال وصفه لتحريك القوارب، الجزر الضبابية والغسق. يبرز التباين بين السهل الواسع، الأشجار المنخفضة، النهر الصافي والقمر القريب من الشاعر شعوره بالوحدة الداخلية. من حيث الإنجازات الفنية، يظهر هذا الشعر، بلغته المختصرة ورؤيته الفنية العميقة، سحر الشعر الطبيعي الفريد للدولة التانغية. يكشف التحليل العاطفي عن اشتياق الشاعر لوطنه و شعوره بالعجز تجاه الواقع. من حيث التأثير والمعنى، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب ولديه تأثير عميق على تطور الشعر الطبيعي اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "移船停泊在烟雾弥漫的小洲，日暮时分新添了旅人的愁绪。原野空旷，天空比树还低，江水清澈，月亮与人更亲近。",
+            "en": "Moving the boat to moor at the misty islet, at dusk a traveler's new sorrows arise. The wilderness is vast, the sky lower than the trees, the river clear, the moon close to the man.",
+            "ja": "舟を移して霧の小島に泊まる、日暮れて旅人の愁い新たに。野は広く、天は木よりも低く、江は澄み、月は人に近し。",
+            "es": "Moviendo el bote para atracar en la isla neblinosa, al anochecer surgen nuevas penas del viajero. El campo es vasto, el cielo más bajo que los árboles, el río está claro, la luna cerca del hombre.",
+            "ar": "نقل القارب للرسو في جزيرة دخانية، عند الغسق تتجدد حزن المسافر. السهل واسع، السماء أقل ارتفاعًا من الأشجار، النهر صافٍ، والقمر قريب من الإنسان."
+        },
+        "title_translation": {
+            "zh": "宿建德江",
+            "en": "Lodging on the Jiande River",
+            "ja": "建徳江に宿る",
+            "es": "Alojamiento en el Río Jiande",
+            "ar": "الإقامة على نهر جيانده"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "移舟泊烟渚，日暮客愁新。\n野旷天低树，江清月近人。",
+    "title_pinyin": "sù jiàn dé jiāng",
+    "pinyin": "yí zhōu pō yān zhǔ，rì mù kè chóu xīn。\nyě kuàng tiān dī shù，jiāng qīng yuè jìn rén。"
+}

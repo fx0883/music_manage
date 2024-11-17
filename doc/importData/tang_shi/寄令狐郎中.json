@@ -1,0 +1,57 @@
+{
+    "title": "寄令狐郎中",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐（约813年-约858年），字义山，号玉溪生，唐代著名诗人。他的诗歌风格独特，内容丰富，尤其擅长写爱情诗和无题诗，被誉为“诗魂”。李商隐的诗作常常蕴含深意，语言优美，情感细腻，深受后人喜爱。他的政治生涯并不顺利，多次科举不中，仕途坎坷，但他的文学成就却非常卓越。",
+            "en": "Li Shangyin (approx. 813-858), styled Yishan and also known as Yuxi Sheng, was a renowned poet of the Tang Dynasty. His poetic style is unique and rich in content, particularly skilled in writing love poems and untitled poems, earning him the title 'Poetic Soul'. Li Shangyin's poems often contain profound meanings, with beautiful language and delicate emotions, much admired by later generations. Despite his turbulent political career, marked by repeated failures in imperial examinations and a bumpy official path, his literary achievements are exceptionally outstanding.",
+            "ja": "李商隐（約813年-約858年）、字は義山、号は玉谿生、唐代の著名な詩人。彼の詩風は独特で内容が豊富で、特に恋愛詩や無題詩に長け、『詩魂』と称賛される。李商隐の詩は深い意味を含み、言葉が美しく、感情が繊細で、後世の人々に愛されている。彼の政治生涯は順風満帆ではなく、何度も科挙に落ち、官途も波乱万丈だったが、文学の業績は非常に優れていた。",
+            "es": "Li Shangyin (aprox. 813-858), también conocido como Yishan y Yuxi Sheng, fue un poeta destacado de la dinastía Tang. Su estilo poético es único y rico en contenido, especialmente hábil en escribir poemas de amor y poemas sin título, siendo conocido como 'Alma Poética'. Los poemas de Li Shangyin suelen contener significados profundos, con un lenguaje hermoso y emociones delicadas, muy apreciados por las generaciones posteriores. A pesar de su carrera política turbulenta, marcada por repetidos fracasos en los exámenes imperiales y un camino oficial accidentado, sus logros literarios son excepcionalmente notables.",
+            "ar": "لي شانغ ين (حوالي 813-858)، المعروف أيضًا باسم يي شان ويو شي شينغ، كان شاعرًا مشهورًا في عهد أسرة تانغ. يتميز أسلوبه الشعري بالتفرد والغنى في المحتوى، وخاصة في كتابة قصائد الحب والقصائد بدون عنوان، مما أهله ليُعرف بـ \"روح الشعر\". قصائد لي شانغ ين غالبًا ما تحمل معاني عميقة، بلغة جميلة وعواطف دقيقة، مما جعلها محبوبة من قبل الأجيال اللاحقة. على الرغم من مسيرته السياسية المتوترة، التي تميزت بفشل متكرر في الامتحانات الإمبراطورية وطريق وظيفي مضطرب، فإن إنجازاته الأدبية كانت استثنائية."
+        }
+    },
+    "annotations": {
+        "zh": "嵩云秦树久离居：嵩山的云和秦地的树，指代两地相隔遥远，久未相见。双鲤迢迢一纸书：双鲤指代书信，古时书信常以鲤鱼形状的木片传递；迢迢形容路途遥远。休问梁园旧宾客：梁园是汉代梁孝王所建的园林，常用来指代文人聚会之地；旧宾客指过去的宾客，暗指自己。茂陵秋雨病相如：茂陵是汉武帝的陵墓，这里借指作者所在地；秋雨和病相如（司马相如）都是用来形容作者自己病中的凄凉境况。\n语法说明：此诗为七言绝句，结构紧凑，语言简练。典故解释：司马相如曾因病免官，住在茂陵，这里作者以司马相如自比，表达自己病中的孤独和无奈。意象分析：嵩云、秦树、双鲤、秋雨等意象，营造了一种遥远、凄凉的氛围。历史背景：唐代文人常以书信寄托情感，此诗反映了作者与友人久别后的思念和自身的困境。",
+        "en": "Song Yun Qin Shu Jiu Li Ju: The clouds of Song Mountain and the trees of Qin region symbolize the long separation between two places. Shuang Li Tiao Tiao Yi Zhi Shu: Shuang Li (double carp) refers to letters, as ancient letters were often sent on wooden slips shaped like fish; Tiao Tiao describes the long distance. Xiu Wen Liang Yuan Jiu Bin Ke: Liang Yuan was a garden built by King Liang of the Han Dynasty, often used to refer to gatherings of literati; Jiu Bin Ke (old guests) implies the poet himself. Mao Ling Qiu Yu Bing Xiang Ru: Mao Ling is the tomb of Emperor Wu of Han, here referring to the poet's location; Qiu Yu (autumn rain) and Bing Xiang Ru (ill Sima Xiangru) describe the poet's desolate condition in illness.\nGrammar: This is a seven-character jueju, compact in structure and concise in language. Allusion: Sima Xiangru once retired due to illness and lived in Mao Ling; the poet compares himself to Sima Xiangru, expressing his loneliness and helplessness in illness. Imagery: The imagery of Song Yun, Qin Shu, Shuang Li, and Qiu Yu creates a remote and melancholic atmosphere. Historical Background: Tang Dynasty literati often expressed emotions through letters; this poem reflects the poet's longing for a friend after a long separation and his own predicament.",
+        "ja": "嵩雲秦樹久離居：嵩山の雲と秦の地の木、遠く離れた二つの地を指す。双鯉迢迢一紙書：双鯉は手紙を指し、古代の手紙は鯉の形をした木片で送られた；迢迢は遠い距離を表す。休問梁園旧賓客：梁園は漢代の梁孝王が造った庭園、文人の集まりの場所を指す；旧賓客は過去の賓客、詩人自身を暗示する。茂陵秋雨病相如：茂陵は漢武帝の陵墓、詩人の所在地を指す；秋雨と病相如（司馬相如）は詩人が病気でいる寂しい状況を表す。\n文法説明：七言絶句で、構造が紧凑で言語が簡潔。典故説明：司馬相如は病気で官職を辞し、茂陵に住んでいた；詩人は自分を司馬相如に例え、病気での孤独と無力感を表す。意象分析：嵩雲、秦樹、双鯉、秋雨などの意象が遠く寂しい雰囲気を作る。歴史背景：唐代の文人は手紙で感情を表現することが多く、この詩は友人との長い別れ後の思いと自身の困境を反映している。",
+        "es": "Song Yun Qin Shu Jiu Li Ju: Las nubes del Monte Song y los árboles de la región de Qin representan la larga separación entre dos lugares. Shuang Li Tiao Tiao Yi Zhi Shu: Shuang Li (doble carpa) se refiere a cartas, ya que las cartas antiguas a menudo se enviaban en tablillas de madera con forma de pez; Tiao Tiao describe la larga distancia. Xiu Wen Liang Yuan Jiu Bin Ke: Liang Yuan era un jardín construido por el Rey Liang de la Dinastía Han, a menudo usado para referirse a reuniones de literatos; Jiu Bin Ke (antiguos huéspedes) implica al poeta mismo. Mao Ling Qiu Yu Bing Xiang Ru: Mao Ling es la tumba del Emperador Wu de Han, aquí refiriéndose a la ubicación del poeta; Qiu Yu (lluvia de otoño) y Bing Xiang Ru (el enfermo Sima Xiangru) describen la condición desolada del poeta en enfermedad.\nGramática: Este es un jueju de siete caracteres, compacto en estructura y conciso en lenguaje. Alusión: Sima Xiangru una vez se retiró debido a una enfermedad y vivió en Mao Ling; el poeta se compara a Sima Xiangru, expresando su soledad e impotencia en la enfermedad. Imaginería: La imaginería de Song Yun, Qin Shu, Shuang Li y Qiu Yu crea una atmósfera remota y melancólica. Contexto Histórico: Los literatos de la Dinastía Tang a menudo expresaban emociones a través de cartas; este poema refleja el anhelo del poeta por un amigo después de una larga separación y su propia dificultad.",
+        "ar": "Song Yun Qin Shu Jiu Li Ju: السحب جبل سونغ وأشجار منطقة تشين تشير إلى الفراق الطويل بين مكانين. Shuang Li Tiao Tiao Yi Zhi Shu: Shuang Li (سمكتين) تشير إلى الرسائل، حيث كانت الرسائل القديمة ترسل على ألواح خشبية على شكل سمك؛ Tiao Tiao تصف المسافة الطويلة. Xiu Wen Liang Yuan Jiu Bin Ke: Liang Yuan هو حديقة بناها الملك ليانغ في عهد أسرة هان، غالبًا ما تستخدم للإشارة إلى اجتماعات الأدباء؛ Jiu Bin Ke (الضيوف القدامى) تشير إلى الشاعر نفسه. Mao Ling Qiu Yu Bing Xiang Ru: Mao Ling هو قبر الإمبراطور وو من أسرة هان، هنا يشير إلى مكان الشاعر؛ Qiu Yu (مطر الخريف) و Bing Xiang Ru (المريض سима شيانغرو) يصفان حالة الشاعر المزرية في المرض.\nالنحو: هذا قصيدة jueju من سبعة حروف، مضغوط في البنية وموجز في اللغة. الإشارة: سима شيانغرو كان قد اعتزل بسبب المرض وعاش في Mao Ling؛ الشاعر يقارن نفسه بسима شيانغرو، يعبر عن وحدته وعدم قدرته في المرض. التحليل البياني: الصور البيانية مثل Song Yun، Qin Shu، Shuang Li، و Qiu Yu تخلق جوًا بعيدًا وحزينًا. الخلفية التاريخية: أدباء عهد التانغ غالبًا ما يعبرون عن مشاعرهم من خلال الرسائل؛ هذه القصيدة تعكس توق الشاعر لصديق بعد فراق طويل وصعوبته الخاصة."
+    },
+    "appreciations": {
+        "zh": "《寄令狐郎中》是唐代诗人李商隐的作品，主题思想表达了对远方友人的深切思念和自身境遇的无奈。写作特色上，诗人运用了象征手法，以“嵩云秦树”象征两地相隔，以“双鲤”代指书信，简洁而富有意象。艺术成就方面，此诗以其含蓄深沉、意境悠远而著称，展现了唐代文人书信诗的高超艺术水平。情感分析上，诗中流露出对往昔友情和自身病弱的感伤，情感真挚动人。影响意义上，这首诗在文学史上被视为唐代文人书信诗的代表作之一，对后世诗歌创作产生了深远影响。",
+        "en": "Ji Linghu Langzhong by Li Shangyin of the Tang Dynasty reflects a profound longing for a distant friend and the helplessness of his own circumstances. In terms of writing style, the poet employs symbolic imagery, using 'Song clouds and Qin trees' to signify separation and 'double carps' to represent letters, achieving brevity and rich imagery. Artistically, the poem is renowned for its subtle depth and expansive imagery, exemplifying the high artistic standards of Tang Dynasty epistolary poetry. Emotionally, it conveys a sense of melancholy over past friendships and personal frailty, with genuine and moving sentiments. Historically, this poem is considered a representative work of Tang Dynasty epistolary poetry, exerting a lasting influence on later poetic compositions.",
+        "ja": "《寄令狐郎中》は唐代の詩人李商隠の作品で、遠方の友人への深い思いやりと自身の境遇に対する無力感を主題としています。表現手法としては、象徴的手法を用い、「嵩雲秦樹」で两地の隔たり、「双鯉」で手紙を示すなど、簡潔でありながら豊かなイメージを描いています。芸術的成果としては、含蓄深く、意境が遠大であることが特徴で、唐代文人の手紙詩の高い芸術水準を示しています。感情分析としては、過去の友情と自身の病弱に対する感傷がにじみ出ており、真挚で感動的な感情が表れています。影響の意味では、文学史上において唐代文人の手紙詩の代表作の一つとされ、後世の詩作に大きな影響を与えました。",
+        "es": "Ji Linghu Langzhong, obra de Li Shangyin de la dinastía Tang, expresa un profundo anhelo por un amigo lejano y la impotencia ante su propia situación. En cuanto a la técnica literaria, el poeta utiliza imágenes simbólicas, como 'nubes de Song y árboles de Qin' para representar la separación y 'doble carpa' para simbolizar cartas, logrando así una escritura concisa y rica en imágenes. En términos de logros artísticos, el poema es conocido por su profundidad sutil y su vasto paisaje imaginativo, reflejando los altos estándares artísticos de la poesía epistolar de la dinastía Tang. En el análisis emocional, el poema transmite una melancolía por la amistad pasada y la fragilidad personal, con sentimientos真挚 y conmovedores. En cuanto a su significado e influencia, este poema es considerado una de las obras representativas de la poesía epistolar de los literatos de la dinastía Tang, ejerciendo una influencia duradera en la creación poética posterior.",
+        "ar": "《 Ji Linghu Langzhong》 هي عمل للشاعر لي شانغ ين من عهد التانغ، وتعبر عن اشتياق عميق لأصدقاء بعيدون وضعفه في مواجهة ظروفه الخاصة. فيما يتعلق بطريقة الكتابة، يستخدم الشاعر الصور الرمزية، مثل \"سحب سونغ وأشجار تشين\" للإشارة إلى الانفصال و \"سمكتين\" للإشارة إلى الرسائل، مما يحقق كتابة موجزة وغنية بالصور. من حيث الإنجاز الفني، يتميز الشعر بعمقه الدقيق ومدى تخيله الواسع، مما يعكس المعايير الفنية العالية للشعر البريدي لعهد التانغ. في تحليل العواطف، يعبر الشعر عن حزن على الصداقات الماضية وضعفه الشخصي، بمشاعر صادقة ومؤثرة. من حيث المعنى والتأثير، يعتبر هذا الشعر واحداً من أعمال الشعر البريدي التمثيلية للأدباء في عهد التانغ، مما أثر تأثيراً طويل الأمد في الكتابة الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "嵩山云雾，秦川树木，久已分离；远隔千里，双鲤传书，仅凭一纸。莫问梁园旧日宾客，如今我如茂陵秋雨中的病相如。",
+            "en": "Clouds over Mount Song, trees in the Qin land, long separated we are; far apart, a pair of carps convey a letter on a single sheet. Do not ask about the old guests of Liang Garden, now I am like the ailing Sima Xiangru in the autumn rain of Maoling.",
+            "ja": "嵩山の雲、秦の木、久しく離れて；遥か遠く、双魚は遠い一紙の手紙。梁園の旧客を問うな、今私は茂陵の秋雨の中の病んだ相如のよう。",
+            "es": "Nubes sobre la Montaña Song, árboles en la tierra de Qin, hemos estado separados por mucho tiempo; lejos, un par de carpas lleva una carta en una sola hoja. No preguntes por los antiguos huéspedes del Jardín Liang, ahora soy como Sima Xiangru enfermo en la lluvia de otoño de Maoling.",
+            "ar": "سحب فوق جبل سونغ، أشجار في أرض تشين، منذ فترة طويلة منفصلين؛ بعيداً، زوج من السمك يوصِل رسالة في ورقة واحدة. لا تسأل عن الضيوف القدامى لحدائق ليانغ، الآن أنا مثل سима شيانغرو المريض في مطر الخريف في مولينغ."
+        },
+        "title_translation": {
+            "zh": "寄令狐郎中",
+            "en": "To Linghu Langzhong",
+            "ja": "令狐郎中への手紙",
+            "es": "A Linghu Langzhong",
+            "ar": "إلى لينغهو لانغتشونغ"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "嵩云秦树久离居，双鲤迢迢一纸书。\n休问梁园旧宾客，茂陵秋雨病相如。",
+    "title_pinyin": "jì lìng hú láng zhōng",
+    "pinyin": "sōng yún qín shù jiǔ lí jū，shuāng lǐ tiáo tiáo yī zhǐ shū。\nxiū wèn liáng yuán jiù bīn kè，mào líng qiū yǔ bìng xiāng rú。"
+}

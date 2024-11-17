@@ -1,0 +1,57 @@
+{
+    "title": "咏怀古迹五首·其五",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫，字子美，自号少陵野老，唐代著名现实主义诗人，与李白合称为“李杜”。他的诗歌内容广泛，深刻反映了唐代社会的现实，尤其以忧国忧民的诗作著称，被后人尊称为“诗圣”。代表作有《春望》、《登高》、《茅屋为秋风所破歌》等。",
+            "en": "Du Fu, styled Zimei and self-titled Shaoling Ye Lao, was a renowned realist poet of the Tang Dynasty, often paired with Li Bai as 'Li Du'. His poetry covers a wide range of topics and profoundly reflects the realities of Tang society, particularly known for his patriotic and empathetic works, earning him the title 'Poet Saint' by later generations. Notable works include 'Spring View', 'Climbing High', and 'Song of the Thatched Cottage Destroyed by the Autumn Wind'.",
+            "ja": "杜甫は、字を子美、自号を少陵野老と称する、唐代の著名な現実主義詩人であり、李白と共に「李杜」と並称される。彼の詩は内容が広範にわたり、唐代社会の現実を深く反映しており、特に国を憂い民を思う詩作で知られ、後世「詩聖」と尊称される。代表作には『春望』、『登高』、『茅屋為秋風所破歌』などがある。",
+            "es": "Du Fu, también conocido como Zimei y autodenominado Shaoling Ye Lao, fue un destacado poeta realista de la dinastía Tang, a menudo mencionado junto a Li Bai como 'Li Du'. Su poesía abarca una amplia gama de temas y refleja profundamente la realidad de la sociedad Tang, especialmente conocido por sus obras patrióticas y compasivas, lo que le valió el título de 'Santo de la Poesía' por las generaciones posteriores. Entre sus obras más destacadas se encuentran 'Vista de Primavera', 'Escalar Alto' y 'Canción de la Cabaña de Paja Destrozada por el Viento de Otoño'.",
+            "ar": "دو فو، المعروف بلقب زيمي ويعتبر نفسه شاولينغ يي لاو، كان شاعرًا واقعيًا بارزًا في عهد التانغ، غالبًا ما يُذكر جنبًا إلى جنب مع لي باي باسم 'لي دو'. شعره يغطي مجموعة واسعة من المواضيع ويعكس بعمق حقيقة المجتمع التانغي، خاصة معروف بأعماله الوطنية والتعاطفية، مما أكسبه لقب 'قديس الشعر' من قبل الأجيال اللاحقة. من بين أعماله البارزة 'منظر الربيع'، 'الصعود إلى الأعلى' و 'أغنية البيت القش الذي دمرته رياح الخريف'."
+        }
+    },
+    "annotations": {
+        "zh": "诸葛大名垂宇宙：诸葛亮的名声流传于天地之间。垂，流传。宇宙，天地。宗臣遗像肃清高：这位宗臣的遗像令人肃然起敬。宗臣，指诸葛亮，因其为蜀汉的支柱。肃，肃然起敬。清高，品德高尚。三分割据纡筹策：指诸葛亮协助刘备三分天下，制定策略。纡，曲折，引申为精心策划。筹策，计策。万古云霄一羽毛：比喻诸葛亮的才能如云霄中的一片羽毛，高不可及。伯仲之间见伊吕：指诸葛亮与伊尹、吕尚不相上下。伯仲，兄弟间的次序，引申为不相上下。伊吕，指商朝的伊尹和周朝的吕尚。指挥若定失萧曹：诸葛亮的指挥若定，使萧何、曹参都显得失色。萧曹，指汉初的萧何和曹参。运移汉祚终难复：天命已转移，汉室的国运终究难以恢复。祚，国运。志决身歼军务劳：诸葛亮志向坚定，最终因军务繁劳而身死。歼，死亡。",
+        "en": "Zhuge's great name hangs in the universe: Zhuge Liang's fame is spread throughout the heavens and earth. Hang, spread. Universe, heaven and earth. The image of the patriarchal minister is solemn and noble: the image of this patriarchal minister commands respect. Patriarchal minister, referring to Zhuge Liang, as he was the pillar of Shu Han. Solemn, respectful. Noble, morally upright. Three divisions and strategies: referring to Zhuge Liang's assistance to Liu Bei in dividing the world into three parts and devising strategies. Curve, winding, extended to mean carefully planned. Strategies, plans. A feather in the eternal sky: a metaphor for Zhuge Liang's talent being as unreachable as a feather in the sky. Between brothers, see Yi and Lu: meaning Zhuge Liang is on par with Yi Yin and Lu Shang. Brothers, the order among brothers, extended to mean on par. Yi Lu, referring to Yi Yin of the Shang Dynasty and Lu Shang of the Zhou Dynasty. Commanding as if determined, surpassing Xiao and Cao: Zhuge Liang's commanding presence makes Xiao He and Cao Shen seem inferior. Xiao Cao, referring to Xiao He and Cao Shen of the early Han Dynasty. The shift of fate, the Han dynasty's destiny is hard to restore: destiny has shifted, and the Han dynasty's fate is ultimately hard to recover. Destiny, fate. Determined in will, dying in military affairs: Zhuge Liang was determined in his will and eventually died from the toil of military affairs. Die, death.",
+        "ja": "諸葛大名垂宇宙：諸葛亮の名は天地に伝わる。垂れる、伝わる。宇宙、天地。宗臣遺像粛清高：この宗臣の遺像は敬虔で清高である。宗臣、諸葛亮を指す、蜀漢の柱であったため。粛、敬虔。清高、品性高潔。三分割据紆籌策：諸葛亮が劉備に協力して天下を三分し、策を練ること。紆、曲がる、精巧な計画を意味する。籌策、計策。万古雲霄一羽毛：諸葛亮の才能は雲霄の一羽根のように高く到達不能である。伯仲の間に伊呂見：諸葛亮は伊尹、呂尚に劣らない。伯仲、兄弟の順序、同等を意味する。伊呂、商の伊尹と周の呂尚を指す。指揮若定失蕭曹：諸葛亮の指揮は確固としており、蕭何、曹参をも失色させる。蕭曹、漢初の蕭何と曹参を指す。運移漢祚終難復：運命が移り、漢の国運は到底回復しがたい。祚、国運。志決身殲軍務労：諸葛亮は志を固めて、軍務の労により命を落とす。殲、死亡。",
+        "es": "El gran nombre de Zhuge pende en el universo: el nombre de Zhuge Liang se extiende por todo el cielo y la tierra. Pender, extenderse. Universo, cielo y tierra. La imagen del ministro patriarcal es solemne y noble: la imagen de este ministro patriarcal inspira respeto. Ministro patriarcal, se refiere a Zhuge Liang, ya que era el pilar de Shu Han. Solemne, respetuoso. Noble, moralmente elevado. Tres divisiones y estrategias tortuosas: se refiere a la asistencia de Zhuge Liang a Liu Bei en dividir el mundo en tres partes y formular estrategias. Tortuoso, sinuoso, se extiende a planificar cuidadosamente. Estrategias, planes. Una pluma en el cielo eterno: una metáfora de que el talento de Zhuge Liang es tan inalcanzable como una pluma en el cielo. Entre hermanos, ver a Yi y Lu: significa que Zhuge Liang está a la par con Yi Yin y Lu Shang. Hermanos, el orden entre hermanos, se extiende a estar a la par. Yi Lu, se refiere a Yi Yin de la dinastía Shang y Lu Shang de la dinastía Zhou. Comandar con determinación, superar a Xiao y Cao: la presencia comandante de Zhuge Liang hace que Xiao He y Cao Shen parezcan inferiores. Xiao Cao, se refiere a Xiao He y Cao Shen de los inicios de la dinastía Han. El destino cambia, el destino de Han es difícil de restaurar: el destino ha cambiado, y el destino de la dinastía Han es finalmente difícil de recuperar. Destino, destino. Determinado en la voluntad, muerto en asuntos militares: Zhuge Liang estaba determinado en su voluntad y finalmente murió por el trabajo de asuntos militares. Morir, muerte.",
+        "ar": "الاسم الكبير لـ جوغه ينتشر في الكون: اسم جوغه ليانغ ينتشر في السماء والأرض. ينتشر، ينتشر. الكون، السماء والأرض. صورة الوزير الأكبر تُظهر الوقار والنبل: صورة هذا الوزير الأكبر تُظهر الاحترام. الوزير الأكبر، يشير إلى جوغه ليانغ، لأنه كان عموداً لـ شو هان. الوقار، الاحترام. النبل، الأخلاق العالية. التقسيم إلى ثلاثة واستراتيجيات معقدة: يشير إلى مساعدة جوغه ليانغ لـ ليو بيه في تقسيم العالم إلى ثلاثة أجزاء ووضع الاستراتيجيات. معقد، متعرج، يُقصد به التخطيط الدقيق. الاستراتيجيات، الخطط. ريشة في السماء الأبدية: استعارة لتعالي موهبة جوغه ليانغ كريشة في السماء. بين الإخوة، يُرى يي ولون: يعني أن جوغه ليانغ يتفوق على يي ين ولون شانغ. الإخوة، ترتيب بين الإخوة، يُقصد به التفوق. يي لون، يشير إلى يي ين من أسرة شانغ ولون شانغ من أسرة تشو. القيادة بثبات تفوق شياو وتاو: قيادة جوغه ليانغ الثابتة تجعل شياو هه وتاو شين يبدوان أقل شأناً. شياو تاو، يشير إلى شياو هه وتاو شين من بداية أسرة هان. تغير القدر، مصير هان يصعب استعادته: القدر تغير، ومصير أسرة هان يصعب استعادته. القدر، المصير. العزيمة الثابتة والموت في الشؤون العسكرية: جوغه ليانغ كان عازمًا ومات بسبب تعبه في الشؤون العسكرية. يموت، الموت."
+    },
+    "appreciations": {
+        "zh": "这首诗通过对诸葛亮的赞美，表达了对忠诚、智慧和奉献精神的敬仰。诗中运用了对比、夸张等手法，突出了诸葛亮的伟大形象。艺术成就上，诗歌结构严谨，语言凝练，意境深远。情感上，诗人抒发了对英雄悲剧命运的感慨和对其高尚品质的赞美。在文学史上，这首诗是咏史怀古的经典之作，对后世有着深远的影响。",
+        "en": "This poem extols Zhuge Liang, expressing admiration for loyalty, wisdom, and dedication. It employs techniques like comparison and hyperbole to highlight Zhuge's greatness. Artistically, the poem is structurally sound, linguistically concise, and profound in its imagery. Emotionally, it conveys the poet's lament over the tragic fate of a hero and praise for his noble qualities. In literary history, this poem stands as a classic in historical reflection, exerting a lasting influence on later generations.",
+        "ja": "この詩は、諸葛亮を讃えることで、忠誠、知恵、献身精神に対する敬仰を表現しています。詩では対比、誇張などの手法を用い、諸葛の偉大なイメージを強調しています。芸術的成果としては、詩の構造が厳密で、言語が凝縮され、意境が深遠です。感情面では、詩人は英雄の悲劇的な運命に対する感慨とその高潔な品質に対する賛美を抒发しています。文学史上、この詩は歴史を詠む古典的名作であり、後世に深い影響を与えています。",
+        "es": "Este poema alaba a Zhuge Liang, expresando admiración por la lealtad, la sabiduría y el espíritu de dedicación. Utiliza técnicas como la comparación y la hipérbole para resaltar la grandeza de Zhuge. Artísticamente, el poema es estructuralmente sólido, lingüísticamente conciso y profundo en su imaginería. Emocionalmente, transmite el lamento del poeta por el trágico destino del héroe y elogia sus cualidades nobles. En la historia de la literatura, este poema es una obra clásica de reflexión histórica, ejerciendo una influencia duradera en las generaciones posteriores.",
+        "ar": "هذه القصيدة تسهب في مدح جوغه ليانغ، تعبيراً عن الإعجاب بالولاء، والحكمة، وروح التفاني. تستخدم القصيدة تقنيات مثل المقارنة وال مبالغة للتأكيد على عظمة جوغه. من الناحية الفنية، القصيدة متماسكة من الناحية البنائية، موجزة من الناحية اللغوية، وعميقة في صورها. من الناحية العاطفية، يعبر الشاعر عن حزنه على المصير المأساوي للبطل ويثني على صفاته النبيلة. في تاريخ الأدب، هذه القصيدة تعتبر عملاً كلاسيكياً في التأمل التاريخي، ولها تأثير طويل الأمد على الأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "诸葛亮大名垂宇宙，功臣遗像庄严清高。\n三分天下精心筹策，万古云霄一羽毛。\n兄弟之间见伊吕，指挥若定胜萧曹。\n国运已移汉祚难复，志坚身陨军务劳。",
+            "en": "Zhuge Liang's great name resounds through the universe,\nHis portrait, a legacy of a revered minister, exudes dignity and purity.\nStrategizing the tripartite division with meticulous care,\nEternal as a feather in the boundless sky.\nAmong brothers, he stands akin to Yi and Lu,\nCommanding with certainty, surpassing Xiao and Cao.\nAs the dynasty's fate shifted, the Han's mandate proved irretrievable,\nHis resolve unyielding, his life lost in the toils of military affairs.",
+            "ja": "諸葛孔明の大名将は宇宙に垂れ、\n功臣の遺像は荘厳で清高。\n三分の天下を精密に策を練り、\n万古の雲霄に一片の羽。\n兄弟の中に伊呂を見、\n指揮は定まり、蕭曹を失う。\n運命は漢の祚を移り、復すること難し、\n志は堅く、身は没し、軍務に励む。",
+            "es": "El gran nombre de Zhuge Liang resuena en el universo,\nSu imagen, legado de un ministro venerado, irradia dignidad y pureza.\nPlaneando la división tripartita con esmero,\nEterno como una pluma en el cielo infinito.\nEntre hermanos, se asemeja a Yi y Lu,\nDirigiendo con firmeza, superando a Xiao y Cao.\nCon el destino del imperio cambiado, el mandato de Han resulta difícil de recuperar,\nSu determinación inquebrantable, su vida perdida en las faenas militares.",
+            "ar": "يُعلو اسم جوغه ليانغ في الكون،\nصورته، إرث الوزير المُقَدّر، تَنبعث منها الوقار والنقاء.\nيخطط لِتقسيم الثلاثة أجزاء بحذر شديد،\nخالد كريشة في السماء اللامتناهية.\nبين الإخوة، يظهر مثل يي ولُو،\nيدير بشيء من الثبات، يتفوق على شياو وتشاو.\nمع انتقال القدر للإمبراطورية، يصعب استعادة ولاية هان،\nعزيمته صلبة، حياته تُزهق في متاعب العسكر."
+        },
+        "title_translation": {
+            "zh": "咏怀古迹五首·其五",
+            "en": "Reflecting on Historical Sites: Part Five",
+            "ja": "古跡を詠う五首·其の五",
+            "es": "Reflexiones sobre Sitios Históricos: Quinta Parte",
+            "ar": "التفكير في المواقع التاريخية: الجزء الخامس"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "诸葛大名垂宇宙，宗臣遗像肃清高。\n三分割据纡筹策，万古云霄一羽毛。\n伯仲之间见伊吕，指挥若定失萧曹。\n运移汉祚终难复，志决身歼军务劳。",
+    "title_pinyin": "yǒng huái gǔ jì wǔ shǒu·qí wǔ",
+    "pinyin": "zhū gé dà míng chuí yǔ zhòu，zōng chén yí xiàng sù qīng gāo。\nsān fēn gē jù yū chóu cè，wàn gǔ yún xiāo yī yǔ máo。\nbó zhòng zhī jiān jiàn yī lǚ，zhǐ huī ruò dìng shī xiāo cáo。\nyùn yí hàn zuò zhōng nán fù，zhì jué shēn jiān jūn wù láo。"
+}

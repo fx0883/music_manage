@@ -1,0 +1,57 @@
+{
+    "title": "玉台体",
+    "difficulty": 2,
+    "author": {
+        "name": "权德舆",
+        "name_pinyin": "quán dé yú",
+        "image": "权德舆.jpg",
+        "introduction": {
+            "zh": "权德舆（759年－818年），字载之，唐代文学家、政治家。他出生于今天的江苏苏州，历任监察御史、礼部尚书等职，官至宰相。权德舆以文学成就著称，尤其擅长五言诗，其作品多反映社会现实和人民生活，风格清新自然。他的诗歌在当时颇受赞誉，对后世也有一定影响。《玉台体》是他的代表作之一，展现了其细腻的情感表达和独特的艺术风格。",
+            "en": "Quan Deyu (759-818), styled Zaizhi, was a renowned Tang Dynasty litterateur and statesman. Born in present-day Suzhou, Jiangsu, he served in various official positions including Inspectorate General and Minister of Rites, eventually rising to the rank of Prime Minister. Quan Deyu was celebrated for his literary achievements, particularly in the realm of five-character poetry. His works often reflected social realities and the lives of the common people, characterized by a fresh and natural style. His poetry was highly praised during his time and exerted a certain influence on later generations. 'Yutai Ti' is one of his representative works, showcasing his delicate emotional expression and unique artistic style.",
+            "ja": "権徳輿（759年－818年）、字は載之、唐代の文学者・政治家。現在の江蘇省蘇州市出身で、監察御史、礼部尚書などを歴任し、宰相にまで上り詰めた。権徳輿は文学の分野での業績で知られ、特に五言詩に優れていた。彼の作品は社会の現実や人民の生活を反映し、清新で自然なスタイルを持っている。当時彼の詩は高く評価され、後世にも一定の影響を与えた。《玉台体》は彼の代表作の一つで、繊細な感情表現と独特な芸術スタイルを示している。",
+            "es": "Quan Deyu (759-818), también conocido como Zaizhi, fue un destacado literato y político de la dinastía Tang. Nacido en lo que hoy es Suzhou, Jiangsu, ocupó varios cargos oficiales, incluyendo Inspector General y Ministro de Ritos, llegando finalmente a ser Primer Ministro. Quan Deyu era conocido por sus logros literarios, especialmente en la poesía de cinco caracteres. Sus obras a menudo reflejaban la realidad social y la vida del pueblo, con un estilo fresco y natural. Su poesía fue muy elogiada en su época y tuvo una cierta influencia en las generaciones posteriores. 'Yutai Ti' es una de sus obras representativas, que muestra su expresión emocional delicada y su estilo artístico único.",
+            "ar": "quan Deyu (759-818)، المعروف أيضًا باسم Zaizhi، كان كاتبًا ومسؤولًا سياسيًا بارزًا في عهد أسرة تانغ. وُلد في ما يعرف الآن بمدينة سوتشو في مقاطعة جيانغسو، وشغل العديد من المناصب الرسمية بما في ذلك مفتش عام ووزير الطقوس، حتى وصل إلى منصب رئيس الوزراء. كان Quan Deyu معروفًا بإنجازاته الأدبية، خاصة في مجال الشعر ذي الخمس كلمات. تعكس أعماله في كثير من الأحيان الواقع الاجتماعي وحياة الناس، بأسلوب طازج وجذاب. حظيت شعرته بتقدير كبير في وقته وأثرت إلى حد ما في الأجيال اللاحقة. 'Yutai Ti' هو واحد من أعماله الرئيسية، حيث يظهر تعبيره العاطفي الرقيق وأسلوبه الفني الفريد."
+        }
+    },
+    "annotations": {
+        "zh": "昨夜裙带解：指昨夜裙带突然解开，古人认为这是吉祥的预兆。\\n今朝蟢子飞：蟢子，即蜘蛛，古人认为蜘蛛飞入家中也是吉兆。\\n铅华不可弃：铅华，古代妇女用以化妆的铅粉，这里指女子的美貌。不可弃，指不可放弃打扮。\\n莫是藁砧归：藁砧，古代指丈夫，因古时处死刑时，罪人席藁伏于砧上，故以藁砧隐指丈夫。归，指归来。\\n\\n语法说明：此诗使用平仄韵律，句式工整，无特殊句式。\\n典故解释：藁砧归，用古代处死刑的典故隐指丈夫归来。\\n意象分析：裙带解、蟢子飞均为吉祥的预兆，象征好事即将发生；铅华象征女子的美貌。\\n历史背景：唐代社会重视婚姻家庭，此诗反映了女子对丈夫归来的期盼。",
+        "en": "Last night the skirt belt untied: Refers to the skirt belt suddenly coming undone last night, which ancient people considered a good omen.\\nThis morning the spider flies: Spider, considered a good omen when it enters the house in ancient times.\\nLead powder cannot be abandoned: Lead powder, used by ancient women for makeup, here refers to a woman's beauty. Cannot be abandoned, means not giving up dressing up.\\nCould it be that the husband returns: Straw anvil, ancient term for husband, derived from the practice of executing criminals on a straw mat over an anvil. Returns, means coming back.\\n\\nGrammar explanation: This poem uses tonal prosody with neat sentence structure, no special syntax.\\nAllusion explanation: Straw anvil return, uses the ancient execution practice to metaphorically refer to the husband's return.\\nImagery analysis: Skirt belt untying and spider flying are both good omens, symbolizing good things to come; lead powder symbolizes a woman's beauty.\\nHistorical background: Tang Dynasty society valued marriage and family, this poem reflects a woman's anticipation of her husband's return.",
+        "ja": "昨夜裙帯解：昨夜、裙の帯が突然解けたこと。古人はこれを吉兆と見なす。\\n今朝蟢子飛：蟢子（くも）が飛ぶこと。古人は蜘蛛が家に入ると吉兆とする。\\n鉛華不可棄：鉛華（えんか）は、古代の女性が化粧に用いた鉛の粉。ここでは女性の美しさを指す。不可棄は、化粧をやめるなという意味。\\n莫是藁砧歸：藁砧（わらうす）は、古代に夫を指す隠語。死刑の際、罪人が藁の上に伏せて砧の上で処刑されることから。歸は、帰ること。\\n\\n文法説明：この詩は平仄の韻律を用い、句式が整っている。特殊な文法はない。\\n典故説明：藁砧歸は、古代の死刑の習慣から夫の帰還を暗示する。\\n意象分析：裙帯解、蟢子飛はいずれも吉兆で、良いことが起こる前触れを象徴。鉛華は女性の美しさを象徴。\\n歴史背景：唐代の社会は婚姻家庭を重視し、この詩は女性が夫の帰還を待ち望む心情を反映。",
+        "es": "Anoche el cinturón de la falda se desató: Se refiere a que el cinturón de la falda se desató repentinamente anoche, lo cual los antiguos consideraban un buen augurio.\\nEsta mañana el araña vuela: Araña, considerada un buen augurio cuando entra en la casa en la antigüedad.\\nEl polvo de plomo no debe ser abandonado: Polvo de plomo, usado por las mujeres antiguas para maquillarse, aquí se refiere a la belleza de la mujer. No debe ser abandonado, significa no dejar de arreglarse.\\n¿Podría ser que el esposo regresa?: Paja yunque, término antiguo para el esposo, derivado de la práctica de ejecutar criminales sobre una estera de paja sobre un yunque. Regresa, significa volver.\\n\\nExplicación gramatical: Este poema utiliza prosodia tonal con una estructura de oración ordenada, sin sintaxis especial.\\nExplicación de la alusión: Paja yunque regresa, usa la práctica de ejecución antigua para referirse metafóricamente al regreso del esposo.\\nAnálisis de imágenes: Desatar el cinturón de la falda y la araña volando son ambos buenos augurios, simbolizando que buenas cosas están por venir; el polvo de plomo simboliza la belleza de la mujer.\\nContexto histórico: La sociedad de la dinastía Tang valoraba el matrimonio y la familia, este poema refleja la anticipación de una mujer por el regreso de su esposo.",
+        "ar": "ليلة البارحة حزام الفستان انفك: يشير إلى أن حزام الفستان انفك فجأة ليلة البارحة، وكان يعتبر في العصور القديمة علامة جيدة.\\nهذا الصباح العنكبوت يطير: العنكبوت، يعتبر دخوله المنزل في العصور القديمة علامة جيدة.\\nلا يمكن التخلي عن بودرة الرصاص: بودرة الرصاص، كانت تستخدمها النساء في العصور القديمة للتجميل، هنا تشير إلى جمال المرأة. لا يمكن التخلي عنها، تعني عدم التوقف عن التزيين.\\nربما يكون الزوج قد عاد: القش الأثمد، مصطلح قديم للزوج، مشتق من ممارسة إعدام المجرمين على حصيرة قش فوق أثمد. عاد، يعني الرجوع.\\n\\nشرح النحو: يستخدم هذا الشعر قافية الأوزان، مع بنية جملة منتظمة، لا يحتوي على بناء نحوي خاص.\\nشرح الإستعارة: القش الأثمد عاد، يستخدم ممارسة الإعدام القديمة للإشارة بشكل مجازي إلى عودة الزوج.\\nتحليل الصور: انفكاك حزام الفستان وطيران العنكبوت هما علامتان جيدتان، يمثلان بشائر الخير القادم؛ بودرة الرصاص ترمز إلى جمال المرأة.\\nالخلفية التاريخية: كانت المجتمع في عهد التانغ يولي أهمية كبيرة للزواج والأسر، يعكس هذا الشعر تطلع المرأة لعودة زوجها."
+    },
+    "appreciations": {
+        "zh": "这首《玉台体》通过描写女子生活中的细节，表达了思妇对丈夫归来的期盼。主题思想在于揭示女性内心深处的情感和对家庭团聚的渴望。写作特色上，诗人巧妙运用了象征手法，如裙带解和蟢子飞，暗示吉兆，增强了诗的含蓄美。艺术成就方面，诗中细腻的情感描写和生动的意象，展现了唐代诗歌的精致与含蓄。情感分析上，诗中流露出女子对丈夫的深情思念和期待，情感真挚动人。影响意义上，此诗作为唐代闺怨诗的代表，对后世文学创作产生了深远影响。",
+        "en": "This poem 'Yutai Ti' depicts the details of a woman's life, expressing the longing of a wife for her husband's return. The theme centers on revealing the deep emotions of women and their desire for family reunion. In terms of writing style, the poet skillfully uses symbolism, such as the untying of a skirt belt and the flying of a spider, to imply good omens, enhancing the poem's subtlety. Artistically, the poem's delicate emotional description and vivid imagery showcase the refinement and subtlety of Tang Dynasty poetry. Emotionally, it conveys the woman's deep longing and expectation for her husband, with sincere and moving feelings. Historically, as a representative work of Tang Dynasty 'grievance poetry,' it has had a profound impact on later literary creations.",
+        "ja": "この詩「玉台体」は、女性の生活の細部を描き、妻が夫の帰還を待ち望む心情を表現しています。主題は、女性の深層心理と家族の再会への願望を明らかにすることにあります。表現手法としては、詩人は象徴的手法を巧みに用い、例えば裳の帯の解けや蟢子の飛びを吉兆として示し、詩の含蓄を高めています。芸術的成就としては、繊細な感情描写と生き生きとしたイメージが、唐代詩の精緻さと含蓄を示しています。感情分析では、詩中には女性が夫に対する深い思いやりと期待がにじみ出ており、真挚で感動的な感情が表れています。影響の意味では、唐代の闺怨詩の代表として、後世の文学創作に深い影響を与えました。",
+        "es": "Este poema 'Yutai Ti' describe los detalles de la vida de una mujer, expresando la esperanza de una esposa por el regreso de su esposo. El tema principal es revelar las profundas emociones de las mujeres y su deseo de reunión familiar. En cuanto al estilo de escritura, el poeta utiliza hábilmente el simbolismo, como el desatar del cinturón de la falda y el vuelo de una araña, para sugerir buenos augurios, lo que refuerza la sutileza del poema. Artísticamente, la delicada descripción emocional y las vívidas imágenes del poema muestran la refinación y sutileza de la poesía de la dinastía Tang. En el análisis emocional, el poema transmite la profunda añoranza y expectativa de la mujer por su esposo, con sentimientos sinceros y conmovedores. En términos de impacto, como una obra representativa de la poesía de 'quejas de mujeres' de la dinastía Tang, ha tenido una influencia profunda en las creaciones literarias posteriores.",
+        "ar": "هذا الشعر 'يوتاي تي' يصف تفاصيل حياة المرأة، معرباً عن أمل الزوجة في عودة زوجها. يركز الموضوع الرئيسي على كشف العواطف العميقة لدى النساء ورغبتهن في اجتماع الأسرة. من حيث الأسلوب الكتابي، يستخدم الشاعر براعة الرمزية، مثل فك حزام التنورة و طيران العنكبوت، ليقترح بشارات جيدة، مما يعزز دقة الشعر. فنياً، يظهر وصف العواطف الدقيق والصور الحية في الشعر التفنن والدقة في شعر dynasty التانغ. في تحليل العواطف، يعبر الشعر عن اشتياق المرأة العميق وتوقعها لزوجها، بعواطف صادقة ومؤثرة. من حيث التأثير، كعمل يمثل شعر 'شكوى النساء' في dynasty التانغ، أثر بشكل عميق في الإبداعات الأدبية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "昨夜裙带忽然松解，今晨蟢子飞舞空中。脸上的铅华不能放弃，莫非是丈夫即将归来。",
+            "en": "Last night, my skirt's sash came loose; this morning, spiders fly in the air. Powder and rouge must not be discarded; could it be my husband is returning home?",
+            "ja": "昨夜は裳の帯が解け、今朝は蟢が飛ぶ。鉛華を捨ててはならぬ、もしかして夫が帰るのか。",
+            "es": "Anoche se desató el cinturón de mi falda; esta mañana, las arañas vuelan. El maquillaje no debe ser abandonado; ¿acaso vuelve mi esposo?",
+            "ar": "ليلة البارحة انفك حزام فستاني، وها هو الصباح ترفرف فيه العناكب. لا يجب التخلي عن المساحيق، ربما يعود زوجي."
+        },
+        "title_translation": {
+            "zh": "玉台体",
+            "en": "The Style of the Jade Terrace",
+            "ja": "玉台体",
+            "es": "Estilo de la Terraza de Jade",
+            "ar": "نمط المنصة الز Jade"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "昨夜裙带解，今朝蟢子飞。\n铅华不可弃，莫是藁砧归。",
+    "title_pinyin": "yù tái tǐ",
+    "pinyin": "zuó yè qún dài jiě，jīn cháo xǐ zi fēi。\nqiān huá bù kě qì，mò shì gǎo zhēn guī。"
+}

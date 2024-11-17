@@ -1,0 +1,57 @@
+{
+    "title": "问刘十九",
+    "difficulty": 2,
+    "author": {
+        "name": "白居易",
+        "name_pinyin": "bái jū yì",
+        "image": "白居易.jpg",
+        "introduction": {
+            "zh": "白居易，字乐天，号香山居士，唐代著名诗人，与李白、杜甫并称“李杜白”。他的诗歌题材广泛，语言通俗易懂，深受百姓喜爱。代表作有《长恨歌》、《琵琶行》等。晚年官至太子少傅，谥号“文”，世称白文公。",
+            "en": "Bai Juyi, styled Letian and known as the Hermit of Xiangshan, was a renowned poet of the Tang Dynasty, alongside Li Bai and Du Fu, collectively known as 'Li Du Bai'. His poetry covered a wide range of topics and was written in an accessible language, making it popular among the common people. His notable works include 'The Long Hatred Song' and 'The Pipa Player'. In his later years, he served as the Junior Tutor to the Crown Prince and was posthumously honored with the title 'Wen', hence known as Bai Wen Gong.",
+            "ja": "白居易は、字を楽天、号を香山居士と称し、唐代の著名な詩人です。李白、杜甫と共に「李杜白」と並び称されます。彼の詩は多岐にわたる題材を扱い、言葉遣いが分かりやすいため、一般の人々に親しまれました。代表作には『長恨歌』『琵琶行』などがあります。晩年は太子少傅の地位にまで昇り、没後「文」という諡号を贈られ、白文公と称されています。",
+            "es": "Bai Juyi, apodado Letian y conocido como el Ermitaño de Xiangshan, fue un destacado poeta de la dinastía Tang, junto con Li Bai y Du Fu, conocidos colectivamente como 'Li Du Bai'. Su poesía abarcó una amplia gama de temas y estaba escrita en un lenguaje accesible, lo que la hizo muy popular entre el pueblo común. Sus obras más destacadas incluyen 'La Canción del Gran Odio' y 'El Intérprete de Pipa'. En sus últimos años, ocupó el cargo de Tutor Joven del Príncipe Heredero y recibió póstumamente el título de 'Wen', por lo que se le conoce como Bai Wen Gong.",
+            "ar": "بای جویي، المعروف بلقب \"لي تيان\" و \"ال Eremitaño من شيانغشان\"، كان شاعرًا بارزًا في عهد أسرة تانغ، إلى جانب لي باي و دو فو، ويعرفون معًا باسم \"لي دو باي\". شملت قصائده مجموعة واسعة من المواضيع وكانت مكتوبة بلغة سهلة الفهم، مما جعلها محبوبة من قبل الناس العاديين. من بين أعماله البارزة \"أغنية الكراهية الطويلة\" و \"عازف البيبا\". في سنواته الأخيرة، شغل منصب المدرب الأصغر للوريث الملكي، وأُعطي بعد وفاته لقب \"ون\"، ومن ثم يُعرف باسم بای ون غونغ."
+        }
+    },
+    "annotations": {
+        "zh": "绿蚁新醅酒：绿蚁，指新酿的酒上浮起的绿色泡沫；新醅酒，新酿造的酒。红泥小火炉：红泥，指用红泥制成的；小火炉，小型的火炉。晚来天欲雪：晚来，傍晚时分；天欲雪，天将要下雪。能饮一杯无：能饮，能否喝；一杯无，喝一杯如何？\n语法说明：此诗为典型的五言绝句，句式简洁明了，无特殊句式。\n典故解释：无特定典故，但“绿蚁”一词常用于形容新酒，源于古代酿酒工艺。\n意象分析：绿蚁、红泥小火炉、天欲雪，营造出温暖而期待的冬日氛围。\n历史背景：唐代文人雅士常以饮酒为乐，此诗反映了当时文人间的交往和生活情趣。",
+        "en": "Green ant new brew wine: Green ant refers to the green foam that floats on newly brewed wine; new brew wine, newly brewed wine. Red clay small stove: Red clay, made of red clay; small stove, a small stove. Evening comes and the sky threatens snow: Evening comes, dusk; the sky threatens snow, the sky is about to snow. Can you drink a cup?: Can you drink, can you drink; a cup, how about a cup?\nGrammar explanation: This poem is a typical five-character quatrain with simple and clear sentences, no special sentence structures.\nAllusion explanation: No specific allusions, but the term 'green ant' is often used to describe new wine, originating from ancient brewing techniques.\nImagery analysis: Green ant, red clay small stove, sky threatens snow, creating a warm and anticipatory winter atmosphere.\nHistorical background: Literati in the Tang Dynasty often enjoyed drinking, and this poem reflects the interactions and life pleasures among literati at that time.",
+        "ja": "緑蟻新醅酒：緑蟻は、新たに醸された酒の上に浮かぶ緑色の泡を指す；新醅酒は、新たに醸された酒。赤泥小火炉：赤泥は、赤い泥で作られた；小火炉は、小型の火炉。晩来天欲雪：晩来は、夕暮れ時；天欲雪は、空が雪を降らせようとしている。能飲一杯無：能飲は、飲むことができるか；一杯無は、一杯飲むどうか？\n文法説明：この詩は典型的な五言絶句で、文脈は簡潔明瞭で、特殊な文脈はない。\n典故説明：特定の典故はないが、「緑蟻」という言葉は新酒を形容する際によく使われ、古代の醸造技術に由来する。\n意象分析：緑蟻、赤泥小火炉、天欲雪は、暖かく期待に満ちた冬の雰囲気を醸し出している。\n歴史背景：唐代の文人はよく酒を楽しみ、この詩は当時の文人間の交流と生活情趣を反映している。",
+        "es": "Verde hormiga nuevo vino fermentado: Verde hormiga se refiere a la espuma verde que flota en el vino recién fermentado; nuevo vino fermentado, vino recién fermentado. Pequeña estufa de barro rojo: Barro rojo, hecho de barro rojo; pequeña estufa, una estufa pequeña. Por la tarde el cielo amenaza con nevar: Por la tarde, al anochecer; el cielo amenaza con nevar, el cielo está a punto de nevar. ¿Puedes beber una copa?: ¿Puedes beber, puedes beber?; una copa, ¿qué tal una copa?\nExplicación gramatical: Este poema es un típico cuarteto de cinco caracteres con frases simples y claras, sin estructuras gramaticales especiales.\nExplicación de alusiones: No hay alusiones específicas, pero el término 'verde hormiga' se usa a menudo para describir el vino nuevo, originado en las técnicas de fermentación antiguas.\nAnálisis de imágenes: Verde hormiga, pequeña estufa de barro rojo, cielo amenaza con nevar, creando una atmósfera cálida y anticipatoria en invierno.\nContexto histórico: Los literatos de la dinastía Tang a menudo disfrutaban de beber, y este poema refleja las interacciones y placeres de la vida entre los literatos de ese tiempo.",
+        "ar": "خميرة خضراء جديدة: الخميرة الخضراء تشير إلى الفقاعات الخضراء التي تطفو على الخمر الجديد؛ خميرة جديدة، خمر جديد. مدفأة صغيرة من الطين الأحمر: الطين الأحمر، مصنوعة من الطين الأحمر؛ مدفأة صغيرة، مدفأة صغيرة. في المساء السماء توشك على الثلج: في المساء، وقت الغروب؛ السماء توشك على الثلج، السماء على وشك الثلج. هل يمكنك شرب كأس؟: هل يمكنك شرب، هل يمكنك شرب؟؛ كأس، ماذا عن كأس؟\nشرح النحو: هذا الشعر هو قصيدة خماسية نموذجية ذات جمل بسيطة وواضحة، بدون بنيات نحوية خاصة.\nشرح الإحالات: لا توجد إحالات محددة، ولكن مصطلح 'خميرة خضراء' غالبًا ما يستخدم لوصف الخمر الجديد، وينشأ من تقنيات التخمير القديمة.\nتحليل الصور: خميرة خضراء، مدفأة صغيرة من الطين الأحمر، السماء توشك على الثلج، تخلق جوًا دافئًا وتوقعيًا في الشتاء.\nالخلفية التاريخية: كان أدباء العصر التانغ ي tận hưởng شرب الخمر، وهذا الشعر يعكس التفاعلات وال thú vui الحياة بين أدباء ذلك الوقت."
+    },
+    "appreciations": {
+        "zh": "《问刘十九》是唐代诗人白居易的作品，主题思想在于表达对友情的珍视和对生活的热爱。写作特色上，诗人运用简洁明快的语言，通过绿蚁新醅酒、红泥小火炉等意象，营造出温馨的生活场景。艺术成就方面，诗歌以平淡自然的风格，展现了浓厚的生活情趣，具有较高的艺术价值。情感分析上，诗人在寒冷的冬日里邀请朋友共饮，抒发了对友情的深厚情感和对生活的积极态度。影响意义上，这首诗在文学史上具有重要地位，成为表现友情和生活的经典之作。",
+        "en": "Wen Liu Shijiu by Bai Juyi, a Tang Dynasty poet, primarily conveys the value of friendship and the love for life. In terms of writing style, the poet uses concise and vivid language, employing imagery such as green ant new brewed wine and red clay small stove to create a warm and cozy scene. Artistically, the poem's plain and natural style exhibits a rich interest in life, making it highly valuable. Emotionally, the poet invites a friend for a drink on a cold winter evening, expressing deep friendship and a positive attitude towards life. Historically, this poem holds a significant place in literary history, becoming a classic representation of friendship and life.",
+        "ja": "白居易の「問劉十九」は、友情の大切さと生活への愛を主題としています。表現手法としては、簡潔明瞭な言葉遣いを用い、緑蚁の新酒、赤い泥の小炉などのイメージで温かい生活の情景を描いています。芸術的成就としては、平淡自然なスタイルで濃厚な生活情趣を示し、高い芸術価値を持ちます。感情分析では、寒い冬の夜に友人を招いて共に飲むことで、友情の深い感情と生活に対する積極的な態度を表現しています。影響と意味においては、文学史上重要な地位を占め、友情と生活を描く古典的名作となっています。",
+        "es": "Wen Liu Shijiu, obra del poeta de la dinastía Tang Bai Juyi, expresa la apreciación de la amistad y el amor por la vida. En cuanto a la técnica de escritura, el poeta utiliza un lenguaje conciso y vívido, empleando imágenes como el vino nuevo con \"hongos verdes\" y la pequeña estufa de barro rojo para crear una escena acogedora. Artísticamente, el poema destaca por su estilo sencillo y natural que muestra un profundo interés por la vida, poseyendo un alto valor artístico. En el análisis emocional, el poeta invita a un amigo a beber en una noche fría, expresando una profunda amistad y una actitud positiva hacia la vida. En términos de influencia y significado, este poema ocupa un lugar importante en la historia literaria, convirtiéndose en una obra clásica que representa la amistad y la vida.",
+        "ar": " \"سؤال إلى ليو التاسع عشر\" للشاعر بái جويي من العصر التانغ، يعبر عن قيمة الصداقة وحب الحياة. فيما يتعلق بطريقة الكتابة، يستخدم الشاعر لغة موجزة وواضحة، من خلال استخدام الصور مثل الخمر الجديد باليرقات الخضراء والمدفأة الصغيرة من الطين الأحمر لخلق جو دافئ. من الناحية الفنية، يتميز الشعر بنمطه البسيط والطبيعي الذي يظهر اهتمامًا كبيرًا بالحياة، مما يجعله ذا قيمة فنية عالية. في التحليل العاطفي، يدعو الشاعر صديقًا للشرب في ليلة شتوية باردة، معبرًا عن صداقة عميقة واتجاه إيجابي نحو الحياة. من حيث التأثير والمعنى، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب، ليصبح عملًا كلاسيكيًا يمثل الصداقة والحياة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "新酿的绿蚁酒，红泥小火炉温暖。夜晚天将降雪，能否共饮一杯？",
+            "en": "Green ant new brewed wine, red clay small stove warm. Night falls and snow approaches, can you drink a cup with me?",
+            "ja": "緑蚁の新酒、赤土の小炉。夜になり雪が降りそう、一杯飲まない？",
+            "es": "Vino nuevo de hormigas verdes, pequeño horno de barro rojo cálido. Al anochecer nieva, ¿puedes beber una copa?",
+            "ar": "خمر جديد من النمل الأخضر، مدفأة صغيرة من الطين الأحمر. مع حلول المساء والثلج يقترب، هل يمكنك شرب كأس؟"
+        },
+        "title_translation": {
+            "zh": "问刘十九",
+            "en": "Asking Liu the Nineteenth",
+            "ja": "劉十九に問う",
+            "es": "Preguntando a Liu Diecinueve",
+            "ar": "السؤال لليو التاسع عشر"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "绿蚁新醅酒，红泥小火炉。\n晚来天欲雪，能饮一杯无？",
+    "title_pinyin": "wèn liú shí jiǔ",
+    "pinyin": "lǜ yǐ xīn pēi jiǔ，hóng ní xiǎo huǒ lú。\nwǎn lái tiān yù xuě，néng yǐn yī bēi wú？"
+}

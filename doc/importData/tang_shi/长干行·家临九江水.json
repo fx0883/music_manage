@@ -1,0 +1,57 @@
+{
+    "title": "长干行·家临九江水",
+    "difficulty": 2,
+    "author": {
+        "name": "崔颢",
+        "name_pinyin": "cuī hào",
+        "image": "崔颢.jpg",
+        "introduction": {
+            "zh": "崔颢，唐代著名诗人，生卒年不详，汴州（今河南开封）人。他的诗风清新自然，尤以边塞诗和山水诗见长。代表作有《黄鹤楼》、《长干行》等。崔颢的诗作在当时颇受赞誉，对后世诗人也有一定影响。",
+            "en": "Cui Hao was a renowned poet of the Tang Dynasty, with unknown birth and death years, originating from Bianzhou (present-day Kaifeng, Henan). His poetic style was fresh and natural, particularly excelling in frontier and landscape poetry. His notable works include 'Yellow Crane Tower' and 'Changganxing'. Cui Hao's poetry was highly praised during his time and had a certain influence on later poets.",
+            "ja": "崔颢は唐代の著名な詩人で、生没年不詳、汴州（現在の河南省開封市）出身。彼の詩風は清新自然で、特に辺塞詩や山水詩に優れていた。代表作には「黄鶴楼」、「長干行」などがある。崔颢の詩は当時高く評価され、後世の詩人にも一定の影響を与えた。",
+            "es": "Cui Hao fue un poeta destacado de la dinastía Tang, con años de nacimiento y muerte desconocidos, originario de Bianzhou (actual Kaifeng, Henan). Su estilo poético era fresco y natural, destacando especialmente en poesía de fronteras y paisajes. Entre sus obras más conocidas se encuentran 'Torre del Cisne Amarillo' y 'Changganxing'. La poesía de Cui Hao fue muy elogiada en su tiempo y tuvo una cierta influencia en los poetas posteriores.",
+            "ar": "كان تسوي هواي شاعرًا مشهورًا في عهد التانغ، غير معروف تاريخ ميلاده ووفاته، من بيانزهو (حاليًا كايفنغ، هينان). كان أسلوبه الشعري طازجًا وغير متكلف، وبرع خاصة في الشعر الحدودي والطبيعي. من أشهر أعماله 'برج البجعة الصفراء' و'تشangganxing'. حظيت شعر تسوي هواي بتقدير كبير في وقته وأثرت في الشعراء اللاحقين."
+        }
+    },
+    "annotations": {
+        "zh": "家临九江水：家靠近九江的水边。九江：指长江流经江西九江段的水域。\n来去九江侧：来来去去都在九江的岸边。\n同是长干人：我们都是长干里的人。长干：古代金陵（今南京）地名，位于长江边。\n生小不相识：从小就不认识。生小：从小，幼年时。\n\n语法说明：诗句采用平铺直叙的方式，没有特殊句式。\n典故解释：无特殊典故。\n意象分析：九江水和长干里是重要的地理意象，表达了诗人对家乡的熟悉与怀念。\n历史背景：唐代长江流域经济繁荣，九江是重要的交通枢纽，长干里则是商贾云集之地。",
+        "en": "Home by the Jiujiang River: The house is near the waters of the Jiujiang River. Jiujiang: Refers to the section of the Yangtze River flowing through Jiujiang, Jiangxi.\nComing and going by the Jiujiang shore: Always moving along the banks of the Jiujiang River.\nBoth from Changgan: We are both from Changgan. Changgan: An ancient place name in Jinling (now Nanjing), located by the Yangtze River.\nNever knew each other since young: We didn't know each other since childhood. Since young: From a young age, in childhood.\n\nGrammar Explanation: The poem uses a straightforward narrative style without any special sentence structures.\nAllusion Explanation: No specific allusions are used.\nImagery Analysis: The Jiujiang River and Changgan are important geographical imagery, expressing the poet's familiarity and nostalgia for his hometown.\nHistorical Background: During the Tang Dynasty, the Yangtze River basin was economically prosperous, with Jiujiang being a major transportation hub and Changgan a bustling commercial area.",
+        "ja": "家临九江水：家が九江の水辺に近い。九江：江西省九江市を流れる長江の水域を指す。\n来去九江侧：九江の岸辺を行き来している。\n同是长干人：私たちは皆長干の人間である。長干：古代の金陵（現在の南京）の地名で、長江のほとりにある。\n生小不相識：幼い頃から知らない。生小：幼い頃、子供のころ。\n\n文法説明：詩句は平明な叙述方式を採用しており、特殊な文法構造はない。\n典故説明：特別な典故は使用されていない。\n意象分析：九江の水と長干里は重要な地理的イメージであり、詩人が故郷に対する親しみと懐かしさを表している。\n歴史背景：唐代には長江流域が経済的に繁栄し、九江は重要な交通の要衝であり、長干里は商売が盛んな地域であった。",
+        "es": "Casa junto al agua de Jiujiang: La casa está cerca de las aguas del río Jiujiang. Jiujiang: Se refiere a la sección del río Yangtsé que pasa por Jiujiang, Jiangxi.\nIda y vuelta por la orilla de Jiujiang: Siempre moviéndose a lo largo de la ribera de Jiujiang.\nAmbos somos de Changgan: Ambos somos de Changgan. Changgan: Un nombre de lugar antiguo en Jinling (actual Nanjing), ubicado junto al río Yangtsé.\nNo nos conocimos desde pequeños: No nos conocimos desde la infancia. Desde pequeños: Desde una edad temprana, en la niñez.\n\nExplicación gramatical: El poema utiliza un estilo narrativo sencillo sin estructuras gramaticales especiales.\nExplicación de alusiones: No se utilizan alusiones específicas.\nAnálisis de imágenes: El río Jiujiang y Changgan son importantes imágenes geográficas, expresando la familiaridad y nostalgia del poeta por su hogar.\nContexto histórico: Durante la dinastía Tang, el valle del río Yangtsé era próspero económicamente, con Jiujiang como un importante centro de transporte y Changgan como un área comercial concurrida.",
+        "ar": "البيت على ماء جيانغشي: البيت بالقرب من مياه نهر جيانغشي. جيانغشي: يشير إلى القسم من نهر اليانغتسي الذي يمر بجيانغشي، جيانغشي.\nالذهاب والعودة إلى جانب جيانغشي: الحركة المستمرة على طول ضفاف نهر جيانغشي.\nكلاهما من تشانغغان: كلاهما من تشانغغان. تشانغغان: اسم مكان قديم في جينلينغ (الآن نانجينغ)، يقع بجانب نهر اليانغتسي.\nلم نتعرف منذ الصغر: لم نتعرف منذ الطفولة. منذ الصغر: منذ سن مبكرة، في الطفولة.\n\nشرح النحو: يستخدم الشعر أسلوبًا سرديًا بسيطًا بدون بنيات نحوية خاصة.\nشرح الإشارات: لا توجد إشارات محددة مستخدمة.\nتحليل الصور: نهر جيانغشي وتشانغغان هما صورة جغرافية مهمة، تعبر عنamiliaridad وحنين الشاعر إلى موطنه.\nالخلفية التاريخية: خلال عهد أسرة تانغ، كان وادي نهر اليانغتسي مزدهرًا اقتصاديًا، وكان جيانغشي مركزًا مهمًا للنقل وتشانغغان منطقة تجارية مزدحمة."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘诗人与一位同乡在九江水边的偶遇，表达了人生际遇的偶然与无奈。主题思想在于揭示即使是同乡，也可能因生活轨迹不同而互不相识。写作特色上，诗人用简洁的白描手法，勾勒出江边相遇的场景，语言朴实无华，却意味深长。艺术成就方面，诗句简短却富有哲理，给人以深刻的人生思考。情感分析上，诗人抒发了对人生无常和缘分错过的淡淡哀愁。影响意义上，这首诗在唐代诗歌中独树一帜，对后世描写人生哲理的诗作产生了深远影响。",
+        "en": "This poem depicts the poet's encounter with a fellow townsman by the Jiujiang River, expressing the randomness and helplessness of life's encounters. The main theme reveals that even people from the same hometown may not know each other due to different life paths. In terms of writing style, the poet uses simple and straightforward descriptions to sketch the scene of the encounter, with plain language that is deeply meaningful. Artistically, the concise lines are rich in philosophy, provoking deep reflections on life. Emotionally, the poet conveys a subtle sadness about the impermanence of life and missed connections. Historically, this poem stands out in Tang Dynasty poetry and has had a profound influence on later works that explore life's philosophies.",
+        "ja": "この詩は、詩人が九江の水辺で同郷の人と出会った情景を描き、人生の出会いの偶然と無常を表現しています。主題思想は、同じ郷出身でも生活の道が異なるために互いに知らないこともあるという点にあります。表現手法としては、簡潔な白描技法を用い、江辺の出会いのシーンを勾勒しています。言葉は質素ですが、深い意味を含んでいます。芸術的成就としては、短い詩句でありながら哲学的な深みがあり、人生について深く考えさせられます。感情分析では、詩人は人生の無常や縁のすれ違いに対する淡い悲しみを抒発しています。影響の意味では、唐代の詩の中で独特の地位を占め、後世の人生哲学を描く詩作に大きな影響を与えました。",
+        "es": "Este poema describe el encuentro del poeta con un coterráneo en las orillas del río Jiujiang, expresando la casualidad y la impotencia de los encuentros en la vida. El tema principal revela que incluso las personas del mismo pueblo pueden no conocerse debido a diferentes caminos de vida. En cuanto al estilo de escritura, el poeta utiliza descripciones sencillas y directas para esbozar la escena del encuentro, con un lenguaje simple pero profundo en significado. Artísticamente, las líneas concisas están llenas de filosofía, provocando reflexiones profundas sobre la vida. En el análisis emocional, el poeta expresa una tristeza sutil sobre la impermanencia de la vida y las conexiones perdidas. En términos de influencia, este poema se destaca en la poesía de la dinastía Tang y ha tenido un impacto profundo en obras posteriores que exploran la filosofía de la vida.",
+        "ar": "يتناول هذا الشعر مواجهة الشاعر مع أحد أبناء وطنه على ضفاف نهر جيوجيانغ، معربًا عن العشوائية واليأس من لقاءات الحياة. الفكرة الرئيسية تكشف عن أن حتى الأشخاص من نفس المدينة قد لا يعرفون بعضهم بسبب مسارات حياة مختلفة. من حيث الأسلوب الكتابي، يستخدم الشاعر وصفًا بسيطًا ومباشرًا ليصور مشهد اللقاء، بلغة بسيطة لكنها عميقة المعنى. فنيًا، الأبيات القصيرة مليئة بالفلسفة، مما يدعو إلى التفكير العميق في الحياة. من الناحية العاطفية، يعبر الشاعر عن حزن خافت بشأن زوال الحياة و تفويت الروابط. من حيث التأثير، يبرز هذا الشعر في شعر العصر التانغ وله تأثير عميق على الأعمال اللاحقة التي تتناول فلسفة الحياة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "家住在九江水边，来来去去都在九江两侧。我们都是长干人，从小却不相识。",
+            "en": "My home is by the Jiujiang River, coming and going on its banks. We are both from Changgan, yet we never knew each other in our youth.",
+            "ja": "家は九江の水辺にあり、往復は九江の岸辺にて。共に長干の人であるが、幼少時には知らぬ仲であった。",
+            "es": "Mi hogar está junto al río Jiujiang, y voy y vengo a sus orillas. Ambos somos de Changgan, pero nunca nos conocimos de pequeños.",
+            "ar": "بيتي على ضفاف نهر جيوجيانغ، وأذهب وأعود عند جوانبه. نحن كلاهما من تشانغغان، لكننا لم نتعرف منذ الصغر."
+        },
+        "title_translation": {
+            "zh": "长干行·家临九江水",
+            "en": "Changgan Ballad: Home by the Jiujiang River",
+            "ja": "長干行·家臨九江水",
+            "es": "Balada de Changgan: Hogar junto al Río Jiujiang",
+            "ar": "قصيدة تشانغغان: البيت على نهر جيوجيانغ"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "家临九江水，来去九江侧。\n同是长干人，生小不相识。",
+    "title_pinyin": "zhǎng gàn xíng·jiā lín jiǔ jiāng shuǐ",
+    "pinyin": "jiā lín jiǔ jiāng shuǐ，lái qù jiǔ jiāng cè。\ntóng shì zhǎng gàn rén，shēng xiǎo bù xiāng shí。"
+}

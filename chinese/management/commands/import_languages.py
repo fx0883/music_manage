@@ -14,7 +14,9 @@ class Command(BaseCommand):
             "languages": [
                 {"name": "Chinese", "code": "zh"},
                 {"name": "English", "code": "en"},
-                {"name": "Japanese", "code": "ja"}
+                {"name": "Japanese", "code": "ja"},
+                {"name": "Spanish", "code": "es"},
+                {"name": "Arabic", "code": "ar"}
             ]
         }
 

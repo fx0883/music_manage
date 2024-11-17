@@ -1,0 +1,57 @@
+{
+    "title": "乌衣巷",
+    "difficulty": 2,
+    "author": {
+        "name": "刘禹锡",
+        "name_pinyin": "liú yǔ xī",
+        "image": "刘禹锡.jpg",
+        "introduction": {
+            "zh": "刘禹锡（772-842），字梦得，唐代著名文学家、政治家，河南洛阳人。他曾任监察御史，因参与王叔文的政治革新运动被贬，后历任多个地方官职。刘禹锡的诗作以豪放、清新著称，代表作有《陋室铭》、《竹枝词》等，其诗多反映社会现实，表达对民生疾苦的关怀。《乌衣巷》一诗通过描绘朱雀桥和乌衣巷的变迁，抒发了对历史沧桑的感慨。",
+            "en": "Liu Yuxi (772-842), styled Mengde, was a renowned Tang Dynasty litterateur and statesman from Luoyang, Henan. He served as a supervising censor and was demoted for participating in Wang Shuwen's political reform movement. He later held various local official positions. Liu Yuxi's poetry is known for its boldness and freshness, with representative works including 'Inscription on the Humble Room' and 'Bamboo Branch Songs'. His poems often reflect social realities and express concern for the suffering of the people. The poem 'Wuyi Lane' depicts the changes of Zhuque Bridge and Wuyi Lane, conveying his sentiments on the vicissitudes of history.",
+            "ja": "劉禹錫（りゅう ぎょくしゃ、772-842）は、唐代の著名な文学者、政治家で、洛陽（現河南省洛陽市）出身。監察御史を務めたが、王叔文の政治改革運動に参加したため左遷され、その後は各地の地方官を歴任した。彼の詩は豪放で清新なスタイルで知られ、「陋室銘」「竹枝詞」などの代表作がある。詩はしばしば社会現実を反映し、民衆の苦しみに対する関心を表している。「烏衣巷」は朱雀橋と烏衣巷の変遷を描き、歴史の変わりゆく様子に対する感慨を表している。",
+            "es": "Liu Yuxi (772-842), también conocido como Mengde, fue un destacado literato y político de la dinastía Tang, originario de Luoyang, Henan. Ocupó el cargo de censor supervisor y fue degradado por participar en el movimiento de reforma política de Wang Shuwen. Posteriormente, ocupó varios cargos oficiales locales. La poesía de Liu Yuxi es conocida por su audacia y frescura, con obras representativas como 'Inscripción en la habitación humilde' y 'Canciones de la rama de bambú'. Sus poemas a menudo reflejan realidades sociales y expresan preocupación por las dificultades del pueblo. El poema 'Calle Wuyi' describe los cambios en el Puente Zhuque y la Calle Wuyi, expresando sus sentimientos sobre las vicisitudes de la historia.",
+            "ar": "ليو يو شي (772-842)، المعروف بلقب مينغدي، كان كاتبًا ومفكرًا سياسيًا بارزًا في عهد أسرة تانغ، من مدينة لويانغ في مقاطعة هينان. شغل منصب مراقب الشرطة وكان معزولًا بسبب مشاركته في حركة الإصلاح السياسي لوانغ شو وين. شغل لاحقًا مناصب رسمية محلية متعددة. اشتهرت شعرته بالجرأة والحداثة، ومن أشهر أعماله 'نقش على الغرفة البسيطة' و'أغاني غصن الخيزران'. تعكس أشعاره في كثير من الأحيان حقائق المجتمع وتعبر عن اهتماماته بشؤون الناس. يتناول قصيدته 'زقاق وويي' تغيرات جسر جونكوينغ وزقاق وويي، معبرًا عن مشاعره تجاه تقلبات التاريخ."
+        }
+    },
+    "annotations": {
+        "zh": "朱雀桥：位于南京秦淮河上的一座古桥，六朝时期是繁华之地。野草花：野生的花草。乌衣巷：南京秦淮河南岸的一条古巷，六朝时是贵族聚居地。夕阳斜：夕阳西斜。旧时：过去。王谢：指东晋时期的王导和谢安两大家族，代表当时的权贵。堂前燕：指王谢家族宅邸前的燕子。寻常百姓家：普通百姓的家中。此诗通过朱雀桥和乌衣巷的今昔对比，表达了对历史变迁的感慨。",
+        "en": "Zhuque Bridge: An ancient bridge over the Qinhuai River in Nanjing, a bustling area during the Six Dynasties period. Wild grass flowers: Wildflowers. Wuyi Lane: An ancient lane on the south bank of the Qinhuai River in Nanjing, a residence for nobles during the Six Dynasties. Setting sun slants: The setting sun is倾斜. Old times: The past. Wang Xie: Refers to the Wang Dao and Xie An families of the Eastern Jin Dynasty, representing the powerful nobility at the time. Swallows in front of the hall: Swallows in front of the Wang Xie family mansion. Ordinary people's homes: Homes of common people. This poem contrasts the past and present of Zhuque Bridge and Wuyi Lane, expressing feelings about historical changes.",
+        "ja": "朱雀橋：南京市秦淮河上に位置する古い橋で、六朝時代には繁華な場所だった。野草花：野生の草花。烏衣巷：南京市秦淮河南岸に位置する古い巷で、六朝時代には貴族が住んでいた。夕陽斜：夕陽が西に傾く。旧時：過去。王謝：東晋時代の王導と謝安の二大家族を指し、当時の権貴を代表する。堂前燕：王謝家の邸宅前のツバメ。尋常百姓家：普通の百姓の家。この詩は朱雀橋と烏衣巷の過去と現在を対比して、歴史の変遷に対する感慨を表している。",
+        "es": "Puente de Zhuque: Un antiguo puente sobre el río Qinhuai en Nanjing, una zona próspera durante las Seis Dinastías. Flores de hierbas silvestres: Flores silvestres. Callejón de Wuyi: Un antiguo callejón en la orilla sur del río Qinhuai en Nanjing, donde vivían los nobles durante las Seis Dinastías. Sol poniente inclinado: El sol poniente se inclina. Tiempos antiguos: El pasado. Wang Xie: Se refiere a las familias Wang Dao y Xie An de la dinastía Jin del Este, representando a la nobleza poderosa de la época. Golondrinas delanteras del salón: Golondrinas frente a la mansión de la familia Wang Xie. Hogares de personas comunes: Hogares de personas comunes. Este poema contrasta el pasado y el presente del Puente de Zhuque y el Callejón de Wuyi, expresando sentimientos sobre los cambios históricos.",
+        "ar": "جسر الزقاق: جسر قديم يقع على نهر تشينهواي في نانجينغ، وكان منطقة مزدهرة خلال فترة الستة أ dynasties. أزهار الأعشاب البرية: الزهور البرية. زقاق ووي: زقاق قديم يقع على الضفة الجنوبية لنهر تشينهواي في نانجينغ، حيث كان يعيش النبلاء خلال فترة الستة أ dynasties. شمس الغروب المنحرفة: شمس الغروب تميل إلى الغرب. الأوقات القديمة: الماضي. وانغ شيه: يشير إلى عائلات وانغ داو و شيه أن من dynasty جين الشرقية، представляет النبلاء القوية في ذلك الوقت. الحمام أمام القاعة: الحمام أمام قصر عائلة وانغ شيه. منازل الناس العاديين: منازل الناس العاديين. هذا الشعر ي противопоставляет الماضي والحاضر لجسر الزقاق وزقاق ووي، يعبر عن المشاعر حول التغيرات التاريخية."
+    },
+    "appreciations": {
+        "zh": "《乌衣巷》通过描绘朱雀桥边的野草花和乌衣巷口的夕阳斜照，展现了时光流转、世事变迁的主题。诗中旧时王谢堂前燕飞入寻常百姓家的意象，深刻揭示了豪门贵族的衰落和普通百姓的生活变迁。写作特色上，诗人运用对比手法，将昔日的繁华与今日的荒凉形成鲜明对比，增强了诗歌的感染力。艺术成就方面，此诗以简洁的语言和生动的意象，传达了深刻的哲理，具有高度的艺术价值。情感分析上，诗人抒发了对历史变迁的感慨和对人生无常的哀叹。在影响意义上，这首诗作为唐代怀古诗的经典之作，对后世文学产生了深远的影响。",
+        "en": "The poem 'Wuyi Lane' depicts the wildflowers by the Vermilion Bird Bridge and the setting sun over the Wuyi Lane, highlighting the theme of the passage of time and the change of worldly affairs. The imagery of the swallows that once nested in the grand halls of the Wang and Xie clans now flying into ordinary people's homes profoundly illustrates the decline of aristocratic families and the transformation of common folk's lives. In terms of writing style, the poet employs a contrast technique, juxtaposing the former prosperity with the present desolation, thereby enhancing the poem's emotional impact. Artistically, the poem conveys profound philosophy through concise language and vivid imagery, possessing high artistic value. Emotionally, the poet expresses his sentiments on historical changes and melancholy over the impermanence of life. In terms of significance, this poem, as a classic of Tang Dynasty nostalgic poetry, has had a profound influence on later literature.",
+        "ja": "『烏衣巷』は、朱雀橋の側の野草の花や烏衣巷の口の斜陽を描き、時の流れと世の変わりゆく様を主題としています。詩の中で、かつて王謝の家の前で巣を作っていた燕が、今は普通の百姓の家に飛び込むという情景は、豪族の衰退と庶民の生活の変化を深く示しています。表現手法としては、詩人は対比を用い、かつての繁栄と現在の寂寥を鮮明に描き出し、詩の感動力を高めています。芸術的成果としては、簡潔な言語と生き生きとしたイメージで深い哲理を伝え、高い芸術価値を持っています。感情分析としては、詩人は歴史の変遷に対する感慨と人生の無常に対する嘆きを表しています。影響の意味では、唐代の懐古詩の傑作として、後世の文学に大きな影響を与えました。",
+        "es": "El poema 'Calle Wuyi' retrata las flores silvestres junto al Puente del Pájaro Escarlata y el sol poniente en la entrada de la Calle Wuyi, resaltando el tema del paso del tiempo y el cambio de las circunstancias mundanas. La imagen de las golondrinas que solían anidar en los salones de las familias Wang y Xie ahora volando hacia las casas de la gente común, ilustra profundamente el declive de las familias aristocráticas y la transformación de la vida de la gente ordinaria. En cuanto a la técnica de escritura, el poeta utiliza el contraste, enfrentando la antigua prosperidad con la actual desolación, lo que refuerza el impacto emocional del poema. Artísticamente, el poema transmite una profunda filosofía a través de un lenguaje conciso y una imaginería vívida, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa sus sentimientos sobre los cambios históricos y su melancolía por la impermanencia de la vida. En términos de significado e influencia, este poema, como una obra clásica de la poesía nostálgica de la dinastía Tang, ha tenido una profunda influencia en la literatura posterior.",
+        "ar": "القصيدة 'شارع ووي' تصور الزهور البرية بجانب جسر الطائر القرمزي وشروق الشمس فوق مدخل شارع ووي، وتبرز موضوع مرور الزمن وتغير الأمور الدنيوية. الصورة التي تظهر الحمامات التي كانت تعشش في قاعات عائلات وانغ وشي الآن تطير إلى منازل الناس العاديين، تشرح بعمق انحسار العائلات الأرستقراطية وتغير حياة الناس العاديين. من حيث أسلوب الكتابة، يستخدم الشاعر تقنية المقارنة، موازنة الازدهار القديم باليأس الحالي، مما يعزز من تأثير القصيدة العاطفي. فنياً، تنقل القصيدة فلسفة عميقة من خلال لغة موجزة وتصورات حية، وتحمل قيمة فنية عالية. من حيث التحليل العاطفي، يعبر الشاعر عن مشاعره تجاه التغيرات التاريخية وحنينه على زوال الحياة. من حيث المعنى والتأثير، تعتبر هذه القصيدة كواحدة من الأعمال الكلاسيكية للشعرالحنيني في عهد التانغ، ولها تأثير عميق على الأدب اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "朱雀桥边野草开花，乌衣巷口夕阳斜照。昔日王谢堂前的燕子，如今飞入普通百姓家。",
+            "en": "Wildflowers bloom by the Vermilion Bird Bridge, the setting sun slants over the Wuyi Alley. Swallows that once nested in the Wang and Xie halls, now fly into the homes of common folk.",
+            "ja": "朱雀橋のほとりに野草が咲き、烏衣巷の口に夕日が斜めにさす。かつて王謝の堂の前で巣を作ったツバメが、今は普通の百姓の家に飛び込む。",
+            "es": "Flores silvestres crecen junto al Puente del Pájaro Escarlata, el sol poniente se inclina sobre la entrada del Callejón Wuyi. Las golondrinas que antaño anidaban en los patios de Wang y Xie, ahora vuelan hacia las casas de la gente común.",
+            "ar": "تزهر الأعشاب البرية عند جسر الطائر القرمزي، وتتجه الشمس المائلة نحو مدخل زقاق ووي. الحمامات التي كانت تتجمع في قاعات وانغ شيه في السابق، الآن تطير نحو منازل الناس العاديين."
+        },
+        "title_translation": {
+            "zh": "乌衣巷",
+            "en": "Wuyi Alley",
+            "ja": "烏衣巷",
+            "es": "Callejón Wuyi",
+            "ar": "زقاق ووي"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "朱雀桥边野草花，乌衣巷口夕阳斜。\n旧时王谢堂前燕，飞入寻常百姓家。",
+    "title_pinyin": "wū yī xiàng",
+    "pinyin": "zhū què qiáo biān yě cǎo huā，wū yī xiàng kǒu xī yáng xié。\njiù shí wáng xiè táng qián yàn，fēi rù xún cháng bǎi xìng jiā。"
+}

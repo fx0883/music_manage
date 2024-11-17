@@ -1,0 +1,57 @@
+{
+    "title": "夜上受降城闻笛",
+    "difficulty": 2,
+    "author": {
+        "name": "李益",
+        "name_pinyin": "lǐ yì",
+        "image": "李益.jpg",
+        "introduction": {
+            "zh": "李益（748-829），唐代著名诗人，字君虞，陇西姑臧（今甘肃武威）人。他擅长写边塞诗，风格雄浑悲壮，情感真挚动人。其诗作多反映边塞生活，表达征人思乡之情，具有很高的艺术价值。代表作有《夜上受降城闻笛》、《塞下曲》等。",
+            "en": "Li Yi (748-829) was a renowned poet of the Tang Dynasty, styled Junyu, originating from Longxi Güzang (present-day Wuwei, Gansu). He excelled in composing frontier poems, characterized by their majestic and melancholic style, and genuine emotional depth. His works often depicted life on the frontier and expressed the longing of soldiers for their homeland, possessing high artistic value. Notable works include 'Listening to the Flute on the Night at Shouxiang City' and 'Songs of the Frontier'.",
+            "ja": "李益（748-829）は唐代の著名な詩人で、字は君虞、隴西姑臧（現在の甘粛省武威市）出身。辺塞詩を得意とし、そのスタイルは雄渾かつ悲壮、感情は真挚で感動的である。作品は多くが辺塞生活を反映し、徴人たちの故郷への思慕を表現しており、高い芸術的価値を持つ。代表作に「夜上受降城聞笛」、「塞下曲」などがある。",
+            "es": "Li Yi (748-829) fue un destacado poeta de la dinastía Tang, conocido por su nombre de estilo Junyu, originario de Longxi Güzang (actualmente Wuwei, Gansu). Se destacó en la composición de poemas sobre la frontera, con un estilo majestuoso y melancólico, y una profunda autenticidad emocional. Sus obras a menudo reflejaban la vida en la frontera y expresaban el anhelo de los soldados por su tierra natal, poseyendo un alto valor artístico. Entre sus obras más destacadas se encuentran 'Escuchando la flauta en la noche en la ciudad de Shouxiang' y 'Canciones de la Frontera'.",
+            "ar": "لي يي (748-829) كان شاعرًا مشهورًا في عهد التانغ، يُعرف بلقبه جونيي، من أصل لونغشى جوزانغ (الآن ووي، قانسو). برع في كتابة الشعر الحدودي، الذي يتميز بأسلوبه العظيم والحزين، وعمق عواطفه. تعكس أعماله غالبًا حياة الحدود وتعبر عن شوق الجنود لأوطانهم، وتتميز بقيمة فنية عالية. من بين أعماله البارزة 'استماع للفلوت في ليلة في مدينة شوتشيانغ' و'أغاني الحدود'."
+        }
+    },
+    "annotations": {
+        "zh": "回乐峰：唐代灵州（今宁夏灵武西南）附近的一座山峰。一作回乐烽，指回乐县的烽火台。沙似雪：沙漠在月光下像雪一样白。受降城：唐代为防御突厥所筑，在今内蒙古乌拉特后旗。月如霜：月光像霜一样冷清。芦管：一种用芦苇制成的管乐器。征人：出征的士兵。尽望乡：都望着故乡。这首诗描绘了边塞夜晚的荒凉景象，表达了征人思乡之情。",
+        "en": "Hui Le Feng: A mountain near Lingzhou (today's southwest Lingwu, Ningxia) during the Tang Dynasty. Alternatively, Hui Le Feng refers to a beacon tower in Hui Le County. Sand like snow: The desert appears as white as snow under the moonlight. Shou Xiang Cheng: A fortress built by the Tang Dynasty to defend against the Turks, located in today's Wulate Rear Banner, Inner Mongolia. Moon like frost: The moonlight is as cold and clear as frost. Reed pipe: A musical instrument made from reed. Soldiers: Troops on expedition. All looking towards home: Everyone is gazing towards their homeland. This poem depicts the desolate night scene of the border and expresses the soldiers' longing for home.",
+        "ja": "回楽峰：唐代の霊州（現在の寧夏省霊武市西南）近くの山。別の説では回楽烽とし、回楽県の烽火台を指す。砂は雪の如く：月明かりの下で砂漠が雪のように白く見える。受降城：唐代、突厥の侵入を防ぐために築かれた城で、現在の内モンゴル自治区ウラド後旗に位置する。月は霜の如く：月の光が霜のように冷たく明るい。葦管：葦で作られた管楽器。征人：出征している兵士。皆故郷を望む：兵士たちが皆故郷の方を眺めている。この詩は辺境の夜の荒涼とした情景を描き、兵士たちの故郷への思慕を表現している。",
+        "es": "Hui Le Feng: Una montaña cerca de Lingzhou (actualmente al suroeste de Lingwu, Ningxia) durante la dinastía Tang. También se refiere a una torre de señales en el condado de Hui Le. Arena como nieve: El desierto parece blanco como la nieve bajo la luz de la luna. Shou Xiang Cheng: Una fortaleza construida por la dinastía Tang para defenderse de los turcos, ubicada en la actual Bandera Rear Wulate, Mongolia Interior. Luna como escarcha: La luz de la luna es tan fría y clara como la escarcha. Tubo de caña: Un instrumento musical hecho de caña. Soldados: Tropas en expedición. Todos mirando hacia casa: Todos están mirando hacia su tierra natal. Este poema retrata la desolada escena nocturna de la frontera y expresa el anhelo de los soldados por su hogar.",
+        "ar": "هوي ليه فونغ: جبل قريب من لينغتشو (الآن في الجنوب الغربي من لينغوو، نينغشيا) خلال عهد أسرة تانغ. وأيضًا يشير إلى برج إشارة في مقاطعة هوي ليه. الرمل كالثلج: يبدو الصحراء أبيض كالثلج تحت ضوء القمر. شو شيانغ تشينغ: حصن بنته أسرة تانغ للدفاع ضد التتار، يقع الآن في راير وولات، منغوليا الداخلية. القمر كالندى: ضوء القمر بارد وواضح كالندى. أنبوب القصب: آلة موسيقية مصنوعة من القصب. الجنود: القوات في مهمة. جميعهم ينظرون إلى الوطن: الجميع ينظرون إلى ديارهم. هذا الشعر يصور المنظر القاحل في ليلة الحدود ويعبّر عن شوق الجنود لأوطانهم."
+    },
+    "appreciations": {
+        "zh": "《夜上受降城闻笛》描绘了边塞夜晚的荒凉景象和征人思乡的情感。主题思想是表达边塞将士对家乡的深切思念。写作特色上，诗人通过对比‘沙似雪’和‘月如霜’的意象，营造出冷峻凄美的氛围，再用‘吹芦管’的声音引发征人思乡之情，手法细腻。艺术成就方面，诗中意象鲜明，情感真挚，具有很高的艺术感染力。情感分析显示，诗人抒发了征人在异乡夜晚对家乡的无尽眷恋。影响意义上，这首诗在唐代边塞诗中具有重要地位，对后世文学产生了深远影响。",
+        "en": "The poem 'Listening to the Flute on the Night at Shouxiang City' vividly depicts the desolate night scene at the border and the longing of soldiers for their homeland. The central theme is the deep yearning of frontier soldiers for home. In terms of writing style, the poet creates a cold and beautiful atmosphere by contrasting the imagery of 'sand like snow' and 'moon like frost', and then uses the sound of the 'reed pipe' to evoke homesickness, employing delicate techniques. In terms of artistic achievement, the poem's vivid imagery and sincere emotions possess high artistic appeal. The emotional analysis reveals the poet's expression of soldiers' endless longing for home in a foreign night. In terms of influence, this poem holds a significant position in Tang Dynasty border poetry and has had a profound impact on later literature.",
+        "ja": "「夜上受降城聞笛」は辺塞の夜の荒涼とした情景と徴人たちの故郷への思いを描いています。主題思想は辺塞の将兵が故郷に対する深い思慕を表現しています。執筆特色としては、「砂は雪の如く」や「月は霜の如く」といった対比を用いて冷たい美しさを演出し、「葦笛」の音で徴人の故郷への思いを引き出す手法が繊細です。芸術的成果としては、詩中のイメージが鮮明で、感情が真摯であり、高い芸術的感染力を持っています。感情分析では、詩人が異郷の夜に徴人が故郷に対する尽きることのない眷恋を抒発しています。影響の意味では、この詩は唐代の辺塞詩において重要な地位を占め、後世の文学に深い影響を与えました。",
+        "es": "El poema 'Escuchar la flauta en la noche en la Ciudad de Shouxiang' describe vívidamente la escena desolada de la noche en la frontera y el anhelo de los soldados por su hogar. El tema central es el profundo deseo de los soldados fronterizos por su patria. En cuanto al estilo de escritura, el poeta crea una atmósfera fría y bella mediante el contraste de las imágenes de 'arena como nieve' y 'luna como escarcha', y luego utiliza el sonido del 'tubo de caña' para evocar el sentimiento de nostalgia, empleando técnicas delicadas. En términos de logro artístico, el poema tiene una alta capacidad de apelación artística debido a sus imágenes vívidas y emociones sinceras. El análisis emocional revela que el poeta expresa el anhelo interminable de los soldados por su hogar en una noche extranjera. En cuanto a su significado e influencia, este poema ocupa un lugar importante en la poesía fronteriza de la dinastía Tang y ha tenido un impacto profundo en la literatura posterior.",
+        "ar": "القصيدة 'سماع النشيد في ليلة على مدينة شouxian' تصف بوضوح المنظر القاحل في ليلة الحدود وحنين الجنود لأوطانهم. الفكرة الرئيسية هي التعبير عن اشتياق الجنود على الحدود لأوطانهم. من حيث الأسلوب الكتابي، يخلق الشاعر جواً بارداً وجميلاً من خلال مقارنة الصور 'الرمل كالثلج' و 'القمر كالندى'، ثم يستخدم صوت 'قناة القصب' لإثارة شوق الجنود للوطن، باستخدام تقنيات دقيقة. من حيث الإنجاز الفني، القصيدة لديها قدرة عالية على الإقناع الفني بسبب صورها الحية وعواطفها الصادقة. التحليل العاطفي يكشف عن تعبير الشاعر عن اشتياق الجنود اللامتناهي لأوطانهم في ليلة غريبة. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في الشعر الحدودي في عهد التانغ وأثرت بشكل كبير في الأدب اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "回乐峰前的沙地像雪一样白，受降城外的月光如霜般冷。不知从何处传来吹奏芦管的声音，一整夜征战的士兵都在思念家乡。",
+            "en": "The sands before HuiLe Peak are like snow, the moon outside the Surrender City is like frost. Not knowing where the reed pipe is played, all night the soldiers long for their homeland.",
+            "ja": "回楽峰の前の砂は雪のよう、受降城の外の月は霜のよう。どこで葦笛が吹かれているのか知らず、一夜中、征人たちは故郷を望む。",
+            "es": "La arena delante del Pico HuiLe es como nieve, la luna fuera de la Ciudad de la Rendición es como escarcha. No sé de dónde viene el sonido del tubo de caña, toda la noche los soldados añoran su hogar.",
+            "ar": "الرمال أمام جبل هوي ليه كالثلج، والقمر خارج مدينة الاستسلام كالصقيع. لا أعلم من أين يأتي صوت مزمار القصب، طوال الليل يحن الجنود إلى ديارهم."
+        },
+        "title_translation": {
+            "zh": "夜上受降城闻笛",
+            "en": "Hearing the Flute on the Night at the Surrender City",
+            "ja": "夜に受降城で笛を聞く",
+            "es": "Escuchando la Flauta en la Noche en la Ciudad de la Rendición",
+            "ar": "سماع المزمار في ليلة في مدينة الاستسلام"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "回乐峰前沙似雪，受降城外月如霜。(回乐\n峰\n一作：回乐\n烽\n）\n不知何处吹芦管，一夜征人尽望乡。",
+    "title_pinyin": "yè shàng shòu jiàng chéng wén dí",
+    "pinyin": "huí lè fēng qián shā shì xuě，shòu jiàng chéng wài yuè rú shuāng。(huí lè\nfēng\nyī zuò：huí lè\nfēng\n）\nbù zhī hé chù chuī lú guǎn，yī yè zhēng rén jǐn wàng xiāng。"
+}

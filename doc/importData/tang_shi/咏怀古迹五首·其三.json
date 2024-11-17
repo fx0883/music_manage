@@ -1,0 +1,57 @@
+{
+    "title": "咏怀古迹五首·其三",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫，字子美，自号少陵野老，唐代著名现实主义诗人，与李白合称“李杜”。他的诗歌内容广泛，深刻反映了唐代社会的各种矛盾和人民疾苦，被后人誉为“诗史”。代表作有《春望》、《登高》、《茅屋为秋风所破歌》等。",
+            "en": "Du Fu, styled Zimei, self-titled Shaoling Ye Lao, was a renowned realist poet of the Tang Dynasty, often paired with Li Bai as 'Li Du'. His poetry covers a wide range of topics, profoundly reflecting the various contradictions of Tang society and the sufferings of the people, earning him the title 'Poet Historian'. His famous works include 'Spring View', 'Climbing the Heights', and 'Song of the Thatched Cottage Destroyed by the Autumn Wind'.",
+            "ja": "杜甫は、字を子美、自号を少陵野老と称した、唐代の著名な現実主義詩人であり、李白と共に「李杜」と並び称される。彼の詩は多岐にわたり、唐代社会の様々な矛盾や人民の苦難を深く反映しており、「詩史」と称賛される。代表作には「春望」、「登高」、「茅屋為秋風所破歌」などがある。",
+            "es": "Du Fu, también conocido como Zimei y autodenominado Shaoling Ye Lao, fue un destacado poeta realista de la dinastía Tang, a menudo mencionado junto con Li Bai como 'Li Du'. Su poesía abarca una amplia gama de temas, reflejando profundamente las diversas contradicciones de la sociedad Tang y las penurias del pueblo, por lo que es conocido como el 'Poeta Historiador'. Entre sus obras más famosas se encuentran 'Vista de Primavera', 'Escalar las Alturas' y 'Canción de la Cabaña de Paja Destrozada por el Viento de Otoño'.",
+            "ar": "دو فو، المعروف بلقب زي مي، ويعرف بنفسه بـ شاولينغ يي لاو، كان شاعرًا واقعيًا بارزًا في عهد التانغ، غالبًا ما يُذكر جنبًا إلى جنب مع لي باي كـ 'لي دو'. شعره يغطي مجموعة واسعة من المواضيع، يعكس بعمق التناقضات المختلفة في المجتمع التانغ ومعاناة الناس، مما أهله ليُعرف بـ 'شاعر التاريخ'. من أشهر أعماله 'منظر الربيع'، 'الصعود إلى الأعلى'، و 'أغنية الكوخ القش الذي دمره ريح الخريف'."
+        }
+    },
+    "annotations": {
+        "zh": "群山万壑赴荆门：群山和万壑形容山势险峻，赴荆门指向荆门山方向延伸。生长明妃尚有村：明妃指王昭君，村指她的故乡。一去紫台连朔漠：紫台指皇宫，朔漠指北方沙漠。独留青冢向黄昏：青冢指王昭君的墓，黄昏象征凄凉。画图省识春风面：画图指画像，省识指曾经相识，春风面指美貌的女子。环佩空归夜月魂：环佩指女子的饰物，夜月魂指王昭君的灵魂。千载琵琶作胡语：千载指时间久远，胡语指胡人的语言。分明怨恨曲中论：怨恨指王昭君的哀怨，曲中论指在乐曲中表达。",
+        "en": "Mountains and valleys converge towards Jingmen: Describes the rugged terrain leading to Jingmen Mountain. The village where the famous lady grew up still exists: Refers to Wang Zhaojun's hometown. Once she left the purple palace and entered the northern desert: Purple palace signifies the imperial palace, and the northern desert refers to the vast northern sands. Alone, her green tomb faces the dusk: Green tomb refers to Wang Zhaojun's grave, and dusk symbolizes desolation. From paintings, one could barely recognize her spring-like face: Paintings refer to portraits, and spring-like face denotes her beauty. Her jade pendants return empty under the moonlit night: Jade pendants are women's ornaments, and moonlit night refers to her soul. For a thousand years, the pipa plays in the language of the Hu: Thousand years indicates a long time, and the language of the Hu refers to the language of the northern tribes. Clearly, her resentment is discussed in the melody: Resentment signifies Wang Zhaojun's sorrow, discussed in the music.",
+        "ja": "群山万壑赴荆門：山々と谷々が荊門山に向かって延びる様子を表す。生长明妃尚有村：明妃（王昭君）が育った村がまだあるという意味。一去紫台連朔漠：紫台（宮廷）を去り、朔漠（北方の砂漠）に至ること。独留青塚向黄昏：青塚（王昭君の墓）が寂しく夕暮れに向かっている様子。画図省識春風面：画図（肖像画）で春風のような美しい顔立ちを思い出す。環珮空歸夜月魂：環珮（女性の飾り物）が夜の月の下で空しく帰る、王昭君の魂のこと。千載琵琶作胡語：千年にわたり琵琶が胡語（北方の言葉）で奏でられる。分明怨恨曲中論：はっきりと恨みが曲の中で語られている。",
+        "es": "Montañas y valles se dirigen hacia Jingmen: Describe el terreno escarpado que conduce a la montaña Jingmen. El pueblo donde creció la famosa dama aún existe: Se refiere al pueblo natal de Wang Zhaojun. Una vez que dejó el palacio púrpura y entró en el desierto del norte: El palacio púrpura significa el palacio imperial, y el desierto del norte se refiere a las vastas arenas del norte. Solo, su tumba verde enfrenta el anochecer: La tumba verde se refiere a la tumba de Wang Zhaojun, y el anochecer simboliza la desolación. En los cuadros, apenas se podía reconocer su rostro de primavera: Los cuadros se refieren a los retratos, y el rostro de primavera denota su belleza. Sus adornos de jade regresan vacíos bajo la luz de la luna: Los adornos de jade son joyas femeninas, y la luz de la luna se refiere a su alma. Durante mil años, el pipa toca en la lengua de los Hu: Mil años indica un largo tiempo, y la lengua de los Hu se refiere al idioma de las tribus del norte. Claramente, su resentimiento se discute en la melodía: El resentimiento significa la tristeza de Wang Zhaojun, discutida en la música.",
+        "ar": "الجبال والوديان تتجه نحو جينغمن: تصف التضاريس الوعرة التي تؤدي إلى جبل جينغمن. القرية التي ترعرعت فيها السيدة الشهيرة لا تزال قائمة: تشير إلى مسقط رأس وانغ تشاوچون. عندما غادرت القصر الأرجواني ودخلت الصحراء الشمالية: القصر الأرجواني يعني القصر الإمبراطوري، والصحراء الشمالية تشير إلى الرمال الشاسعة في الشمال. وحدها، قبرها الأخضر يواجه المساء: قبرها الأخضر يشير إلى قبر وانغ تشاوچون، والمساء يرمز إلى الوحدة. من اللوحات، يمكن التعرف على وجهها الربيعي بشكل ضئيل: اللوحات تشير إلى الصور، ووجهها الربيعي يدل على جمالها. قلاداتها العاجية تعود فارغة تحت ضوء القمر: القلادات العاجية هي مجوهرات نسائية، وضوء القمر يشير إلى روحها. لآلاف السنين، يعزف البيباء بلغة الهو: آلاف السنين تشير إلى وقت طويل، ولغة الهو تعني لغة القبائل الشمالية. بوضوح، يتم مناقشة حنقها في الموسيقى: الحنق يعني حزن وانغ تشاوچون، المناقش في الموسيقى."
+    },
+    "appreciations": {
+        "zh": "这首诗通过咏叹王昭君的悲剧命运，表达了对她命运的深切同情和对历史不公的感慨。诗人以群山万壑奔赴荆门的壮阔景象开篇，引出明妃的故里，营造出一种悲凉的氛围。接着，通过紫台、朔漠、青冢等意象，描绘了昭君出塞的孤独与凄凉。画图省识春风面、环佩空归夜月魂两句，揭示了昭君悲剧的根源，表达了对她美貌与才华被埋没的遗憾。最后，千载琵琶作胡语，分明怨恨曲中论，将昭君的怨恨化作千古传唱的琵琶曲，深化了主题。整首诗运用对比、象征等手法，情感深沉，意境悲凉，具有很高的艺术价值。",
+        "en": "This poem laments the tragic fate of Wang Zhaojun, expressing deep sympathy for her destiny and reflections on historical injustices. The poet opens with a grandiose depiction of mountains and valleys converging towards Jingmen, leading to the village where the Bright Concubine was born, setting a melancholic tone. The lines about the Purple Terrace, the northern deserts, and the green tomb paint a picture of Zhaojun's solitude and desolation. The phrases 'recognizing her face in a painting' and 'her soul returning in the moonlit night' reveal the root of her tragedy and the regret of her beauty and talent being wasted. Finally, the lines about the millennium-old pipa playing in the language of the Hu people and the clear resentment in the melody elevate the theme. The poem employs contrasts and symbolism, with profound emotions and a somber atmosphere, holding high artistic value.",
+        "ja": "この詩は、王昭君の悲劇的な運命を詠み、彼女の運命に対する深い同情と歴史の不公正に対する感慨を表現しています。詩人は、群山万谷が荊門に向かう壮大な景象で始め、明妃の故郷を導き出し、悲しげな雰囲気を作り出します。紫台、朔漠、青塚などのイメージを通じて、昭君の出塞の孤独と淋しさを描きます。画図省識春風面、環珮空帰夜月魂の二句は、昭君の悲劇の根源を明かし、彼女の美しさと才能が埋もれたことへの遺憾を表します。最後に、千載琵琶作胡語、分明怨恨曲中論と、昭君の恨みを千古に伝わる琵琶の曲に変え、テーマを深めます。全体として、対比や象徴などの手法を用い、感情が深く、意境が悲しげで、高い芸術的価値を持っています。",
+        "es": "Este poema lamenta el destino trágico de Wang Zhaojun, expresando una profunda simpatía por su destino y reflexiones sobre las injusticias históricas. El poeta comienza con una descripción grandiosa de montañas y valles que convergen hacia Jingmen, llevando al pueblo donde nació la Concubina Brillante, estableciendo un tono melancólico. Las líneas sobre la Terraza Púrpura, los desiertos del norte y la tumba verde pintan una imagen de la soledad y desolación de Zhaojun. Las frases 'reconociendo su rostro en un cuadro' y 'su alma regresando en la noche iluminada por la luna' revelan la raíz de su tragedia y el arrepentimiento por su belleza y talento desperdiciado. Finalmente, las líneas sobre el pipa milenario que toca en el idioma de los hunos y el claro resentimiento en la melodía elevan el tema. El poema emplea contrastes y simbolismo, con emociones profundas y una atmósfera sombría, poseyendo un alto valor artístico.",
+        "ar": "هذا الشعر ي оплح القدر المأساوي لوانغ تشاو جون، وي��ح بالتعاطف العميق مع مصيرها والتأمل في الظلم التاريخي. يبدأ الشاعر بوصف مهيب للجبال والوديان التي تتجه نحو جينغمن، مما يقود إلى القرية التي وُلدت فيها الزوجة المشرقة، مما يخلق جواً حزيناً. الأبيات عن المنصة الزرقاء، والصحاري الشمالية، والقبر الأخضر ترسم صورة للوحدة واليأس ل Zhaojun. العبارات 'التعرف على وجهها في لوحة' و 'عودة روحها في ليلة مضاءة بالقمر' تكشف عن جذر مأساتها والندم على جمالها وعبقرeriها المهدر. وأخيراً، الأبيات عن البي파 الألفي الذي يعزف بلغة الهون والكراهية الواضحة في اللحن ترفع الموضوع. يستخدم الشعر المقارنات والرموز، مع مشاعر عميقة وأجواء مظلمة، يمتلك قيمة فنية عالية."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "群山万壑奔赴荆门，那里还有明妃的故村。\n她一去紫台远赴朔漠，只留下青冢孤对黄昏。\n画像中依稀识得春风面，环佩空归月夜魂。\n千载琵琶弹奏胡音，分明怨恨在曲中倾诉。",
+            "en": "Mountains and valleys converge at Jingmen, where the village of the bright concubine still stands.\nOnce she left the purple palace for the northern desert, leaving only a green tomb facing the dusk.\nIn the portrait, one barely recognizes her spring-like face; her jade pendants return empty in the moonlit night.\nFor a thousand years, the pipa plays in the Hun language, clearly voicing grievances in the melody.",
+            "ja": "群山万壑が荊門に赴き、明妃の故郷の村がまだある。\n紫台を去り朔漠に至り、青塚のみが黄昏に向かっている。\n絵図で春風の面を省み、環珮は夜月に空しく帰る。\n千年琵琶が胡語を奏で、曲の中ではっきりと恨みを語る。",
+            "es": "Montañas y valles se dirigen a Jingmen, donde aún está el pueblo de la concubina brillante.\nUna vez dejó la plataforma púrpura hacia el desierto del norte, dejando solo un sepulcro verde hacia el atardecer.\nEn el retrato, apenas se reconoce su rostro de primavera; sus aretes regresan vacíos en la noche lunar.\nPor mil años, el pipa toca en lengua huno, claramente expresando el resentimiento en la melodía.",
+            "ar": "الجبال والوديان تتجه إلى جينغمن، حيث لا يزال هناك قرية للزوجة المشرقة.\nبمجرد أن غادرت المنصة الزرقاء إلى الصحراء الشمالية، تاركة فقط قبرًا أخضر يواجه الغسق.\nفي الصورة، يتعرف المرء بصعوبة على وجهها الربيعي؛ تسقط حلقاتها الفارغة في ليلة القمر.\nلفة ألف سنة، يعزف البيبا باللغة الهونية، ويعبر بوضوح عن الضغينة في اللحن."
+        },
+        "title_translation": {
+            "zh": "咏怀古迹五首·其三",
+            "en": "Reflecting on Historical Sites: Part Three",
+            "ja": "古跡を詠う五首·其三",
+            "es": "Reflexiones sobre Sitios Históricos: Tercera Parte",
+            "ar": "التفكير في المواقع التاريخية: الجزء الثالث"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "群山万壑赴荆门，生长明妃尚有村。\n一去紫台连朔漠，独留青冢向黄昏。\n画图省识春风面，环佩空归夜月魂。(夜月 一作：月夜 环\n佩\n一作：环\n珮\n)\n千载琵琶作胡语，分明怨恨曲中论。",
+    "title_pinyin": "yǒng huái gǔ jì wǔ shǒu·qí sān",
+    "pinyin": "qún shān wàn hè fù jīng mén，shēng zhǎng míng fēi shàng yǒu cūn。\nyī qù zǐ tái lián shuò mò，dú liú qīng zhǒng xiàng huáng hūn。\nhuà tú shěng shí chūn fēng miàn，huán pèi kōng guī yè yuè hún。(yè yuè  yī zuò：yuè yè  huán\npèi\nyī zuò：huán\npèi\n)\nqiān zài pí pá zuò hú yǔ，fēn míng yuàn hèn qū zhōng lùn。"
+}

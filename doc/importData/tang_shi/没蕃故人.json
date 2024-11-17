@@ -1,0 +1,57 @@
+{
+    "title": "没蕃故人",
+    "difficulty": 2,
+    "author": {
+        "name": "张籍",
+        "name_pinyin": "zhāng jí",
+        "image": "张籍.jpg",
+        "introduction": {
+            "zh": "张籍，唐代著名诗人，字文昌，和州乌江（今安徽和县乌江镇）人。他擅长乐府诗，与王建齐名，世称'张王乐府'。其诗多反映社会现实，语言质朴，情感真挚。代表作有《没蕃故人》、《野老歌》等。张籍的诗作在当时颇受推崇，对后世也有一定影响。",
+            "en": "Zhang Ji was a renowned poet of the Tang Dynasty, styled Wenchang, from Wujiang, Hezhou (present-day Wujiang Town, Hexian County, Anhui Province). He excelled in Yuefu poetry and was equally famous with Wang Jian, collectively known as 'Zhang-Wang Yuefu'. His poems often reflected social realities, characterized by plain language and sincere emotions. His notable works include 'Missing a Friend in the Barbarian Territory' and 'Song of the Old Farmer'. Zhang Ji's poetry was highly esteemed during his time and has had a lasting influence on later generations.",
+            "ja": "張籍は唐代の著名な詩人で、字は文昌、和州烏江（現在の安徽省和県烏江鎮）の人。楽府詩に優れ、王建と並び称され、「張王楽府」として知られる。彼の詩はしばしば社会の現実を反映し、言葉は質朴で感情は真摯である。代表作には「没蕃故人」、「野老歌」などがある。張籍の詩は当時高く評価され、後世にも一定の影響を与えた。",
+            "es": "Zhang Ji fue un poeta destacado de la dinastía Tang, con el nombre de cortesía Wenchang, originario de Wujiang, Hezhou (actualmente Wujiang Town, Hexian County, Anhui Province). Se destacó en la poesía Yuefu y fue tan famoso como Wang Jian, conocidos colectivamente como 'Zhang-Wang Yuefu'. Sus poemas a menudo reflejaban la realidad social, con un lenguaje sencillo y emociones sinceras. Entre sus obras más destacadas se encuentran 'Missing a Friend in the Barbarian Territory' y 'Song of the Old Farmer'. La poesía de Zhang Ji fue muy apreciada en su tiempo y ha tenido una influencia duradera en las generaciones posteriores.",
+            "ar": "كان تشانغ جي شاعرًا مشهورًا في عهد تانغ، يُعرف بلقبه وين تشانغ، من ووجيانغ، خيزو (الآن ووجيانغ تاون، مقاطعة خيكسيان، مقاطعة آنهوي). برع في الشعر اليوفو وكان مشهورًا بنفس القدر مع وانغ جيان، معروفين بشكل جماعي بـ 'تشانغ-وانغ يوفو'. غالبًا ما تعكس قصائده الواقع الاجتماعي، مع لغة بسيطة وعواطف صادقة. من بين أعماله البارزة 'الحنين إلى صديق في الأراضي البربرية' و 'أغنية الفلاح العجوز'. كانت قصائد تشانغ جي تحظى بتقدير كبير في وقته ولها تأثير دائم على الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "前年伐月支：前年指过去的某一年，伐指征伐，月支是古代西域的一个国家。城下没全师：城下指城池之下，没指覆没，全师指整个军队。蕃汉断消息：蕃指蕃邦，即外族，汉指中原汉族，断消息指音讯断绝。死生长别离：死生指生死，长别离指永久的分离。无人收废帐：无人指没有人，收指收拾，废帐指废弃的帐篷。归马识残旗：归马指归来的战马，识指认识，残旗指残破的旗帜。欲祭疑君在：欲祭指想要祭祀，疑君在指怀疑朋友是否还在人世。天涯哭此时：天涯指遥远的地方，哭此时指此刻哭泣。",
+        "en": "The previous year we attacked the Yuezhi: 'The previous year' refers to a past year, 'attacked' means to wage war, and 'Yuezhi' is an ancient Western region state. The entire army perished under the city: 'Under the city' means beneath the city walls, 'perished' means to be annihilated, and 'the entire army' refers to the whole military force. News between the barbarians and the Han was cut off: 'Barbarians' refers to foreign tribes, 'Han' refers to the central plains Han people, and 'cut off' means no communication. Life and death, a long separation: 'Life and death' refers to being alive or dead, and 'a long separation' means permanent parting. No one collects the abandoned tents: 'No one' means nobody, 'collects' means to tidy up, and 'abandoned tents' refers to discarded tents. Returning horses recognize the tattered flags: 'Returning horses' means horses coming back, 'recognize' means to identify, and 'tattered flags' refers to damaged banners. Wanting to offer sacrifices, I doubt if you are still alive: 'Wanting to offer sacrifices' means wanting to perform a ritual, and 'I doubt if you are still alive' means suspecting if the friend is still living. Crying at this moment at the ends of the earth: 'The ends of the earth' means a distant place, and 'crying at this moment' means weeping now.",
+        "ja": "前年伐月支：前年は過去の年のこと、伐は攻撃すること、月支は古代西域の国の一つ。城下没全師：城下は城の下、没は滅亡すること、全師は全軍のこと。蕃漢断消息：蕃は異民族の国、漢は中原の漢族、断消息は音信が途絶えること。死生长别離：死生は生死、長别離は永遠の別れ。無人收廃帳：無人とは誰もいないこと、收は整理すること、廃帳は捨てられた天幕。帰馬識残旗：帰馬は帰還する馬、識は識別すること、残旗は破損した旗。欲祭疑君在：欲祭は祭祀をしたいこと、疑君在は友がまだ生きているか疑うこと。天涯哭此时：天涯は遠い地、哭此时は今泣くこと。",
+        "es": "El año anterior atacamos a los Yuezhi: 'El año anterior' se refiere a un año pasado, 'atacamos' significa librar una guerra, y 'Yuezhi' es un estado de la región occidental antigua. El ejército entero pereció bajo la ciudad: 'Bajo la ciudad' significa debajo de las murallas de la ciudad, 'pereció' significa ser aniquilado, y 'el ejército entero' se refiere a toda la fuerza militar. Se cortó la comunicación entre los bárbaros y los Han: 'Bárbaros' se refiere a las tribus extranjeras, 'Han' se refiere a la gente de las llanuras centrales Han, y 'se cortó' significa no tener comunicación. Vida y muerte, una larga separación: 'Vida y muerte' se refiere a estar vivo o muerto, y 'una larga separación' significa una partida permanente. Nadie recoge las tiendas abandonadas: 'Nadie' significa nadie, 'recoge' significa arreglar, y 'tiendas abandonadas' se refiere a tiendas desechadas. Los caballos que regresan reconocen las banderas desgastadas: 'Caballos que regresan' significa caballos que vuelven, 'reconocen' significa identificar, y 'banderas desgastadas' se refiere a banderas dañadas. Quiero ofrecer sacrificios, dudo si aún estás vivo: 'Quiero ofrecer sacrificios' significa querer realizar un ritual, y 'dudo si aún estás vivo' significa sospechar si el amigo aún vive. Llorando en este momento en el fin del mundo: 'El fin del mundo' significa un lugar lejano, y 'llorando en este momento' significa llorar ahora.",
+        "ar": "في العام الماضي هاجمنا Yuezhi: 'العام الماضي' يشير إلى سنة ماضية، 'هاجمنا' يعني شن حرب، و 'Yuezhi' هو دولة في منطقة الغرب القديمة. الجيش كله قضي تحت المدينة: 'تحت المدينة' يعني تحت أسوار المدينة، 'قضي' يعني تم تدميره، و 'الجيش كله' يشير إلى القوة العسكرية بأكملها. انقطعت الأخبار بين البربر والهان: 'البربر' يشير إلى القبائل الأجنبية، 'الهان' يشير إلى الناس من الهان في السهول الوسطى، و 'انقطعت' تعني عدم وجود اتصال. الحياة والموت، فراق طويل: 'الحياة والموت' يشير إلى أن يكون الشخص حياً أو ميتاً، و 'فراق طويل' يعني فراق دائم. لا أحد يجمع الخيام المهجورة: 'لا أحد' يعني لا شخص، 'يجمع' يعني ينظم، و 'الخيام المهجورة' تشير إلى الخيام المهملة. الخيول العائدة تعرف الأعلام التالفة: 'الخيول العائدة' تعني الخيول التي تعود، 'تعرف' تعني تحدد، و 'الأعلام التالفة' تشير إلى الأعلام التالفة. أريد أن أقدم القرابين، أشك في أنك لا تزال حياً: 'أريد أن أقدم القرابين' يعني أريد أن أقوم بمراسم، و 'أشك في أنك لا تزال حياً' يعني أشك في أن الصديق لا يزال على قيد الحياة. أبكي في هذه اللحظة في أقصى الأرض: 'أقصى الأرض' يعني مكان بعيد، و 'أبكي في هذه اللحظة' يعني أبكي الآن."
+    },
+    "appreciations": {
+        "zh": "这首《没蕃故人》通过描写战争的残酷和生离死别的悲痛，表达了诗人对故人的深切怀念和对战争的深刻反思。诗中运用了对比、象征等手法，如‘无人收废帐，归马识残旗’两句，通过废帐和残旗的意象，生动地展现了战场的凄凉。艺术成就上，诗歌情感真挚，意境深远，具有很高的艺术感染力。情感分析方面，诗人抒发了对战死沙场的故人的哀悼和对生离死别的无奈。在文学史地位上，这首诗以其独特的视角和深刻的主题，成为唐代边塞诗中的佳作，对后世诗歌创作产生了深远影响。",
+        "en": "This poem 'Missing a Friend in the Frontier' vividly depicts the cruelty of war and the sorrow of parting, expressing the poet's deep怀念 for his friend and profound reflection on war. The use of contrasts and symbols, such as 'No one collects the abandoned tents, the returning horses recognize the tattered flags,' vividly portrays the desolation of the battlefield. In terms of artistic achievement, the poem is sincere in emotion and profound in imagery, possessing high artistic appeal. Emotionally, it conveys the poet's mourning for his friend who died in battle and the helplessness of parting. Historically, this poem stands out in Tang Dynasty frontier poetry for its unique perspective and profound theme, exerting a lasting influence on later poetic creations.",
+        "ja": "この詩「没蕃故人」は、戦争の残酷さと死別の悲しみを描き出し、詩人が故人への深い思い出と戦争への深い反省を表現しています。「無人收廢帳、歸馬識殘旗」の二句は、廃帳と殘旗のイメージを通じて、戦場の淋しさを生き生きと描いています。芸術的成就としては、詩の感情が真摯で、意境が深遠であり、高い芸術的感染力を持っています。感情分析では、詩人が戦死した故人への哀悼と死別の無奈さを抒発しています。文学史の地位としては、この詩は独特の視点と深いテーマで、唐代の辺塞詩の中で傑作とされ、後世の詩作に大きな影響を与えました。",
+        "es": "Este poema 'Pensando en un Amigo en la Frontera' describe vívidamente la crueldad de la guerra y la tristeza de la separación, expresando el profundo recuerdo del poeta por su amigo y su profunda reflexión sobre la guerra. El uso de contrastes y símbolos, como en 'Nadie recoge las tiendas abandonadas, los caballos que regresan reconocen las banderas desgarradas', retrata vivamente la desolación del campo de batalla. En términos de logro artístico, el poema es sincero en emociones y profundo en imágenes, poseyendo una alta apelación artística. Emocionalmente, transmite el luto del poeta por su amigo caído en batalla y la impotencia de la separación. Históricamente, este poema se destaca en la poesía fronteriza de la dinastía Tang por su perspectiva única y tema profundo, ejerciendo una influencia duradera en las creaciones poéticas posteriores.",
+        "ar": "هذا الشعر 'الحنين إلى صديق في الحدود' يصور بوضوح وحشية الحرب وحزن الانفصال، معرباً عن تذكر الشاعر العميق لصديقه وتأملاته العميقة في الحرب. استخدام المقارنات والرموز، مثل 'لا أحد يجمع الخيام المهجورة، والخيول العائدة تعرف الأعلام الممزقة'، يصور بوضوح خواء ساحة المعركة. من حيث الإنجاز الفني، الشعر صادق في العواطف وعميق في الصور، يمتلك جاذبية فنية عالية. عاطفياً، يعبر عن حزن الشاعر على صديقه الذي سقط في المعركة وعجزه عن الانفصال. تاريخياً، يبرز هذا الشعر في شعر الحدود في عهد التانغ بفضل منظوره الفريد ووضوعه العميق، مؤثراً بشكل دائم في الأعمال الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "前年征讨月支，城下全军覆没。\n蕃汉断绝消息，生死永别分离。\n无人收拾废弃的营帐，归来的马儿认得残破的旗帜。\n想要祭奠却疑你仍在，天涯此时痛哭。",
+            "en": "Two years ago we fought the Yuezhi, the whole army perished at the city walls.\nNews between Tang and Tibetan ceased, life and death parted us forever.\nNo one gathers the abandoned tents, returning horses recognize the tattered flags.\nI wish to offer sacrifices, yet doubt you still live, weeping at the ends of the earth at this moment.",
+            "ja": "前年、月支を討ち、城下で全軍が没した。\n蕃と漢の消息は絶え、生死は永遠に別れた。\n誰も廃された幕営を収拾せず、帰還する馬は破れた旗を識る。\n祀りたいのに君がいるか疑問に思い、天涯で今泣く。",
+            "es": "Hace dos años combatimos a los Yuezhi, todo el ejército cayó bajo las murallas.\nSe cortó la comunicación entre Tang y Tíbet, vida y muerte nos separaron para siempre.\nNadie recoge las tiendas abandonadas, los caballos que regresan reconocen las banderas desgarradas.\nQuiero hacer un sacrificio, pero dudo que aún estés vivo, llorando en el fin del mundo en este momento.",
+            "ar": "قبل سنتين قاتلنا يويزي، وانهارت الجيوش تحت أسوار المدينة.\nانقطعت الأخبار بين التانغ والتبت، فرقتنا الحياة والموت للأبد.\nلا أحد يجمع الخيام المهجورة، والخيول العائدة تعرف الأعلام الممزقة.\nأرغب في تقديم القرابين، لكني أشك في أنك لا تزال حياً، أبكي في أقصى الأرض في هذا الوقت."
+        },
+        "title_translation": {
+            "zh": "没蕃故人",
+            "en": "To a Friend Lost in the Tibetan Campaign",
+            "ja": "没蕃の旧友",
+            "es": "A un Amigo Perdido en la Campaña Tibetana",
+            "ar": "إلى صديق فقد في الحملة التبتية"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "前年伐月支，城下没全师。\n蕃汉断消息，死生长别离。\n无人收废帐，归马识残旗。\n欲祭疑君在，天涯哭此时。",
+    "title_pinyin": "méi fān gù rén",
+    "pinyin": "qián nián fá yuè zhī，chéng xià méi quán shī。\nfān hàn duàn xiāo xī，sǐ shēng zhǎng bié lí。\nwú rén shōu fèi zhàng，guī mǎ shí cán qí。\nyù jì yí jūn zài，tiān yá kū cǐ shí。"
+}

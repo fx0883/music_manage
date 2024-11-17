@@ -1,0 +1,57 @@
+{
+    "title": "八阵图",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫，字子美，号少陵野老，唐代著名现实主义诗人，与李白合称“李杜”，被后人称为“诗圣”。他的诗歌内容广泛，反映了唐代社会的各个方面，尤其擅长描写社会现实和人民疾苦。代表作有《春望》、《登高》、《茅屋为秋风所破歌》等。",
+            "en": "Du Fu, styled Zimei, also known as Shaoling Ye Lao, was a renowned realist poet of the Tang Dynasty, often paired with Li Bai as 'Li Du', and later honored as the 'Poet Saint'. His poetry covers a wide range of subjects, reflecting various aspects of Tang Dynasty society, particularly skilled in depicting social realities and the sufferings of the people. His notable works include 'Spring View', 'Climbing High', 'Song of the Thatched Cottage Destroyed by the Autumn Wind', among others.",
+            "ja": "杜甫は、字を子美、号を少陵野老と称し、唐代の著名な現実主義詩人です。李白と並び「李杜」と称され、後世「詩聖」とも呼ばれています。彼の詩は幅広い主題を扱い、唐代社会の様々な側面を反映しており、特に社会の現実や人民の苦悩を描くことに長けていました。代表作には「春望」、「登高」、「茅屋為秋風所破歌」などがあります。",
+            "es": "Du Fu, cuyo nombre de cortesía era Zimei y también era conocido como Shaoling Ye Lao, fue un famoso poeta realista de la dinastía Tang, a menudo mencionado junto con Li Bai como 'Li Du', y más tarde considerado como el 'Santo de la Poesía'. Su poesía abarca una amplia gama de temas, reflejando diversos aspectos de la sociedad de la dinastía Tang, especialmente dotado para describir la realidad social y las penurias del pueblo. Sus obras destacadas incluyen 'Vista de Primavera', 'Subir a lo Alto', 'Canción de la Cabaña de Paja Destrozada por el Viento de Otoño', entre otras.",
+            "ar": "دو فو، ويعرف أيضاً بزيمي و شاولينغ يي لاو، كان شاعرًا واقعيًا مشهورًا في عهد التانغ، وغالبًا ما يذكر جنبًا إلى جنب مع لي باي كـ'لي دو'، وقد لُقب لاحقًا بـ'القديس الشاعر'. شعره يغطي مجموعة واسعة من المواضيع، يعكس جوانب مختلفة من المجتمع في عهد التانغ، وخصوصًا موهبته في تصوير الواقع الاجتماعي ومعاناة الناس. من أشهر أعماله 'منظر الربيع'، 'الصعود إلى الأعلى'، 'أغنية الكوخ القش الذي تهدمته رياح الخريف' وغيرها."
+        }
+    },
+    "annotations": {
+        "zh": "功盖三分国：功绩超过三国鼎立的局面。名成八阵图：因八阵图而名垂青史。江流石不转：江水冲刷石头却不能使之转动，形容八阵图的坚固。遗恨失吞吴：因未能吞并吴国而留下遗憾。\n特殊句式：无特殊句式。\n典故解释：八阵图是诸葛亮创造的军事阵法，此处指诸葛亮的智慧和功绩。\n意象分析：江流石不转象征诸葛亮的智慧和功绩坚不可摧。\n历史背景：三国时期，诸葛亮辅佐刘备，建立了蜀汉政权，八阵图是其军事智慧的体现。",
+        "en": "Gong gai san fen guo: His achievements surpass the three kingdoms. Ming cheng ba zhen tu: He became famous for the Eight Trigrams Formation. Jiang liu shi bu zhuan: The river flows but the stones do not move, depicting the solidity of the formation. Yi hen shi tun Wu: He regretted not conquering Wu.\nSpecial sentence structure: None.\nAllusion explanation: The Eight Trigrams Formation was a military tactic created by Zhuge Liang, symbolizing his wisdom and achievements.\nImagery analysis: The unmovable stones in the river symbolize the unshakable wisdom and achievements of Zhuge Liang.\nHistorical background: During the Three Kingdoms period, Zhuge Liang assisted Liu Bei in establishing the Shu Han regime, and the Eight Trigrams Formation exemplified his military genius.",
+        "ja": "功盖三分国：功績は三国鼎立の局面を超える。名成八阵图：八陣図によって名を成す。江流石不转：江の流れが石を動かさない、八陣図の堅固さを形容する。遺恨失吞呉：呉を併呑できなかったことを遺憾に思う。\n特殊文法：なし。\n典故説明：八陣図は諸葛亮が創造した軍事陣形で、ここでは彼の知恵と功績を指す。\nイメージ分析：江流石不転は諸葛亮の知恵と功績の堅固さを象徴する。\n歴史背景：三国時代、諸葛亮は劉備を補佐し、蜀漢政権を立て、八陣図はその軍事知恵の体現である。",
+        "es": "Gong gai san fen guo: Sus logros superan los tres reinos. Ming cheng ba zhen tu: Se hizo famoso por el Formación de Ocho Trigramas. Jiang liu shi bu zhuan: El río fluye pero las piedras no se mueven, describiendo la solidez de la formación. Yi hen shi tun Wu: Lamenta no haber conquistado Wu.\nEstructura de oración especial: Ninguna.\nExplicación de la alusión: La Formación de Ocho Trigramas fue una táctica militar creada por Zhuge Liang, simbolizando su sabiduría y logros.\nAnálisis de imágenes: Las piedras inamovibles en el río simbolizan la sabiduría y logros inquebrantables de Zhuge Liang.\nContexto histórico: Durante el período de los Tres Reinos, Zhuge Liang asistió a Liu Bei en la fundación del régimen de Shu Han, y la Formación de Ocho Trigramas ejemplificó su genio militar.",
+        "ar": "功盖三分国: إنجازاته تفوق دول الثلاثة المتنافسة. 名成八阵图: أصبح مشهورًا بسبب تكوين الثمانية. 江流石不转: يتدفق النهر لكن الأحجار لا تتحرك، تصف صلابة التكوين. 遗恨失吞吴: يأسف لعدم فوزه على Wu.\nنوع الجملة الخاصة: لا يوجد.\nشرح الإستعارة: تكوين الثمانية هو تكتيك عسكري أنشأه Zhuge Liang، يمثل حكمته وإنجازاته.\nتحليل الصور: الأحجار الثابتة في النهر ترمز إلى حكمة Zhuge Liang وإنجازاته القوية.\nالخلفية التاريخية: خلال فترة الثلاث ممالك، ساعد Zhuge Liang Liu Bei في تأسيس نظام Shu Han، وتكوين الثمانية كان مثالًا على عبقريته العسكرية."
+    },
+    "appreciations": {
+        "zh": "《八阵图》是唐代诗人杜甫的作品，主题思想是对三国时期蜀汉丞相诸葛亮的敬仰与惋惜。诗中'功盖三分国'赞颂了诸葛亮的卓越功绩，'名成八阵图'则突显其军事才能。'江流石不转'以石阵的坚固象征诸葛亮的智慧和毅力，而'遗恨失吞吴'则表达了对未能实现统一大业的遗憾。写作特色上，诗人运用简洁有力的语言，通过对比和象征手法，深刻揭示了主题。艺术成就方面，此诗以短小精悍的篇幅，展现了丰富的历史情感，具有较高的艺术价值。情感分析上，诗中既有对诸葛亮的崇敬，也有对其遗恨的深切同情。影响意义上，这首诗在文学史上具有重要地位，成为后世缅怀诸葛亮的经典之作。",
+        "en": "The poem 'Ba Zhen Tu' by Du Fu of the Tang Dynasty centers on the admiration and regret for Zhuge Liang, the prime minister of the Shu Han during the Three Kingdoms period. The line 'Gong Gai San Fen Guo' extols Zhuge's remarkable achievements, while 'Ming Cheng Ba Zhen Tu' highlights his military prowess. 'Jiang Liu Shi Bu Zhuan' uses the unyielding stone formations to symbolize Zhuge's wisdom and perseverance, and 'Yi Hen Shi Tun Wu' expresses the regret of not achieving the unification of the country. In terms of writing style, the poet employs concise and powerful language, using contrast and symbolism to profoundly reveal the theme. Artistically, this poem, with its brief yet profound content, exhibits rich historical emotions, making it highly valuable. Emotionally, it conveys both reverence for Zhuge and deep sympathy for his unfulfilled ambitions. In terms of influence, this poem holds a significant place in literary history, becoming a classic work for commemorating Zhuge Liang.",
+        "ja": "杜甫の唐代の詩「八陣図」は、三国時代の蜀漢の丞相・諸葛亮への敬慕と遺憾の念を主題としています。「功蓋三分国」は諸葛亮の偉大な功績を讃え、「名成八陣図」はその軍事才能を強調しています。「江流石不転」は石陣の堅固さを通じて諸葛亮の知恵と忍耐を象徴し、「遺恨失吞呉」は統一大業が果たされなかったことへの遺憾を表しています。表現手法としては、簡潔で力強い言葉遣いと対比・象徴的手法を用いて主題を深く掘り下げています。芸術的成就としては、短いながらも豊かな歴史的感情を描き出し、高い芸術的価値を持っています。感情分析では、諸葛亮への崇敬とその遺恨への深い同情が込められています。影響力としては、文学史上重要な地位を占め、諸葛亮を偲ぶ古典的名作となっています。",
+        "es": "El poema 'Ba Zhen Tu' de Du Fu, de la dinastía Tang, gira en torno a la admiración y el pesar por Zhuge Liang, el primer ministro de Shu Han durante el período de los Tres Reinos. La línea 'Gong Gai San Fen Guo' alaba los logros extraordinarios de Zhuge, mientras que 'Ming Cheng Ba Zhen Tu' resalta su habilidad militar. 'Jiang Liu Shi Bu Zhuan' utiliza las formaciones de piedra inquebrantables para simbolizar la sabiduría y perseverancia de Zhuge, y 'Yi Hen Shi Tun Wu' expresa el arrepentimiento de no haber logrado la unificación del país. En cuanto al estilo de escritura, el poeta emplea un lenguaje conciso y poderoso, utilizando el contraste y la simbología para revelar profundamente el tema. Artísticamente, este poema, breve pero profundo, muestra ricas emociones históricas, lo que lo hace altamente valioso. Emocionalmente, transmite tanto la reverencia por Zhuge como la profunda simpatía por sus ambiciones no realizadas. En términos de influencia, este poema ocupa un lugar significativo en la historia literaria, convirtiéndose en una obra clásica para conmemorar a Zhuge Liang.",
+        "ar": "القصيدة 'با زين تي' للشاعر دو فو من عهد التانغ تتناول الإعجاب والأسف تجاه جوغه ليانغ، الوزير الأول لولاية شو هان في فترة الثلاث ممالك. الخط 'كونغ جاي سان فن غوو' يمدح الإنجازات الاستثنائية لجوغه، بينما 'مينغ تشينغ با زين تي' يبرز قدرته العسكرية. 'جيانغ ليو شي بون تشوان' يستخدم تشكيلات الحجر الثابتة كرمز للحكمة والصبر لجوغه، و'يي هن شي تون وو' يعبر عن الندم لعدم تحقيق وحدة البلاد. فيما يتعلق بالنمط الكتابي، يستخدم الشاعر لغة موجزة وقوية، مستعيناً بالمقارنة والرمزية ليكشف بشكل عميق عن الموضوع. فنياً، هذه القصيدة، القصيرة ولكن العميقة، تظهر مشاعر تاريخية غنية، مما يجعلها ذات قيمة عالية. عاطفياً، تنقل الإعجاب بجوغه والتعاطف العميق مع طموحاته غير المحققة. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، لتصبح عملاً كلاسيكياً لتخليد ذكرى جوغه ليانغ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "功绩盖过三国鼎立，声名成就于八阵图。江水奔流石头却不动，遗恨在于未能吞并东吴。",
+            "en": "His achievements surpass the three divided realms, his fame rests in the Eight-Trigram Formation. The river flows but the stones remain, a lasting regret in failing to conquer Wu.",
+            "ja": "功績は三国をしのぎ、名を八陣図に成す。江の流れ石は転ばず、遺恨は呉を吞まずに失う。",
+            "es": "Sus logros superan a los tres reinos divididos, su nombre se forja en la Formación de Ocho Trigramas. El río fluye pero las piedras no giran, un lamento por no haber conquistado a Wu.",
+            "ar": "مآثره تتجاوز الدول الثلاث المفترقة، وصيته تتجلى في شكل الدوائر الثمانية. يجري النهر ولا تتحرك الحجارة، حسرة على فوات إلحاق وى."
+        },
+        "title_translation": {
+            "zh": "八阵图",
+            "en": "The Eight-Trigram Formation",
+            "ja": "八陣図",
+            "es": "La Formación de Ocho Trigramas",
+            "ar": "شكل الدوائر الثمانية"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "功盖三分国，名成八阵图。\n江流石不转，遗恨失吞吴。",
+    "title_pinyin": "bā zhèn tú",
+    "pinyin": "gōng gài sān fēn guó，míng chéng bā zhèn tú。\njiāng liú shí bù zhuǎn，yí hèn shī tūn wú。"
+}

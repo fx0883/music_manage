@@ -1,0 +1,57 @@
+{
+    "title": "望月怀远·望月怀古",
+    "difficulty": 2,
+    "author": {
+        "name": "张九龄",
+        "name_pinyin": "zhāng jiǔ líng",
+        "image": "张九龄.jpg",
+        "introduction": {
+            "zh": "张九龄，字子寿，号博物，唐朝著名政治家、文学家，被誉为“岭南第一人”。他出生于广东韶关，官至中书侍郎、同中书门下平章事，是唐玄宗时期的重臣。张九龄的诗作以清新淡雅、意境深远著称，尤其擅长五言诗，其代表作《望月怀远》广为传诵。他的政治主张和文学成就对后世产生了深远影响。",
+            "en": "Zhang Jiuling, styled Zishou and also known as Bowu, was a renowned statesman and litterateur of the Tang Dynasty, esteemed as the 'First Person of Lingnan'. Born in Shaoguan, Guangdong, he rose to the rank of Zhongshu Shilang and Tong Zhongshu Menxia Pingzhangshi, becoming a key minister during the reign of Emperor Xuanzong. Zhang Jiuling's poetry is celebrated for its fresh and elegant style and profound imagery, particularly his mastery of five-character verses. His representative work 'Yearning for the Distant under the Moon' is widely recited. His political views and literary achievements have had a lasting impact on later generations.",
+            "ja": "張九齢（ちょうきゅうれい）は、字を子寿（ししゅう）、号を博物（はくぶつ）と称し、唐時代の著名な政治家・文学者であり、「嶺南第一人」と称賛された。広東省韶関市出身で、官職は中書侍郎・同中書門下平章事に至り、唐の玄宗皇帝の時代の重臣であった。張九齢の詩は清新で淡雅、意境が深遠であり、特に五言詩に優れており、代表作「望月懐遠」は広く伝誦されている。彼の政治主張と文学成就は後世に大きな影響を与えた。",
+            "es": "Zhang Jiuling, también conocido como Zishou y Bowu, fue un destacado estadista y literato de la dinastía Tang, considerado como el 'Primer Hombre de Lingnan'. Nacido en Shaoguan, Guangdong, ascendió al rango de Zhongshu Shilang y Tong Zhongshu Menxia Pingzhangshi, convirtiéndose en un ministro clave durante el reinado del Emperador Xuanzong. La poesía de Zhang Jiuling es famosa por su estilo fresco y elegante y su profunda imaginería, especialmente su dominio de los versos de cinco caracteres. Su obra representativa 'Anhelando lo Distante bajo la Luna' es ampliamente recitada. Sus puntos de vista políticos y logros literarios han tenido un impacto duradero en las generaciones posteriores.",
+            "ar": "تشانغ جيولينغ، المعروف بلقب زيشود وبوو، كان سياسياً وأديباً بارزاً في عهد أسرة تانغ، ويُعتبر كأول شخصية من لينغان. وُلد في شاوغوان، غوانغدونغ، وتدرج في المناصب حتى أصبح وزيراً مهماً في عهد الإمبراطور شوانزونغ. اشتهرت شعرته بأسلوبها العذب والزخرفي، وتصويرها العميق، خاصة في قصائد الخمسة حروف. وأشهر أعماله \"التوق إلى البعيد تحت القمر\" تُقرأ على نطاق واسع. وأفكاره السياسية وإسهاماته الأدبية أثرت تأثيراً كبيراً على الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "海上生明月：海上升起一轮明月。天涯共此时：远在天涯的彼此也能共享这同一时刻的月光。情人怨遥夜：相爱的人抱怨长夜漫漫。竟夕起相思：整夜都沉浸在相思之中。灭烛怜光满：熄灭蜡烛，爱惜那满屋的月光。披衣觉露滋：披上衣服，感觉到露水渐渐湿润。不堪盈手赠：无法将月光满满地捧在手中相赠。还寝梦佳期：回到床上，希望在梦中与佳人相会。\n语法说明：此诗多用对仗句式，如“海上生明月，天涯共此时”。典故解释：无特别明显的用典。意象分析：明月、天涯、遥夜、露水等意象，表达了对远方情人的思念之情。历史背景：唐代边塞诗多描写征人思乡之情，此诗虽未明确提及边塞，但情感基调与之相似。",
+        "en": "The bright moon rises over the sea, and people at the ends of the earth share this moment. Lovers抱怨the long night, and thoughts of each other fill the whole night. Extinguishing the candle, I cherish the full light; putting on my clothes, I feel the dew's moisture. Unable to fill my hands with moonlight to give, I return to bed hoping to dream of a joyful meeting. \nGrammar: The poem uses parallel sentence structures, such as 'The bright moon rises over the sea, and people at the ends of the earth share this moment.' Allusions: No specific allusions are evident. Imagery: The moon, distant lands, the long night, and dew are used to express longing for a distant lover. Historical context: Tang Dynasty frontier poems often depict soldiers' homesickness, and though this poem does not explicitly mention the frontier, its emotional tone is similar.",
+        "ja": "海上に明月が昇る、天涯の地でもこの時を共にする。恋人たちが長い夜を恨む、一晩中相思に悩む。燭を消して光を愛し、衣服を着て露の湿りを感じる。手に満たして贈ることのできない月光、寝床に戻って佳期の夢を見る。\n文法説明：対仗句式が多用され、「海上に明月が昇る、天涯の地でもこの時を共にする」のような例がある。典故説明：特に明確な用典はない。意象分析：明月、天涯、長夜、露などの意象が遠くの恋人への思慕を表している。歴史背景：唐代の辺塞詩は徴人たちの郷愁を描くことが多く、この詩は辺塞を明示していないが、情感的な基調は似ている。",
+        "es": "La luna brilla sobre el mar, y en los confines del mundo compartimos este momento. Los amantes se quejan de la larga noche, y el deseo los consume toda la noche. Apagando la vela, admiro la luz plena; vestirme, siento la humedad de la roció. No puedo llenar mis manos de luz lunar para regalar, así que vuelvo a la cama soñando con un encuentro feliz.\nGramática: El poema utiliza estructuras paralelas, como 'La luna brilla sobre el mar, y en los confines del mundo compartimos este momento'. Referencias: No hay alusiones específicas evidentes. Imaginería: La luna, los confines, la larga noche y la roció expresan el anhelo por el ser amado lejano. Contexto histórico: Los poemas de la frontera de la dinastía Tang a menudo describen la nostalgia de los soldados, y aunque este poema no menciona explícitamente la frontera, su tono emocional es similar.",
+        "ar": "القمر المضيء يظهر فوق البحر، والناس في أقاصي الأرض يشاركون في هذا الوقت. الحبيب يشتكي من الليل الطويل، والتفكير به يملأ الليل كله. بإطفاء الشمعة، أتوق للضوء الكامل؛ بإرتداء الملابس، أشعر برطوبة الندى. لا أستطيع ملء يدي بالضوء القمري لأهديه، فأعود إلى الفراش أحلم بلقاء سعيد.\nالنحو: يستخدم الشعر بنية الجمل المتوازية، مثل 'القمر المضيء يظهر فوق البحر، والناس في أقاصي الأرض يشاركون في هذا الوقت'. الإحالات: لا توجد إحالات واضحة. الصور: القمر، الأقاصي، الليل الطويل، والندى يعبرون عن اشتياق للحبيب البعيد. السياق التاريخي: قصائد الحدود في عهد التانغ غالباً ما تصف شوق الجنود للوطن، وهذا الشعر وإن لم يذكر الحدود صراحةً، إلا أن نغمة الشوق فيه مشابهة."
+    },
+    "appreciations": {
+        "zh": "《望月怀远·望月怀古》是唐代诗人张九龄的代表作之一。主题思想：表达了对远方亲人的深切思念。写作特色：通过望月引发怀远之情，运用细腻的描写手法，将自然景象与内心情感巧妙结合。艺术成就：诗中‘海上生明月，天涯共此时’成为千古名句，意境开阔，情感深沉。情感分析：抒发了诗人因月夜而引发的孤独与相思之情，情感真挚动人。影响意义：在文学史上，此诗被誉为怀远诗的经典之作，对后世诗歌创作产生了深远影响。",
+        "en": "‘Gazing at the Moon and Longing for the Distant·Gazing at the Moon and Reflecting on Antiquity’ is one of the representative works of Zhang Jiuling, a poet from the Tang Dynasty. Theme: It expresses deep longing for distant relatives. Writing Features: The poem triggers nostalgia through moon-gazing, skillfully combining natural scenery with inner emotions through delicate descriptions. Artistic Achievement: The line ‘A bright moon rises over the sea, we share this moment though at the ends of the earth’ has become a timeless classic, with a broad and profound artistic conception. Emotional Analysis: It conveys the poet's feelings of loneliness and longing triggered by the moonlit night, with sincere and moving emotions. Significance: In the history of literature, this poem is regarded as a classic of nostalgic poetry, exerting a profound influence on later poetic compositions.",
+        "ja": "『望月懐遠・望月懐古』は唐代の詩人張九齢の代表作の一つである。主題思想：遠方の親族への深い思慕を表現している。執筆特色：月を見ることによって懐遠の情を引き起こし、細やかな描写手法を用いて自然の風景と内面の感情を巧みに結びつけている。芸術的成就：「海上に明月生ず、天涯共に此の時を」という句は千古の名句とされ、意境が広く、感情が深い。感情分析：月夜に触発された孤独と相思の情を抒発しており、真挚で感動的な感情が込められている。影響意義：文学史上、この詩は懐遠詩の古典とされ、後世の詩作に大きな影響を与えた。",
+        "es": "‘Mirando la Luna y Extrañando lo Lejano·Mirando la Luna y Recordando la Antigüedad’ es una de las obras representativas del poeta Zhang Jiuling de la dinastía Tang. Tema: Expresa un profundo anhelo por los seres queridos lejanos. Características de la escritura: A través de la contemplación de la luna, despierta sentimientos de nostalgia, combinando hábilmente el paisaje natural con las emociones internas mediante descripciones detalladas. Logro artístico: La línea ‘Un claro lunar surge sobre el mar, compartimos este momento aunque estemos en los confines de la tierra’ se ha convertido en una frase clásica, con una concepción artística amplia y profunda. Análisis emocional: Expresa los sentimientos de soledad y añoranza del poeta provocados por la noche iluminada por la luna, con emociones sinceras y conmovedoras. Significado: En la historia de la literatura, este poema es considerado un clásico de la poesía nostálgica, ejerciendo una influencia profunda en la creación poética posterior.",
+        "ar": "‘النظر إلى القمر والتوق إلى البعيد·النظر إلى القمر والتفكير في القديم’ هو واحد من أعمال الشاعر تشانغ جيولينغ من عهد التانغ. الفكرة الرئيسية: يعبر عن اشتياق عميق للأحباء البعيدين. خصائص الكتابة: من خلال النظر إلى القمر، يثير مشاعر الحنين، ويجمع ببراعة بين المناظر الطبيعية والعواطف الداخلية من خلال وصف دقيق. الإنجاز الفني: الجملة ‘يظهر قمر مضيء فوق البحر، نتقاسم هذا الوقت وإن كنا في أطراف الأرض’ أصبحت جملة كلاسيكية، بعيدة المدى وبعيدة العمق. تحليل العواطف: يعبر عن مشاعر الوحدة والتوق التي أثارتها ليلة القمر عند الشاعر، بمشاعر صادقة ومؤثرة. المعنى والأهمية: في تاريخ الأدب، يعتبر هذا الشعر كلاسيكيًا في الشعر الحنيني، أثر بشكل كبير في الكتابة الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "海上生明月，天涯共此时。\n情人怨遥夜，竟夕起相思。\n灭烛怜光满，披衣觉露滋。\n不堪盈手赠，还寝梦佳期。",
+            "en": "A bright moon rises over the sea,\nAt this moment, the ends of the earth share the same time.\nLovers抱怨 the long night,\nThroughout the night, thoughts of each other arise.\nExtinguishing the candle, I cherish the full light,\nPutting on my cloak, I feel the dew's moisture.\nUnable to offer a handful of moonlight,\nI return to bed, dreaming of a joyful reunion.",
+            "ja": "海に明月が昇る、天涯共に今を分かつ。\n恋人は遥かな夜を恨み、\n一晩中相思に悩む。\n燭を消して光を愛し、\n衣を着て露の湿りを感じる。\n手に満たして贈ること叶わず、\n再び寝て佳期の夢を見る。",
+            "es": "Una luna brillante surge sobre el mar,\nEn este momento, los confines del mundo comparten este instante.\nLos amantes se quejan de la noche larga,\nDurante toda la noche, el deseo mutuo se despierta.\nApagando la vela, admiro la luz plena,\nVestirme y sentir la humedad de la rocio.\nIncapaz de ofrecer un puñado de luz,\nVuelvo a la cama, soñando con un feliz encuentro.",
+            "ar": "تشرق القمر المكتمل فوق البحر،\nفي هذا الوقت، يتشارك أطراف الأرض نفس اللحظة.\nيتذمر العشاق من الليل الطويل،\nطوال الليل، تتجدد مشاعر الحنين.\nأطفئ الشمعة وأتسامح بالضوء الكامل،\nأرتدي الثوب وأشعر برطوبة الندى.\nلا أستطيع أن أهدي كفيًا ممتلئًا،\nأعود إلى الفراش، أحلم بلقاء سعيد."
+        },
+        "title_translation": {
+            "zh": "望月怀远·望月怀古",
+            "en": "Gazing at the Moon and Longing for the Distant Past",
+            "ja": "月を眺めて遠い過去を思う",
+            "es": "Mirando la Luna y Recordando el Lejano Pasado",
+            "ar": "النظر إلى القمر وتذكر الماضي البعيد"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "海上生明月，天涯共此时。\n情人怨遥夜，竟夕起相思。\n灭烛怜光满，披衣觉露滋。\n不堪盈手赠，还寝梦佳期。",
+    "title_pinyin": "wàng yuè huái yuǎn·wàng yuè huái gǔ",
+    "pinyin": "hǎi shàng shēng míng yuè，tiān yá gòng cǐ shí。\nqíng rén yuàn yáo yè，jìng xī qǐ xiāng sī。\nmiè zhú lián guāng mǎn，pī yī jué lù zī。\nbù kān yíng shǒu zèng，hái qǐn mèng jiā qī。"
+}

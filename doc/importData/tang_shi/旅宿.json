@@ -1,0 +1,57 @@
+{
+    "title": "旅宿",
+    "difficulty": 2,
+    "author": {
+        "name": "杜牧",
+        "name_pinyin": "dù mù",
+        "image": "杜牧.jpg",
+        "introduction": {
+            "zh": "杜牧（803年－852年），字牧之，号樊川居士，唐代著名诗人、文学家。他的诗歌以豪放、清新、俊逸著称，内容广泛涉及政治、社会、人生等多个方面，尤其擅长写景抒情。代表作有《泊秦淮》、《赤壁》、《阿房宫赋》等。杜牧的诗作在唐代诗坛上独树一帜，对后世文学产生了深远影响。",
+            "en": "Du Mu (803-852), styled Muzhi and known as the Hermit of Fanchuan, was a renowned poet and litterateur of the Tang Dynasty. His poetry is celebrated for its boldness, freshness, and elegance, covering a wide range of topics including politics, society, and life, with a particular talent for landscape and emotional expression. His notable works include 'Mooring on the Qinhuai River', 'The Red Cliffs', and 'The Rhapsody on the Epang Palace'. Du Mu's poetry stands out in the Tang Dynasty literary scene and has had a profound influence on later generations of literature.",
+            "ja": "杜牧（803年－852年）、字は牧之、号は樊川居士、唐代の著名な詩人、文学者。彼の詩は豪放、清新、俊逸で知られ、政治、社会、人生など多岐にわたる内容を扱い、特に風景描写と抒情に長けている。代表作に「泊秦淮」、「赤壁」、「阿房宮賦」などがある。杜牧の詩は唐代詩壇で独自の地位を占め、後世の文学に深い影響を与えた。",
+            "es": "Du Mu (803-852), conocido por su nombre de estilo Muzhi y su apodo el Ermitaño de Fanchuan, fue un destacado poeta y literato de la dinastía Tang. Su poesía es famosa por su audacia, frescura y elegancia, abordando una amplia gama de temas que incluyen la política, la sociedad y la vida, con un talento especial para la descripción de paisajes y la expresión emocional. Sus obras más destacadas incluyen 'Anclado en el Río Qinhuai', 'Las Murallas Rojas' y 'El Canto de la Mansión Epang'. La poesía de Du Mu se destaca en el panorama literario de la dinastía Tang y ha tenido una profunda influencia en la literatura de generaciones posteriores.",
+            "ar": "دو مو (803-852)، المعروف بلقب موزي واسمه المستعار راهب فانشوان، كان شاعرًا ومفكرًا شهيرًا في عهد أسرة تانغ. اشتهرت أشعاره بجرأتها، طرافتها، وأصالتها، وتناولت مجموعة واسعة من المواضيع تشمل السياسة، المجتمع، والحياة، مع موهبة خاصة في وصف المناظر الطبيعية والتعبير العاطفي. من أشهر أعماله 'الرسو على نهر تشينهواي'، 'الجدران الحمراء'، و 'قصيدة القصر الإباني'. تبرز شعر دو مو في المشهد الأدبي لعهد أسرة تانغ ولها تأثير عميق على الأدب في الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "旅馆无良伴，凝情自悄然。\n旅馆：指旅途中暂住的客栈。良伴：好朋友。凝情：心情凝重。悄然：安静孤独的样子。\n寒灯思旧事，断雁警愁眠。\n寒灯：昏暗的灯光。旧事：往事。断雁：失群的孤雁。警：惊动。愁眠：因忧愁而难以入睡。\n远梦归侵晓，家书到隔年。\n远梦：梦中回到远方的家乡。归侵晓：天快亮时才回来。家书：家中的来信。隔年：隔了一年才收到。\n沧江好烟月，门系钓鱼船。\n沧江：青色的江水。烟月：烟雾笼罩的月亮。门系：门口系着。钓鱼船：钓鱼的小船。\n\n此诗表达了诗人旅途中的孤独和对家乡的思念。",
+        "en": "Inn without good company, my feelings are heavy and silent.\nInn: A temporary lodging during travel. Good company: Good friends. Heavy feelings: Melancholic emotions. Silent: Quiet and lonely.\nCold lamp recalls past events, stray wild goose alarms my sorrowful sleep.\nCold lamp: Dim light. Past events: Memories. Stray wild goose: A lone goose separated from its flock. Alarms: Disturbs. Sorrowful sleep: Sleep disturbed by sadness.\nDreams of distant home arrive at dawn, family letters reach after a year.\nDreams of distant home: Dreaming of returning to a faraway home. Arrive at dawn: Returning as dawn approaches. Family letters: Letters from home. After a year: Received after a year.\nBlue river with misty moon, door tied with a fishing boat.\nBlue river: Azure river. Misty moon: Moon obscured by mist. Door tied: Door with something tied to it. Fishing boat: A small boat used for fishing.\n\nThis poem expresses the poet's loneliness during his travels and his longing for home.",
+        "ja": "宿屋に良き伴侶なく、感情は重く静かに。\n宿屋：旅の途中で一時的に泊まる宿。良き伴侶：良い友達。感情は重く：気持ちが重い。静かに：静かで孤独な様子。\n寒い灯りが過去の事を思い出し、はぐれた雁が悲しみの眠りを妨げる。\n寒い灯り：薄暗い光。過去の事：昔の出来事。はぐれた雁：群れから離れた雁。妨げる：邪魔する。悲しみの眠り：悲しみで眠れない。\n遠い夢が夜明け前に帰り、家の手紙は一年越しに届く。\n遠い夢：遠い故郷への夢。夜明け前に帰り：夜明け前に帰ってくる。家の手紙：家からの手紙。一年越しに届く：一年後に届く。\n青い川に霧の月、門に釣り船が繋がれている。\n青い川：青い川。霧の月：霧に包まれた月。門に繋がれている：門に結ばれている。釣り船：釣り用の小舟。\n\nこの詩は、詩人が旅の途中での孤独と故郷への思慕を表現している。",
+        "es": "En la posada sin buena compañía, mi ánimo está pesado y en silencio.\nPosada: Alojamiento temporal durante el viaje. Buena compañía: Buenos amigos. Ánimo pesado: Sentimientos melancólicos. En silencio: Callado y solitario.\nLámpara fría recuerda eventos pasados, ganso solitario perturba mi sueño triste.\nLámpara fría: Luz tenue. Eventos pasados: Recuerdos. Ganso solitario: Ganso que se ha separado de su grupo. Perturba: Molesta. Sueño triste: Sueño perturbado por la tristeza.\nSueños de lejanía regresan al amanecer, cartas familiares llegan al año siguiente.\nSueños de lejanía: Soñar con regresar a la lejana casa. Regresan al amanecer: Volver al amanecer. Cartas familiares: Cartas de casa. Llegan al año siguiente: Recibidas al año siguiente.\nRío azul con luna neblinosa, puerta atada con una barca de pesca.\nRío azul: Río de color azul. Luna neblinosa: Luna envuelta en niebla. Puerta atada: Puerta con algo atado. Barca de pesca: Pequeña embarcación para pescar.\n\nEste poema expresa la soledad del poeta durante su viaje y su añoranza por su hogar.",
+        "ar": "في الفندق بلا رفيق حسن، مشاعري ثقيلة وساكنة.\nالفندق: مكان الإقامة المؤقتة أثناء السفر. رفيق حسن: أصدقاء جيدون. مشاعري ثقيلة: مشاعر حزينة. ساكنة: هادئة ووحيدة.\nالنور البارد يذكرني بالأحداث القديمة، البلشون المنفرد يزعج نومي الحزين.\nالنور البارد: ضوء خافت. الأحداث القديمة: الذكريات. البلشون المنفرد: البلشون الذي انفصل عن القطيع. يزعج: يضايق. نومي الحزين: نوم مضطرب بسبب الحزن.\nأحلام البعد تعود عند الفجر، رسائل المنزل تصل بعد عام.\nأحلام البعد: الأحلام بالعودة إلى الوطن البعيد. تعود عند الفجر: تعود عند بداية الفجر. رسائل المنزل: رسائل من المنزل. تصل بعد عام: تصل بعد مرور عام.\nالنهر الأزرق ب月亮 الضبابي، الباب مربوط بسفينة صيد.\nالنهر الأزرق: النهر ذو اللون الأزرق.月亮 الضبابي: القمر المغطى بالضباب. الباب مربوط: الباب موصول بشيء. سفينة صيد: قارب صغير للصيد.\n\nهذه القصيدة تعبر عن وحدة الشاعر أثناء رحلته وت añoranza por su hogar."
+    },
+    "appreciations": {
+        "zh": "《旅宿》一诗，表达了诗人孤独寂寞的心情和对家乡的深切思念。主题思想在于揭示旅途中人的内心孤独和对家的向往。写作特色上，诗人通过寒灯、断雁等意象，营造出一种凄凉的氛围，运用对比手法，将旅馆的孤寂与家乡的美好形成鲜明对比。艺术成就方面，诗歌结构紧凑，意境深远，语言简练而富有情感。情感分析上，诗人抒发了对故乡的思念和对现实无奈的愁绪。影响意义上，这首诗在唐代羁旅诗中具有重要地位，对后世同类题材的创作产生了深远影响。",
+        "en": "The poem 'Lodging' expresses the poet's feelings of loneliness and deep longing for home. The central theme reveals the inner solitude of a traveler and the yearning for home. In terms of writing style, the poet uses imagery such as cold lamps and broken wild geese to create a melancholic atmosphere, employing contrasts to highlight the loneliness of the inn against the beauty of home. Artistically, the poem is structured tightly, with profound imagery and concise yet expressive language. Emotionally, it conveys the poet's nostalgia for his hometown and the sorrow of current circumstances. Historically, this poem holds a significant place in Tang Dynasty travel poetry, influencing later works in similar themes.",
+        "ja": "『旅宿』は詩人が孤独と寂しさ、故郷への深い思いを表現した詩です。主題思想は旅人の内面の孤独と故郷への切望を明らかにすることにあります。表現手法としては、寒い灯りや断った雁などのイメージを用いて、悲しげな雰囲気を作り出し、対比手法を用いて宿の寂しさと故郷の美しさを鮮明に描いています。芸術的成果としては、詩の構成が緊密で、意境が深く、言葉が簡潔でありながら感情豊かです。感情分析では、詩人は故郷への思いと現実の無力さに感じる悲しみを抒発しています。影響の意味では、この詩は唐代の旅行詩の中で重要な位置を占め、後世の同様のテーマの創作に深い影響を与えました。",
+        "es": "El poema 'Alojamiento' expresa la soledad y el profundo anhelo del poeta por su hogar. El tema central revela la soledad interior del viajero y su deseo de regresar a casa. En cuanto al estilo de escritura, el poeta utiliza imágenes como lámparas frías y gansos rotos para crear un ambiente melancólico, empleando contrastes para resaltar la soledad del alojamiento frente a la belleza del hogar. Artísticamente, el poema está estructurado de manera compacta, con una imaginería profunda y un lenguaje conciso pero expresivo. En el análisis emocional, el poeta expresa la nostalgia por su hogar y la tristeza por las circunstancias actuales. En términos de influencia, este poema ocupa un lugar importante en la poesía de viaje de la dinastía Tang, influyendo en obras posteriores de temas similares.",
+        "ar": "القصيدة 'إقامة' تعبر عن شعور الشاعر بالوحدة والحنين العميق إلى الوطن. الفكرة الرئيسية تكشف عن الوحدة الداخلية للسائح واشتياقه للعودة إلى الوطن. من حيث الأسلوب الكتابي، يستخدم الشاعر صورًا مثل المصابيح الباردة والطيور المكسورة لخلق جو من الحزن، مستخدمًا تقنيات المقارنة لتمييز وحدة الإقامة مقابل جمال الوطن. من الناحية الفنية، تتسم القصيدة ببنية مدمجة، وصور عميقة، ولغة موجزة ولكن تعبيرية. في التحليل العاطفي، يعبر الشاعر عن الشوق إلى الوطن والحزن على الظروف الحالية. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في شعر الرحلات في عهد التانغ، مؤثرة في الأعمال اللاحقة لنفس المواضيع."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "旅馆中没有知己朋友，思绪凝结心中悄然无声。\n寒灯下回忆往昔旧事，孤雁的鸣叫惊扰了愁眠。\n远方的梦归乡已在破晓，家书到来却要等到隔年。\n沧江上烟雾笼罩月光美，门前系着钓鱼的小船。",
+            "en": "In the inn, no good companion, my thoughts congeal in silent stillness.\nBy the dim lamp, I recall past events, a lone wild goose alarms my troubled sleep.\nDreams of distant home reach dawn, while letters from family arrive next year.\nOn the blue river, mist and moonlight are lovely, a fishing boat tied at the door.",
+            "ja": "宿屋に良き伴侶なく、思いは沈み寂しく。\n寒い灯りの下で旧事を思う、断たれた雁の鳴き声が愁いの眠りを警ぐ。\n遠い夢は夜明けに帰る、家の手紙は翌年まで届かず。\n碧き川の上に美しい煙と月、門に釣り舟を繋ぐ。",
+            "es": "En la posada, sin buen compañero, mi mente se congela en silencio.\nAlumbra la luz fría, recuerdo viejos tiempos, un ganso solitario alerta mi sueño melancólico.\nEl sueño lejano regresa al amanecer, la carta de casa llega al año siguiente.\nEn el río azul, el humo y la luna son hermosos, un barco de pesca atado a la puerta.",
+            "ar": "في الفندق لا صديق جيد، أفكاري تتجمد في صمت.\nتحت الضوء البارد، أتذكر الأحداث القديمة، بجعة وحيدة تزعج نومي المضطرب.\nأحلام بعيدة تعود مع الفجر، ورسائل المنزل تصل بعد عام.\nفي النهر الأزرق، دخان وضوء القمر جميل، قارب صيد مربوط عند الباب."
+        },
+        "title_translation": {
+            "zh": "旅宿",
+            "en": "Lodging on a Journey",
+            "ja": "旅宿",
+            "es": "Alojamiento en el Viaje",
+            "ar": "إقامة في السفر"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "旅馆无良伴，凝情自悄然。\n寒灯思旧事，断雁警愁眠。\n远梦归侵晓，家书到隔年。\n沧江好烟月，门系钓鱼船。",
+    "title_pinyin": "lǚ sù",
+    "pinyin": "lǚ guǎn wú liáng bàn，níng qíng zì qiāo rán。\nhán dēng sī jiù shì，duàn yàn jǐng chóu mián。\nyuǎn mèng guī qīn xiǎo，jiā shū dào gé nián。\ncāng jiāng hǎo yān yuè，mén xì diào yú chuán。"
+}

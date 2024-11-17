@@ -1,0 +1,57 @@
+{
+    "title": "渭川田家",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（701年－761年），字摩诘，号摩诘居士，唐朝著名诗人、画家，与孟浩然并称“王孟”，有“诗佛”之称。他的诗风清新淡远，擅长描绘山水田园风光，代表作有《山居秋暝》、《鹿柴》等。王维不仅诗艺高超，还精通音乐、绘画，是文人画的代表人物之一。",
+            "en": "Wang Wei (701–761), styled Mojie, also known as Hermit Mojie, was a renowned poet and painter of the Tang Dynasty. He is often mentioned alongside Meng Haoran as 'Wang Meng' and is dubbed the 'Poetic Buddha'. His poetry is characterized by its fresh and distant style, excelling in depicting landscapes and rural scenes. His notable works include 'Autumn Evening in a Mountain Dwelling' and 'Deer Fence'. Wang Wei was not only a master of poetry but also proficient in music and painting, representing the literati painting tradition.",
+            "ja": "王維（701年－761年）、字は摩詰、号は摩詰居士、唐代の著名な詩人、画家。孟浩然と並び「王孟」と称され、「詩仏」とも呼ばれる。彼の詩風は清新で淡遠、山水や田園風景の描写に優れ、代表作に「山居秋暝」、「鹿柴」などがある。王維は詩の技術だけでなく、音楽、絵画にも精通し、文人画の代表的な人物の一人である。",
+            "es": "Wang Wei (701-761), apodado Mojie, también conocido como Ermitaño Mojie, fue un destacado poeta y pintor de la dinastía Tang. Se le menciona a menudo junto a Meng Haoran como 'Wang Meng' y se le conoce como el 'Buda Poético'. Su poesía se caracteriza por un estilo fresco y distante, destacando en la descripción de paisajes y escenas rurales. Sus obras más notables incluyen 'Noche de Otoño en una Casa de Montaña' y 'Valla de Ciervos'. Wang Wei no solo era un maestro de la poesía, sino también competente en música y pintura, representando la tradición de pintura literaria.",
+            "ar": "وانغ وي (701-761)، يُعرف بلقبه مو جي، ويُعرف أيضًا بـ راهب مو جي، كان شاعرًا ومُصوّرًا مشهورًا في عهد أسرة تانغ. غالبًا ما يُذكر جنبًا إلى جنب مع مينغ هواوران باسم 'وانغ مينغ' ويُلقب بـ 'البوذا الشاعر'. يتميز شعره بنمطه العذب والبعيد، متميز في تصوير المناظر الطبيعية والريفية. من أعماله البارزة 'ليل الخريف في بيت الجبل' و'سياج الغزلان'. لم يكن وانغ وي مجرد محترف في الشعر، بل كان بارعًا في الموسيقى والرسم، ويمثل تقليد الرسم الأدبي."
+        }
+    },
+    "annotations": {
+        "zh": "斜阳：夕阳。墟落：村庄。穷巷：偏僻的小巷。野老：乡村老人。荆扉：用荆条编成的门。雉雊：野鸡鸣叫。秀：茂盛。蚕眠：蚕结茧时的状态。荷锄：扛着锄头。依依：亲切的样子。式微：《诗经·邶风·式微》篇名，表达归隐之意。此诗描绘了夕阳下的田园景象，表达了诗人对闲适生活的向往。",
+        "en": "Xieyang: setting sun. Xuluo: village. Qiongxiang: remote alley. Ye lao: rural elder. Jingfei: door made of thorn branches. Zhi geng: pheasant crowing. Xiu: lush. Can mian: silkworms spinning cocoons. He chu: carrying a hoe. Yi yi: affectionate manner. Shi wei: a poem from the Book of Songs, expressing the desire to retire. This poem depicts a rural scene at sunset, expressing the poet's longing for a leisurely life.",
+        "ja": "斜陽：夕日。墟落：村。穷巷：偏僻な小路。野老：田舎の老人。荆扉：茨で作った扉。雉雊：キジの鳴き声。秀：繁茂。蚕眠：蚕が繭を作る状態。荷鋤：鋤を持つ。依依：親しげな様子。式微：《詩経》の一編で、隠遁を願う意を表す。この詩は夕暮れ時の田園風景を描き、詩人が閑適な生活を羨む心情を表している。",
+        "es": "Xieyang: sol poniente. Xuluo: aldea. Qiongxiang: callejón apartado. Ye lao: anciano rural. Jingfei: puerta hecha de ramas de espinos. Zhi geng: graznido de faisán. Xiu: exuberante. Can mian: gusanos de seda haciendo capullos. He chu: cargando una azada. Yi yi: de manera afectuosa. Shi wei: un poema del Libro de Canciones, expresando el deseo de retirarse. Este poema pinta un paisaje rural al atardecer, expresando el anhelo del poeta por una vida tranquila.",
+        "ar": "الشروح باللغة العربية: شمس الغروب: شمس المساء. القرية: البلدة الصغيرة. الزقاق البعيد: الزقاق المعزول. الشيخ الريفي: الرجل الكبير في السن في الريف. الباب المصنوع من العيدان الشائكة: الباب المصنوع من أغصان الشوك. صياح الدجاج البري: صوت الدجاج البري. الخصب: النمو الكثيف. العنكبوت يرقد: العنكبوت ينسج شرنقة. يحمل المعول: يحمل الأداة الزراعية. بحنان: ب trìothar وبكل حب. Shi Wei: قصيدة من كتاب الأغاني، تعبر عن الرغبة في التقاعد. يصور هذا الشعر مشهداً ريفياً عند غروب الشمس، يعبر عن حنين الشاعر إلى حياة هادئة."
+    },
+    "appreciations": {
+        "zh": "《渭川田家》描绘了一幅宁静祥和的田园风光，表达了诗人对田园生活的向往和对现实的不满。主题思想是赞美田园生活的闲适与和谐，反思都市生活的繁忙与压抑。写作特色上，诗人运用白描手法，细腻刻画了斜阳、牛羊、野老、麦苗等意象，生动逼真。艺术成就方面，诗歌语言质朴自然，意境深远，具有很高的审美价值。情感分析上，诗人通过对田园生活的描写，抒发了对闲适生活的羡慕和对现实生活的惆怅。影响意义上，这首诗在文学史上具有重要地位，对后世田园诗的创作产生了深远影响。",
+        "en": "In 'Wei River Farmhouse', the poet paints a serene and peaceful rural scene, expressing his longing for a pastoral life and dissatisfaction with reality. The theme centers on praising the leisure and harmony of rural life while reflecting on the busyness and oppression of urban life. In terms of writing style, the poet uses plain description, intricately depicting images such as the setting sun, cattle and sheep, an old farmer, and wheat seedlings, making them vivid and realistic. Artistically, the poem's language is simple and natural, with a profound artistic conception, possessing high aesthetic value. Emotionally, through the depiction of rural life, the poet conveys his envy for a leisurely life and his melancholy over real life. In terms of influence, this poem holds a significant place in literary history, profoundly impacting the creation of pastoral poetry in later generations.",
+        "ja": "「渭川田家」は、静かで平和な田園風景を描き、詩人が田園生活への憧れと現実の不満を表現しています。主題思想は、田園生活の閑適と調和を讃え、都市生活の忙しさと圧迫感を反省することです。表現手法としては、白描技法を用い、斜陽、牛羊、野老、麦苗などのイメージを細やかに描き出しています。芸術的成果としては、詩の言葉は質素で自然、意境は深遠であり、高い美的価値を持っています。感情分析では、詩人は田園生活の描写を通じて、閑適な生活への羨望と現実生活への落胆を抒発しています。影響の意味では、この詩は文学史上重要な地位を占め、後世の田園詩の創作に大きな影響を与えました。",
+        "es": "En 'Casa de campo en el río Wei', el poeta pinta una escena rural serena y pacífica, expresando su deseo por una vida campesina y su insatisfacción con la realidad. El tema principal es alabar la tranquilidad y la armonía de la vida rural, mientras reflexiona sobre la ajetreada y opresiva vida urbana. En cuanto al estilo de escritura, el poeta utiliza la técnica de la descripción sencilla, detallando imágenes como el sol poniente, el ganado, el anciano campesino y los brotes de trigo, haciéndolos vívidos y realistas. Artísticamente, el lenguaje del poema es simple y natural, con una concepción artística profunda, poseyendo un alto valor estético. En el análisis emocional, a través de la descripción de la vida rural, el poeta expresa su envidia por una vida tranquila y su melancolía por la vida real. En cuanto a su significado e influencia, este poema ocupa un lugar importante en la historia de la literatura, teniendo un impacto profundo en la creación de poesía campesina en generaciones posteriores.",
+        "ar": "في 'بيت الزراع على نهر وي', يصور الشاعر مشهداً ريفياً هادئاً وسلمياً, يعبر عن رغبته في الحياة الزراعية وعدم رضاه عن الواقع. الفكرة الرئيسية هي تمجيد الهدوء والتناغم في الحياة الريفية, مع التفكير في ازدحام وضغط الحياة المدنية. من حيث أسلوب الكتابة, يستخدم الشاعر تقنية الوصف البسيط, يصور صوراً مثل غروب الشمس, الأبقار والماعز, الفلاح العجوز, ونباتات القمح, مما يجعلها حية وواقعية. من الناحية الفنية, لغة الشعر بسيطة وطبيعية, ذات مفهوم فني عميق, تتمتع بقيمة جمالية عالية. في التحليل العاطفي, من خلال وصف الحياة الريفية, يعبر الشاعر عن إعجابه بالحياة الهادئة وحزنه على الحياة الحقيقية. من حيث المعنى والتأثير, يحتل هذا الشعر مكانة مهمة في تاريخ الأدب, له تأثير عميق على إنشاء الشعر الريفي للأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "斜阳照在村庄上，深巷里牛羊归来。村中老人挂念着放牧的孩童，靠着手杖在柴门前等候。野鸡在麦苗丛中鸣叫，蚕儿在稀疏的桑叶间安眠。农夫们扛着锄头回家，相见时亲切交谈。看到这些，我羡慕这样的闲适生活，心中惆怅地吟咏《式微》。",
+            "en": "The setting sun shines on the village, cattle and sheep return to the narrow lanes. The old villager worries about the shepherd boy, leaning on his staff by the wicker gate. Pheasants crow among the lush wheat seedlings, silkworms sleep under the sparse mulberry leaves. Farmers come home with hoes on their shoulders, chatting fondly upon meeting. Seeing this, I envy such leisurely life, and sighingly chant 'Shi Wei'.",
+            "ja": "斜陽が村を照らし、狭い路地に牛羊が帰る。村の老人は牧童を思い、杖にもたれて荊の扉を待つ。雉が麦の苗の中で鳴き、蚕が桑の葉の間で眠る。農夫が鍬を肩にして来て、出会うと親しげに話す。これを見て、こんな閑適な生活を羨み、淋しく『式微』を詠む。",
+            "es": "El sol poniente ilumina el pueblo, el ganado regresa a los callejones estrechos. El anciano del pueblo piensa en el pastorcito, apoyado en su bastón junto a la puerta de espinos. Los faisanes graznan entre los brotes de trigo, los gusanos de seda duermen bajo las hojas escasas de morera. Los campesinos llegan con azadas al hombro, conversando afectuosamente al encontrarse. Viendo esto, envidio esta vida tranquila y melancólicamente recito 'Shi Wei'.",
+            "ar": "الشمس المتأخرة تضيء القرية، العجول والأغنام تعود إلى الزقاق الضيق. الشيخ القروي يفكر في الراعي الصغير، معتمداً على عصاه عند باب الشوك. الدجاج البري يصيح بين نباتات القمح، اليرقات تنام تحت أوراق السدر النادرة. الفلاحون يأتون حاملين المعاول على أكتافهم، يتحدثون بحب عند اللقاء. عند رؤية هذا، أغبط هذه الحياة الهادئة وأ recito 'Shi Wei' بحزن."
+        },
+        "title_translation": {
+            "zh": "渭川田家",
+            "en": "The Farmer's Home by the Wei River",
+            "ja": "渭川の農家",
+            "es": "La Casa del Campesino en el Río Wei",
+            "ar": "منزل الفلاح على نهر وي"
+        }
+    },
+    "genre": {
+        "name": "五言古诗",
+        "code": "wu_yan_gu_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "斜阳照墟落，穷巷牛羊归。\n野老念牧童，倚杖候荆扉。\n雉雊麦苗秀，蚕眠桑叶稀。\n田夫荷锄至，相见语依依。\n即此羡闲逸，怅然吟式微。",
+    "title_pinyin": "wèi chuān tián jiā",
+    "pinyin": "xié yáng zhào xū luò，qióng xiàng niú yáng guī。\nyě lǎo niàn mù tóng，yǐ zhàng hòu jīng fēi。\nzhì gòu mài miáo xiù，cán mián sāng yè xī。\ntián fū hé chú zhì，xiāng jiàn yǔ yī yī。\njí cǐ xiàn xián yì，chàng rán yín shì wēi。"
+}

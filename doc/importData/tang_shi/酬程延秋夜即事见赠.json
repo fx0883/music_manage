@@ -1,0 +1,57 @@
+{
+    "title": "酬程延秋夜即事见赠",
+    "difficulty": 2,
+    "author": {
+        "name": "韩翃",
+        "name_pinyin": "hán hóng",
+        "image": "韩翃.jpg",
+        "introduction": {
+            "zh": "韩翃，唐代著名诗人，字君平，南阳（今属河南）人。天宝年间进士，官至中书舍人。其诗风清新自然，善于描绘景物，尤以《寒食》一诗最为人称道。韩翃的诗作多反映唐代社会风貌和自然景色，情感真挚，语言精炼，是中唐时期的重要诗人之一。",
+            "en": "Han Hong, a renowned poet of the Tang Dynasty, styled himself Junping and hailed from Nanyang (present-day Henan). He passed the imperial examination during the Tianbao period and eventually rose to the position of a Palace Secretary. His poetic style is fresh and natural, excelling in the depiction of landscapes, with his poem 'Cold Food Festival' being particularly celebrated. Han Hong's works often reflect the social customs and natural scenery of the Tang Dynasty, characterized by sincere emotions and refined language, making him a significant figure in the mid-Tang period.",
+            "ja": "韓翃は、唐代の著名な詩人で、字は君平、南陽（現在の河南省に属する）出身。天宝年間に進士となり、中書舎人にまで昇進した。彼の詩風は清新自然で、風景描写に優れ、《寒食》の一首が特に高く評価されている。韓翃の詩は唐代の社会風俗や自然景観を反映し、感情が真摯で、言葉遣いが精緻で、中唐期の重要な詩人の一員である。",
+            "es": "Han Hong, un famoso poeta de la dinastía Tang, cuyo nombre de cortesía era Junping y nacido en Nanyang (actualmente en Henan). Se graduó en el examen imperial durante el período Tianbao y llegó a ser secretario del palacio. Su estilo poético es fresco y natural, destacando en la descripción de paisajes, siendo su poema 'Festival de la Comida Fría' muy alabado. Las obras de Han Hong a menudo reflejan las costumbres sociales y los paisajes naturales de la dinastía Tang, con emociones sinceras y un lenguaje refinado, convirtiéndose en una figura importante en el período medio de la dinastía Tang.",
+            "ar": "هان هونغ، شاعر مشهور من عهد التانغ، واسمه المستعار هو جون بينغ، وهو من نان يانغ (تقع حاليًا في مقاطعة خنان). تخرج في امتحان الإمبراطورية خلال فترة تيانباو وتدرج ليصبح كاتبًا في القصر. يتميز أسلوبه الشعري بالحداثة والطبيعية، ويبرع في وصف المناظر الطبيعية، ويُعرف قصيدته \"عيد الطعام البارد\" بشكل خاص. تعكس أعمال هان هونغ في كثير من الأحيان العادات الاجتماعية والمناظر الطبيعية لعهد التانغ، وتتميز بالمشاعر الصادقة واللغة الراقية، مما جعله شخصية مهمة في فترة التانغ الوسطى."
+        }
+    },
+    "annotations": {
+        "zh": "长簟：长竹席。迎风早：早早地迎风。空城：寂静的城池。澹月华：淡淡的月光。星河：银河。秋一雁：秋天的一只孤雁。砧杵：捣衣的砧板和棒槌。夜千家：夜晚千家万户。节候：季节时令。看应晚：看起来已经晚了。心期：心中的期望。卧亦赊：即使卧床也觉得时间漫长。向来：一直以来。吟秀句：吟诵优美的诗句。不觉：不知不觉。已鸣鸦：已经听到乌鸦的叫声。\n特殊句式：无特殊句式。\n典故解释：无特定典故。\n意象分析：长簟、空城、澹月、星河、孤雁、砧杵等意象共同营造出一种秋夜的孤寂与宁静。\n历史背景：唐代文人常以诗会友，此诗可能是作者在秋夜与友人酬唱之作。",
+        "en": "Long bamboo mat: a long bamboo mat. Early in the wind: early in the wind. Empty city: a quiet city. Dim moonlight: faint moonlight. Milky Way: the galaxy. A single wild goose in autumn: a lone wild goose in autumn. Pestle and mortar: tools for pounding clothes. A thousand households at night: thousands of households at night. Seasonal time: seasonal time. Should be late: seems to be late. Heart expectation: heartfelt expectation. Even lying down is long: even lying down feels long. Always: always. Reciting beautiful lines: reciting beautiful lines of poetry. Unconsciously: without realizing it. Crows have already called: crows have already started calling.\nSpecial sentence structure: No special sentence structure.\nAllusion explanation: No specific allusions.\nImagery analysis: The imagery of long bamboo mats, empty cities, dim moonlight, the Milky Way, lone wild geese, and pestles and mortars together create a sense of solitude and tranquility in an autumn night.\nHistorical background: Tang Dynasty literati often exchanged poems with friends, and this poem may be a work by the author in response to a friend on an autumn night.",
+        "ja": "長簟：長い竹の敷物。迎風早：早く風を迎える。空城：静かな城。澹月華：淡い月光。星河：天の川。秋一雁：秋の一本の鴻。砧杵：衣類をたたく道具。夜千家：夜の千の家。節候：季節の時。看応晚：もう late に見える。心期：心の期待。臥亦赊：寝ていても長い。向来：いつも。吟秀句：美しい詩句を詠む。不觉：気づかずに。已鳴鴉：もうカラスが鳴く。\n特殊な文法：特殊な文法はない。\n典故の説明：特定の典故はない。\nイメージ分析：長簟、空城、澹月、星河、孤雁、砧杵などのイメージが秋夜の寂しさと静けさを共に作り出す。\n歴史的背景：唐代の文人はよく詩で友達と交流し、この詩は作者が秋夜に友人に返答する作品かもしれない。",
+        "es": "Larga estera de bambú: una estera larga de bambú. Temprano en el viento: temprano en el viento. Ciudad vacía: una ciudad tranquila. Luna tenue: luz de luna tenue. Vía Láctea: la galaxia. Un ganso solitario en otoño: un ganso solitario en otoño. Batán y mazo: herramientas para batir ropa. Mil hogares en la noche: mil hogares por la noche. Tiempo estacional: tiempo de estación. Debería ser tarde: parece tarde. Esperanza del corazón: esperanza del corazón. Incluso acostado es largo: incluso acostado parece largo. Siempre: siempre. Recitando bellas líneas: recitando bellas líneas de poesía. Inconscientemente: sin darse cuenta. Ya han graznado los cuervos: ya han graznado los cuervos.\nEstructura de oración especial: No hay estructura de oración especial.\nExplicación de la alusión: No hay alusiones específicas.\nAnálisis de imágenes: Las imágenes de la larga estera de bambú, la ciudad vacía, la luna tenue, la Vía Láctea, el ganso solitario y el batán y mazo juntos crean una sensación de soledad y tranquilidad en una noche de otoño.\nContexto histórico: Los literatos de la dinastía Tang a menudo intercambiaban poemas con amigos, y este poema puede ser una obra del autor en respuesta a un amigo en una noche de otoño.",
+        "ar": "الفرشة الطويلة من البامبو: فرشة طويلة من البامبو. مبكرا في الرياح: مبكرا في الرياح. المدينة الفارغة: مدينة هادئة. ضوء القمر الخافت: ضوء القمر الخافت. درب التبانة: المجرة. غراب واحد في الخريف: غراب واحد في الخريف. الرحى والمدقة: أدوات لضرب الثياب. ألف منزل في الليل: ألف منزل في الليل. وقت الموسم: وقت الموسم. يجب أن يكون متأخرا: يبدو متأخرا. توقعات القلب: توقعات القلب. حتى الاستلقاء طويل: حتى الاستلقاء يبدو طويلا. دائما: دائما. تلاوة الأسطر الجميلة: تلاوة الأسطر الجميلة من الشعر. بغير وعي: بدون الشعور. قد نعق الغراب: قد نعق الغراب.\nتركيبة جملة خاصة: لا توجد تركيبة جملة خاصة.\nشرح الإستعارة: لا توجد استعارات محددة.\nتحليل الصور: صور الفرشة الطويلة من البامبو، المدينة الفارغة، ضوء القمر الخافت، درب التبانة، الغراب الواحد، والرحى والمدقة معا تخلق شعورا بالوحدة والهدوء في ليلة خريف.\nالخلفية التاريخية: كان أدباء العصر التانغ يتبادلون الأشعار مع الأصدقاء، وربما يكون هذا الشعر عملا للكاتب كرد على صديق في ليلة خريف."
+    },
+    "appreciations": {
+        "zh": "这首诗以秋夜为背景，表达了诗人对友人的酬答和对时光流逝的感慨。长簟迎风、空城月华、星河孤雁、夜深砧杵，营造出一种清冷孤寂的氛围。诗人通过细腻的景物描写，抒发了对节候变迁的无奈和对友情的珍视。最后两句以鸣鸦声作结，既点明了时间之早，又增添了诗境的深远。整首诗语言精炼，意境深远，情感真挚，展现了唐代诗歌的高超艺术成就。",
+        "en": "This poem, set against the backdrop of an autumn night, conveys the poet's response to a friend's gift and his reflections on the passage of time. The imagery of long reeds catching the wind, the pale moonlight over an empty city, a solitary wild goose in the starry river, and the sound of pestles from a thousand households at night, creates a serene and solitary atmosphere. Through delicate descriptions of the scenery, the poet expresses his helplessness at the changing seasons and his cherishment of friendship. The final couplet, ending with the crowing of crows, not only indicates the early hour but also adds depth to the poetic scene. The poem is characterized by its concise language, profound imagery, and sincere emotions, showcasing the high artistic achievements of Tang poetry.",
+        "ja": "この詩は秋の夜を背景に、友人への返礼と時間の流れに対する感慨を表現しています。長い簀笆が風に迎え、空き城に淡い月華が照り、星河に一羽の雁、夜中に千家の杵音が響く情景が、清らかで寂しい雰囲気を作り出しています。詩人は繊細な風景描写を通じて、季節の変わりに対する無力感と友情を大切にする心情を抒発しています。最後の二句は烏の鳴き声で締めくくり、時間の早さを示すとともに、詩境の深さを加えています。全体として、言葉が簡潔で意境が深く、感情が真摯であり、唐代詩の高い芸術的成就を示しています。",
+        "es": "Este poema, ambientado en una noche de otoño, expresa la respuesta del poeta a un regalo de un amigo y sus reflexiones sobre el paso del tiempo. Las imágenes de las largas cañas meciéndose con el viento, la luz pálida de la luna sobre una ciudad vacía, un ganso solitario en el río estrellado y el sonido de los pilones en la noche desde mil hogares, crean una atmósfera serena y solitaria. A través de la delicada descripción del paisaje, el poeta expresa su impotencia ante el cambio de las estaciones y su aprecio por la amistad. El par de versos finales, que terminan con el graznido de los cuervos, no solo indican la hora temprana sino que también añaden profundidad a la escena poética. El poema se caracteriza por su lenguaje conciso, su imaginería profunda y sus emociones sinceras, mostrando los altos logros artísticos de la poesía Tang.",
+        "ar": "هذه القصيدة، التي تتميز بكونها مكتوبة في ليلة خريفية، تعبر عن رد الشاعر على هدية صديق وتأملاته في مرور الزمن. صور الطول القصير تتجاذب مع الرياح، ضوء القمر الفاتح على المدينة الخالية، غراب وحيد في النهر المليء بالنجوم، وأصوات الهاون في الليل من آلاف المنازل، تخلق جواً هادئاً ووحيداً. من خلال وصفه الدقيق للمناظر الطبيعية، يعبر الشاعر عن عجزه أمام تغير الفصول وتقديره للصداقة. البيتين الأخيرين، اللذين ينتهيان بصياح الغربان، لا يشيران فقط إلى الوقت المبكر بل يضيفان عمقاً إلى المشهد الشعري. تتسم القصيدة بلغتها الموجزة، وتصورها العميق، وعواطفها الصادقة، مما يظهر الإنجازات الفنية العالية للشعر التانغ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "长长的竹席早早迎着凉风，空旷的城池中月光淡然。星河之下秋夜孤雁飞过，夜晚千家万户捣衣声声。时节看来已是晚秋，心中的期盼却难以实现。一直吟诵着优美的诗句，不知不觉天已亮鸦鸟鸣叫。",
+            "en": "The long bamboo mat welcomes the early breeze, the empty city bathes in pale moonlight. A lone wild goose flies across the autumn starry river, while at night, a thousand households pound their laundry. The season seems late, and my heartfelt hopes lie deferred. Lost in chanting exquisite lines, I'm unaware the crows have begun to crow.",
+            "ja": "長い竹簾は早くも風を迎え、空き城は淡い月の光に包まれる。星河の下、秋の一羽の雁が飛び、夜には千の家から杵の音が聞こえる。季節はもう晩秋だろう、心の期待は果たされずにいる。美しい句を詠んでいるうちに、気づけば鴉が鳴き始めていた。",
+            "es": "La larga estera de bambú recibe el viento temprano, la ciudad vacía se baña en tenue luz lunar. Un ganso solitario vuela sobre el río estrellado del otoño, mientras por la noche, mil hogares suenan con el golpeteo de los mazos. La estación parece avanzada, y mis esperanzas se posponen. Perdido en la recitación de versos exquisitos, no me doy cuenta de que ya cantan los cuervos.",
+            "ar": "السجاد الطويل من البامبو يستقبل البرد باكراً، والبلدة الخاوية تغمرها ضوء القمر الخافت. يطير غراب واحد عبر نهر النجوم في الخريف، وفي الليل، تسمع أصوات الطواحين في آلاف المنازل. يبدو أن الفصل قد تأخر، وتأملات القلب تظل معلقة. مشغول بإنشاد الأبيات الرائعة، لم ألاحظ أن الغربان قد بدأت بالصياح."
+        },
+        "title_translation": {
+            "zh": "酬程延秋夜即事见赠",
+            "en": "In Response to Cheng Yan's Gift of a Poem on an Autumn Night",
+            "ja": "程延の秋夜即事見贈に酬う",
+            "es": "En respuesta al regalo de Cheng Yan sobre un suceso de noche de otoño",
+            "ar": "رداً على هدية تشنغ يان حول واقعة في ليلة خريف"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "长簟迎风早，空城澹月华。\n星河秋一雁，砧杵夜千家。\n节候看应晚，心期卧亦赊。\n向来吟秀句，不觉已鸣鸦。",
+    "title_pinyin": "chóu chéng yán qiū yè jí shì jiàn zèng",
+    "pinyin": "zhǎng diàn yíng fēng zǎo，kōng chéng dàn yuè huá。\nxīng hé qiū yī yàn，zhēn chǔ yè qiān jiā。\njié hòu kàn yīng wǎn，xīn qī wò yì shē。\nxiàng lái yín xiù jù，bù jué yǐ míng yā。"
+}

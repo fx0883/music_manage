@@ -1,0 +1,57 @@
+{
+    "title": "夏日南亭怀辛大",
+    "difficulty": 2,
+    "author": {
+        "name": "孟浩然",
+        "name_pinyin": "mèng hào rán",
+        "image": "孟浩然.jpg",
+        "introduction": {
+            "zh": "孟浩然（689年—740年），字浩然，号孟山人，襄州襄阳（今湖北襄阳）人，唐代著名的山水田园诗人。他的诗多描绘自然景色和田园生活，风格清新自然，语言简练，情感真挚。代表作有《春晓》、《宿建德江》等。他与王维并称“王孟”，是盛唐山水田园诗派的代表人物之一。",
+            "en": "Meng Haoran (689-740), styled Haoran and also known as Meng Shanren, was from Xiangyang, Xiangzhou (present-day Xiangyang, Hubei). He was a renowned Tang Dynasty poet known for his landscape and pastoral poetry. His works often depict natural scenery and rural life, characterized by a fresh and natural style, concise language, and sincere emotions. His famous poems include 'Spring Dawn' and 'Staying at Jiande River'. Together with Wang Wei, he is known as one of the leading figures of the landscape and pastoral poetry during the heyday of the Tang Dynasty.",
+            "ja": "孟浩然（689年－740年）、字は浩然、号は孟山人、襄州襄陽（現在の湖北省襄陽市）出身の唐代の著名な山水田園詩人。彼の詩は自然の風景や田園生活を描くことが多く、清新で自然なスタイル、簡潔な言語、真挚な感情が特徴である。代表作には「春暁」、「建徳江に宿る」などがある。王維と並び「王孟」と称され、盛唐期の山水田園詩派の代表的人物の一人である。",
+            "es": "Meng Haoran (689-740), también conocido como Meng Shanren, nació en Xiangyang, Xiangzhou (actual Xiangyang, Hubei). Fue un poeta destacado de la dinastía Tang, famoso por su poesía de paisajes y temas pastorales. Sus obras a menudo retratan escenas naturales y la vida rural, con un estilo fresco y natural, un lenguaje conciso y emociones sinceras. Entre sus poemas más famosos se encuentran 'Amanecer de primavera' y 'Permanecer en el río Jiande'. Junto con Wang Wei, es considerado uno de los principales exponentes de la poesía de paisajes y temas pastorales durante el apogeo de la dinastía Tang.",
+            "ar": "مينغ هواوران (689-740)، المعروف أيضًا بـ مينغ شانرين، وُلد في شيانغيانغ، شيانغتشو (الآن شيانغيانغ، هوبيي). كان شاعرًا بارزًا في عهد أسرة تانغ، مشهورًا بقصائده التي تتناول المناظر الطبيعية والحياة الريفية. أعماله غالبًا ما تصور المشاهد الطبيعية والحياة الريفية، بأسلوب طازج وجذاب، ولغة موجزة، وعواطف صادقة. من أشهر قصائده 'فجر الربيع' و'البقاء في نهر جيانده'. وهو يُعتبر مع وانغ وي واحدًا من أبرز الشخصيات في الشعر الذي يتناول المناظر الطبيعية والحياة الريفية خلال ذروة عهد أسرة تانغ."
+        }
+    },
+    "annotations": {
+        "zh": "山光忽西落：山上的阳光忽然西沉。池月渐东上：池中的月亮逐渐东升。散发乘夕凉：披散着头发乘着傍晚的凉风。开轩卧闲敞：打开窗户躺在宽敞的地方。荷风送香气：荷花的风送来香气。竹露滴清响：竹叶上的露水滴下清脆的声音。欲取鸣琴弹：想要取琴来弹奏。恨无知音赏：遗憾没有知音欣赏。感此怀故人：因此感到怀念故友。中宵劳梦想：（中宵一作终）半夜里劳神梦想。",
+        "en": "Shan guang hu xi luo: The mountain light suddenly sets in the west. Chi yue jian dong shang: The moon in the pond gradually rises in the east. San fa cheng xi liang: With hair loose, enjoying the cool evening breeze. Kai xuan wo xian chang: Opening the window and lying in a spacious place. He feng song xiang qi: The breeze from the lotus brings fragrance. Zhu lu di qing xiang: The dew on the bamboo leaves drips with a clear sound. Yu qu ming qin tan: Wanting to take up the zither to play. Hen wu zhi yin shang: Regretting there is no connoisseur to appreciate it. Gan ci huai gu ren: Feeling this, I miss my old friend. Zhong xiao lao meng xiang: (Zhong xiao can also be read as Zhong) Being troubled by dreams at midnight.",
+        "ja": "山光忽西落：山の光が忽然と西に沈む。池月渐东上：池の月が次第に東に昇る。散发乘夕凉：髪を解いて夕涼みをする。开轩卧闲敞：窓を開けて広々とした所に横になる。荷风送香气：蓮の風が香りを運ぶ。竹露滴清响：竹の露が清らかな音を立てて滴る。欲取鸣琴弹：琴を取り出して弾きたい。恨无知音赏：残念ながら知音がいない。感此怀故人：これに感じて故人を懐く。中宵劳梦想：（中宵は終とも）真夜中に夢想に悩む。",
+        "es": "Shan guang hu xi luo: La luz de la montaña de repente se pone en el oeste. Chi yue jian dong shang: La luna en el estanque gradualmente sube en el este. San fa cheng xi liang: Con el pelo suelto, disfrutando de la brisa fresca de la tarde. Kai xuan wo xian chang: Abriendo la ventana y acostándose en un lugar espacioso. He feng song xiang qi: El viento del loto trae fragancia. Zhu lu di qing xiang: El rocío en las hojas de bambú gotea con un sonido claro. Yu qu ming qin tan: Queriendo tomar el qin para tocar. Hen wu zhi yin shang: Lamentando no tener un conocedor que lo aprecie. Gan ci huai gu ren: sintiendo esto, extraño a mi viejo amigo. Zhong xiao lao meng xiang: (Zhong xiao también se lee como Zhong) Trabajando en sueños a medianoche.",
+        "ar": "شان جوانغ هسى لوا: ضوء الجبل يغرب فجأة. تشى يويه جيان دونغ شانغ: القمر في البركة يرتفع تدريجياً في الشرق. سان فا تشينغ شي ليانغ: مع شعر متساقط، يستمتع ببرودة المساء. كاي شوان وو شيان تشانغ: يفتح النافذة وينام في مكان واسع. هه فنغ سونغ شيانغ تشي: نسيم اللوتس يحمل الرائحة. زه لو دي تشينغ شيانغ: قطرات الندى على أوراق البامبو تصدر صوتاً واضحاً. يو تشو مينغ تشين تان: يريد أخذ القيثارة ليغني. هين وو زه يين شيانغ: يأسف لعدم وجود من يقدر. جان تشي هواي قو رين: يشعر بذلك ويفتقد صديقه القديم. تشونغ سيو لاو مينغ شيانغ: (تشونغ سيو يمكن أن يقرأ كـ تشونغ) يتعب من الأحلام في منتصف الليل."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘夏夜南亭的静谧景色，表达了诗人对友人的深切怀念和对知音难觅的遗憾。主题思想是怀念故人，感叹知音难求。写作特色上，诗人运用细腻的笔触，将自然景色与内心情感巧妙结合，通过山光、池月、荷风、竹露等意象，营造出一种清幽宁静的氛围。艺术成就方面，诗歌以简洁的语言和丰富的意象，展现了高超的艺术表现力，给人以美的享受。情感分析上，诗人抒发了对友人的思念和对知音的渴望，情感真挚而深沉。影响意义上，这首诗在文学史上具有重要地位，是唐代山水田园诗的代表作之一，对后世诗歌创作产生了深远影响。",
+        "en": "This poem depicts the tranquil scenery of a summer night at the South Pavilion, expressing the poet's deep longing for a friend and the regret of not finding a kindred spirit. The main theme is the怀念 for an old friend and the lament of the rarity of true understanding. In terms of writing style, the poet uses delicate brushstrokes to skillfully combine natural scenery with inner emotions, creating a serene and peaceful atmosphere through images such as mountain light, pond moon, lotus breeze, and bamboo dew. Artistically, the poem demonstrates high artistic expression with concise language and rich imagery, providing aesthetic enjoyment. Emotionally, the poet conveys genuine and profound feelings of longing for a friend and the desire for a kindred spirit. In terms of significance, this poem holds an important place in literary history, being a representative work of Tang Dynasty landscape and pastoral poetry, and has had a profound influence on later poetic compositions.",
+        "ja": "この詩は夏の夜の南亭の静かな景色を描き、詩人が友人への深い思い出と知音難逢の遺憾を表現しています。主題思想は故人への怀念と知音難求への嘆きです。表現手法としては、詩人は繊細な筆致を用い、自然の景色と内面の感情を巧みに結びつけ、山光、池月、蓮風、竹露などのイメージを通じて、清幽で静かな雰囲気を作り出しています。芸術的成就としては、簡潔な言葉と豊かなイメージで高い芸術表現力を示し、美の享受を与えています。感情分析では、詩人は友人への思慕と知音への渇望を抒発し、真摯で深い感情を表しています。影響の意味では、この詩は文学史上重要な地位を占め、唐代山水田園詩の代表作の一つであり、後世の詩作に深い影響を与えました。",
+        "es": "Este poema retrata la tranquila escena de una noche de verano en el Pabellón del Sur, expresando el profundo anhelo del poeta por un amigo y el pesar de no encontrar un alma gemela. El tema principal es el recuerdo del amigo y la lamentación por la rareza de una verdadera comprensión. En cuanto al estilo de escritura, el poeta utiliza pinceladas delicadas para combinar hábilmente la naturaleza con sus emociones internas, creando una atmósfera serena y pacífica a través de imágenes como la luz de la montaña, la luna del estanque, la brisa de los lirios y el rocío de los bambúes. Artísticamente, el poema muestra una alta expresión artística con un lenguaje conciso y una rica imaginería, proporcionando un disfrute estético. En el análisis emocional, el poeta expresa sentimientos sinceros y profundos de añoranza por el amigo y deseo de un alma gemela. En términos de significado e influencia, este poema ocupa un lugar importante en la historia de la literatura, siendo una obra representativa de la poesía paisajística y campestre de la dinastía Tang, y ha tenido una influencia profunda en la creación poética posterior.",
+        "ar": "هذه القصيدة تصور المنظر الهادئ ليلا في الجناح الجنوبي في الصيف، وتعبر عن شوق الشاعر العميق لأصدقائه وآسفه لعدم العثور على نفس متوافقة. الموضوع الرئيسي هو التفكير في الأصدقاء والشكوى من ندرة التفاهم الحقيقي. من حيث الأسلوب الكتابي، يستخدم الشاعر لمسات دقيقة ليربط بشكل ماهر الطبيعة بعواطفه الداخلية، وينشئ جوا هادئا وسلميا من خلال صور مثل ضوء الجبل، والقمر في البركة، ونسمة اللوتس، وندى الخيزران. من الناحية الفنية، تظهر القصيدة تعبيرا فنيا عاليا بلغة موجزة وصور غنية، مما يوفر متعة جمالية. في تحليل العواطف، يعبر الشاعر عن مشاعر صادقة وعميقة من الشوق للأصدقاء ورغبة في نفس متوافقة. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، حيث أنها تعتبر واحدة من الأعمال الممثلة للشعر الريفي والمناظري في عهد التانغ، ولها تأثير عميق على الكتابة الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "山光忽然西落，池中月亮渐渐东升。披散头发乘着夜晚的凉风，打开窗户躺卧在宽敞的地方。荷花随风送来香气，竹叶上的露水滴落发出清脆的声响。想要取琴来弹奏，却遗憾没有知音欣赏。感慨于此，怀念起老友，午夜时分在梦中劳神思念。",
+            "en": "The mountain light suddenly falls to the west, the moon over the pond gradually rises in the east. With hair loose, I enjoy the evening cool, lying relaxed in the open pavilion. The breeze carries the scent of lotus, bamboo leaves drop dew with clear sounds. I wish to play the zither, but regret there's no connoisseur to appreciate. Feeling this, I miss my old friend, and dream of him through the midnight hours.",
+            "ja": "山の光が忽然と西に沈み、池の月が次第に東に昇る。髪を解いて夕涼を楽しみ、窓を開けて広々とした場所で横になる。蓮の風が香りを運び、竹の露が清らかな音を滴る。琴を弾きたくても、知音の者がいないのが残念。この感慨に故人を思い、夜半に夢で思い煩う。",
+            "es": "La luz de la montaña de repente se pone en el oeste, la luna sobre el estanque va subiendo hacia el este. Con el cabello suelto, disfruto del frescor de la tarde, acostado en la amplia terraza abierta. El viento trae el aroma de las lotos, las gotas de rocío en los bambúes hacen un sonido claro. Quiero tocar el qín, pero lamento que no haya quien aprecie su melodía. Sentiendo esto, extraño a mi viejo amigo, y me afano en sueños a media noche.",
+            "ar": "الضوء الجبلي يغرب فجأة، والقمر فوق البركة يشرق تدريجيًا. مع تسريح الشعر، أستمتع ببرودة المساء، مستلقيًا في المكان الفسيح المفتوح. نسيم اللوتس يحمل العبير، وندى الأ bambú يتناقص بصوت صافٍ. أرغب في العزف على القيثار، لكني آسف لعدم وجود من يقدرها. أحس بهذا وأتذكر صديقي القديم، وأتعب في الأحلام في منتصف الليل."
+        },
+        "title_translation": {
+            "zh": "夏日南亭怀辛大",
+            "en": "Recalling Xin Da at the Southern Pavilion on a Summer Day",
+            "ja": "夏日南亭で辛大を思い出す",
+            "es": "Recordando a Xin Da en el Pabellón Sur en un Día de Verano",
+            "ar": "تذكر صين دا في الجناح الجنوبي في يوم صيفي"
+        }
+    },
+    "genre": {
+        "name": "五言古诗",
+        "code": "wu_yan_gu_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "山光忽西落，池月渐东上。\n散发乘夕凉，开轩卧闲敞。\n荷风送香气，竹露滴清响。\n欲取鸣琴弹，恨无知音赏。\n感此怀故人，中宵劳梦想。(\n中\n宵 一作：终)",
+    "title_pinyin": "xià rì nán tíng huái xīn dà",
+    "pinyin": "shān guāng hū xī luò，chí yuè jiàn dōng shàng。\nsàn fā chéng xī liáng，kāi xuān wò xián chǎng。\nhé fēng sòng xiāng qì，zhú lù dī qīng xiǎng。\nyù qǔ míng qín dàn，hèn wú zhī yīn shǎng。\ngǎn cǐ huái gù rén，zhōng xiāo láo mèng xiǎng。(\nzhōng\nxiāo  yī zuò：zhōng)"
+}

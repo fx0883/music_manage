@@ -1,0 +1,57 @@
+{
+    "title": "春晓",
+    "difficulty": 2,
+    "author": {
+        "name": "孟浩然",
+        "name_pinyin": "mèng hào rán",
+        "image": "孟浩然.jpg",
+        "introduction": {
+            "zh": "孟浩然（689年－740年），字浩然，号孟山人，襄州襄阳（今湖北襄阳）人，唐代著名的山水田园诗人。他的诗多描写自然风光和田园生活，风格清新自然，语言朴实无华，被誉为“诗杰”。代表作有《春晓》、《宿建德江》等。他与王维并称“王孟”，是盛唐山水田园诗派的代表人物之一。",
+            "en": "Meng Haoran (689-740), styled Haoran and also known as Meng Shanren, was a native of Xiangyang in Xiangzhou (present-day Xiangyang, Hubei Province), and a renowned Tang Dynasty poet specializing in landscape and pastoral poetry. His works often depict natural scenery and rural life, characterized by a fresh and natural style and plain language, earning him the title 'Poetic Genius'. His notable works include 'Spring Dawn' and 'A Night at Jiande River'. Alongside Wang Wei, he is collectively known as 'Wang Meng', representing the peak of the Tang Dynasty's landscape and pastoral poetry.",
+            "ja": "孟浩然（689年－740年）、字は浩然、号は孟山人、襄州襄陽（現在の湖北省襄陽市）出身、唐代の著名な山水田園詩人。彼の詩は自然風光や田園生活を描くことが多く、清新で自然なスタイル、質素で飾らない言葉遣いが特徴で、「詩傑」と称賛される。代表作に『春暁』『建徳江に宿す』などがある。王維と並び「王孟」と称され、盛唐期の山水田園詩派の代表的人物の一人である。",
+            "es": "Meng Haoran (689-740), conocido por su nombre de estilo Haoran y también como Meng Shanren, era originario de Xiangyang en Xiangzhou (actual Xiangyang, provincia de Hubei), y fue un destacado poeta de la dinastía Tang especializado en poesía paisajística y campestre. Sus obras a menudo describen paisajes naturales y la vida rural, con un estilo fresco y natural y un lenguaje sencillo, lo que le valió el apodo de 'Genio Poético'. Entre sus obras más destacadas se encuentran 'Amanecer de Primavera' y 'Una Noche en el Río Jiande'. Junto con Wang Wei, es conocido colectivamente como 'Wang Meng', representando el apogeo de la poesía paisajística y campestre de la dinastía Tang.",
+            "ar": "مينغ هواوران (689-740)، المعروف بلقب هواوران وكذلك بـ مينغ شانرين، كان من مواليد شيانغيانغ في شيانغتشو (الآن شيانغيانغ، مقاطعة هوبيي)، وهو شاعر بارز في عهد تانغ متخصص في الشعر الطبيعي والريف. أعماله غالبًا ما تصف المناظر الطبيعية والحياة الريفية، مع أسلوب طازج وغير مصطنع ولغة بسيطة، مما أهله ليُعرف بـ 'عبقري الشعر'. من أشهر أعماله 'فجر الربيع' و 'ليلة في نهر جيانده'. وهو معروف مع وانغ وي كـ 'وانغ مينغ'، يمثلان ذروة الشعر الطبيعي والريف في عهد تانغ."
+        }
+    },
+    "annotations": {
+        "zh": "春眠不觉晓：春天睡觉不知不觉天就亮了。眠：睡觉。不觉：不知不觉。晓：天亮。\n处处闻啼鸟：到处都能听到鸟儿的叫声。处处：到处。闻：听到。啼鸟：鸟叫声。\n夜来风雨声：夜里听到了风雨的声音。夜来：夜里。风雨声：风雨的声音。\n花落知多少：不知道有多少花儿落了下来。花落：花儿落下。知多少：不知道多少。\n语法说明：此诗为五言绝句，每句五个字，结构简洁明了。\n典故解释：无特定典故。\n意象分析：春眠、啼鸟、风雨、花落，构成了一幅春天清晨的生动画面。\n历史背景：唐代诗人孟浩然创作，反映了唐代文人对自然景物的细腻感受。",
+        "en": "Spring sleep unaware of dawn: Sleeping in spring, one is unaware when dawn breaks. Sleep: sleeping. Unaware: not realizing. Dawn: the break of day.\nBirds crying everywhere: Birds can be heard chirping everywhere. Everywhere: in all places. Hear: to listen to. Crying birds: the sound of birds chirping.\nSounds of wind and rain at night: The sounds of wind and rain were heard during the night. At night: during the night. Sounds of wind and rain: the noise of wind and rain.\nHow many flowers have fallen: Not knowing how many flowers have fallen. Flowers fallen: flowers dropping. How many: not knowing the quantity.\nGrammar explanation: This poem is a five-character quatrain, with each line consisting of five characters, featuring a simple and clear structure.\nAllusion explanation: No specific allusions.\nImagery analysis: Spring sleep, crying birds, wind and rain, fallen flowers, together create a vivid picture of a spring morning.\nHistorical background: Written by the Tang Dynasty poet Meng Haoran, reflecting the delicate appreciation of natural scenery by Tang literati.",
+        "ja": "春眠不觉暁：春に眠ると、気がつかずに夜が明けてしまう。眠：眠る。不觉：気づかない。暁：夜明け。\n処処聞啼鳥：どこでも鳥の鳴き声が聞こえる。処処：どこでも。聞：聞く。啼鳥：鳥の鳴き声。\n夜来風雨声：夜中に風雨の音が聞こえた。夜来：夜中。風雨声：風雨の音。\n花落知多少：どれだけの花が散ったか知らない。花落：花が散る。知多少：どれだけ知らない。\n文法説明：この詩は五言絶句で、各行五文字で構成され、簡潔明瞭な構造を持つ。\n典故説明：特定の典故はない。\n意象分析：春眠、啼鳥、風雨、花落が春の朝の生き生きとした情景を描いている。\n歴史背景：唐代の詩人孟浩然が作詠し、唐代の文人が自然景物に対する繊細な感覚を反映している。",
+        "es": "Dormir en primavera sin darse cuenta del amanecer: Dormir en primavera sin darse cuenta de que ha amanecido. Dormir: dormir. Sin darse cuenta: inconscientemente. Amanecer: el amanecer.\nPájaros cantando por todas partes: Se escucha el canto de los pájaros en todas partes. Por todas partes: en todas partes. Escuchar: oír. Pájaros cantando: el canto de los pájaros.\nSonidos de viento y lluvia durante la noche: Se escucharon los sonidos del viento y la lluvia durante la noche. Durante la noche: en la noche. Sonidos de viento y lluvia: el ruido del viento y la lluvia.\n¿Cuántas flores han caído?: No saber cuántas flores han caído. Flores caídas: flores que caen. ¿Cuántas?: no saber la cantidad.\nExplicación gramatical: Este poema es un cuarteto de cinco caracteres, cada línea consta de cinco caracteres, con una estructura sencilla y clara.\nExplicación de la alusión: No hay alusiones específicas.\nAnálisis de imágenes: Dormir en primavera, pájaros cantando, viento y lluvia, flores caídas, juntos crean una imagen vívida de una mañana de primavera.\nContexto histórico: Escrito por el poeta de la dinastía Tang Meng Haoran, reflejando la apreciación delicada de la naturaleza por los literatos de la dinastía Tang.",
+        "ar": "النوم في الربيع دون الشعور ببزوغ الفجر: النوم في الربيع دون الشعور ببزوغ الفجر. النوم: النوم. دون الشعور: بدون الشعور. الفجر: بزوغ الفجر.\nالسماع بصياح الطيور في كل مكان: يمكن سماع صياح الطيور في كل مكان. في كل مكان: في كل مكان. السماع: السمع. صياح الطيور: صوت الطيور.\nأصوات الرياح والمطر في الليل: سمعت أصوات الرياح والمطر في الليل. في الليل: في الليل. أصوات الرياح والمطر: صوت الرياح والمطر.\nكم من الزهور قد سقطت: لا أعرف كم من الزهور قد سقطت. الزهور الساقطة: الزهور التي تسقط. كم: لا أعرف الكمية.\nشرح النحو: هذا الشعر هو قصيدة من خمسة حروف، كل سطر يتكون من خمسة حروف، بهيكل بسيط وواضح.\nشرح الإستعارة: لا توجد إستعارات محددة.\nتحليل الصور: النوم في الربيع، صياح الطيور، الرياح والمطر، الزهور الساقطة، معًا يخلقون صورة حية لصباح الربيع.\nالخلفية التاريخية: كتبه الشاعر التانغي مينغ هواوران، يعكس تقدير الأدباء في عهد التانغ للطبيعة بشكل دقيق."
+    },
+    "appreciations": {
+        "zh": "《春晓》是唐代诗人孟浩然的名作，主题思想是表达对春天的喜爱和对时光流逝的感慨。写作特色上，诗人运用简洁明快的语言，通过听觉描写春天的早晨，营造出一种宁静而又生机勃勃的氛围。艺术成就方面，这首诗以其清新自然的风格和深刻的意境，成为中国古典诗歌中的经典之作。情感分析上，诗人通过对春眠、鸟鸣、风雨、花落的描写，抒发了对春天的喜爱和对美好事物易逝的感伤。影响意义上，这首诗在文学史上具有重要地位，对后世诗歌创作产生了深远影响。",
+        "en": "Chun Xiao by Meng Haoran is a famous Tang Dynasty poem, whose theme reflects the love for spring and the感慨 on the passage of time. In terms of writing features, the poet uses concise and vivid language, depicting the spring morning through auditory imagery, creating a tranquil yet vibrant atmosphere. In terms of artistic achievements, this poem stands out in classical Chinese poetry for its fresh and natural style and profound artistic conception. Emotionally, the poet expresses his love for spring and a sense of melancholy over the fleeting nature of beauty through descriptions of spring sleep, bird songs, rain and wind, and falling flowers. In terms of impact and significance, this poem holds a significant place in literary history, profoundly influencing later poetic creations.",
+        "ja": "『春暁』は唐代の詩人孟浩然の代表作であり、主題思想は春への愛着と時の流れに対する感慨を表現している。執筆の特色としては、詩人は簡潔明瞭な言葉遣いを用い、聴覚を通じて春の朝を描写し、静かでありながら生き生きとした雰囲気を作り出している。芸術的成果としては、この詩は清新なスタイルと深い意境で、中国古典詩の傑作の一つとして知られている。感情分析では、詩人は春眠、鳥の鳴き声、風雨、花の散り行く様子を通じて、春への愛着と美しいものの儚さに対する感傷を表している。影響と意義においては、この詩は文学史上重要な地位を占め、後世の詩作に大きな影響を与えている。",
+        "es": "Chun Xiao de Meng Haoran es una obra maestra de la poesía de la dinastía Tang, cuyo tema central es el amor por la primavera y la reflexión sobre el paso del tiempo. En cuanto a las características de escritura, el poeta utiliza un lenguaje conciso y vívido, describiendo la mañana de primavera a través de imágenes auditivas, creando una atmósfera tranquila pero llena de vida. En términos de logros artísticos, este poema se destaca en la poesía clásica china por su estilo fresco y natural y su profunda concepción artística. En el análisis emocional, el poeta expresa su amor por la primavera y una melancolía por la fugacidad de las cosas bellas a través de las descripciones del sueño de primavera, el canto de los pájaros, el sonido de la lluvia y el viento, y las flores que caen. En cuanto a su impacto y significado, este poema ocupa un lugar importante en la historia de la literatura, influyendo profundamente en la creación poética posterior.",
+        "ar": "يعد \"شن شياو\" للشاعر مينغ هواورين من روائع الشعر في عهد التانغ، حيث يعبر عن حب الربيع وتأملات في مرور الزمن. فيما يتعلق بميزات الكتابة، يستخدم الشاعر لغة موجزة وواضحة، يصف فيها صباح الربيع من خلال الصور السمعية، مما يخلق جواً هادئاً لكنه مليء بالحياة. من حيث الإنجازات الفنية، يتميز هذا الشعر في الشعر الصيني الكلاسيكي بأسلوبه العذب والطبيعي ورؤيته الفنية العميقة. في تحليل العواطف، يعبر الشاعر عن حبه للربيع وحزنه على زوال الأشياء الجميلة من خلال وصفه لنوم الربيع، تغريد الطيور، صوت الرياح والمطر، ووقوع الأزهار. من حيث التأثير والمعنى، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب، مؤثراً بشكل عميق في الإبداع الشعري اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。",
+            "en": "Sleeping in spring, unaware of dawn's break, birds' cries are heard everywhere. Last night's sounds of wind and rain, how many flowers have fallen, who can say?",
+            "ja": "春の眠りで夜が明けるのを知らず、あちこちで鳥の鳴き声が聞こえる。昨夜の風雨の音、花がどれだけ散ったか知る由もない。",
+            "es": "Durmiendo en primavera, sin notar el amanecer, se oyen pájaros cantar por doquier. El sonido de la lluvia y el viento de anoche, ¿cuántas flores han caído, quién lo sabe?",
+            "ar": "النوم في الربيع لا أشعر ببزوغ الفجر، وأسمع أصوات الطيور في كل مكان. أصوات الرياح والمطر ليلة البارحة، كم من الزهور سقطت، من يدري؟"
+        },
+        "title_translation": {
+            "zh": "春晓",
+            "en": "Spring Dawn",
+            "ja": "春暁",
+            "es": "Amanecer de Primavera",
+            "ar": "فجر الربيع"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "春眠不觉晓，处处闻啼鸟。\n夜来风雨声，花落知多少。",
+    "title_pinyin": "chūn xiǎo",
+    "pinyin": "chūn mián bù jué xiǎo，chù chù wén tí niǎo。\nyè lái fēng yǔ shēng，huā luò zhī duō shǎo。"
+}

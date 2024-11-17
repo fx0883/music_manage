@@ -1,0 +1,57 @@
+{
+    "title": "寻西山隐者不遇",
+    "difficulty": 2,
+    "author": {
+        "name": "丘为",
+        "name_pinyin": "qiū wèi",
+        "image": "丘为.jpg",
+        "introduction": {
+            "zh": "丘为，唐代著名诗人，生卒年不详，大约活跃于唐玄宗至唐代宗时期。他的诗作以山水田园为主题，风格清新淡雅，深受后世文人推崇。代表作有《寻西山隐者不遇》等，反映了其追求隐逸生活的思想情怀。丘为的诗作在唐代诗坛具有一定影响力，其人亦以高洁的品格和淡泊的志趣著称。",
+            "en": "Qiu Wei was a renowned poet of the Tang Dynasty, with his exact birth and death years unknown, but he was active during the reigns of Emperor Xuanzong to Emperor Daizong. His poetry primarily focused on landscapes and pastoral themes, characterized by a fresh and elegant style, highly admired by later literati. His representative works include 'Visiting the Hermit of the Western Hills Without Meeting Him,' reflecting his pursuit of a reclusive life. Qiu Wei's poetry had a significant influence in the Tang Dynasty literary scene, and he was renowned for his noble character and unworldly aspirations.",
+            "ja": "丘为（きゅう い）は唐代の著名な詩人で、生没年不詳だが、唐の玄宗から代宗の時期に活躍した。彼の詩は山水や田園を主題とし、清新で淡雅なスタイルが特徴で、後世の文人に高く評価されている。代表作には『西山の隠者を訪ねて遇わず』などがあり、隠逸生活を追求する彼の思想が反映されている。丘为の詩は唐代の詩壇で一定の影響力を持ち、高潔な品格と淡泊な志向で知られていた。",
+            "es": "Qiu Wei fue un poeta destacado de la dinastía Tang, cuyos años exactos de nacimiento y muerte se desconocen, pero estuvo activo durante los reinados del Emperador Xuanzong hasta el Emperador Daizong. Su poesía se centraba principalmente en temas de paisajes y vida campestre, con un estilo fresco y elegante, muy admirado por los literatos posteriores. Entre sus obras representativas se encuentra 'Visitando al Ermitaño de la Montaña Occidental sin Encontrarlo', que refleja su búsqueda de una vida retirada. La poesía de Qiu Wei tuvo una influencia significativa en la escena literaria de la dinastía Tang, y era conocido por su carácter noble y sus aspiraciones desinteresadas.",
+            "ar": "كان تشو وي شاعرًا بارزًا في عهد أسرة تانغ، ولا تُعرف سنة ميلاده وسنة وفاته بالتحديد، لكنه كان نشطًا خلال فترة حكم الإمبراطور شوانزونغ والإمبراطور دايزونغ. تركزت أشعاره بشكل رئيسي على المناظر الطبيعية والحياة الريفية، وكانت تتميز بالأسلوب العذب والبسيط، مما أثار إعجاب الأدباء اللاحقين. من أشهر أعماله 'البحث عن المتنسك في الجبل الغربي دون أن يلتقي به'، والتي تعكس رغبته في الابتعاد عن الحياة الاجتماعية. أثرت أشعار تشو وي بشكل كبير في المشهد الأدبي لعهد أسرة تانغ، وكان معروفًا بشخصيته النبيلة وتوجهاته غير المادية."
+        }
+    },
+    "annotations": {
+        "zh": "绝顶：山顶最高处。茅茨：茅草屋。直上：直接向上。扣关：敲门。僮仆：仆人。窥室：向室内窥视。案几：桌子。巾柴车：用布巾覆盖的车，指隐士的车。钓秋水：在秋水中钓鱼，指隐士的闲适生活。差池：错过。黾勉：努力。仰止：仰望。新雨：刚下过的雨。晚窗：傍晚的窗户。契：契合。幽绝：幽静至极。荡心耳：使心灵和耳朵感到舒畅。宾主意：主人和客人的情意。清净理：清静的道理。兴尽：兴致已尽。之子：那个人。",
+        "en": "Jueding: the highest point of a mountain. Maoci: a thatched cottage. Zhishang: directly upwards. Kouguan: knocking on the door. Tongpu: servant. Kuishi: peeping into the room. Anji: table. Jinchaiche: a car covered with a cloth, referring to the hermit's car. Diaochunshui: fishing in the autumn water, referring to the hermit's leisurely life. Chachi: miss. Minmian: strive. Yangzhi: look up to. Xinyu: recent rain. Wanwu: evening window. Qi: agree. Youjue: extremely quiet. Dangxiner: make the heart and ears feel comfortable. Binzhuyi: the feelings between the host and the guest. Qingjingli: the principle of tranquility. Xingjin: interest is exhausted. Zhi zi: that person.",
+        "ja": "絶頂：山の頂上。茅茨：茅葺きの小屋。直上：真っすぐ上に。扣関：門を叩く。僮僕：召使い。窺室：部屋の中をのぞく。案几：机。巾柴車：布で覆われた車、隠者の車を指す。釣秋水：秋の水で釣りをする、隠者の閑適な生活を指す。差池：すれ違い。黽勉：努力。仰止：仰ぎ見る。新雨：ちょうど降った雨。晚窓：夕方の窓。契：合致する。幽絶：非常に静か。蕩心耳：心と耳を快適にする。賓主意：主人と客の情意。清静理：静けさの道理。興尽：興が尽きる。之子：その人。",
+        "es": "Jueding: la cima de una montaña. Maoci: una cabaña de paja. Zhishang: directamente hacia arriba. Kouguan: llamar a la puerta. Tongpu: sirviente. Kuishi: mirar dentro de la habitación. Anji: mesa. Jinchaiche: un carro cubierto con un paño, refiriéndose al carro del ermitaño. Diaochunshui: pescar en el agua de otoño, refiriéndose a la vida relajada del ermitaño. Chachi: perderse. Minmian: esforzarse. Yangzhi: mirar hacia arriba. Xinyu: lluvia reciente. Wanwu: ventana de la tarde. Qi: coincidir. Youjue: extremadamente tranquilo. Dangxiner: hacer que el corazón y los oídos se sientan cómodos. Binzhuyi: el afecto entre el anfitrión y el invitado. Qingjingli: el principio de la tranquilidad. Xingjin: agotar el interés. Zhi zi: esa persona.",
+        "ar": "جودينغ: قمة الجبل. ماوتسي: كوخ من القش. تشيشانغ: صعودا مباشرة. كوغوان: طرق الباب. تونغبو: خادم. كويشي: التلصص داخل الغرفة. أنجي: طاولة. جينتشاي تشي: عربة مغطاة بقطعة قماش، تشير إلى عربة الناسك. دياوتشونشوي: صيد في ماء الخريف، يشير إلى حياة الناسك الهادئة. تشاتشي: تفويت. مينميان: يتقن. يانغزي: ينظر إلى الأعلى. شينيو: مطر حديث. وانهوان: نافذة المساء. تشي: يتوافق. يويوجوي: هادئة للغاية. دانغسينير: يجعل القلب والأذان يشعران بالراحة. بينزهوي: مشاعر بين المضيف والضيف. تشينغجينغلي: مبدأ الهدوء. شينغجين: يفقد الاهتمام. تشي زي: ذلك الشخص."
+    },
+    "appreciations": {
+        "zh": "《寻西山隐者不遇》描绘了诗人寻找隐者而不得的情景，表达了诗人对隐居生活的向往和对自然美景的赞美。主题思想是追求心灵的宁静与超脱。写作特色上，诗人通过细腻的景物描写和简洁的语言，营造出一种清幽淡远的意境。艺术成就方面，诗歌以平淡自然的风格展现了高远的境界，具有很高的艺术价值。情感分析上，诗人在失望中透露出对隐居生活的羡慕和对自然之美的陶醉。影响意义上，这首诗在文学史上被视为唐代山水诗的佳作，对后世文人追求隐逸生活产生了深远影响。",
+        "en": "In 'Seeking the Hermit of the Western Mountain but Not Finding Him', the poet describes his journey to find a hermit but fails to meet him, expressing his longing for a reclusive life and admiration for natural beauty. The theme revolves around the pursuit of spiritual tranquility and detachment. In terms of writing style, the poet uses detailed descriptions of the scenery and concise language to create a serene and distant atmosphere. Artistically, the poem's plain and natural style achieves a lofty state, holding high artistic value. Emotionally, the poet conveys a mix of disappointment, envy for the hermit's life, and intoxication with nature's beauty. Historically, this poem is regarded as a masterpiece of Tang Dynasty landscape poetry, profoundly influencing later generations in their pursuit of a secluded life.",
+        "ja": "「西山の隠者を尋ねて不遇」は、詩人が隠者を探し出せなかった情景を描き、隠遁生活への憧れと自然の美しさへの賛美を表現しています。主題思想は心の静寂と超脱の追求です。表現手法としては、詩人は繊細な風景描写と簡潔な言葉遣いで、清幽で遠い境地を作り出しています。芸術的成就としては、平淡自然なスタイルで高い境地を示し、高い芸術価値を持っています。感情分析では、失望の中に隠遁生活への羨望と自然の美への陶酔がにじみ出ています。影響の意味では、この詩は唐代山水詩の傑作として文学史上に位置づけられ、後世の文人が隠逸生活を求める上で深い影響を与えました。",
+        "es": "En 'Buscando al Ermitaño de la Montaña Occidental sin Encontrarlo', el poeta describe su búsqueda infructuosa del ermitaño, expresando su deseo por una vida ermitaña y su admiración por la belleza natural. El tema central es la búsqueda de la tranquilidad espiritual y la renuncia. En cuanto al estilo de escritura, el poeta utiliza descripciones detalladas del paisaje y un lenguaje conciso para crear una atmósfera serena y distante. Artísticamente, el poema alcanza un alto valor artístico mediante su estilo sencillo y natural. En el análisis emocional, el poeta muestra una mezcla de decepción, envidia por la vida del ermitaño y embriaguez por la belleza natural. En términos de influencia, este poema es considerado una obra maestra de la poesía paisajística de la dinastía Tang, teniendo un profundo impacto en la búsqueda de la vida ermitaña por parte de los literatos posteriores.",
+        "ar": "في قصيدة 'البحث عن المتنسك في الجبل الغربي دون الوصول إليه'، يصف الشاعر رحلته الفاشلة للعثور على متنسك، معربًا عن رغبته في الحياة النسكية واعجابه بالجمال الطبيعي. يركز الموضوع الرئيسي على السعي نحو السلام الروحي والابتعاد عن العالم. من حيث الأسلوب الكتابي، يستخدم الشاعر وصفًا دقيقًا للمناظر الطبيعية ولغة موجزة لخلق جو هادئ وبعيد. فنيًا، يحقق الشعر قيمة فنية عالية بأسلوبه البسيط والطبيعي. في تحليل العواطف، يعبر الشاعر عن خليط من الإحباط، والغيرة من حياة المتنسك، والنشوة بجمال الطبيعة. من حيث التأثير، يعتبر هذا الشعر كواحدة من روائع الشعر الطبيعي في عهد التانغ، ولديه تأثير عميق على السعي للحياة النسكية من قبل الكتاب اللاحقين."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "山顶有一间茅屋，直上三十里山路。\n敲门不见僮仆，窥视室内只有案几。\n如果不是驾着柴车，就应该在垂钓秋水。\n错过了未能相见，努力仰望也徒然。\n草色在新鲜雨中，松声在晚窗里。\n此时此景契合幽静，足以荡涤心耳。\n虽无宾主之情，却颇得清净之理。\n兴尽才下山，何必等待此人。",
+            "en": "On the peak stands a thatched hut, a thirty-mile climb straight up.\nKnocking at the gate, no servant in sight, peering in, only a desk.\nUnless he's driving a woodcart, he must be fishing by the autumn waters.\nMissed each other, unable to meet, striving in vain to gaze upward.\nGrass fresh in the rain, pine sounds by the evening window.\nIn this seclusion, a perfect match, enough to cleanse the heart and ears.\nThough no host-guest rapport, yet grasping the essence of tranquility.\nReturning downhill when兴致 wanes, why wait for this man?",
+            "ja": "頂上に一つの茅屋、三十里の道を直登る。\n門を叩いても童仆なし、室内をのぞくと机のみ。\nもしこれが薪車なら、秋水に釣りしているべきだ。\nすれ違いに会えず、努力も空の仰ぎ見。\n新雨の中の草色、晩窓の松の音。\nこの幽絶に心打たれ、十分に心耳を洗う。\n賓主の意はなくとも、清浄の理を得る。\n興が尽きて下山、なぜ彼を待つ必要がある。",
+            "es": "En la cima hay una cabaña de paja, un ascenso de treinta li.\nAl golpear la puerta, no hay criado, mirando dentro, solo un escritorio.\nA menos que esté en un carro de leña, debe estar pescando en las aguas de otoño.\nNos perdimos sin vernos, esforzándonos en vano para mirar hacia arriba.\nEl color de la hierba en la nueva lluvia, el sonido de los pinos en la ventana de la tarde.\nEn esta soledad perfecta, suficiente para purificar el corazón y los oídos.\nAunque no haya relación entre huésped y anfitrión, se obtiene la esencia de la pureza.\nBajando la montaña cuando el interés se agota, ¿por qué esperar a este hombre?",
+            "ar": "على القمة تقف كوخ من القش، صعوداً ثلاثين لي.\nعندما أقرع الباب لا خادم، أسترق النظر لأجد فقط مكتب.\nإذا لم يكن يقود عربة الحطب، يجب أن يكون يصطاد في مياه الخريف.\nتفوتنا الفرصة للقاء، نسعى في vão للنظر لأعلى.\nلون العشب في المطر الجديد، صوت الصنوبر في نافذة المساء.\nفي هذا الانعزال المثالي، يكفي لتنقية القلب والأذن.\nعلى الرغم من عدم وجود تفاهم بين الضيف وال مضيف، نكتسب جوهر الطمأنينة.\nنزول الجبل عندما تنقضي الشغف، لماذا الانتظار لهذا الرجل؟"
+        },
+        "title_translation": {
+            "zh": "寻西山隐者不遇",
+            "en": "Searching for the Hermit in the Western Hills but Not Finding Him",
+            "ja": "西山の隠者を尋ねて不遇",
+            "es": "Buscando al Ermitaño en las Montañas del Oeste sin Encontrarlo",
+            "ar": "البحث عن المتنسك في الجبال الغربية دون العثور عليه"
+        }
+    },
+    "genre": {
+        "name": "五言古诗",
+        "code": "wu_yan_gu_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "绝顶一茅茨，直上三十里。\n扣关无僮仆，窥室唯案几。\n若非巾柴车，应是钓秋水。\n差池不相见，黾勉空仰止。\n草色新雨中，松声晚窗里。\n及兹契幽绝，自足荡心耳。\n虽无宾主意，颇得清净理。\n兴尽方下山，何必待之子。",
+    "title_pinyin": "xún xī shān yǐn zhě bù yù",
+    "pinyin": "jué dǐng yī máo cí，zhí shàng sān shí lǐ。\nkòu guān wú tóng pū，kuī shì wéi àn jǐ。\nruò fēi jīn chái chē，yīng shì diào qiū shuǐ。\nchà chí bù xiāng jiàn，mǐn miǎn kōng yǎng zhǐ。\ncǎo sè xīn yǔ zhōng，sōng shēng wǎn chuāng lǐ。\njí zī qì yōu jué，zì zú dàng xīn ěr。\nsuī wú bīn zhǔ yì，pǒ dé qīng jìng lǐ。\nxīng jǐn fāng xià shān，hé bì dài zhī zi。"
+}

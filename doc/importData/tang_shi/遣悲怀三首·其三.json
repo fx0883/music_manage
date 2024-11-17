@@ -1,0 +1,57 @@
+{
+    "title": "遣悲怀三首·其三",
+    "difficulty": 2,
+    "author": {
+        "name": "元稹",
+        "name_pinyin": "yuán zhěn",
+        "image": "元稹.jpg",
+        "introduction": {
+            "zh": "元稹，字微之，唐代著名诗人、文学家，与白居易并称“元白”，是新乐府运动的倡导者之一。他的诗作内容广泛，风格多样，尤其擅长写悼亡诗，情感真挚，语言朴实。代表作有《遣悲怀三首》、《离思五首》等。",
+            "en": "Yuan Zhen, styled Weizhi, was a renowned poet and litterateur of the Tang Dynasty, often mentioned alongside Bai Juyi as 'Yuan Bai'. He was one of the initiators of the New Yuefu Movement. His poetic works cover a wide range of themes and styles, particularly excelling in elegiac poetry, known for their sincere emotions and plain language. His notable works include 'Three Poems of Consoling Grief' and 'Five Poems of Parting Thoughts'.",
+            "ja": "元稹（げんちん）、字は微之、唐代の著名な詩人・文学者で、白居易と並んで「元白」と称される。新楽府運動の提唱者の一人である。詩作は内容が広範で、スタイルも多様であり、特に弔詩に長けており、感情が真挚で、言葉遣いが質朴である。代表作に「遣悲懐三首」、「離思五首」などがある。",
+            "es": "Yuan Zhen, cuyo nombre de cortesía era Weizhi, fue un destacado poeta y literato de la dinastía Tang, mencionado a menudo junto a Bai Juyi como 'Yuan Bai'. Fue uno de los impulsores del Movimiento de la Nueva Música Folclórica. Sus obras poéticas abarcan una amplia gama de temas y estilos, destacándose especialmente en la poesía elegíaca, conocida por sus emociones sinceras y un lenguaje sencillo. Entre sus obras más destacadas se encuentran 'Tres Poemas de Consuelo por la Tristeza' y 'Cinco Poemas de Pensamientos de Despedida'.",
+            "ar": "يوان تشين، واسمه الشهير ويزي، كان شاعرًا ومفكرًا بارزًا في عهد أسرة تانغ، وغالبًا ما يُذكر جنبًا إلى جنب مع باي جويي كـ 'يوان باي'. كان واحدًا من دعاة حركة الموسيقى الشعبية الجديدة. تتنوع موضوعات وأساليب أشعاره، ويتفوق بشكل خاص في كتابة الشعر الرثائي، المعروف بمشاعره الصادقة ولغته البسيطة. من بين أعماله البارزة 'ثلاثة قصائد لتخفيف الحزن' و'خمس قصائد لمفكرات الوداع'."
+        }
+    },
+    "annotations": {
+        "zh": "闲坐：闲暇时静坐。悲君：为逝去的妻子悲伤。自悲：为自己悲伤。百年：指人的一生。几多时：多少时间。邓攸：晋代人，因战乱失去儿子。寻知命：认识到命运的安排。潘岳：晋代文学家，以悼念亡妻的《悼亡诗》闻名。悼亡：悼念亡妻。犹费词：徒然浪费言辞。同穴：指夫妻合葬。窅冥：深远幽暗。何所望：还有什么指望。他生：来生。缘会：因缘相会。更难期：更难以期待。惟将：只能用。终夜：整夜。常开眼：指失眠。报答：回报。平生：生前。未展眉：指妻子生前未曾舒展眉头，即生活艰辛。",
+        "en": "Xianzuo: sitting idly. Beijun: grieving for the deceased wife. Zibei: grieving for oneself. Bainian: a lifetime. Jiduoshi: how much time. Deng You: a figure from the Jin Dynasty who lost his son during wartime. Xun Zhi Ming: recognizing the arrangement of fate. Pan Yue: a Jin Dynasty literary figure famous for his 'Lament for My Deceased Wife.' Daowang: mourning for the deceased wife. You Fei Ci: wasting words in vain. Tongxue: joint burial of husband and wife. Yaoming: deep and dark. He Suo Wang: what hope is there. Tasheng: the next life. Yuanhui: meeting by fate. Geng Nan Qi: even harder to expect. Wei Jiang: can only use. Zhongye: all night. Chang Kai Yan: referring to insomnia. Baoda: repay. Pingsheng: during one's lifetime. Wei Zhan Mei: the wife never smiled, indicating a hard life.",
+        "ja": "閑坐：暇な時に座ること。悲君：亡き妻を悲しむこと。自悲：自分自身を悲しむこと。百年：人間の一生。幾多時：どれだけの時間。鄧攸：晋代の人で、戦乱で息子を失った。尋知命：運命の安排を認識すること。潘岳：晋代の文学者で、『亡き妻を弔う詩』で知られる。悼亡：亡き妻を弔うこと。猶費詞：無駄に言葉を使うこと。同穴：夫婦が一緒に埋葬されること。窅冥：深く暗い。何所望：何を望むことか。他生：来世。縁会：因縁で会うこと。更難期：更に期待が難しいこと。惟将：ただを使うこと。終夜：一晩中。常開眼：不眠を意味する。報答：恩返し。平生：生前。未展眉：妻が生前に眉をひらかなかったこと、つまり生活が困難だったことを示す。",
+        "es": "Xianzuo: sentarse ociosamente. Beijun: sentir pena por la esposa fallecida. Zibei: sentir pena por uno mismo. Bainian: la vida de una persona. Jiduoshi: cuánto tiempo. Deng You: un personaje de la dinastía Jin que perdió a su hijo durante la guerra. Xun Zhi Ming: reconocer el designio del destino. Pan Yue: un literato de la dinastía Jin famoso por su 'Elegía por mi esposa fallecida'. Daowang: lamentar a la esposa fallecida. You Fei Ci: gastar palabras en vano. Tongxue: entierro conjunto de marido y mujer. Yaoming: profundo y oscuro. He Suo Wang: ¿qué esperanza hay? Tasheng: la próxima vida. Yuanhui: encuentro por destino. Geng Nan Qi: aún más difícil de esperar. Wei Jiang: solo poder usar. Zhongye: toda la noche. Chang Kai Yan: referirse a insomnio. Baoda: recompensar. Pingsheng: durante la vida. Wei Zhan Mei: la esposa nunca sonrió, indicando una vida difícil.",
+        "ar": "الجلوس بلا عمل: الجلوس في وقت الفراغ. الحزن عليك: الحزن على الزوجة المتوفاة. الحزن على النفس: الحزن على الذات. المئة سنة: حياة الإنسان. كم من الوقت: ما مقدار الوقت. دنغ يو: شخصية من عهد جين فقد ابنه أثناء الحرب. البحث عن علم المصير: الاعتراف بترتيب القدر. بن يوي: كاتب من عهد جين معروف بـ 'threnody لزوجتي المتوفاة'. الحداد على الميت: الحداد على الزوجة المتوفاة. لا يزال يهدر الكلمات: إهدار الكلمات عبثاً. نفس القبر: دفن الزوج والزوجة معاً. الظلام العميق: العمق والظلام. ماذا نتوقع: ما هو الأمل؟ الحياة الأخرى: الحياة القادمة. اجتماع القدر: الاجتماع بسبب القدر. أكثر صعوبة في الانتظار: أكثر صعوبة في التوقع. فقط سأستخدم: يمكن استخدامها فقط. الليل كله: طوال الليل. عين مفتوحة باستمرار: يشير إلى الأرق. الرد: الرد. الحياة: خلال الحياة. لم تبتسم: لم تبتسم الزوجة أبدًا، مما يشير إلى حياة صعبة."
+    },
+    "appreciations": {
+        "zh": "《遣悲怀三首·其三》是元稹为悼念亡妻韦丛而作，表达了对逝去爱人的深切怀念和无尽哀思。主题思想是人生短暂，命运无常，以及对亡妻的深情悼念。写作特色上，诗人运用对比、典故等手法，将个人悲情与历史人物相映衬，增强了作品的感染力。艺术成就方面，此诗情感真挚，语言质朴，结构严谨，堪称悼亡诗中的佳作。情感分析上，诗人抒发了对亡妻的深切思念和对命运无奈的感慨。影响意义上，此诗在文学史上具有重要地位，对后世悼亡诗的创作产生了深远影响。",
+        "en": "The poem 'Lamenting My Sorrows: Part Three' by Yuan Zhen is a heartfelt tribute to his deceased wife, Wei Cong, expressing profound grief and endless sorrow. The central theme revolves around the brevity of life and the unpredictability of fate, coupled with deep mourning for his wife. In terms of writing style, the poet employs contrasts and historical allusions to enhance the emotional impact. Artistically, the poem is noted for its sincere emotions, plain language, and tight structure, making it a masterpiece among lamentation poems. Emotionally, it conveys deep longing for his wife and a sense of helplessness towards fate. Historically, this poem holds a significant place in literary history, influencing subsequent generations of lamentation poetry.",
+        "ja": "《遣悲怀三首·其三》は元稹が亡き妻の韋叢を悼んで作った詩で、深い哀悼と無限の悲しみを表現しています。主題思想は人生の短さと運命の不確実性、そして亡き妻への深い追悼です。表現手法としては、対比や典故を用いて、個人的な悲しみと歴史上の人物を照らし合わせ、作品の感染力を高めています。芸術的成果としては、感情が真挚で、言葉が質素、構成が厳密であり、弔詩の中でも傑作とされています。感情分析では、亡き妻への深い思い出と運命への無力感が抒発されています。影響意義としては、文学史上重要な地位を占め、後世の弔詩創作に深い影響を与えました。",
+        "es": "El poema 'Desahogo de Tristezas Tres: Tercero' de Yuan Zhen es un homenaje conmovedor a su difunta esposa, Wei Cong, expresando un profundo dolor y una pena interminable. El tema central gira en torno a la brevedad de la vida y la incertidumbre del destino, junto con un profundo lamento por su esposa. En cuanto al estilo de escritura, el poeta utiliza contrastes y alusiones históricas para intensificar el impacto emocional. Artísticamente, el poema se destaca por sus emociones sinceras, lenguaje sencillo y estructura ajustada, siendo una obra maestra entre los poemas de luto. Emocionalmente, transmite un profundo anhelo por su esposa y una sensación de impotencia ante el destino. Históricamente, este poema ocupa un lugar significativo en la historia literaria, influyendo en la creación de poesía fúnebre en generaciones posteriores.",
+        "ar": "القصيدة 'تخفيف الحزن الثلاثية: الجزء الثالث' للشاعر يوان زهن هي تكريم مؤثر لزوجته الراحلة وي كونغ، تعبر عن حزن عميق وآسف لا ينتهي. الفكرة الرئيسية تدور حول قصر الحياة وعدم يقين القدر، مصحوبة بالحداد العميق على زوجته. من حيث الأسلوب الكتابي، يستخدم الشاعر المقارنات والتلميحات التاريخية لتعزيز التأثير العاطفي. فنياً، تتميز القصيدة بمشاعر صادقة ولغة بسيطة وهيكل محكم، مما يجعلها تحفة بين قصائد الحداد. عاطفياً، تتحدث عن الرغبة العميقة في زوجته والشعور بالعجز أمام القدر. تاريخياً، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، مؤثرة في إنشاء قصائد العزاء للأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "闲坐时悲叹你亦自叹，百年人生能有多少时光。邓攸无子终于认命，潘岳悼亡妻仍费词章。同葬一穴幽冥中能有何望，来生再遇更是难期。唯有长夜不眠，以报答你平生未展的愁眉。",
+            "en": "Sitting idle, I mourn for you and for myself, for how long can a century last? Deng You, childless, accepts his fate, Pan Yue's lament for his wife still wastes words. In the same grave, deep in darkness, what hope can there be? Meeting again in another life is even harder to expect. Only by keeping my eyes open all night, can I repay your lifelong unsmiling brows.",
+            "ja": "暇な座り、君を悲しんで自分も悲しむ、百年の人生はどれほどの時間か。鄧攸は子なしで運命を受け入れる、潘岳は亡き妻を弔い言葉を費やす。同じ墓に葬られ暗闇の中で何を望むか、来世で再会するのは更に難しい。ただ夜通し目を開けて、君の生涯の眉をひそめさせた恩に報いる。",
+            "es": "Sentado en calma, lamento por ti y por mí, ¿cuánto tiempo dura un siglo? Deng You, sin hijos, acepta su destino, Pan Yue lamenta a su esposa y aún desperdicia palabras. En la misma tumba, en la oscuridad profunda, ¿qué esperanza hay? Reencontrarnos en otra vida es aún más difícil de esperar. Solo manteniendo los ojos abiertos toda la noche, puedo recompensar tus cejas fruncidas en vida.",
+            "ar": "جالسًا بلا عمل، أحزن عليك وأحزن على نفسي، فكم من الوقت يمكن أن يستمر قرن؟ دنغ يو بلا أبناء يرضى بحياته، بن يوي ي оплакивает свою жену ويضيع الكلمات. في نفس القبر، في الظلام العميق، ماذا يمكن أن نأمل؟ اللقاء في حياة أخرى أمر أكثر صعوبة في التوقع. فقط بفتح عيني طوال الليل، يمكنني أن أرد لك تجهم وجهك طوال حياتك."
+        },
+        "title_translation": {
+            "zh": "遣悲怀三首·其三",
+            "en": "Lamenting Grief, Part Three",
+            "ja": "悲しみを遣る三首・其三",
+            "es": "Desahogo de la Tristeza, Tercera Parte",
+            "ar": "تخفيف الحزن، الجزء الثالث"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "闲坐悲君亦自悲，百年都是几多时。\n邓攸无子寻知命，潘岳悼亡犹费词。\n同穴窅冥何所望，他生缘会更难期。\n惟将终夜常开眼，报答平生未展眉。",
+    "title_pinyin": "qiǎn bēi huái sān shǒu·qí sān",
+    "pinyin": "xián zuò bēi jūn yì zì bēi，bǎi nián dōu shì jǐ duō shí。\ndèng yōu wú zi xún zhī mìng，pān yuè dào wáng yóu fèi cí。\ntóng xué yǎo míng hé suǒ wàng，tā shēng yuán huì gèng nán qī。\nwéi jiāng zhōng yè cháng kāi yǎn，bào dá píng shēng wèi zhǎn méi。"
+}

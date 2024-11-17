@@ -1,0 +1,57 @@
+{
+    "title": "利州南渡",
+    "difficulty": 2,
+    "author": {
+        "name": "温庭筠",
+        "name_pinyin": "wēn tíng yún",
+        "image": "温庭筠.jpg",
+        "introduction": {
+            "zh": "温庭筠，唐代著名诗人、词人，字飞卿，太原祁县（今属山西）人。他精通音律，工于诗词，尤其擅长写婉约词，风格清新脱俗，被誉为“花间派”的代表人物之一。其诗多写山水田园，情感细腻，语言优美。代表作有《商山早行》、《菩萨蛮》等。",
+            "en": "Wen Tingyun was a renowned poet and lyricist of the Tang Dynasty, styled Feiqing, from Taiyuan, Qixian (now part of Shanxi Province). He excelled in music and was adept at both poetry and lyrics, particularly known for his elegant and refined style in writing ci poetry, earning him the title of one of the leading figures of the 'Flower and Willow School'. His poems often depict landscapes and pastoral scenes, characterized by delicate emotions and beautiful language. Notable works include 'Early Journey in Shang Mountain' and 'Bodhisattva Mantra'.",
+            "ja": "温庭筠は、唐代の著名な詩人であり詞人であり、字は飛卿、太原祁県（現在の山西省に属する）の人です。音楽に精通し、詩詞に巧みで、特に婉約詞の作成に長け、清新脱俗なスタイルで「花間派」の代表的人物とされています。彼の詩は山水田園を多く描き、情感が繊細で、言葉が美しいです。代表作には「商山早行」、「菩薩蛮」などがあります。",
+            "es": "Wen Tingyun fue un destacado poeta y letrista de la dinastía Tang, conocido por su seudónimo Feiqing, originario de Taiyuan, Qixian (actualmente en la provincia de Shanxi). Era experto en música y destacaba tanto en poesía como en letras, especialmente en la escritura de poesía ci con un estilo elegante y refinado, siendo considerado uno de los principales representantes de la 'Escuela de Flores y sauces'. Sus poemas a menudo retratan paisajes y escenas campestres, caracterizados por emociones delicadas y un lenguaje hermoso. Entre sus obras destacadas se encuentran 'Viaje Temprano en la Montaña Shang' y 'Mantra de Boddhisattva'.",
+            "ar": "ون تينغ يون كان شاعرًا وكاتبًا للأغاني شهيرًا في عهد التانغ، يُعرف بلقبه في قينغ، من تايوان، قيكسيان (الآن جزء من مقاطعة شانشي). كان بارعًا في الموسيقى وماهرًا في كتابة الشعر والأغاني، خاصة في كتابة الأغاني ذات الأسلوب الأنيق والراقي، مما أهله ليكون أحد الشخصيات البارزة في 'مدرسة الزهور والسواك'. غالبًا ما تصور قصائده المناظر الطبيعية والمناظر الريفية، معتمدة على المشاعر الرقيقة واللغة الجميلة. من بين أعماله البارزة 'الرحيل المبكر في جبل شانغ' و 'تعويذة البودhisattva'."
+        }
+    },
+    "annotations": {
+        "zh": "澹然：平静的样子。空水：空阔的水面。斜晖：斜射的阳光。曲岛：弯曲的岛屿。翠微：青翠的山色。棹：船桨，这里指船。沙草：沙滩上的草。群鸥：成群的海鸥。江田：江边的田地。范蠡：春秋时期越国大夫，助越王勾践灭吴后隐居江湖。五湖：泛指太湖一带的湖泊。忘机：忘却世俗机心。本诗描绘了傍晚时分在利州南渡的景象，表达了诗人向往隐逸生活的情怀。",
+        "en": "Dran (澹然): calmly. Kongshui (空水): open water surface. Xiehui (斜晖): slanting sunlight. Qudao (曲岛): curved island. Cuiwei (翠微): greenish mountain hue. Zhao (棹): oar, here referring to a boat. Shacao (沙草): grass on the sand. Qunou (群鸥): a flock of seagulls. Jiangtian (江田): fields by the river. Fanli (范蠡): a statesman of the Spring and Autumn period who helped the king of Yue defeat Wu and then retired to the rivers and lakes. Wu Hu (五湖): generally referring to the lakes around Taihu. Wangji (忘机): forgetting worldly cunning. The poem depicts the scene of crossing south of Lizhou at dusk, expressing the poet's longing for a reclusive life.",
+        "ja": "たんぜん（澹然）: 静かな様子。くうすい（空水）: 広々とした水面。しゃき（斜晖）: 斜めに射す日光。きょくとう（曲岛）: 曲がった島。すいび（翠微）: 青緑色の山の色。ちょう（棹）: 船の櫂、ここでは船を指す。さそう（沙草）: 砂浜の草。ぐんおう（群鸥）: 群れのカモメ。こうでん（江田）: 川辺の田んぼ。はんり（范蠡）: 春秋時代の越の大夫で、越王勾践を助けて呉を滅ぼした後、江湖に隠れた。ごこ（五湖）: 太湖周辺の湖を指す。ぼうき（忘機）: 世俗の機微を忘れること。この詩は、利州の南で夕暮れ時に渡る情景を描き、詩人が隠遁生活を望む心情を表している。",
+        "es": "Dran (澹然): tranquilamente. Kongshui (空水): superficie de agua abierta. Xiehui (斜晖): luz solar inclinada. Qudao (曲岛): isla curvada. Cuiwei (翠微): tono verde de la montaña. Zhao (棹): remo, aquí se refiere a un barco. Shacao (沙草): hierba en la arena. Qunou (群鸥): bandada de gaviotas. Jiangtian (江田): campos junto al río. Fanli (范蠡): un estadista de la época de Primavera y Otoño que ayudó al rey de Yue a derrotar a Wu y luego se retiró a los ríos y lagos. Wu Hu (五湖): se refiere generalmente a los lagos alrededor del lago Taihu. Wangji (忘机): olvidar las maquinaciones mundanas. El poema describe la escena de cruzar al sur de Lizhou al atardecer, expresando el deseo del poeta por una vida retirada.",
+        "ar": "Dran (澹然): بهدوء. Kongshui (空水): سطح مائي مفتوح. Xiehui (斜晖): ضوء الشمس المائل. Qudao (曲岛): جزيرة منحنية. Cuiwei (翠微): لون الجبل الأخضر. Zhao (棹): مجذاف، هنا يشير إلى قارب. Shacao (沙草): عشب على الرمل. Qunou (群鸥): قطيع من النورس. Jiangtian (江田): حقول بجانب النهر. Fanli (范蠡): وزير في فترة الربيع والخريف ساعد ملك يويه في هزيمة وو ثم اعتزل إلى الأنهار والبحيرات. Wu Hu (五湖): يشير عادة إلى البحيرات حول بحيرة تايهو. Wangji (忘机): نسيان الحيل الدنيوية. القصيدة تصف مشهد العبور جنوب Lizhou عند غروب الشمس، تعبر عن رغبة الشاعر في حياة منعزلة."
+    },
+    "appreciations": {
+        "zh": "《利州南渡》描绘了一幅宁静而悠远的江景图，表达了诗人对隐逸生活的向往和对尘世纷扰的厌倦。主题思想是追求心灵的宁静与自由。写作特色上，诗人运用了丰富的意象和细腻的描写，如“曲岛苍茫接翠微”、“万顷江田一鹭飞”等，营造出一种淡远清幽的意境。艺术成就方面，此诗以简洁的语言和深邃的意境，展现了唐代山水诗的独特魅力。情感分析上，诗人通过对自然景色的描绘，抒发了对隐居生活的渴望和对世俗纷争的摒弃。影响意义上，这首诗在唐代山水诗中占有重要地位，对后世文人追求隐逸思想产生了深远影响。",
+        "en": "The poem 'Lizhou South Crossing' paints a serene and distant riverscape, expressing the poet's longing for a reclusive life and his weariness of worldly troubles. The main theme is the pursuit of inner peace and freedom. In terms of writing style, the poet employs rich imagery and delicate descriptions, such as 'Curved islands blend with the misty green' and 'A lone egret flies over the vast river fields', creating a tranquil and profound atmosphere. Artistically, the poem showcases the unique charm of Tang Dynasty landscape poetry through its concise language and deep意境. Emotionally, the poet conveys his desire for seclusion and his rejection of worldly strife through the depiction of natural scenery. In terms of influence, this poem holds a significant place in Tang Dynasty landscape poetry and has had a profound impact on later literati's pursuit of reclusive ideals.",
+        "ja": "《利州南渡》は静かで遠い川の風景を描き、詩人が隠遁生活への憧れと世俗の煩悩への倦怠を表現しています。主題思想は心の平穏と自由の追求です。表現手法としては、詩人は豊かなイメージと繊細な描写を駆使し、「曲島蒼茫接翠微」、「万頃江田一鷺飛」などの句で淡遠で清幽な境地を創り出しています。芸術的成果としては、簡潔な言葉と深い意境で唐代山水詩の独特な魅力を示しています。感情分析では、自然景色的描写を通じて隠居生活への渇望と世俗の争いからの離脱を抒発しています。影響の意味では、この詩は唐代山水詩において重要な地位を占め、後世の文人の隠逸思想追求に深い影響を与えました。",
+        "es": "El poema 'Travesía Sur de Lizhou' pinta un paisaje fluvial sereno y distante, expresando el anhelo del poeta por una vida retirada y su cansancio de las preocupaciones mundanas. El tema principal es la búsqueda de la paz interior y la libertad. En cuanto a la técnica literaria, el poeta utiliza ricos recursos imaginativos y descripciones detalladas, como 'Islas curvas se mezclan con el verde brumoso' y 'Un solitario egret vuela sobre los vastos campos fluviales', creando una atmósfera tranquila y profunda. Artísticamente, el poema muestra el encanto único de la poesía paisajística de la dinastía Tang a través de un lenguaje conciso y un profundo ambiente. En el análisis emocional, el poeta expresa su deseo de reclusión y su rechazo a las disputas mundanas a través de la descripción del paisaje natural. En términos de influencia, este poema ocupa un lugar importante en la poesía paisajística de la dinastía Tang y ha tenido un impacto profundo en la búsqueda de ideales de reclusión por parte de los literatos posteriores.",
+        "ar": "القصيدة 'عبور ليزهو الجنوبي' ترسم منظرًا نهريًا هادئًا وبعيدًا، تعبر عن رغبة الشاعر في حياة منعزلة وملله من متاعب العالم. الفكرة الرئيسية هي البحث عن السلام الداخلي والحرية. من حيث الأسلوب الأدبي، يستخدم الشاعر صورًا غنية وتعابير دقيقة، مثل 'الجزر المنحنية تختلط بالأخضر الضبابي' و'النورس الوحيد يطير فوق الحقول النهرية الشاسعة'، مما يخلق جوًا هادئًا وعميقًا. من الناحية الفنية، تظهر القصيدة الجاذبية الفريدة للشعر الطبيعي في عهد التانغ من خلال لغة موجزة وبيئة عميقة. في تحليل العواطف، يعبر الشاعر عن رغبته في العزلة ورفضه للنزاعات الدنيوية من خلال وصفه للمناظر الطبيعية. من حيث التأثير، تحتل هذه القصيدة مكانًا مهمًا في الشعر الطبيعي لعهد التانغ ولها تأثير عميق على البحث عن مثاليات العزلة من قبل الأدباء اللاحقين."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "宁静的江水对着斜阳，弯曲的岛屿苍茫连着青翠的山峦。\n水波上的马嘶声伴随着船棹远去，柳树边的人们歇息等待船只归来。\n几丛沙草间群鸥四散，万顷江田上孤鹭飞翔。\n谁又能理解乘舟追寻范蠡的情怀，五湖烟波中独自忘却机心。",
+            "en": "The tranquil river faces the slanting sunlight, the winding islet merges into the misty green hills.\nHorses neigh on the waves as boats row away, people rest by the willows awaiting the ship's return.\nA cluster of sand grass scatters the gulls, a lone egret soars over the vast river fields.\nWho can comprehend the quest to follow Fan Li, forgetting worldly cares amid the misty waters of the five lakes?",
+            "ja": "静かな川面が斜陽に向かい、曲がりくねった島が茫々と青翠の山に続く。\n波の上で馬が嘶き、櫂を眺めながら去り、柳のそばで人々が休み船の帰りを待つ。\n数叢の砂草の間に群がる鴎が散り、万頃の Jiang 田に一羽のサギが飛ぶ。\n誰が舟に乗って范蠡を探し求める心を理解するのか、五湖の煙波に独り機を忘れる。",
+            "es": "El agua tranquila se enfrenta al sol poniente, la isla curva se funde con el verde neblinoso.\nCaballos relinchan sobre las olas mientras las remos se alejan, gente descansa junto a sauces esperando el regreso del barco.\nUnos juncos de arena dispersan a los gaviotas, un solitario cormorán vuela sobre las extensas tierras del río.\n¿Quién puede entender la búsqueda en barco de Fan Li, olvidando el mundo entre las aguas brumosas de los cinco lagos?",
+            "ar": "الماء الهادئ يواجه الشمس المائلة، الجزيرة المنحنية تتواصل مع الجبال الخضراء الضبابية.\nالخيول ترحل فوق الأمواج بينما تتجه الزوارق، الناس يستريحون بجانب الأشجار في انتظار عودة القارب.\nبضع مجموعات من الحشائش الرملية تفرق الغربان، طائر البجعة الوحيد يطير فوق حقول النهر الواسعة.\nمن يمكنه فهم البحث عن فان لي على متن القارب، ناسيًا العالم بين مياه الخمس البحيرات الضبابية؟"
+        },
+        "title_translation": {
+            "zh": "利州南渡",
+            "en": "Crossing South of Lizhou",
+            "ja": "利州南渡",
+            "es": "Travesía al Sur de Lizhou",
+            "ar": "العبور جنوب Lizhou"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "澹然空水对斜晖，曲岛苍茫接翠微。\n波上马嘶看棹去，柳边人歇待船归。\n数丛沙草群鸥散，万顷江田一鹭飞。\n谁解乘舟寻范蠡，五湖烟水独忘机。",
+    "title_pinyin": "lì zhōu nán dù",
+    "pinyin": "dàn rán kōng shuǐ duì xié huī，qū dǎo cāng máng jiē cuì wēi。\nbō shàng mǎ sī kàn zhào qù，liǔ biān rén xiē dài chuán guī。\nshù cóng shā cǎo qún ōu sàn，wàn qǐng jiāng tián yī lù fēi。\nshuí jiě chéng zhōu xún fàn lí，wǔ hú yān shuǐ dú wàng jī。"
+}

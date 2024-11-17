@@ -1,0 +1,57 @@
+{
+    "title": "蝉",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，唐代著名诗人，字义山，号玉谿生，怀州河内（今河南沁阳）人。他擅长诗歌创作，尤以无题诗著称，风格深情绵邈，语言精工富丽，被后人誉为“诗魂”。李商隐的诗歌内容广泛，既有对个人命运的感慨，也有对时政的隐晦批评，反映了晚唐社会的复杂面貌。他的作品对后世影响深远，是唐代诗歌的重要代表。",
+            "en": "Li Shangyin was a renowned poet of the Tang Dynasty, styled Yishan and also known as Yuxi Sheng, from Henei in Huai Prefecture (present-day Qinyang, Henan). He excelled in poetry, particularly famous for his untitled poems, which are characterized by deep emotions, intricate language, and rich imagery, earning him the title 'Poetic Soul'. His poetry covers a wide range of themes, from personal reflections on fate to veiled criticisms of contemporary politics, reflecting the complex social landscape of the late Tang Dynasty. His works have had a profound influence on later generations and are considered a significant part of Tang poetry.",
+            "ja": "李商隐は唐代の著名な詩人で、字は義山、号は玉谿生、懐州河内（現在の河南省沁陽市）出身。詩作に優れ、特に題名のない詩で知られ、情深く、言葉が精巧で豊かで、後世の人々に「詩魂」と称賛された。彼の詩は内容が広範で、個人の運命に対する感慨や時政に対する隠微な批判を含み、晩唐社会の複雑な面貌を反映している。彼の作品は後世に大きな影響を与え、唐代詩歌の重要な代表である。",
+            "es": "Li Shangyin fue un destacado poeta de la dinastía Tang, conocido por su estilo Yishan y su seudónimo Yuxi Sheng, originario de Henei en la prefectura de Huai (actualmente Qinyang, Henan). Destacó en la creación poética, especialmente en poemas sin título, que se caracterizan por su profunda emotividad, lenguaje elaborado y rica imaginería, siendo aclamado como el 'Alma Poética'. Sus poemas abarcan una amplia gama de temas, desde reflexiones personales sobre el destino hasta críticas veladas de la política contemporánea, reflejando la compleja situación social de finales de la dinastía Tang. Sus obras han tenido una influencia profunda en generaciones posteriores y son consideradas una parte importante de la poesía Tang.",
+            "ar": "لي شانغ ين كان شاعرًا مشهورًا في عهد التانغ، يُعرف بلقب يي شان ويُعرف أيضًا بيويشي شينغ، من هيني في مقاطعة هواي (حاليًا قينيانغ، هينان). برع في كتابة الشعر، وخاصة في القصائد غير المعنونة، التي تتميز بمشاعر عميقة، ولغة معقدة، وصور غنية، مما جعله يُلقب بـ 'روح الشعر'. تغطي قصائده مجموعة واسعة من المواضيع، من التأملات الشخصية في القدر إلى الانتقادات الضمنية للسياسة المعاصرة، مما يعكس الوجه الاجتماعي المعقد للعصر الأخير من التانغ. أثرت أعماله بشكل كبير على الأجيال اللاحقة وتُعتبر جزءًا مهمًا من شعر التانغ."
+        }
+    },
+    "annotations": {
+        "zh": "本以高难饱：蝉栖于高树，难以觅食，故难饱。徒劳恨费声：蝉鸣声不断，却徒劳无功。五更疏欲断：五更时分，蝉鸣声稀疏，几近断绝。一树碧无情：尽管树色青翠，却对蝉的鸣叫无动于衷。薄宦梗犹泛：指自己官职低微，如浮萍般漂泊不定。故园芜已平：故乡的田园已经荒芜。烦君最相警：感谢蝉鸣提醒自己。我亦举家清：表示自己全家也如蝉一样清贫。",
+        "en": "The poem 'Cicada' by a Tang Dynasty poet reflects the struggles and sentiments of the cicada and parallels the poet's own life. 'High and hard to fill' refers to the cicada's lofty perch making it hard to find food. 'Futile恨and wasted voice' indicates the cicada's constant chirping is in vain. 'At the fifth watch, sparse and near to cease' describes the cicada's weakening chirps at dawn. 'A tree green, without feeling' shows the tree's indifference to the cicada's plight. 'A minor official, drifting like a reed' parallels the poet's own lowly and unstable position. 'Homeland overgrown and flattened' depicts the neglect of his ancestral home. 'Trouble you, most to alert me' expresses gratitude for the cicada's reminder. 'My whole family, also pure' reflects the poet's own poverty and integrity.",
+        "ja": "この詩「蝉」は、唐時代の詩人が蝉の苦悩と自分の人生を重ね合わせて描いたものです。「高くて満たされがたし」は蝉が高い木に住んで食糧を得にくいことを示す。「徒労に恨み声を費やす」は蝉の鳴き声が無駄であることを意味する。「五更に疎らで絶えんとす」は夜明け前の蝉の鳴き声が少なくなる様子を表す。「一本の樹は碧くも無情」は木が蝉の鳴き声に無関心であることを示す。「薄宦は茎の如く漂う」は詩人自身の低い地位と不安定な生活を比喩する。「故園は荒れ果てて平ら」は故郷の荒廃を描く。「君に煩わされ最も警かれん」は蝉の鳴き声が警鐘を鳴らすことを感謝する。「我もまた一家清し」は詩人自身の貧しさと清廉さを示す。",
+        "es": "El poema 'Cicada' de un poeta de la dinastía Tang refleja las luchas y sentimientos de la cigarra y paraleliza la vida del poeta. 'Alto y difícil de saciar' se refiere a la posición elevada de la cigarra que le dificulta encontrar comida. 'En vano odia y desperdicia su voz' indica que el canto constante de la cigarra es inútil. 'A la quinta guardia, escaso y casi interrumpido' describe cómo el canto de la cigarra se debilita al amanecer. 'Un árbol verde, sin sentimientos' muestra la indiferencia del árbol hacia la situación de la cigarra. 'Un funcionario menor, a la deriva como un junco' compara la posición baja e inestable del poeta. 'La patria yerma y nivelada' retrata el abandono de su hogar ancestral. 'Te molesto, para alertarme más' expresa gratitud por el recordatorio de la cigarra. 'Mi familia también es pura' refleja la pobreza e integridad del poeta.",
+        "ar": "القصيدة 'الصرصر' للشاعر في عهد التانغ تعكس معاناة الصرصر وأوجه الشبه بينها وبين حياة الشاعر. 'عالي وصعب الإشباع' يشير إلى أن الصرصر يعلو في الشجرة ويجد صعوبة في الحصول على الطعام. 'بلا فائدة يكره ويضيع صوته' يوضح أن تغريد الصرصر المستمر يذهب سدى. 'في الخامسة من الليل، نادر وقريب من الانقطاع' يصف تلاشي تغريد الصرصر عند الفجر. 'شجرة خضراء بلا مشاعر' تظهر عدم اكتراث الشجرة لمحنة الصرصر. 'موظف صغير، يطفو كالعود' يضاهي المركز المنخفض وغير المستقر للشاعر. 'الوطن ذابل ومسطح' يصور تدهور منزله الأصلي. 'أزعجك، لأني أحتاج إلى تنبيهك' يعبر عن الامتنان لتذكير الصرصر. 'أسرتي أيضاً نقية' يعكس فقر الشاعر ونزاهته."
+    },
+    "appreciations": {
+        "zh": "《蝉》这首诗以蝉为喻，表达了诗人对自身境遇的感慨和对清廉自守的坚持。主题思想是通过对蝉的描写，反映诗人仕途不畅、生活清贫的无奈与坚守。写作特色上，诗人运用了托物言志的手法，借蝉的鸣叫与树的冷漠，抒发自己的孤独与不被理解。艺术成就方面，诗中意象鲜明，对比强烈，语言简洁而意蕴深远，具有较高的艺术价值。情感分析上，诗人抒发了对现实的不满和对故园的思念，同时也表达了对清贫生活的自我认同。影响意义上，此诗在文学史上被视为唐代咏物诗的佳作，对后世文人产生了深远的影响。",
+        "en": "The poem 'Cicada' uses the cicada as a metaphor to express the poet's reflections on his own circumstances and his adherence to integrity. The main theme is to reflect the poet's frustration with his career and his impoverished life through the description of the cicada. In terms of writing features, the poet employs the technique of using objects to express his feelings, using the cicada's chirping and the tree's indifference to express his loneliness and lack of understanding. In terms of artistic achievement, the poem has vivid imagery, strong contrasts, and concise language with profound meaning, possessing high artistic value. Emotionally, the poet expresses dissatisfaction with reality and longing for his homeland, while also showing self-identification with a poor life. In terms of impact, this poem is regarded as a masterpiece of Tang Dynasty nature poetry in literary history, exerting a profound influence on later literati.",
+        "ja": "「蝉」这首詩は蝉を喻として、詩人が自身の境遇に対する感慨と清廉を守る姿勢を表現しています。主題思想は、蝉の描写を通じて、詩人の不遇な官途と貧しい生活に対する無念さと堅持を反映しています。表現手法としては、詩人は托物言志の技法を用い、蝉の鳴き声と木の無感情さを借りて、自身の孤独と理解されなさを抒発しています。芸術的成果としては、詩中の意象が鮮明で、対比が強烈、言語が簡潔でありながら意韻が深遠で、高い芸術価値を有しています。感情分析としては、詩人は現実への不満と故郷への思慕を抒発するとともに、貧しい生活に対する自己認同も表しています。影響の意味では、この詩は文学史上において唐代の詠物詩の傑作とされ、後世の文人に深い影響を与えました。",
+        "es": "El poema 'Cicada' utiliza la cigarra como metáfora para expresar las reflexiones del poeta sobre su propia situación y su adherencia a la integridad. El tema principal es reflejar la frustración del poeta con su carrera y su vida de pobreza a través de la descripción de la cigarra. En cuanto a las características de escritura, el poeta emplea la técnica de usar objetos para expresar sus sentimientos, utilizando el canto de la cigarra y la indiferencia del árbol para expresar su soledad y falta de comprensión. En términos de logro artístico, el poema tiene imágenes vívidas, contrastes fuertes y un lenguaje conciso con un significado profundo, poseyendo un alto valor artístico. Emocionalmente, el poeta expresa su insatisfacción con la realidad y su anhelo por su hogar, mientras también muestra una auto-identificación con una vida pobre. En términos de impacto, este poema es considerado una obra maestra de la poesía de la naturaleza de la dinastía Tang en la historia literaria, ejerciendo una profunda influencia en los literatos posteriores.",
+        "ar": "القصيدة 'الصرير' تستخدم الصرير كإستعارة للتعبير عن تأملات الشاعر حول وضعه الخاص والتزامه بالنزاهة. الفكرة الرئيسية هي عكس إحباط الشاعر من مساره الوظيفي وحياته الفقيرة من خلال وصف الصرير. فيما يتعلق بميزات الكتابة، يستخدم الشاعر تقنية استخدام الأشياء للتعبير عن مشاعره، مستخدماً تغريد الصرير وبرود الشجرة للتعبير عن وحدته وعدم فهمه. من حيث الإنجاز الفني، تحتوي القصيدة على صور حية، تباينات قوية ولغة موجزة ومعنى عميق، مما يمثل قيمة فنية عالية. من الناحية العاطفية، يعبر الشاعر عن عدم رضاه عن الواقع وتوقه لوطنه، ويعبر أيضًا عن الهوية الذاتية بحياة فقيرة. من حيث التأثير، تعتبر هذه القصيدة كواحدة من روائع الشعر الطبيعي في تاريخ الأدب في عهد التانغ، ولها تأثير عميق على الأدباء اللاحقين."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "原本因高栖难以饱食，徒然鸣叫怨恨声声。五更时分鸣声稀疏几近断绝，整树碧绿却无情无义。官职低微如浮萍般漂泊，故园荒芜已近平坦。感谢你最能警醒我，我也全家保持清贫。",
+            "en": "Hard to feed at such height, vainly抱怨 in fruitless cries. At the fifth watch, sparse and nearly ceasing, a tree lush and indifferent. A lowly official, drifting like a reed, my homeland overgrown and flat. Thank you for the stern reminder, for my family too remains pure and poor.",
+            "ja": "高い所に居て飽食が難し、むなしく恨みの声を上げる。五更になると鳴き声は疎らで絶えそうだ、一本の木は青々として無情だ。薄い官職に浮かぶが如く、故郷は荒れ果てて平らになっている。貴方の警告が最もありがたい、私も一家清貧を守っている。",
+            "es": "Difícil alimentarse tan alto, en vano lamentos en voces infecundas. A la quinta vigilia, sonidos escasos casi se cortan, un árbol verde y sin compasión. Un cargo menor, a la deriva como un junco, mi patria yerma y nivelada. Gracias por la advertencia más severa, mi familia también vive en pureza y pobreza.",
+            "ar": "قديمًا كان من الصعب الإشباع في الارتفاع العالي، جهودًا تذهب سدى في أصوات حاقدة. في وقت الفجر الخامس، الأصوات تتقطع وتصبح نادرة، شجرة خضراء بلا رحمة. وظيفة صغيرة تطفو كالعيدان، موطني قد أضحى خاليًا ومسطحًا. أشكرك على التحذير الأكثر جدية، عائلتي أيضًا تحافظ على النقاء والفقر."
+        },
+        "title_translation": {
+            "zh": "蝉",
+            "en": "Cicada",
+            "ja": "蝉",
+            "es": "Cicada",
+            "ar": "الصراصير"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "本以高难饱，徒劳恨费声。\n五更疏欲断，一树碧无情。\n薄宦梗犹泛，故园芜已平。\n烦君最相警，我亦举家清。",
+    "title_pinyin": "chán",
+    "pinyin": "běn yǐ gāo nán bǎo，tú láo hèn fèi shēng。\nwǔ gèng shū yù duàn，yī shù bì wú qíng。\nbáo huàn gěng yóu fàn，gù yuán wú yǐ píng。\nfán jūn zuì xiāng jǐng，wǒ yì jǔ jiā qīng。"
+}

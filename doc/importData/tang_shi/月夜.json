@@ -1,0 +1,57 @@
+{
+    "title": "月夜",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫（712年－770年），字子美，号少陵野老，唐代著名现实主义诗人，与李白合称为“李杜”。他的诗歌内容广泛，反映了唐代社会的各个方面，尤其是对人民疾苦的深刻描绘，被誉为“诗史”。《月夜》是他在安史之乱期间所作，表达了对家人的思念和对国家动荡的忧虑。",
+            "en": "Du Fu (712-770), styled Zimei and also known as Shaoling Ye lao, was a renowned realist poet of the Tang Dynasty, often paired with Li Bai as 'Li Du'. His poetry covers a wide range of topics, reflecting various aspects of Tang society, particularly the sufferings of the common people, earning him the title 'Poet Historian'. 'Moonlit Night' was written during the An Lushan Rebellion, expressing his longing for his family and concern over the national turmoil.",
+            "ja": "杜甫（712年－770年）、字は子美、号は少陵野老、唐代の著名な現実主義詩人であり、李白と共に「李杜」と称される。彼の詩は広範な内容を持ち、唐代社会の各方面を反映し、特に人民の苦難を深く描いたことで「詩史」と称賛される。《月夜》は安史の乱の間に作られ、家族への思慕と国家の混乱への憂慮を表している。",
+            "es": "Du Fu (712-770), también conocido como Zimei y Shaoling Ye lao, fue un destacado poeta realista de la dinastía Tang, a menudo mencionado junto a Li Bai como 'Li Du'. Su poesía abarca una amplia gama de temas, reflejando diversos aspectos de la sociedad Tang, especialmente el sufrimiento del pueblo común, lo que le valió el título de 'Poeta Historiador'. 'Noche Lunar' fue escrita durante la Rebelión de An Lushan, expresando su anhelo por su familia y su preocupación por la agitación nacional.",
+            "ar": "دو فو (712-770)، المعروف أيضًا بزيمي و شاولينغ يي لاو، كان شاعرًا واقعيًا بارزًا في عهد التانغ، غالبًا ما يُذكر جنبًا إلى جنب مع لي باي كـ 'لي دو'. شعره يغطي مجموعة واسعة من المواضيع، يعكس جوانب مختلفة من المجتمع التانغي، خاصة معاناة الناس العاديين، مما كسبه لقب 'شاعر التاريخ'. 'ليلة القمر' كتبت خلال تمرد أن لوشان، تعبر عن شوقه لأسرته وقلقه على الفوضى الوطنية."
+        }
+    },
+    "annotations": {
+        "zh": "今夜鄜州月：今晚鄜州的月亮。鄜州，今陕西省富县。闺中只独看：家中只有妻子独自一人观看。遥怜小儿女：远在异地，怜惜年幼的儿女。未解忆长安：还不懂得思念远在长安的父亲。香雾云鬟湿：香气弥漫的雾气使妻子的云鬟湿润。清辉玉臂寒：清冷的月光照在妻子的玉臂上，显得格外寒冷。何时倚虚幌：何时能在家中依靠着薄薄的帷幕。双照泪痕干：两人共同在月光下，使泪痕干涸。\\n特殊句式：无特殊句式。\\n典故解释：无明确典故。\\n意象分析：月亮象征思念，云鬟、玉臂象征妻子的美丽与辛劳。\\n历史背景：此诗写于安史之乱期间，诗人杜甫与家人分离，表达了对家人的思念。",
+        "en": "Tonight's moon in Fuzhou: The moon tonight in Fuzhou (modern-day Fuxian County, Shaanxi Province). Only viewed alone in the boudoir: Only the wife is viewing it alone at home. Feeling sorry for the young children from afar: Feeling sorry for the young children far away. Not understanding the longing for Chang'an: They do not yet understand the longing for their father in Chang'an. Fragrant mist dampens the cloud-like hair: The fragrant mist dampens the wife's cloud-like hair. Clear light chills the jade-like arms: The clear moonlight chills the wife's jade-like arms. When can we lean against the thin curtain: When can we lean against the thin curtain at home. Both illuminated until the tear stains dry: Both under the moonlight until the tear stains dry up.\\nSpecial syntax: No special syntax.\\nAllusion explanation: No explicit allusions.\\nImagery analysis: The moon symbolizes longing; cloud-like hair and jade-like arms symbolize the wife's beauty and hard work.\\nHistorical background: This poem was written during the An-Shi Rebellion when the poet Du Fu was separated from his family, expressing his longing for them.",
+        "ja": "今夜鄜州月：今夜、鄜州（現在の陝西省富県）の月。閨中只独看：家の中で妻だけが一人で見ている。遥かに小児女を憐れむ：遠く離れて、幼い子供たちを憐れむ。長安を憶うことを解らず：長安にいる父親を思い出すことをまだ理解していない。香霧雲鬟湿：香りのする霧が妻の雲のような髪を湿らせる。清輝玉臂寒：清らかな月光が妻の玉のような腕を冷たくする。何时虚幌に倚る：いつ家で薄い帷幕にもたれて。双照涙痕干：二人で月光に照らされて涙の跡が乾く。\\n特殊文法：特殊な文法はない。\\n典故の説明：明確な典故はない。\\n意象の分析：月は思慕の象徴、雲鬟・玉臂は妻の美しさと労苦を象徴する。\\n歴史背景：この詩は安史の乱の間に杜甫が家族と離れ離れになっていた時に書かれ、家族への思慕を表している。",
+        "es": "Esta noche la luna en Fuzhou: La luna esta noche en Fuzhou (actualmente el condado de Fuxian, provincia de Shaanxi). Solo vista en el tocador: Solo la esposa la ve sola en casa. Lamentando a los pequeños hijos desde lejos: Lamentando a los pequeños hijos que están lejos. Sin entender el recuerdo de Chang'an: Aún no entienden el recuerdo de su padre en Chang'an. Niebla fragante humedece el cabello nuboso: La niebla fragante humedece el cabello nuboso de la esposa. Luz clara enfría los brazos de jade: La luz clara de la luna enfría los brazos de jade de la esposa. ¿Cuándo podremos apoyarnos en la cortina delgada?: ¿Cuándo podremos apoyarnos en la cortina delgada en casa? Ambos iluminados hasta que sequen las marcas de lágrimas: Ambos bajo la luz de la luna hasta que sequen las marcas de lágrimas.\\nSintaxis especial: No hay sintaxis especial.\\nExplicación de alusiones: No hay alusiones explícitas.\\nAnálisis de imágenes: La luna simboliza el anhelo; el cabello nuboso y los brazos de jade simbolizan la belleza y el trabajo de la esposa.\\nContexto histórico: Este poema fue escrito durante la Rebelión de An-Shi cuando el poeta Du Fu estaba separado de su familia, expresando su anhelo por ellos.",
+        "ar": "الليلة قمر في فوزهو: القمر هذه الليلة في فوزهو (الآن مقاطعة فوشيان، مقاطعة شانشي). ينظر وحده في غرفة النوم: فقط الزوجة تنظر وحدها في المنزل. تتعاطف مع الأطفال الصغار من بعيد: تتعاطف مع الأطفال الصغار من بعيد. لا يفهمون ذكرى تشانغآن: لا يفهمون بعد ذكرى والدهم في تشانغآن. ضباب عطري يبلل الشعر السحابي: الضباب العطري يبلل شعر الزوجة السحابي. ضوء نقي يبرد الذراعين الياقوتيين: الضوء النقي للقمر يبرد ذراعي الزوجة الياقوتيين. متى يمكننا الاعتماد على الستار الرقيق؟: متى يمكننا الاعتماد على الستار الرقيق في المنزل؟ كلاهما مضاء حتى تجف آثار الدموع: كلاهما تحت ضوء القمر حتى تجف آثار الدموع.\\nالنحو الخاص: لا يوجد نحو خاص.\\nشرح الإحالة: لا توجد إحالات واضحة.\\nتحليل الصور: القمر يرمز إلى الشوق؛ الشعر السحابي والذراعين الياقوتيين يرمزان إلى جمال وتعب الزوجة.\\nالخلفية التاريخية: كتب هذا الشعر خلال تمرد أن-شي عندما كان الشاعر دو فو منفصلاً عن عائلته، يعبر عن اشتياقه لهم."
+    },
+    "appreciations": {
+        "zh": "这首诗以月夜为背景，表达了诗人对远方妻子的深切思念和对家庭团聚的渴望。主题思想是通过对月夜的描写，抒发战乱中夫妻分离的痛苦和对和平生活的向往。写作特色上，诗人运用了虚实结合的手法，通过想象妻子在鄜州独自望月的情景，增强了情感的表达力。艺术成就方面，诗歌以简洁的语言和细腻的情感描写，展现了深厚的人文关怀和艺术感染力。情感分析上，诗人通过对妻子和儿女的牵挂，表达了对家庭的深情厚谊。影响意义上，这首诗在文学史上具有重要地位，被视为唐代思乡诗的经典之作。",
+        "en": "This poem, set against the backdrop of a moonlit night, conveys the poet's deep longing for his distant wife and his yearning for family reunion. The theme centers on expressing the pain of separation during wartime and the desire for peace through the depiction of the moonlit scene. In terms of writing style, the poet employs a blend of reality and imagination, enhancing the emotional expression by envisioning his wife alone watching the moon in Fuzhou. Artistically, the poem stands out for its concise language and delicate emotional portrayal, demonstrating profound humanistic concern and artistic appeal. Emotionally, it reflects the poet's deep attachment to his family through his concern for his wife and children. Historically, this poem holds a significant place in literary history, regarded as a classic example of Tang Dynasty homesickness poetry.",
+        "ja": "この詩は月夜を背景に、詩人が遠く離れた妻への深い思いやりと家族の再会を切望する心情を表現しています。主題思想は、月夜の描写を通じて、戦乱中の夫婦の別離の苦痛と平和な生活への向往を抒発しています。表現手法としては、実と虚を結合させ、妻が鄜州で一人月を見ている情景を想像することで、感情の表現力を高めています。芸術的成就としては、簡潔な言語と繊細な感情描写により、深い人間的配慮と芸術的感染力を示しています。感情分析としては、妻と子供たちへの懸念を通じて、家族に対する深い愛情を表しています。影響の意味では、この詩は文学史上重要な地位を占めており、唐代の郷愁詩の古典とされています。",
+        "es": "Este poema, ambientado en una noche iluminada por la luna, expresa el profundo anhelo del poeta por su esposa lejana y su deseo de reunirse con su familia. El tema principal es la expresión del dolor de la separación durante la guerra y el deseo de una vida pacífica a través de la descripción de la escena lunar. En cuanto a la técnica literaria, el poeta utiliza una combinación de realidad e imaginación, intensificando la expresión emocional al imaginar a su esposa viendo la luna sola en Fuzhou. Artísticamente, el poema destaca por su lenguaje conciso y su detallada descripción emocional, mostrando una profunda preocupación humanística y atractivo artístico. En el análisis emocional, el poeta refleja su profundo apego a su familia a través de su preocupación por su esposa e hijos. En términos de significado e influencia, este poema ocupa un lugar importante en la historia de la literatura, siendo considerado un clásico de la poesía de nostalgia de la dinastía Tang.",
+        "ar": "هذه القصيدة، التي تتخذ من ليلة مقمرة خلفية، تعبر عن شوق الشاعر العميق لزوجته البعيدة وتطلعه للقاء عائلته. الفكرة الرئيسية هي التعبير عن ألم الانفصال أثناء الحرب ورغبة في الحياة السلمية من خلال وصف مشهد القمر. من حيث الأسلوب الأدبي، يستخدم الشاعر مزيجًا من الواقع والخيال، مما يعزز من تعبيره العاطفي من خلال تخيله لزوجته تراقب القمر وحدها في فوزهو. فنياً، تبرز القصيدة بلغتها الموجزة ووصفها العاطفي الدقيق، مما يظهر اهتمامًا إنسانيًا عميقًا وجاذبية فنية. في تحليل العواطف، يعكس الشاعر ارتباطه العميق بعائلته من خلال اهتمامه بزوجته وأطفاله. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، حيث تعتبر كلاسيكية من شعر الحنين لعهد التانغ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "今夜鄜州的月光，只有你在闺房中独自观看。遥想那幼小的儿女，还不懂得思念长安。香雾湿润了你的云鬟，清辉映照着你的玉臂感到寒冷。何时能与你共倚薄帷，让月光双照，泪痕干涸。",
+            "en": "Tonight, the moon over Fuzhou, you alone watch from the boudoir. I remotely pity the young children, who do not yet understand the longing for Chang'an. Fragrant mist wets your cloud-like hair, and clear light chills your jade-like arms. When can we lean together against the thin curtain, with moonlight doubling over us, drying our tear stains?",
+            "ja": "今夜、鄜州の月は、閨中でただ一人見上げる君。遠くに思いやる小さな子どもたち、まだ長安を思うこと知らず。香り高い霧が雲のような髪を湿らし、清らかな光が玉のような腕を冷やす。いつ虚ろな Curtain にもたれて、二人で月光に照らされ、涙の跡を乾かそう。",
+            "es": "Esta noche, la luna sobre Fuzhou, solo tú la ves desde el aposento. Siento lástima por los pequeños hijos, que aún no entienden el recuerdo de Chang'an. La niebla aromática humedece tu cabellera nubosa, y la luz clara enfría tus brazos de jade. ¿Cuándo podremos apoyarnos juntos en la cortina delgada, con la luz de la luna reflejándose en ambos y secando nuestras lágrimas?",
+            "ar": "الليلة، قمر فوزهو، تشاهدينه وحدك في غرفة الزينة. أشفق من بعيد على الصغار، الذين لم يفهموا بعد شوقهم إلى تشانغآن. الضباب العطري يبلل شعرك السحابي، والضوء النقي يبرد ذراعيك الياقوتية. متى نستند سوياً على الستار الرقيقة، فتنير الشمسنا معاً، وتجفف آثار الدموع؟"
+        },
+        "title_translation": {
+            "zh": "月夜",
+            "en": "Moonlit Night",
+            "ja": "月夜",
+            "es": "Noche Lunar",
+            "ar": "ليلة مقمرة"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "今夜鄜州月，闺中只独看。遥怜小儿女，未解忆长安。\n香雾云鬟湿，清辉玉臂寒。何时倚虚幌，双照泪痕干。",
+    "title_pinyin": "yuè yè",
+    "pinyin": "jīn yè fū zhōu yuè，guī zhōng zhǐ dú kàn。yáo lián xiǎo ér nǚ，wèi jiě yì zhǎng ān。\nxiāng wù yún huán shī，qīng huī yù bì hán。hé shí yǐ xū huǎng，shuāng zhào lèi hén gàn。"
+}

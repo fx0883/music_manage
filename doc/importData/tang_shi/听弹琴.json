@@ -1,0 +1,57 @@
+{
+    "title": "听弹琴",
+    "difficulty": 2,
+    "author": {
+        "name": "刘长卿",
+        "name_pinyin": "liú zhǎng qīng",
+        "image": "刘长卿.jpg",
+        "introduction": {
+            "zh": "刘长卿，唐代著名诗人，字文房，河间（今属河北）人。他的诗作以五言诗见长，风格清新淡雅，多描写自然景物和抒发个人情感。刘长卿的诗歌在唐代颇受赞誉，有“五言长城”之称。他的作品《听弹琴》通过描写听琴的感受，表达了作者对古调的喜爱和对时风的感慨。",
+            "en": "Liu Changqing, a renowned poet of the Tang Dynasty, styled Wenfang, was from Hejian (now part of Hebei Province). His poetry excels in five-character verses, characterized by a fresh and elegant style, often depicting natural scenery and expressing personal emotions. Liu Changqing's poems were highly praised during the Tang Dynasty, earning him the title of 'The Great Wall of Five-Character Poetry'. His work 'Listening to the Zither' describes the experience of listening to the zither, expressing the author's love for ancient tunes and his reflections on contemporary trends.",
+            "ja": "劉長卿は、唐代の著名な詩人で、字は文房、河間（現在の河北省に属する）の人です。彼の詩作は五言詩に優れ、清新で淡雅なスタイルが特徴で、自然景物の描写や個人的な感情の発露が多いです。劉長卿の詩は唐代において高く評価され、「五言長城」と称されました。彼の作品『琴を聴く』は、琴を聴く感覚を描き、作者が古調を愛する心情と時風に対する感慨を表しています。",
+            "es": "Liu Changqing, un poeta famoso de la dinastía Tang, cuyo nombre de cortesía era Wenfang, era de Hejian (actualmente parte de Hebei). Su poesía destaca en versos de cinco caracteres, con un estilo fresco y elegante, a menudo describiendo paisajes naturales y expresando emociones personales. La poesía de Liu Changqing fue muy elogiada durante la dinastía Tang, ganándose el apodo de 'El Gran Muro de la Poesía de Cinco Caracteres'. Su obra 'Escuchar el Cítara' describe la experiencia de escuchar el cítara, expresando el amor del autor por los antiguos tonos y sus reflexiones sobre las tendencias contemporáneas.",
+            "ar": "ليو تشانغتشينغ، شاعر مشهور من عهد التانغ، وكان اسمه المستعار Wenfang، وهو من Hejian (الآن جزء من مقاطعة Hebei). قصائده تبرز في الأبيات الخماسية، ذات أسلوب جديد وأنيق، غالبًا ما تصف المناظر الطبيعية وتعبر عن المشاعر الشخصية. أشعار ليو تشانغتشينغ كانت محل إشادة كبيرة خلال عهد التانغ، حيث أطلق عليه لقب 'السور العظيم للشعر الخماسي'. عمله 'استماع إلى القيثارة' يصف تجربة الاستماع إلى القيثارة، معربًا عن حب المؤلف للألحان القديمة وتأملاته في التيارات المعاصرة."
+        }
+    },
+    "annotations": {
+        "zh": "泠泠：形容琴声清脆悦耳。七弦：指古琴，古琴有七根弦。静听：静静地聆听。松风寒：形容琴声如同寒风吹过松林。古调：指古代的曲调。自爱：自己喜爱。今人：现代人。多不弹：很少弹奏。\n语法说明：此诗为四句绝句，每句均为简单的主谓宾结构，无特殊句式。\n典故解释：无直接用典，但‘松风寒’暗喻高洁孤寒的品格，常用于文人雅士的自我标榜。\n意象分析：泠泠的琴声和松风寒共同营造出一种清冷、高洁的氛围，表达了诗人对古调的喜爱和对今人忽视古调的遗憾。\n历史背景：唐代是中国古代音乐文化高度发展的时期，古琴作为文人雅士的象征，其地位逐渐被新兴的音乐形式所取代，诗中反映了这一现象。",
+        "en": "Lingling: Describes the clear and melodious sound of the qin. Seven strings: Refers to the ancient qin, which has seven strings. Quietly listening: Listening attentively. Pine wind cold: Describes the sound of the qin like the cold wind blowing through pine trees. Ancient tunes: Refers to ancient melodies. Self-love: Personally fond of. Modern people: People of the present time. Rarely play: Seldom play.\nGrammar explanation: This poem is a four-line jueju, with each line being a simple subject-verb-object structure, without any special sentence patterns.\nAllusion explanation: No direct allusions, but 'pine wind cold' metaphorically implies a noble and solitary character, often used by literati to praise themselves.\nImage analysis: The clear sound of the qin and the cold wind through the pines together create a chilly, noble atmosphere, expressing the poet's love for ancient tunes and his regret that modern people neglect them.\nHistorical background: The Tang Dynasty was a period of high development in ancient Chinese music culture. The qin, as a symbol of literati, gradually lost its status to emerging musical forms, a phenomenon reflected in the poem.",
+        "ja": "泠泠：琴の音の清らかで心地よいさまを形容する。七弦：古琴を指す、古琴は七本の弦を持つ。静聴：静かに聞くこと。松風寒：琴の音が松林を吹き抜ける寒風のようであるさま。古調：古代の曲調を指す。自愛：自分自身が愛する。今人：現代の人々。多不弾：あまり弾かない。\n文法説明：この詩は四句の絶句で、各句は単純な主語・述語・目的語の構造を持ち、特殊な文法はない。\n典故説明：直接的な用典はないが、「松風寒」は高潔で孤高な品格を暗示し、文人が自分を称える際によく用いる。\n意象分析：泠泠とした琴の音と松風寒が清冷で高潔な雰囲気を醸し出し、詩人が古調を愛する心情と現代人が古調を軽視する遗憾を表している。\n歴史背景：唐代は中国古代音楽文化が高度に発展した時期であり、文人の象徴である古琴は新興の音楽形式にその地位を奪われつつあった。この詩はその現象を反映している。",
+        "es": "Lingling: Describe el sonido claro y agradable del qin. Siete cuerdas: Se refiere al antiguo qin, que tiene siete cuerdas. Escuchar en silencio: Escuchar atentamente. Viento frío del pino: Describe el sonido del qin como el viento frío que sopla a través de los pinos. Tono antiguo: Se refiere a las melodías antiguas. Amor propio: Gustar personalmente. Personas modernas: Gente de la actualidad. Raramente tocan: Pocas veces tocan.\nExplicación gramatical: Este poema es un jueju de cuatro líneas, cada línea tiene una estructura simple de sujeto-verbo-objeto, sin patrones gramaticales especiales.\nExplicación de la alusión: No hay alusiones directas, pero 'viento frío del pino' metafóricamente implica una carácter noble y solitario, a menudo usado por los literatos para alabarse a sí mismos.\nAnálisis de imágenes: El sonido claro del qin y el viento frío del pino juntos crean una atmósfera fría y noble, expresando el amor del poeta por los tonos antiguos y su pesar de que las personas modernas los ignoren.\nContexto histórico: La dinastía Tang fue una época de gran desarrollo de la cultura musical antigua china. El qin, como símbolo de los literatos, estaba perdiendo su estatus ante las nuevas formas musicales, un fenómeno reflejado en el poema.",
+        "ar": "لينغ لينغ: يصف صوت القين النقي والمحبوب. السبع أوتار: يشير إلى القين القديم، الذي يحتوي على سبع أوتار. الاستماع في هدوء: الاستماع بانتباه. ريح الصنوبر الباردة: يصف صوت القين كريح باردة تهب عبر أشجار الصنوبر. النغم القديم: يشير إلى الألحان القديمة. الحب الذاتي: التفضيل الشخصي. الناس المعاصرون: الناس في الوقت الحاضر. نادراً ما يعزفون: يندر أن يعزفوا.\nشرح النحو: هذا الشعر هو قصيدة من أربع أسطر، كل سطر منها له بنية بسيطة من فاعل وفعل ومفعول به، بدون أنماط نحوية خاصة.\nشرح الإشارة: لا توجد إشارات مباشرة، ولكن 'ريح الصنوبر الباردة' تلميحاً تشير إلى شخصية نبيلة ومنعزلة، غالباً ما يستخدمها الأدباء لمدح أنفسهم.\nتحليل الصور: صوت القين النقي وريح الصنوبر الباردة معاً يخلقان جواً بارداً ونبيلاً، يعبر عن حب الشاعر للألحان القديمة وحزنه على أن الناس المعاصرين يتجاهلونها.\nالخلفية التاريخية: كانت dynastie التانغ فترة تطور كبير في الثقافة الموسيقية الصينية القديمة. القين، كرمز للأدباء، كان يفقد مكانته أمام الأشكال الموسيقية الجديدة، وهو ظاهرة معبر عنها في الشعر."
+    },
+    "appreciations": {
+        "zh": "《听弹琴》一诗通过对古琴音乐的描绘，表达了诗人对古调的喜爱和对今人忽视传统艺术的遗憾。主题思想在于怀念和推崇传统文化。写作特色上，诗人运用简洁的语言和生动的意象，如“泠泠七弦上，静听松风寒”，形象地传达了琴音的清冷和意境的深远。艺术成就方面，此诗以音乐为媒介，抒发了对文化传承的深刻思考，具有较高的艺术价值。情感分析上，诗人既流露出对古琴艺术的热爱，又表达了对今人忽视传统的无奈和惋惜。在影响意义上，此诗在文学史上具有重要地位，反映了唐代文人对传统文化的珍视和传承意识。",
+        "en": "The poem 'Listening to the Zither' depicts the beauty of ancient zither music, expressing the poet's love for ancient tunes and regret over their neglect by modern people. The central theme revolves around nostalgia and admiration for traditional culture. In terms of writing style, the poet uses concise language and vivid imagery, such as 'On the cold seven strings, quietly listening to the pine wind's chill,' effectively conveying the ethereal sound and profound atmosphere of the zither. Artistically, the poem reflects deep contemplation on cultural heritage through the medium of music, holding significant artistic value. Emotionally, it reveals the poet's passion for zither art and his lament over its contemporary neglect. Historically, the poem holds a prominent place in literary history, reflecting Tang Dynasty literati's appreciation and preservation of traditional culture.",
+        "ja": "「聴琴」の詩は、古琴の音楽を描き出し、詩人が古調を愛する心情と現代人が伝統芸術を軽視する事への遺憾を表現しています。主題思想は、伝統文化への懐かしさと尊重です。表現手法としては、簡潔な言葉と生き生きとしたイメージを用い、「冷泠七弦上、静聴松風寒」といった表現で、琴の音の清涼さと奥深い意境を形象化しています。芸術的成果としては、音楽を通じて文化継承に対する深い考察を抒発し、高い芸術価値を有しています。感情分析では、詩人は古琴芸術への愛情と、現代人の伝統軽視に対する無力感と嘆きを示しています。影響意味としては、文学史上重要な地位を占め、唐代文人の伝統文化に対する重視と継承意識を反映しています。",
+        "es": "El poema 'Escuchar el Cítara' describe la belleza de la música antigua del cítara, expresando el amor del poeta por los antiguos tonos y el pesar por su descuido por parte de las personas modernas. El tema central gira en torno a la nostalgia y la admiración por la cultura tradicional. En cuanto al estilo de escritura, el poeta utiliza un lenguaje conciso y una imaginería vívida, como en 'En las frías siete cuerdas, escuchando en silencio el frío del viento de los pinos', transmitiendo eficazmente el sonido etéreo y la atmósfera profunda del cítara. Artísticamente, el poema refleja una profunda reflexión sobre la herencia cultural a través del medio de la música, poseyendo un alto valor artístico. En el análisis emocional, revela la pasión del poeta por el arte del cítara y su lamento por su descuido contemporáneo. Históricamente, el poema ocupa un lugar destacado en la historia literaria, reflejando el aprecio y la conciencia de preservación de la cultura tradicional por parte de los literatos de la dinastía Tang.",
+        "ar": "القصيدة 'استماع إلى القيثارة' تصف جمال موسيقى القيثارة القديمة، تعبّر عن حب الشاعر للألحان القديمة وحزنه على إهمالها من قبل الناس المعاصرين. الفكرة الرئيسية تدور حول الشوق والتقدير للثقافة التقليدية. من حيث الأسلوب الكتابي، يستخدم الشاعر لغة موجزة وتصاوير حيوية، مثل 'على الأوتار السبعة الباردة، يستمع بصمت لبرد رياح الصنوبر'، مما ينقل بفعالية الصوت الهادئ والجو العميق للقيثارة. فنياً، تعكس القصيدة تفكيراً عميقاً حول التراث الثقافي من خلال وسيلة الموسيقى، وتحمل قيمة فنية عالية. في التحليل العاطفي، تكشف عن حب الشاعر لفن القيثارة وحزنه على إهمالها في العصر الحديث. تاريخياً، تحتل القصيدة مكانة بارزة في تاريخ الأدب، تعكس تقدير وتعهد أدباء عصر التانغ بحماية الثقافة التقليدية."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "清澈的七弦琴上，静静地听着松风带来的寒意。古老的曲调虽然我自喜爱，如今的人们却大多不再弹奏。",
+            "en": "On the clear seven strings, I quietly listen to the cold wind through the pines. Though I cherish the ancient tunes, few people play them today.",
+            "ja": "澄んだ七弦の上で、静かに松風の寒さを聞く。古調は私が愛しても、今の人々は弾かない。",
+            "es": "Sobre las siete cuerdas claras, escucho en silencio el frío del viento entre los pinos. Aunque amo las melodías antiguas, hoy pocos las tocan.",
+            "ar": "على السبع أوتار الصافية، أستمع بهدوء لبرد رياح الصنوبر. على الرغم من حبي للألحان القديمة، إلا أن قلة من الناس يلعبونها اليوم."
+        },
+        "title_translation": {
+            "zh": "听弹琴",
+            "en": "Listening to the Zither",
+            "ja": "琴を聴く",
+            "es": "Escuchando el Cítara",
+            "ar": "استماع إلى العود"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "泠泠七弦上，静听松风寒。\n古调虽自爱，今人多不弹。",
+    "title_pinyin": "tīng dàn qín",
+    "pinyin": "líng líng qī xián shàng，jìng tīng sōng fēng hán。\ngǔ diào suī zì ài，jīn rén duō bù dàn。"
+}

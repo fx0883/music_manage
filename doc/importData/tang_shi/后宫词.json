@@ -1,0 +1,57 @@
+{
+    "title": "后宫词",
+    "difficulty": 2,
+    "author": {
+        "name": "白居易",
+        "name_pinyin": "bái jū yì",
+        "image": "白居易.jpg",
+        "introduction": {
+            "zh": "白居易（772年－846年），字乐天，号香山居士，是唐代著名的现实主义诗人之一。他的诗歌内容广泛，语言通俗易懂，深受百姓喜爱。白居易提倡诗歌应反映现实，服务社会，其代表作有《长恨歌》、《琵琶行》等。他的诗风平易近人，对后世文学产生了深远影响。",
+            "en": "Bai Juyi (772–846), styled Letian and known as the Hermit of Xiangshan, was one of the prominent realist poets of the Tang Dynasty. His poems covered a wide range of topics and were written in an accessible language, making them popular among the common people. Bai Juyi advocated that poetry should reflect reality and serve society. His famous works include 'The Song of Everlasting Sorrow' and 'The Ballad of the Pipa Player'. His straightforward and approachable style had a profound impact on later literature.",
+            "ja": "白居易（772年－846年）、字は楽天、号は香山居士で、唐代の著名な現実主義詩人の一つです。彼の詩は内容が広範で、言葉遣いが分かりやすく、民衆に愛されました。白居易は詩が現実を反映し、社会に奉仕すべきだと主張し、「長恨歌」、「琵琶行」などの代表作があります。彼の詩風は親しみやすく、後世の文学に大きな影響を与えました。",
+            "es": "Bai Juyi (772-846), apodado Letian y conocido como el Ermitaño de Xiangshan, fue uno de los destacados poetas realistas de la dinastía Tang. Sus poemas abarcan una amplia gama de temas y están escritos en un lenguaje accesible, lo que los hizo populares entre el pueblo común. Bai Juyi defendía que la poesía debería reflejar la realidad y servir a la sociedad. Sus obras más famosas incluyen 'La Canción del Dolor Eterno' y 'La Balada de la Pipa'. Su estilo directo y accesible tuvo un profundo impacto en la literatura posterior.",
+            "ar": "بái جویي (772-846)، المعروف بلقب ليتيان ويسمى راهب شيانغشان، كان واحدا من الشعراء الواقعيين البارزين في عهد التانغ. قصائده تغطي مجموعة واسعة من المواضيع وكتبت بلغة سهلة الفهم، مما جعلها محبوبة من قبل الناس العاديين. بái جویي يدافع عن أن الشعر يجب أن يعكس الواقع ويساعد المجتمع. من أشهر أعماله 'أغنية الحزن الأبدي' و 'قصة البي파'. أسلوبه المباشر والسهل الوصول إليه أثر بشكل عميق على الأدب اللاحق."
+        }
+    },
+    "annotations": {
+        "zh": "泪湿罗巾：眼泪打湿了罗巾。梦不成：无法入睡。夜深：深夜。前殿：前面的宫殿。按歌声：指宫中奏乐歌唱的声音。红颜：美貌的女子，此处指宫女。未老：尚未衰老。恩先断：皇帝的恩宠已经断绝。斜倚：斜靠。薰笼：用来薰香或取暖的笼子。坐到明：一直坐到天亮。此诗描绘了宫女失宠后的孤独与哀愁。",
+        "en": "Tears wet the silk handkerchief: Tears have soaked the silk handkerchief. Dream not fulfilled: Unable to fall asleep. Deep into the night: Late at night. Front palace: The front part of the palace. Music and singing: Refers to the sound of music and singing in the palace. Red beauty: A beautiful woman, here referring to a palace maid. Not yet old: Still young. Favor cut off: The emperor's favor has been withdrawn. Leaning sideways: Leaning to the side. Incense burner: A device used for burning incense or keeping warm. Sitting until dawn: Sitting until morning. This poem depicts the loneliness and sorrow of a palace maid after losing favor.",
+        "ja": "涙湿るる羅巾：涙で罗巾が湿る。夢不成：夢を見ることができない。夜深し：夜が更けた。前殿：前の宫殿。歌声を按ず：宮中で音楽や歌声が聞こえる。紅顔：美しい女性、ここでは宮女を指す。未だ老いない：まだ老いていない。恩先断：皇帝の恩寵が絶たれる。斜に倚る：斜めに凭れる。薰籠：香を焚いたり暖を取るための籠。明くるまで坐す：夜明けまで坐っている。この詩は、宮女が寵愛を失った後の孤独と悲しみを描いている。",
+        "es": "Lágrimas mojan el pañuelo de seda: Las lágrimas han mojado el pañuelo de seda. Sueño no realizado: No poder dormir. Profundamente en la noche: Tarde en la noche. Palacio delantero: La parte delantera del palacio. Sonido de cantos: Se refiere al sonido de música y cantos en el palacio. Mujer roja: Mujer hermosa, aquí se refiere a una doncella del palacio. Aún no vieja: Todavía joven. Favor cortado: El favor del emperador ha sido cortado. Inclinada lateralmente: Apoyada de lado. Incensario: Un dispositivo utilizado para quemar incienso o mantener el calor. Sentada hasta el amanecer: Sentada hasta la mañana. Este poema retrata la soledad y la tristeza de una doncella del palacio después de perder el favor.",
+        "ar": "دموع تبتل العصابة الحريرية: الدموع تبتل العصابة المصنوعة من الحرير. الحلم غير المكتمل: عدم القدرة على النوم. في عمق الليل: في وقت متأخر من الليل. القصر الأمامي: الجزء الأمامي من القصر. أصوات الغناء: تشير إلى أصوات الموسيقى والغناء في القصر. المرأة الحمراء: المرأة الجميلة، هنا تشير إلى جارية القصر. لم تتقدم في السن بعد: لا تزال شابة. انقطاع النعمة: انقطاع نعمة الإمبراطور. مائلة إلى الجانب: مائلة إلى أحد الجانبين. المدفأة: جهاز يستخدم لحرق البخور أو التدفئة. جالسة حتى الفجر: جالسة حتى الصباح. هذا الشعر يصور الوحدة والحزن التي تشعر بها جارية القصر بعد فقدان النعمة."
+    },
+    "appreciations": {
+        "zh": "这首《后宫词》通过描写一位失宠宫女的孤独与哀愁，揭示了封建社会中女性命运的悲惨。主题思想在于批判封建制度对女性的压迫。写作特色上，诗人运用对比手法，将宫女的泪湿罗巾与前殿的欢歌形成鲜明对比，增强了情感冲击力。艺术成就方面，诗歌以简洁的语言描绘出深刻的情感，具有很高的艺术价值。情感分析上，诗中抒发了宫女对恩宠断绝的绝望与无奈。影响意义上，这首诗在文学史上具有重要的地位，成为反映封建社会女性悲剧的经典之作。",
+        "en": "This poem \"Harem Poem\" depicts the loneliness and sorrow of a deposed palace woman, revealing the tragic fate of women in feudal society. The theme critiques the oppression of women under the feudal system. In terms of writing style, the poet uses contrast to juxtapose the woman's tear-stained handkerchief with the joyful歌声 in the front hall, enhancing the emotional impact. Artistically, the poem's concise language conveys profound emotions, making it highly valuable. Emotionally, it expresses the woman's despair and helplessness at the loss of favor. Historically, this poem holds a significant place in literary history as a classic representation of women's tragedies in feudal society.",
+        "ja": "この「後宮詞」は、失寵した宮女の孤独と悲哀を描き、封建社会における女性の運命の悲惨さを示しています。主題思想は、封建制度による女性の抑圧を批判することにあります。表現手法としては、詩人は対比を用い、宮女の涙で湿った羅巾と前殿の歌の声を鮮明に対比させ、感情の衝撃力を強めています。芸術的成就としては、簡潔な言葉で深い感情を描き出しており、高い芸術価値を持っています。感情分析では、宮女が恩寵を断たれた絶望と無念さを抒発しています。影響の意味では、この詩は文学史上重要な地位を占め、封建社会の女性の悲劇を反映する古典的名作となっています。",
+        "es": "Este poema \"Palabras de la Corte\" retrata la soledad y la tristeza de una dama de la corte desfavorecida, revelando la tragedia del destino femenino en la sociedad feudal. El tema principal critica la opresión de las mujeres bajo el sistema feudal. En cuanto al estilo de escritura, el poeta utiliza el contraste para enfrentar el pañuelo mojado de lágrimas de la dama con el canto festivo en el salón delantero, intensificando el impacto emocional. Artísticamente, el poema transmite emociones profundas con un lenguaje conciso, lo que le otorga un gran valor artístico. En el análisis emocional, se expresa la desesperación y la impotencia de la dama ante la pérdida de favor. En términos de influencia, este poema ocupa un lugar importante en la historia de la literatura, siendo un clásico que refleja la tragedia de las mujeres en la sociedad feudal.",
+        "ar": "هذه القصيدة \"قصيدة الحريم\" تصور الوحدة والأسى لإمرأة حرمية مغمورة، تكشف عن المأساة المصيرية للنساء في المجتمع الإقطاعي. الفكرة الرئيسية تنتقد قمع النساء تحت النظام الإقطاعي. من حيث الأسلوب الأدبي، يستخدم الشاعر المقارنة ليضع منديل المرأة المبلل بالدموع مقابل الأغاني الفرحة في القاعة الأمامية، مما يعزز من تأثير العاطفة. من الناحية الفنية، يعبر الشعر عن عواطف عميقة بلغة موجزة، مما يمنحه قيمة فنية عالية. في تحليل العواطف، يعبر عن يأس وإحباط المرأة عند فقدان الرعاية. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، لتكون كلاسيكية تعكس مأساة النساء في المجتمع الإقطاعي."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "罗巾被泪水浸湿，梦境难以成真，深夜时分前殿传来按歌声。美貌的女子尚未衰老，皇帝的恩宠却已断绝，她斜靠在薰笼上，独自坐到天明。",
+            "en": "Tears soak the silk handkerchief, dreams unfulfilled, deep into the night, the front hall echoes with song. The beauty, not yet aged, finds favor cut off, leaning against the incense burner, she sits until dawn.",
+            "ja": "涙で絹のハンカチが湿り、夢はかなわず、深夜、前の殿堂に歌声が響く。美しい女性はまだ老いないのに、帝の寵愛は絶たれ、香炉に寄りかかり、明け方まで独りで座る。",
+            "es": "Lágrimas humedecen el pañuelo de seda, sueños sin cumplir, en la madrugada, el palacio delantero resuena con cantos. La belleza, aún joven, ve cortado el favor, reclinada sobre el brasero, se sienta hasta el amanecer.",
+            "ar": "الدموع تبتلع المنديل الحريري، والأحلام لا تتحقق، في أعماق الليل، ت resuenan las canciones en el palacio delantero. La belleza, aún sin envejecer، encuentra el favor cortado، se reclina sobre el quemador de incienso، y se sienta hasta el amanecer."
+        },
+        "title_translation": {
+            "zh": "后宫词",
+            "en": "Palace Rear Courtyard Poem",
+            "ja": "後宮の詞",
+            "es": "Poema del Palacio Posterior",
+            "ar": "قصيدة القاعة الخلفية للقصر"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "泪湿罗巾梦不成，夜深前殿按歌声。\n红颜未老恩先断，斜倚薰笼坐到明。",
+    "title_pinyin": "hòu gōng cí",
+    "pinyin": "lèi shī luó jīn mèng bù chéng，yè shēn qián diàn àn gē shēng。\nhóng yán wèi lǎo ēn xiān duàn，xié yǐ xūn lóng zuò dào míng。"
+}

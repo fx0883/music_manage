@@ -1,0 +1,57 @@
+{
+    "title": "秋夜曲",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维，字摩诘，唐代著名诗人、画家，被誉为“诗佛”。他的诗作以山水田园为主题，风格清新淡雅，善于通过细腻的描写表达深邃的意境。王维不仅诗艺高超，还精通音律、书画，是盛唐时期多才多艺的文人代表。其作品对后世影响深远，尤其在山水诗和文人画领域。",
+            "en": "Wang Wei, styled Mojie, was a renowned poet and painter of the Tang Dynasty,被誉为 'Poet Buddha'. His poetry primarily focuses on landscapes and pastoral scenes, characterized by a fresh and elegant style. He excelled in expressing profound sentiments through delicate descriptions. Besides his poetic prowess, Wang Wei was also skilled in music and calligraphy, representing the versatile literati of the flourishing Tang era. His works have had a lasting impact, particularly in the realms of landscape poetry and literati painting.",
+            "ja": "王維（おうい）、字は摩詰（まかく）、唐代の著名な詩人、画家であり、「詩仏」と称賛された。彼の詩は山水や田園を主題とし、清新で淡雅なスタイルが特徴で、繊細な描写を通じて深遠な意境を表現する。王維は詩の才能に優れるだけでなく、音楽や書画にも精通し、盛唐時代の多才な文人の代表である。彼の作品は後世に大きな影響を与え、特に山水詩や文人画の分野において。",
+            "es": "Wang Wei, cuyo nombre de cortesía era Mojie, fue un destacado poeta y pintor de la dinastía Tang, conocido como el 'Poeta Buda'. Su poesía se centra principalmente en paisajes y escenas rurales, con un estilo fresco y elegante. Era experto en expresar sentimientos profundos a través de descripciones delicadas. Además de su talento poético, Wang Wei también era hábil en música y caligrafía, representando a los versátiles literatos del apogeo de la era Tang. Sus obras han tenido un impacto duradero, especialmente en el ámbito de la poesía paisajística y la pintura literaria.",
+            "ar": "وانغ وي، واسمه الشهير مو جي، كان شاعرًا ومصورًا مشهورًا في عهد تانغ، يُلقب بـ'شاعر بوذا'. قصائده تركز بشكل رئيسي على المناظر الطبيعية والمناظر الريفية، بأسلوب جديد وأنيق. كان بارعًا في التعبير عن المشاعر العميقة من خلال الوصف الدقيق. بالإضافة إلى موهبته الشعرية، كان وانغ وي ماهرًا في الموسيقى والخط، ويمثل الأدباء الموهوبين في عصر تانغ المزدهر. لقد أثرت أعماله بشكل كبير، خاصة في مجال الشعر الطبيعي والرسم الأدبي."
+        }
+    },
+    "annotations": {
+        "zh": "桂魄初生秋露微，轻罗已薄未更衣。银筝夜久殷勤弄，心怯空房不忍归。\n\n词语解释：\n- 桂魄：指月亮，因传说月中有桂树而得名。\n- 秋露微：秋天的露水很轻微。\n- 轻罗：轻薄的丝绸衣料。\n- 未更衣：未更换衣服。\n- 银筝：用银装饰的筝，一种古乐器。\n- 殷勤：频繁，勤快。\n- 心怯：心里害怕。\n- 空房：空荡荡的房间。\n\n语法说明：\n- \"已薄未更衣\"：已字句与未字句并用，表示衣服已经薄了但还未更换。\n\n典故解释：\n- 无明显典故。\n\n意象分析：\n- 桂魄、秋露：象征秋夜的清冷。\n- 轻罗、银筝：象征女子的细腻与寂寞。\n- 空房：象征孤独与寂寞。\n\n历史背景：\n- 唐代女性多深居简出，诗中反映了她们在秋夜中的孤独与寂寞。",
+        "en": "The moon (Guipang) first rises with slight autumn dew, the light silk (Qingluo) is already thin but not yet changed. The silver zither (Yinzheng) is played diligently for a long night, the heart fears the empty room and cannot bear to return.\n\nWord Explanation:\n- Guipang: Refers to the moon, named after the legend of a cassia tree in the moon.\n- Slight autumn dew: The dew in autumn is very light.\n- Light silk: Thin silk fabric.\n- Not yet changed: Not having changed clothes.\n- Silver zither: A type of ancient musical instrument decorated with silver.\n- Diligently: Frequently, earnestly.\n- Heart fears: Feeling scared in the heart.\n- Empty room: An empty room.\n\nGrammar Explanation:\n- \"Already thin but not yet changed\": The use of both 'already' and 'not yet' indicates that the clothes are thin but haven't been changed.\n\nAllusion Explanation:\n- No obvious allusions.\n\nImagery Analysis:\n- Guipang, autumn dew: Symbolize the coolness of an autumn night.\n- Light silk, silver zither: Symbolize the delicacy and loneliness of a woman.\n- Empty room: Symbolizes solitude and loneliness.\n\nHistorical Background:\n- Women in the Tang Dynasty often stayed indoors, and the poem reflects their loneliness and solitude in an autumn night.",
+        "ja": "桂魄が初めて昇り秋の露が少しある、軽い絹（軽羅）はもう薄いが衣替えをしていない。銀の筝（銀筝）を長い夜に精を出して弾く、心が空き部屋を恐れて帰りたくない。\n\n語句の説明：\n- 桂魄：月を指す。月に桂の木があるという伝説にちなむ。\n- 秋の露が少しある：秋の露がとても少ない。\n- 軽い絹：薄い絹の生地。\n- 衣替えをしていない：服を変えていない。\n- 銀の筝：銀で飾られた筝、古代の楽器の一種。\n- 精を出して：熱心に、頻繁に。\n- 心が恐れる：心が怖がる。\n- 空き部屋：空っぽの部屋。\n\n文法の説明：\n- 「もう薄いが衣替えをしていない」：既に字句と未字句を并用し、服が薄くなっているがまだ変えていないことを示す。\n\n典拠の説明：\n- 明確な典拠はない。\n\nイメージの分析：\n- 桂魄、秋の露：秋の夜の冷たさを象徴する。\n- 軽い絹、銀の筝：女性の繊細さと寂しさを象徴する。\n- 空き部屋：孤独と寂しさを象徴する。\n\n歴史的背景：\n- 唐代の女性は多くが外出せず、詩は彼女たちが秋の夜に感じる孤独と寂しさを反映している。",
+        "es": "La luna (Guipang) comienza a salir con un leve rocío de otoño, la seda ligera (Qingluo) ya es delgada pero aún no se ha cambiado. El cítara de plata (Yinzheng) se toca diligentemente durante una larga noche, el corazón teme el cuarto vacío y no puede soportar regresar.\n\nExplicación de palabras:\n- Guipang: Se refiere a la luna, nombrada por la leyenda de un árbol de cassia en la luna.\n- Leve rocío de otoño: El rocío en otoño es muy ligero.\n- Seda ligera: Tela de seda delgada.\n- Aún no se ha cambiado: No haber cambiado de ropa.\n- Cítara de plata: Un tipo de instrumento musical antiguo decorado con plata.\n- Diligentemente: Frecuentemente, con esmero.\n- Corazón teme: Sentir miedo en el corazón.\n- Cuarto vacío: Una habitación vacía.\n\nExplicación gramatical:\n- \"Ya es delgada pero aún no se ha cambiado\": El uso de 'ya' y 'aún no' indica que la ropa es delgada pero no se ha cambiado.\n\nExplicación de alusiones:\n- No hay alusiones obvias.\n\nAnálisis de imágenes:\n- Guipang, rocío de otoño: Simbolizan la frescura de una noche de otoño.\n- Seda ligera, cítara de plata: Simbolizan la delicadeza y soledad de una mujer.\n- Cuarto vacío: Simboliza la soledad y el aislamiento.\n\nContexto histórico:\n- Las mujeres en la dinastía Tang solían quedarse en casa, y el poema refleja su soledad y aislamiento en una noche de otoño.",
+        "ar": "القمر (الجيبا) يظهر لأول مرة مع قطرات الندى الخفيفة في الخريف، القماش الرقيق (الخفيف) أصبح رقيقًا بالفعل لكن لم يتم تبديله بعد. القيثارة الفضية (الينشينغ) تُعزف بجهد كبير طوال الليل الطويل، القلب يخاف من الغرفة الفارغة ولا يستطيع تحمل العودة.\n\nشرح الكلمات:\n- الجيبا: يشير إلى القمر، نسبةً إلى الأسطورة التي تتحدث عن شجرة السدر في القمر.\n- قطرات الندى الخفيفة: ندى الخريف خفيف جدًا.\n- القماش الرقيق: قماش الحرير الرقيق.\n- لم يتم تبديله بعد: لم يتم تغيير الملابس بعد.\n- القيثارة الفضية: نوع من الآلات الموسيقية القديمة المزخرفة بالفضة.\n- بجهد كبير: بشكل متكرر، بجد.\n- القلب يخاف: الشعور بالخوف في القلب.\n- الغرفة الفارغة: غرفة فارغة.\n\nشرح النحو:\n- \"أصبح رقيقًا بالفعل لكن لم يتم تبديله بعد\": استخدام كلمتي 'بالفعل' و'لم يتم بعد' يشير إلى أن الملابس أصبحت رقيقة لكن لم يتم تغييرها.\n\nشرح الإحالات:\n- لا توجد إحالات واضحة.\n\nتحليل الصور:\n- الجيبا، ندى الخريف: يرمزان إلى برودة ليلة الخريف.\n- القماش الرقيق، القيثارة الفضية: يرمزان إلى الرقة والوحدة للمرأة.\n- الغرفة الفارغة: ترمز إلى الوحدة والانعزال.\n\nالخلفية التاريخية:\n- النساء في عهد التانغ كن يبقين في المنزل غالبًا، والقصيدة تعكس شعورهن بالوحدة والانعزال في ليلة خريفية."
+    },
+    "appreciations": {
+        "zh": "这首《秋夜曲》通过细腻的描写，展现了秋夜中的孤寂与思念。主题思想是表达女子在秋夜中的孤独与对远方亲人的思念。写作特色上，诗人运用了细腻的景物描写和含蓄的心理刻画，如\"桂魄初生秋露微\"描绘了秋夜的清冷，\"心怯空房不忍归\"则深刻揭示了主人公内心的恐惧与寂寞。艺术成就方面，诗歌以简洁的语言营造出深远的意境，具有很高的艺术价值。情感分析上，诗中充满了对孤独生活的无奈和对亲人的深切思念。在影响意义上，这首诗在唐代诗歌中占有重要地位，对后世抒情诗产生了深远影响。",
+        "en": "This poem \"Autumn Night Melody\" vividly depicts the solitude and longing in an autumn night. The main theme is the expression of a woman's loneliness and her yearning for distant loved ones. In terms of writing style, the poet employs delicate descriptions of the scenery and subtle psychological portrayals, such as \"The cassia moon rises, autumn dew is slight\" which paints the coolness of the autumn night, and \"Timid at heart, she dreads the empty room, reluctant to return\" which deeply reveals the protagonist's fear and loneliness. Artistically, the poem creates a profound atmosphere with concise language, holding high artistic value. Emotionally, it is filled with the helplessness of a solitary life and deep longing for family. In terms of impact, this poem holds a significant place in Tang Dynasty poetry and has had a profound influence on later lyric poetry.",
+        "ja": "この詩「秋夜曲」は、秋夜の寂しさと切望を繊細に描いています。主題は、秋夜の中での女性の孤独と遠くの愛する人への思慕を表現しています。表現手法としては、詩人は繊細な風景描写と心理描写を駆使しており、「桂魄初生秋露微」は秋夜の冷たさを、「心怯空房不忍归」は主人公の内面の恐怖と寂しさを深く示しています。芸術的成果としては、簡潔な言葉で深い境地を作り出しており、高い芸術価値を持っています。感情分析では、孤独な生活への無力感と親族への深い思いやりが満ちています。影響の意味では、この詩は唐代の詩の中で重要な位置を占め、後世の叙情詩に大きな影響を与えました。",
+        "es": "Este poema \"Melodía Nocturna de Otoño\" retrata vívidamente la soledad y el anhelo en una noche de otoño. El tema principal es la expresión de la soledad de una mujer y su deseo por sus seres queridos lejanos. En cuanto al estilo de escritura, el poeta utiliza descripciones delicadas del paisaje y retratos psicológicos sutiles, como \"La luna de cassia nace, la escarcha de otoño es ligera\" que pinta la frescura de la noche de otoño, y \"Con el corazón temeroso, ella duda en regresar a la habitación vacía\" que revela profundamente el miedo y la soledad de la protagonista. Artísticamente, el poema crea una atmósfera profunda con un lenguaje conciso, poseyendo un alto valor artístico. Emocionalmente, está lleno de la impotencia de una vida solitaria y un profundo anhelo por la familia. En términos de impacto, este poema ocupa un lugar importante en la poesía de la dinastía Tang y ha tenido una influencia profunda en la poesía lírica posterior.",
+        "ar": "هذه القصيدة \"لحن الليل الخريفي\" تصور بوضوح الوحدة والشوق في ليلة خريفية. الموضوع الرئيسي هو التعبير عن وحدة المرأة وتوقها للأحباء البعيدين. فيما يتعلق بأسلوب الكتابة، يستخدم الشاعر وصفًا دقيقًا للمناظر الطبيعية وتحليلًا نفسيًا دقيقًا، مثل \"يولد القمر الخشبي، وندى الخريف خفيف\" الذي يصور برودة ليلة الخريف، و\"تتردد في العودة إلى الغرفة الفارغة بخوفها\" الذي يكشف بعمق عن خوف ووحدة البطلة. من الناحية الفنية، تخلق القصيدة جوًا عميقًا بلغة موجزة، ولها قيمة فنية عالية. من الناحية العاطفية، تمتلئ بالعجز عن الحياة المنعزلة والشوق العميق للعائلة. من حيث التأثير، تحتل هذه القصيدة مكانًا مهمًا في شعر العصر التانغ وقد أثرت بشكل كبير في الشعر العاطفي اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "桂花初绽秋露轻，轻纱已薄未更衣。\n银筝夜深勤抚弄，心惧空房不忍归。",
+            "en": "The cassia moon rises, autumn dew is slight,\nLight silk grows thin, yet no change of attire.\nThrough the long night, the silver zither plays,\nHeart fears the empty room, reluctant to return.",
+            "ja": "桂花初めて咲き、秋の露は軽やかに、\n軽い絹は薄くなり、衣替えはまだ。\n長い夜に銀筝を懸命に弾き、\n心は空き部屋を恐れ、帰ることを忍びがたし。",
+            "es": "La luna de cassia nace, el rocío de otoño es leve,\nLa seda ligera ya es delgada, sin cambiar de ropa.\nLarga noche, el laúd de plata toca con esmero,\nEl corazón teme la habitación vacía, no se atreve a regresar.",
+            "ar": "القمر الهرماني يظهر، قطرات الخريف خفيفة،\nالحرير الخفيف قد رق، ولم أغير الثياب.\nطوال الليل، العود الفضي يعزف بشغف،\nالقلب يخاف من الغرفة الفارغة، يتردد في العودة."
+        },
+        "title_translation": {
+            "zh": "秋夜曲",
+            "en": "Autumn Night Melody",
+            "ja": "秋夜の曲",
+            "es": "Melodía Nocturna de Otoño",
+            "ar": "لحن ليلة الخريف"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "桂魄初生秋露微，轻罗已薄未更衣。\n银筝夜久殷勤弄，心怯空房不忍归。",
+    "title_pinyin": "qiū yè qū",
+    "pinyin": "guì pò chū shēng qiū lù wēi，qīng luó yǐ báo wèi gèng yī。\nyín zhēng yè jiǔ yīn qín nòng，xīn qiè kōng fáng bù rěn guī。"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "凉思",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，唐代著名诗人，字义山，号玉谿生，怀州河内（今河南沁阳）人。他擅长诗歌创作，尤以爱情诗和咏史诗闻名，风格婉约、含蓄，语言优美，意境深远。其诗多反映晚唐社会的动荡和个人失意，情感细腻，富有哲理。代表作有《无题》、《锦瑟》等。",
+            "en": "Li Shangyin was a renowned poet of the Tang Dynasty, styled Yishan and also known as Yuxi Sheng. He was born in Henei, Huai Prefecture (present-day Qinyang, Henan). Renowned for his poetic skills, especially in love and historical poems, his style was graceful and implicit, with beautiful language and profound imagery. His works often reflected the turmoil of the late Tang Dynasty and his personal frustrations, featuring delicate emotions and philosophical depth. His famous works include 'Untitled Poems' and 'Jin Se' among others.",
+            "ja": "李商隐は唐代の著名な詩人で、字は義山、号は玉谿生。懐州河内（現在の河南省沁陽市）出身。詩作に優れ、特に恋愛詩や歴史詩で知られる。彼の詩は婉約で含蓄に富み、言葉が美しく、意境が深遠である。作品は多くが晩唐の社会の動乱と個人の失意を反映し、繊細な感情と哲学的な深さを持つ。代表作に「無題」、「錦瑟」などがある。",
+            "es": "Li Shangyin fue un destacado poeta de la dinastía Tang, conocido por su nombre de cortesía Yishan y su seudónimo Yuxi Sheng. Nació en Henei, prefectura de Huai (actualmente Qinyang, Henan). Destacó por su habilidad en la creación poética, especialmente en poesía de amor e histórica, con un estilo elegante y sugerente, un lenguaje hermoso y una imaginería profunda. Sus obras a menudo reflejaban la agitación de la última etapa de la dinastía Tang y sus frustraciones personales, con emociones delicadas y una profundidad filosófica. Entre sus obras más famosas se encuentran 'Poemas sin título' y 'Jin Se'.",
+            "ar": "لي شانغ ين كان شاعرًا مشهورًا في عهد التانغ، يُعرف بلقبه يي شان ويُعرف أيضًا بيوي شي شينغ. وُلد في هيني، مقاطعة هواي (حاليًا قينيانغ، هينان). اشتهر بمهاراته في كتابة الشعر، خاصة في قصائد الحب والتاريخ، وكان أسلوبه أنيقًا ومimplicit، ولغته جميلة وتصوراته عميقة. غالبًا ما تعكس أعماله اضطرابات فترة التانغ المتأخرة وfrustraciones الشخصية، مع مشاعر دقيقة وعمق فلسفي. من أشهر أعماله 'قصائد بدون عنوان' و'جين سي'."
+        }
+    },
+    "annotations": {
+        "zh": "客去波平槛：客人离去后，水波平静到与栏杆齐平。蝉休露满枝：蝉声停止，露水挂满树枝。永怀当此节：在这个季节里长久地怀念。倚立自移时：独自倚立，时间不知不觉地流逝。北斗兼春远：北斗星和春天一样遥远。南陵寓使迟：南陵的使者迟迟未到。天涯占梦数：多次在梦中占卜远方的事。疑误有新知：怀疑是否有了新的知己。",
+        "en": "Guests leave, waves calm to the railing: After guests leave, the waves are calm and level with the railing. Cicadas rest, dew fills the branches: Cicadas stop singing, and dew covers the branches. Forever longing in this season: Longing deeply during this season. Leaning and standing, time passes unnoticed: Leaning alone, time slips by unnoticed. The North Star and spring are far: The North Star and spring are both distant. The messenger from Nanling is delayed: The messenger from Nanling is late. Dreaming of the horizon often: Often dreaming about distant places. Suspecting a new acquaintance: Doubting if there is a new friend.",
+        "ja": "客去波平槛：客が去った後、波が欄干にまで静まる。蝉休露满枝：蝉の声が止み、露が枝に満つ。永怀当此节：この季節に思いを長くする。倚立自移時：凭れ立ちして、時間が自然に過ぎる。北斗兼春遠：北斗星も春も遠い。南陵寓使遅：南陵からの使いが遅れている。天涯占夢数：遠くの事を夢で何度も占う。疑誤有新知：新しい知己ができたのではないかと疑う。",
+        "es": "Los huéspedes se van, las olas calman hasta la barandilla: Después de que los huéspedes se van, las olas se calman hasta el nivel de la barandilla. Los cicadidos descansan, el rocío llena las ramas: Los cicadidos dejan de cantar y el rocío cubre las ramas. Anhelo constante en esta estación: Anhelo profundo durante esta estación. Apoyado y de pie, el tiempo pasa inadvertido: Apoyado solo, el tiempo pasa sin darse cuenta. La Estrella del Norte y la primavera están lejos: La Estrella del Norte y la primavera están lejanas. El mensajero de Nanling se retrasa: El mensajero de Nanling está demorado. Soñando con el horizonte a menudo: A menudo soñando con lugares lejanos. Dudando de un nuevo conocido: Dudando si hay un nuevo amigo.",
+        "ar": "يذهب الضيوف، وتهدأ الأمواج حتى العارضة: بعد ذهاب الضيوف، تهدأ الأمواج حتى تصل إلى مستوى العارضة. تنام الجنادب، ويملأ الندى الأغصان: تتوقف الجنادب عن الصوت، ويغطي الندى الأغصان. التفكير الدائم في هذا الموسم: التفكير العميق خلال هذا الموسم. الوقوف المائل، ويمر الوقت دون أن يلاحظه أحد: الوقوف المائل بمفرده، ويمر الوقت دون أن يلاحظه. النجم الشمالي والربيع بعيدان: النجم الشمالي والربيع بعيدان. رسول نانلينغ متأخر: رسول نانلينغ متأخر في الوصول. الحلم بالأفق مرارًا: الحلم بالأماكن البعيدة مرارًا. الشك في معرفة جديدة: الشك في وجود صديق جديد."
+    },
+    "appreciations": {
+        "zh": "《凉思》一诗以秋夜为背景，抒发了诗人对远方友人的深切思念和孤独寂寞之情。主题思想在于表达对友情的珍视和对时光流逝的感慨。写作特色上，诗人运用了细腻的景物描写，如‘客去波平槛，蝉休露满枝’，营造出一种静谧而略带凉意的氛围。艺术成就方面，诗中意象鲜明，情感真挚，展现了唐代诗歌的抒情之美。情感分析上，诗人在秋夜中独自怀念友人，透露出淡淡的忧伤和无奈。影响意义上，此诗在文学史上体现了唐代诗人对友情和时光的深刻思考，具有较高的文学价值。",
+        "en": "The poem 'Liang Si' (Cool Thoughts) is set against the backdrop of an autumn night, expressing the poet's deep longing for a distant friend and his feelings of loneliness and solitude. The main theme revolves around the cherishing of friendship and the感慨 on the passage of time. In terms of writing style, the poet employs detailed descriptions of the scenery, such as 'Guests depart as waves flatten the railing, cicadas rest as dew covers the branches,' creating a tranquil yet slightly cool atmosphere. Artistically, the poem is notable for its vivid imagery and sincere emotions, showcasing the lyrical beauty of Tang poetry. Emotionally, the poet's solitary reminiscence in the autumn night reveals a subtle sadness and helplessness. In terms of its impact and significance, this poem reflects the profound contemplation of Tang poets on friendship and time, holding significant literary value in the history of literature.",
+        "ja": "《涼思》は秋の夜を背景に、詩人が遠方の友人に対する深い思いやりと孤独感を表現しています。主題思想は友情の大切さと時の流れに対する感慨にあります。表現手法としては、「客去波平檻、蝉休露満枝」といった緻密な風景描写を用い、静かで少し冷たい雰囲気を作り出しています。芸術的成果としては、詩中の意象が鮮明で、感情が真摯であり、唐代詩の抒情美を示しています。感情分析では、秋の夜に一人で友人を思い出す詩人が、淡淡とした悲しみと無力感をにじませています。影響意義としては、この詩は文学史上において唐代の詩人が友情と時間に対する深い思考を示しており、高い文学的価値を持っています。",
+        "es": "El poema 'Liang Si' (Pensamientos Fríos) se ambienta en una noche de otoño, expresando el profundo anhelo del poeta por un amigo lejano y su sentimiento de soledad y aislamiento. El tema principal gira en torno al valor de la amistad y la reflexión sobre el paso del tiempo. En cuanto al estilo de escritura, el poeta utiliza descripciones detalladas del paisaje, como 'Los huéspedes se van cuando las olas calman el pretil, los cicadidos descansan mientras el rocío cubre las ramas', creando una atmósfera tranquila pero ligeramente fría. Artísticamente, el poema se destaca por su imaginería vívida y emociones sinceras, mostrando la belleza lírica de la poesía Tang. En el análisis emocional, la reminiscencia solitaria del poeta en la noche de otoño revela una tristeza sutil y una sensación de impotencia. En términos de impacto y significado, este poema refleja la profunda reflexión de los poetas Tang sobre la amistad y el tiempo, teniendo un alto valor literario en la historia de la literatura.",
+        "ar": "القصيدة ‘ليانغ سي’ (الأفكار الباردة) تتخذ من ليلة الخريف خلفية، تعبر عن شوق الشاعر العميق لأصدقائه البعيدين و شعوره بالوحدة والانعزال. الفكرة الرئيسية تدور حول قيمة الصداقة والتفكير في مرور الزمن. من حيث الأسلوب الكتابي، يستخدم الشاعر وصفًا مفصلاً للمناظر الطبيعية، مثل ‘يذهب الضيوف عندما تهدأ الأمواج عند الحاجز، تستريح الجنادب بينما يغطي الندى الأغصان’， مما يخلق جوًا هادئًا لكنه بارد قليلاً. من الناحية الفنية، تتميز القصيدة بصورها الحية وعواطفها الصادقة، مما يعكس جمال الشعر التانغي. في تحليل العواطف، يعبر الشاعر في ليلة الخريف عن حزن خفيف و شعور بالعجز. من حيث التأثير والمعنى، تعكس هذه القصيدة التفكير العميق لشعراء التانغ في الصداقة والزمن، ولها قيمة أدبية عالية في تاريخ الأدب."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "客人离去，波澜平静至栏杆，蝉声停止，露水挂满枝头。在这时节长久怀念，独自倚立，时光悄然流逝。北斗星和春天一样遥远，南陵的使者迟迟未至。天涯之处多次占卜梦境，疑心是有了新的知己。",
+            "en": "The guest has left, the waves are calm at the railing, the cicadas are silent, and dew drips from the branches. In this season, I long enduringly, leaning alone, time slips away. The North Star is as distant as spring, the messenger from Nanling is delayed. At the edge of the world, I often divine dreams, suspecting a new acquaintance has arisen.",
+            "ja": "客が去り、波は欄干に静まり、蝉の声も止み、露が枝いっぱいに。この季節に思いを馳せ、独り立ち尽くし、時が流れる。北斗も春も遠く、南陵の使いはまだ来ず。天涯にて夢を占うたび、新しい知己の誤りを疑う。",
+            "es": "El huésped se ha ido, las olas están tranquilas hasta la barandilla, los cigarras callan y el rocío cubre las ramas. En esta estación, recuerdo constantemente, apoyado solo, el tiempo pasa inadvertido. La Estrella del Norte está tan lejos como la primavera, el mensajero de Nanling se retrasa. En el fin del mundo, adivino sueños repetidamente, sospechando de un nuevo conocido.",
+            "ar": "غادر الضيف، وهدأت الأمواج عند الحاجز، صمتت цикады، وعلا الندى الأغصان. في هذا الفصل، أتذكر طويلاً، واقفاً وحدي، يتسلل الزمن. النجم الشمالي بعيد كالربيع، ورسول نانلين يتأخر. عند أقصى الأرض، أ гадаю في الأحلام مراراً، أشك في معرفة جديدة."
+        },
+        "title_translation": {
+            "zh": "凉思",
+            "en": "Cool Thoughts",
+            "ja": "涼しい思惟",
+            "es": "Pensamientos Fríos",
+            "ar": "التفكير البارد"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "客去波平槛，蝉休露满枝。永怀当此节，倚立自移时。\n北斗兼春远，南陵寓使迟。天涯占梦数，疑误有新知。",
+    "title_pinyin": "liáng sī",
+    "pinyin": "kè qù bō píng kǎn，chán xiū lù mǎn zhī。yǒng huái dāng cǐ jié，yǐ lì zì yí shí。\nběi dòu jiān chūn yuǎn，nán líng yù shǐ chí。tiān yá zhàn mèng shù，yí wù yǒu xīn zhī。"
+}

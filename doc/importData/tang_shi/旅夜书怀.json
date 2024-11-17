@@ -1,0 +1,57 @@
+{
+    "title": "旅夜书怀",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫（712年－770年），字子美，号少陵野老，唐代著名现实主义诗人，与李白合称为“李杜”。他的诗歌内容广泛，反映了唐代社会的各个方面，尤其是对人民疾苦的深刻描绘，被誉为“诗史”。《旅夜书怀》是他在流寓生涯中所作，表达了他对人生和命运的感慨。",
+            "en": "Du Fu (712-770), styled Zimei, also known as Shaoling Ye Lao, was a renowned realist poet of the Tang Dynasty, often paired with Li Bai as 'Li Du'. His poetry covers a wide range of topics, reflecting various aspects of Tang society, particularly the profound depiction of people's sufferings, earning him the title 'Poet Historian'. 'Lüye Shuhuai' was composed during his wandering life, expressing his reflections on life and fate.",
+            "ja": "杜甫（712年－770年）、字は子美、号は少陵野老、唐代の著名な現実主義詩人で、李白と共に「李杜」と称される。彼の詩は広範な内容を持ち、唐代社会の各方面を反映し、特に人民の苦悩を深く描いたことで「詩史」と称賛される。《旅夜書懐》は彼の流浪生活中に作られ、人生と運命に対する感慨を表している。",
+            "es": "Du Fu (712-770), apodado Zimei y también conocido como Shaoling Ye Lao, fue un destacado poeta realista de la dinastía Tang, a menudo mencionado junto a Li Bai como 'Li Du'. Su poesía abarca una amplia gama de temas, reflejando diversos aspectos de la sociedad Tang, especialmente la profunda descripción de las penurias del pueblo, lo que le valió el título de 'Poeta Historiador'. 'Lüye Shuhuai' fue compuesto durante su vida errante, expresando sus reflexiones sobre la vida y el destino.",
+            "ar": "دو فو (712-770)، ويعرف بزيمي، وكذلك بشارلينغ يي لاو، كان شاعرًا واقعيًا بارزًا في عهد التانغ، وغالبًا ما يذكر جنبًا إلى جنب مع لي باي كـ 'لي دو'. شعره يغطي مجموعة واسعة من المواضيع، يعكس جوانب مختلفة من المجتمع التانغي، خاصة وصفه العميق لمعاناة الناس، مما أهله ليُعرف بـ 'شاعر التاريخ'. 'lüye Shuhuai' كُتب خلال حياته المتنقلة، يعبر عن تأملاته في الحياة والقدر."
+        }
+    },
+    "annotations": {
+        "zh": "细草：细小的草。微风：轻微的风。岸：河岸。危樯：高高的桅杆。独夜舟：孤独的夜行船。星垂：星星低垂。平野阔：平原广阔。月涌：月光涌动。大江流：大江奔流。名岂：名声难道。文章著：因文章而著名。官应：官职应当。老病休：因年老多病而退休。飘飘：飘泊不定。何所似：像什么。天地一沙鸥：天地间的一只沙鸥。\n语法说明：无特殊句式。\n典故解释：无特别用典。\n意象分析：细草微风、危樯独舟、星垂平野、月涌大江等意象营造出孤独、辽阔的氛围，表达诗人漂泊无依的心情。\n历史背景：杜甫晚年漂泊西南，此诗反映了他当时的孤独与无奈。",
+        "en": "Fine grass: small, delicate grass. Gentle breeze: a light wind. Bank: riverbank. High mast: tall mast. Lone night boat: a solitary boat traveling at night. Stars hang: stars appear low. Vast plain: a wide expanse of flat land. Moon surges: moonlight seems to surge. Great river flows: a large river flows. Fame not: fame perhaps not. Articles renowned: famous for writings. Official should: official position should. Old and sick retire: retire due to old age and illness. Drifting: wandering aimlessly. What is it like: what does it resemble. A sandpiper in the universe: a single sandpiper in the vastness of the world.\nGrammar notes: No special sentence structures.\nAllusion explanation: No specific allusions.\nImagery analysis: The imagery of fine grass in a gentle breeze, a high mast on a lone boat, stars hanging over a vast plain, and the moon surging in a great river creates a sense of solitude and vastness, expressing the poet's feelings of aimlessness and loneliness.\nHistorical background: Du Fu wandered in the southwest in his later years, and this poem reflects his solitude and helplessness at that time.",
+        "ja": "細草：細かい草。微風：柔らかな風。岸：川岸。危樯：高いマスト。独夜舟：孤独な夜の舟。星垂：星が低く垂れる。平野闊：平原が広がる。月涌：月光が湧き出る。大江流：大きな川が流れる。名岂：名声は。文章著：文章で著名。官應：官職は。老病休：老いと病気で休む。飘飘：漂う。何所似：何に似ている。天地一沙鷗：天地に一羽のサギ。\n文法説明：特異な文法はない。\n典故説明：特に用いられた典故はない。\n意象分析：細草の微風、危樯の独夜舟、星垂れる平野、月涌く大江などの意象が孤独で広がりのある雰囲気を作り出し、詩人の漂泊する心情を表現する。\n歴史背景：杜甫は晩年西南に漂泊し、この詩はその時の孤独と無力感を反映している。",
+        "es": "Hierba fina: hierba pequeña y delicada. Brisa suave: viento ligero. Orilla: ribera del río. Mástil alto: mástil elevado. Barco solitario en la noche: barco que viaja solo durante la noche. Estrellas colgantes: estrellas que parecen estar bajas. Llanura vasta: extensa llanura. Luna que surge: la luz de la luna parece surgir. Gran río fluye: un gran río fluye. ¿Fama acaso?: ¿es la fama?. Artículos renombrados: famoso por escritos. Cargo debería: el cargo debería. Viejo y enfermo se retira: se retira por vejez y enfermedad. Flotando: deambulando sin rumbo. ¿A qué se parece?: ¿a qué se asemeja?. Una gaviota en el universo: una sola gaviota en el vasto universo.\nNotas gramaticales: No hay estructuras gramaticales especiales.\nExplicación de alusiones: No hay alusiones específicas.\nAnálisis de imágenes: Las imágenes de hierba fina en una brisa suave, un mástil alto en un barco solitario, estrellas colgantes sobre una llanura vasta y la luna surgiendo en un gran río crean una atmósfera de soledad y amplitud, expresando el sentimiento de desorientación y soledad del poeta.\nContexto histórico: Du Fu vagó por el suroeste en sus últimos años, y este poema refleja su soledad e impotencia en ese momento.",
+        "ar": "النبات الرفيع: الأعشاب الصغيرة والرقيقة. نسيم خفيف: رياح خفيفة. الشاطئ: ضفة النهر. الصارية العالية: الصارية الطويلة. سفينة وحيدة في الليل: سفينة تسافر بمفردها في الليل. النجوم معلقة: النجوم تبدو منخفضة. سهل واسع: سهل ممتد. القمر يندفع: ضوء القمر يبدو واعدا. نهر كبير يتدفق: نهر كبير يتدفق. الشهرة ربما: الشهرة ربما لا. المقالات المشهورة: مشهور بسبب الكتابات. الوظيفة يجب: الوظيفة يجب. الشيخوخة والمرض يرتاح: يتقاعد بسبب الشيخوخة والمرض. طائر الطنان: يتجول بلا هدف. ما يشبه: ما يشبهه. طائر النورس في الكون: طائر نورس واحد في الكون الواسع.\nملاحظات نحوية: لا توجد بنى نحوية خاصة.\nشرح الإستعارات: لا توجد إستعارات محددة.\nتحليل الصور: صور النبات الرفيع في نسيم خفيف، الصارية العالية في سفينة وحيدة، النجوم المعلقة فوق سهل واسع، والقمر يندفع في نهر كبير تخلق جوا من الوحدة والاتساع، تعبر عن شعور الشاعر بالتيه والوحدة.\nالخلفية التاريخية: قضى دو فوي سنواته الأخيرة متنقلا في الجنوب الغربي، وي phản ánh الشعور بالوحدة والعجز في ذلك الوقت."
+    },
+    "appreciations": {
+        "zh": "《旅夜书怀》是唐代诗人杜甫的作品，主题思想表达了诗人漂泊无依、孤寂凄凉的心境。写作特色上，诗人通过细腻的景物描写，如细草、微风、星垂、月涌等，营造出一种静谧而广阔的夜色氛围，反衬出自身的孤独与渺小。艺术成就方面，诗歌结构严谨，意境深远，语言凝练，展现了杜甫高超的艺术造诣。情感分析上，诗人在感叹自己文名不显、官场失意的同时，流露出对人生无常的深刻感慨。影响意义上，此诗作为杜甫晚年代表作之一，在中国文学史上具有重要地位，对后世诗歌创作产生了深远影响。",
+        "en": "In 'Composed on a Journey at Night', a Tang Dynasty poem by Du Fu, the theme reflects the poet's sense of drifting and loneliness. In terms of writing style, Du Fu uses delicate descriptions of the scenery, such as fine grass, gentle breeze, stars hanging low, and the moon surging in the river, to contrast his solitude against the vastness of nature. Artistically, the poem is structured meticulously, with profound imagery and concise language, showcasing Du Fu's exceptional artistic skill. Emotionally, the poet laments his lack of fame in literature and retirement from official life due to age and illness, expressing deep sentiments about the transience of life. In terms of influence, this poem, as one of Du Fu's later masterpieces, holds a significant place in the history of Chinese literature and has profoundly impacted subsequent poetic compositions.",
+        "ja": "杜甫の唐代の詩「旅夜書懷」は、詩人の漂泊と孤独の心境を主題としています。表現手法としては、細草、微风、星垂、月涌といった繊細な風景描写を通じて、静かで広大な夜の雰囲気を作り出し、自身の孤独と小ささを対比させています。芸術的成果としては、詩の構造が厳密で、意境が深遠、言葉が凝縮されており、杜甫の高い芸術的才能が示されています。感情分析では、文名が顕れないことや官場での失意を嘆きながら、人生の無常に対する深い感慨を表しています。影響の意味では、杜甫の晩年代表作の一つとして、中国文学史上に重要な地位を占め、後世の詩作に大きな影響を与えました。",
+        "es": "En 'Reflexiones durante una noche de viaje', poema de la dinastía Tang escrito por Du Fu, el tema principal expresa la sensación de vagabundeo y soledad del poeta. En cuanto a las características de escritura, Du Fu utiliza descripciones detalladas del paisaje, como la hierba fina, la brisa suave, las estrellas que cuelgan sobre la llanura y la luna que surge en el río, para contrastar su soledad con la inmensidad de la naturaleza. En términos de logros artísticos, el poema está estructurado con precisión, con una imaginería profunda y un lenguaje conciso, demostrando la habilidad artística excepcional de Du Fu. En el análisis emocional, el poeta lamenta su falta de fama literaria y su retiro de la vida oficial debido a la vejez y la enfermedad, expresando sentimientos profundos sobre la transitoriedad de la vida. En cuanto a su significado e influencia, este poema, como una de las obras maestras de la última etapa de Du Fu, ocupa un lugar importante en la historia de la literatura china y ha tenido un impacto profundo en la creación poética posterior.",
+        "ar": "في قصيدة \"ملاحظات في ليلة سفر\" للشاعر التانغي دو فو، يعبر الموضوع الرئيسي عن شعور الشاعر بالتشرذم والوحدة. من حيث الأسلوب الكتابي، يستخدم دو فو وصفًا دقيقًا للمناظر الطبيعية، مثل العشب الرقيق، والنسيم الخفيف، والنجوم المتدلية فوق السهل، والقمر المتدفق في النهر، ليعكس وحدته مقابل ضخامة الطبيعة. من الناحية الفنية، تتسم القصيدة بالبناء الدقيق، والصور العميقة، واللغة المقتضبة، مما يبرز موهبة دو فو الفنية الاستثنائية. في تحليل العواطف، يعبر الشاعر عن حزنه لعدم شهرته الأدبية واستقالته من الحياة الرسمية بسبب الكبر والمرض، متحدثًا عن مشاعر عميقة حول زوال الحياة. من حيث التأثير والمعنى، تحتل هذه القصيدة، كواحدة من روائع المرحلة الأخيرة لدو فو، مكانة مهمة في تاريخ الأدب الصيني ولها تأثير عميق على الأعمال الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "细草微风岸，危樯独夜舟。\n星垂平野阔，月涌大江流。\n名岂文章著，官应老病休。\n飘飘何所似，天地一沙鸥。",
+            "en": "Fine grass on the shore, a gentle breeze;\nA tall mast alone in the night boat.\nStars hang over the vast plain;\nThe moon surges in the great river's flow.\nFame not from essays, but official post retired due to age and ailment.\nDrifting, what do I resemble?\nA lone sandpiper in the vast sky and earth.",
+            "ja": "細草微風の岸に、高櫓独夜の舟。\n星は平野に垂れ、月は大江に涌く。\n名は文章で顕れず、官は老病で休む。\n漂う我は何に似るや、天地に一羽の鴎。",
+            "es": "Hierba fina en la orilla, brisa suave;\nUn mástil alto en la barca solitaria de noche.\nEstrellas colgando sobre la vasta llanura;\nLa luna surge en el flujo del gran río.\n¿La fama por los escritos? El cargo se retira por vejez y enfermedad.\nFlotando, ¿a qué me parezco?\nUn gaviotín solitario en el vasto cielo y tierra.",
+            "ar": "حشيش رفيع على الشاطئ، نسيم خفيف؛\nصارية عالية في سفينة وحيدة بالليل.\nالنجوم معلقة فوق السهل الواسع؛\nالقمر يندفع في تدفق النهر العظيم.\nالمجد ليس من المقالات، ولكن الوظيفة تُترك بسبب الكبر والمرض.\nأنا أطير، ماذا أُشبه؟\nنورس وحيد في السماء والأرض الواسعة."
+        },
+        "title_translation": {
+            "zh": "旅夜书怀",
+            "en": "Reflections on a Travel Night",
+            "ja": "旅夜の書怀",
+            "es": "Reflexiones en una Noche de Viaje",
+            "ar": "تأملات في ليلة السفر"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "细草微风岸，危樯独夜舟。\n星垂平野阔，月涌大江流。\n名岂文章著，官应老病休。\n飘飘何所似，天地一沙鸥。",
+    "title_pinyin": "lǚ yè shū huái",
+    "pinyin": "xì cǎo wēi fēng àn，wēi qiáng dú yè zhōu。\nxīng chuí píng yě kuò，yuè yǒng dà jiāng liú。\nmíng qǐ wén zhāng zhù，guān yīng lǎo bìng xiū。\npiāo piāo hé suǒ shì，tiān dì yī shā ōu。"
+}

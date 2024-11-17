@@ -1,0 +1,57 @@
+{
+    "title": "听筝",
+    "difficulty": 2,
+    "author": {
+        "name": "李端",
+        "name_pinyin": "lǐ duān",
+        "image": "李端.jpg",
+        "introduction": {
+            "zh": "李端，唐代著名诗人，字正己，赵郡（今河北赵县）人。大历五年（770年）进士，授秘书省校书郎。后因病辞官，隐居终南山。李端的诗作以清新自然、意境深远著称，尤其擅长五言律诗。其诗多描写山水田园，表达隐逸情怀，风格清新脱俗，深受后世文人推崇。代表作有《听筝》、《宿石门》等。",
+            "en": "Li Duan was a renowned poet of the Tang Dynasty, styled Zhengji, from Zhao County (present-day Hebei Province). He passed the imperial examination in 770 AD and was appointed as a librarian in the Imperial Secretariat. Later, he resigned due to illness and lived in seclusion in the Zhongnan Mountains. Li Duan's poetry is known for its fresh and natural style and profound artistic conception, especially excelling in five-character regulated verse. His poems often depict landscapes and pastoral scenes, expressing a reclusive sentiment, with a style that is both fresh and refined, highly esteemed by later generations of literati. His representative works include 'Listening to the Zither' and 'Staying at Stone Gate'.",
+            "ja": "李端は唐代の著名な詩人で、字は正己、趙郡（現在の河北省趙県）出身。大暦5年（770年）に進士となり、秘書省校書郎に任命された。その後病気を理由に官職を辞し、終南山に隠棲した。李端の詩は清新で自然、意境が深遠であり、特に五言律詩に優れていた。詩は山水や田園を描き、隠逸の情懐を表現し、清新で俗離れたスタイルで、後世の文人に高く評価されている。代表作に「聴筝」、「石門宿」などがある。",
+            "es": "Li Duan fue un poeta destacado de la dinastía Tang, conocido por su estilo Zhengji, originario de Zhao County (actual provincia de Hebei). En 770 d.C., aprobó el examen imperial y fue nombrado bibliotecario en la Secretaría Imperial. Más tarde, renunció debido a una enfermedad y se retiró a las montañas Zhongnan. La poesía de Li Duan es conocida por su estilo fresco y natural y su profunda concepción artística, destacando especialmente en el verso regulado de cinco caracteres. Sus poemas a menudo describen paisajes y escenas pastorales, expresando un sentimiento de reclusión, con un estilo fresco y refinado, muy apreciado por las generaciones posteriores de literatos. Sus obras representativas incluyen 'Escuchar el Cítara' y 'Permanecer en la Puerta de Piedra'.",
+            "ar": "لي دوآن كان شاعرًا مشهورًا في عهد التانغ، يُعرف بلقب تشنغجي، من مقاطعة تشاو (حاليًا مقاطعة خبي). في عام 770 م، نجح في الإمتحان الإمبراطوري وتم تعيينه كأمين مكتبة في السكرتارية الإمبراطورية. لاحقًا، استقال بسبب المرض وعاش في اعتزال في جبال تشونغنان. أشعار لي دوآن معروفة بأسلوبها العذب والطبيعي وفكرتها الفنية العميقة، وخاصة في القصائد المقيدة من خمس كلمات. قصائده غالبًا ما تصف المناظر الطبيعية والمناظر الريفية، تعبر عن شعور العزلة، بأسلوب نقي ومتطور، وهو ما يُقدر بشدة من قبل الأدباء في الأجيال اللاحقة. من أعماله المميزة 'استماع إلى القيثارة' و'البقاء عند البوابة الحجرية'."
+        }
+    },
+    "annotations": {
+        "zh": "鸣筝金粟柱：鸣筝，弹奏古筝；金粟柱，古筝上装饰的金色柱子。素手玉房前：素手，洁白的手；玉房，华丽的房间。欲得周郎顾：周郎，指三国时期的周瑜，以音乐鉴赏能力著称；顾，回头看。时时误拂弦：故意时常弹错弦。此诗描写一位女子为吸引周瑜的注意，故意弹错筝弦。",
+        "en": "Playing the zither with golden pillars: zither, a traditional Chinese musical instrument; golden pillars, decorative golden posts on the zither. White hands in front of the jade room: white hands, clean and fair hands; jade room, a luxurious room. Wanting to catch Zhou Lang's attention: Zhou Lang, referring to Zhou Yu from the Three Kingdoms period, known for his musical appreciation; attention, looking back. Often mistakenly plucking the strings: deliberately playing wrong notes. This poem depicts a woman trying to attract Zhou Yu's attention by purposely playing the zither incorrectly.",
+        "ja": "鳴筝金粟柱：鳴筝、古筝を弾くこと；金粟柱、古筝に飾られた金色の柱。素手玉房前：素手、白い手；玉房、豪華な部屋。欲得周郎顧：周郎、三国時代の周瑜を指し、音楽の鑑賞力で知られる；顧、振り向くこと。時時誤拂弦：故意に時々弦を間違えて弾く。この詩は、女性が周瑜の注意を引くために、わざと古筝を間違えて弾く様子を描いている。",
+        "es": "Tocando el cítara con columnas de oro: cítara, un instrumento musical tradicional chino; columnas de oro, postes decorativos dorados en el cítara. Manos blancas delante de la habitación de jade: manos blancas, manos limpias y claras; habitación de jade, una habitación lujosa. Queriendo captar la atención de Zhou Lang: Zhou Lang, refiriéndose a Zhou Yu de la época de los Tres Reinos, conocido por su apreciación musical; atención, mirar hacia atrás. A menudo rozando las cuerdas por error: deliberadamente tocando notas incorrectas. Este poema describe a una mujer que intenta atraer la atención de Zhou Yu tocando el cítara incorrectamente a propósito.",
+        "ar": "عزف القيثارة ذات الأعمدة الذهبية: القيثارة، آلة موسيقية تقليدية صينية؛ الأعمدة الذهبية، أعمدة زخرفية ذهبية على القيثارة. الأيدي البيضاء أمام غرفة الياقوت: الأيدي البيضاء، أيدي نظيفة وبيضاء؛ غرفة الياقوت، غرفة فاخرة. رغبة في جذب انتباه جو لانغ: جو لانغ، يشير إلى جو يو من فترة الثلاث ممالك، معروف بمقدرته على تذوق الموسيقى؛ الانتباه، النظر إلى الوراء. غالبًا ما يخطئ في لمس الأوتار: تتعمد العزف على النغمات الخاطئة. هذا الشعر يصف امرأة تحاول جذب انتباه جو يو عن طريق العزف على القيثارة بشكل خاطئ متعمد."
+    },
+    "appreciations": {
+        "zh": "《听筝》这首诗通过描绘一位弹筝女子在玉房前用素手弹奏金粟柱筝的场景，表达了女子希望通过故意弹错筝弦来吸引心上人注意的微妙心理。主题思想在于揭示女性细腻的情感世界和对爱情的渴望。写作特色上，诗人运用了细腻的描写和巧妙的暗示，通过“误拂弦”这一细节，生动地刻画了女子的内心活动。艺术成就方面，诗歌以简洁的语言和生动的意象，展现了丰富的情感和细腻的心理，具有较高的艺术价值。情感分析上，诗中抒发了女子对爱情的期盼和羞涩的心情。影响意义上，这首诗在文学史上以其独特的视角和细腻的情感描写，成为唐代爱情诗中的佳作，对后世诗歌创作产生了深远影响。",
+        "en": "The poem 'Listening to the Zither' depicts a scene where a woman plays the zither with her delicate hands in front of a jade room, expressing her subtle psychology of intentionally playing the wrong strings to attract the attention of her beloved. The main theme reveals the intricate emotional world of women and their longing for love. In terms of writing style, the poet uses detailed descriptions and clever hints, vividly portraying the woman's inner thoughts through the detail of 'mistakenly strumming the strings'. Artistically, the poem, with its concise language and vivid imagery, showcases rich emotions and delicate psychology, possessing high artistic value. Emotionally, it conveys the woman's anticipation and shyness in love. In terms of significance, this poem stands out in literary history for its unique perspective and intricate emotional depiction, becoming a masterpiece of Tang Dynasty love poetry and exerting a profound influence on later poetic creations.",
+        "ja": "「聴筝」という詩は、玉の部屋の前に素手で金粟柱の筝を弾く女性の情景を描き、故意に弦を間違えて弾くことで心爱的人の注意を引こうとする女性の微妙な心理を表現しています。主題思想は、女性の繊細な感情世界と愛情への渇望を明らかにすることにあります。表現手法としては、詩人は細やかな描写と巧みな暗示を用い、「誤って弦を弾く」という細かなディテールを通じて、女性の内面活動を生き生きと描いています。芸術的成就としては、簡潔な言語と鮮明なイメージで豊かな感情と繊細な心理を表現し、高い芸術価値を持っています。感情分析では、詩中で女性の愛情に対する期待と照れ隠しの心情が抒発されています。影響意義としては、この詩は独特の視点と繊細な感情描写で文学史上に輝き、唐代の恋愛詩の中でも傑作とされ、後世の詩作に深い影響を与えました。",
+        "es": "El poema 'Escuchar el Cítara' retrata una escena en la que una mujer toca el cítara con sus manos delicadas frente a una habitación de jade, expresando su psicología sutil de tocar deliberadamente las cuerdas incorrectas para atraer la atención de su amado. El tema principal revela el mundo emocional complejo de las mujeres y su deseo de amor. En cuanto a la técnica literaria, el poeta utiliza descripciones detalladas e insinuaciones hábiles, representando vívidamente los pensamientos internos de la mujer a través del detalle de 'tocar las cuerdas por error'. Artísticamente, el poema, con su lenguaje conciso e imágenes vívidas, muestra emociones ricas y una psicología delicada, poseyendo un alto valor artístico. En el análisis emocional, el poema expresa la anticipación y timidez de la mujer en el amor. En términos de significado, este poema destaca en la historia literaria por su perspectiva única y su detallada descripción emocional, convirtiéndose en una obra maestra de la poesía amorosa de la dinastía Tang y ejerciendo una profunda influencia en las creaciones poéticas posteriores.",
+        "ar": "القصيدة 'استماع إلى القيثارة' تصور مشهداً حيث تؤدي امرأة العزف على القيثارة بيديها الرقيقتين أمام غرفة من الياقوت، معبرة عن نفسيتها الدقيقة في العزف المتعمد على الأوتار الخاطئة لجذب انتباه حبيبها. الفكرة الرئيسية تكشف عن العالم العاطفي المعقد للنساء وتوقهن للحب. من حيث الأسلوب الأدبي، يستخدم الشاعر وصفاً مفصلاً و تلميحات ذكية، معبراً بشكل حي عن أفكار المرأة الداخلية من خلال تفصيل 'العزف الخاطئ للأوتار'. فنياً، القصيدة، بلسانها الموجز وتصاويرها الحية، تظهر مشاعر غنية ونفسية دقيقة، وتتمتع بقيمة فنية عالية. في التحليل العاطفي، تعبر القصيدة عن تطلع المرأة وخجلها في الحب. من حيث المعنى، تبرز هذه القصيدة في تاريخ الأدب لelperspectiva الفريدة ووصفها العاطفي المفصل، لتصبح تحفة من شعر الحب في dynasty التانغ وتؤثر تأثيراً عميقاً في الإبداعات الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "金粟柱上筝声鸣，素手轻弹玉房前。\n为引周郎频回顾，时时故意错拂弦。",
+            "en": "The zither sounds on golden millet pillars,\nFair hands play before the jade chamber.\nTo catch Zhou Lang's gaze, she often\nFrets the strings with故意 mistakes.",
+            "ja": "金粟の柱に筝の音が鳴り、\n白い手が玉の部屋の前で弾く。\n周郎の眸を惹きつけるため、\n時々わざと弦を誤る。",
+            "es": "El cítara resuena en columnas de mijo dorado,\nManos blancas tocan ante la cámara de jade.\nPara atraer la mirada de Zhou Lang,\nA menudo frota las cuerdas con errores intencionales.",
+            "ar": "صوت القيثارة يرن على أعمدة الذرة الذهبية،\nأيادي بيضاء تعزف أمام غرفة الياقوت.\nلجذب نظر تشو لانغ،\nتخطئ في العزف عمداً في كل حين."
+        },
+        "title_translation": {
+            "zh": "听筝",
+            "en": "Listening to the Zither",
+            "ja": "筝を聴く",
+            "es": "Escuchando el Cítara",
+            "ar": "استماع إلى القيثارة"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "鸣筝金粟柱，素手玉房前。\n欲得周郎顾，时时误拂弦。",
+    "title_pinyin": "tīng zhēng",
+    "pinyin": "míng zhēng jīn sù zhù，sù shǒu yù fáng qián。\nyù dé zhōu láng gù，shí shí wù fú xián。"
+}

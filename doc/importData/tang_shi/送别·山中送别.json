@@ -1,0 +1,57 @@
+{
+    "title": "送别·山中送别",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（701年－761年），字摩诘，号摩诘居士，唐朝著名诗人、画家，与孟浩然并称“王孟”，有“诗佛”之称。他的诗风清新淡雅，擅长描绘山水田园风光，代表作有《山居秋暝》、《鸟鸣涧》等。王维不仅诗艺高超，还精通音乐、书法，是唐代多才多艺的文人代表。",
+            "en": "Wang Wei (701-761), styled Mojie and also known as Mojie居士, was a renowned poet and painter of the Tang Dynasty. He is often mentioned alongside Meng Haoran as 'Wang Meng' and is dubbed the 'Poetic Buddha'. His poetic style is fresh and elegant, excelling in depicting landscapes and pastoral scenes. His notable works include 'Autumn Evening in a Mountain Dwelling' and 'Birdsong in the Ravine'. Wang Wei was not only a master of poetry but also proficient in music and calligraphy, representing the versatile literati of the Tang era.",
+            "ja": "王維（701年－761年）、字は摩詰、号は摩詰居士、唐代の著名な詩人・画家であり、孟浩然と共に「王孟」と称され、「詩仏」とも呼ばれる。彼の詩風は清新で淡雅であり、山水や田園風景の描写に長けている。代表作には『山居秋暝』『鳥鳴澗』などがある。王維は詩の技術だけでなく、音楽や書道にも精通しており、唐代の多才な文人の代表である。",
+            "es": "Wang Wei (701-761), conocido por su nombre de estilo Mojie y también como Mojie居士, fue un destacado poeta y pintor de la dinastía Tang. Se le menciona junto a Meng Haoran como 'Wang Meng' y se le apoda el 'Buda Poético'. Su estilo poético es fresco y elegante, destacando en la descripción de paisajes y escenas campestres. Entre sus obras más conocidas se encuentran 'Atardecer en una Casa de Montaña' y 'Canto de Pájaros en el Barranco'. Wang Wei no solo era un maestro de la poesía, sino también competente en música y caligrafía, representando a los literatos versátiles de la era Tang.",
+            "ar": "وانغ وي (701-761)، المعروف بلقبه مو جييه ويسمى أيضًا مو جييه لوشي، كان شاعرًا وفنانًا مشهورًا في عهد أسرة تانغ. يُذكر جنبًا إلى جنب مع مينغ هواوران كـ 'وانغ مينغ' ويُلقب بـ 'بوذا الشعر'. يتميز أسلوبه الشعري بالحداثة والأناقة، ويتقن وصف المناظر الطبيعية والمناظر الريفية. من أشهر أعماله 'المساء في منزل الجبل' و 'غناء الطيور في الوادي'. لم يكن وانغ وي مجرد محترف في الشعر، بل كان بارعًا في الموسيقى والخطابة، يمثل الأدباء الموهوبين في عهد تانغ."
+        }
+    },
+    "annotations": {
+        "zh": "山中相送罢：在山中送别友人之后。相送，互相送别；罢，结束。\n日暮掩柴扉：太阳落山时关上柴门。日暮，太阳落山的时候；掩，关上；柴扉，用柴木做的门。\n春草明年绿：明年春天草又变绿。春草，春天的草；明年，第二年。\n王孙归不归？：朋友你明年还会回来吗？王孙，原指贵族子弟，这里指朋友；归，回来。\n特殊句式：疑问句式“王孙归不归？”表示对朋友归来的期盼。\n典故解释：王孙一词出自《楚辞·招隐士》中的“王孙游兮不归，春草生兮萋萋”，表达对友人离去的思念。\n意象分析：春草象征生机与希望，日暮象征时间的流逝，柴扉象征简朴的生活。\n历史背景：唐代诗人常常通过送别诗表达对友人的深情和对未来的期盼，反映了当时文人间的深厚友谊。",
+        "en": "Mountain farewell finished: After bidding farewell to a friend in the mountains. Farewell, mutual farewell; finished, ended.\nAt dusk, close the wooden door: Close the wooden door when the sun sets. Dusk, when the sun sets; close, shut; wooden door, a door made of wood.\nGreen grass next year: The grass will turn green again next spring. Green grass, spring grass; next year, the following year.\nWill the nobleman return? Will you, my friend, return next year? Nobleman, originally referring to a noble's son, here referring to a friend; return, come back.\nSpecial sentence structure: The interrogative sentence 'Will the nobleman return?' expresses the expectation of the friend's return.\nAllusion explanation: The term 'nobleman' comes from 'Chu Ci · Zhao Yin Shi', 'The nobleman wanders and does not return, the spring grass grows lush', expressing the longing for the departure of a friend.\nImagery analysis: Green grass symbolizes vitality and hope, dusk symbolizes the passage of time, and the wooden door symbolizes a simple life.\nHistorical background: Poets in the Tang Dynasty often expressed deep feelings for friends and expectations for the future through farewell poems, reflecting the profound friendship among literati at that time.",
+        "ja": "山中相送罢：山の中で友人と別れた後。相送り、互いに見送る；罢、終わる。\n日暮掩柴扉：日が暮れて木の扉を閉める。日暮、日が暮れる時；掩、閉める；柴扉、木で作った扉。\n春草明年绿：来年春には草が再び緑になる。春草、春の草；明年、翌年。\n王孙归不归？：友人、来年戻るのか？王孙、元々は貴族の子息を指すが、ここでは友人を指す；归、戻る。\n特殊文法：疑問文「王孙归不归？」は友人の帰還を期待する心情を表す。\n典故説明：「王孙」は「楚辞・招隠士」の「王孙遊兮不帰、春草生兮萋萋」から来ており、友人の離れ去りを思う心情を表す。\n意象分析：春草は生命力と希望を象徴し、日暮れは時間の流れを象徴し、柴扉は質素な生活を象徴する。\n歴史背景：唐代の詩人は別れの詩を通じて友人への深い感情や未来への期待を表現し、当時の文人同士の深い友情を反映していた。",
+        "es": "Mountain farewell finished: Después de despedir a un amigo en la montaña. Despedida, despedida mutua; finished, terminado.\nAt dusk, close the wooden door: Cerrar la puerta de madera al atardecer. Atardecer, cuando el sol se pone; close, cerrar; wooden door, puerta de madera.\nGreen grass next year: La hierba volverá a ser verde la próxima primavera. Green grass, hierba de primavera; next year, el próximo año.\nWill the nobleman return? ¿Volverás tú, mi amigo, el próximo año? Nobleman, originalmente se refiere al hijo de un noble, aquí se refiere a un amigo; return, regresar.\nEstructura de oración especial: La oración interrogativa 'Will the nobleman return?' expresa la expectativa del regreso del amigo.\nExplicación de la alusión: El término 'nobleman' proviene de 'Chu Ci · Zhao Yin Shi', 'El nobleman deambula y no regresa, la hierba de primavera crece exuberante', expresando el anhelo por la partida del amigo.\nAnálisis de imágenes: La hierba verde simboliza la vitalidad y la esperanza, el atardecer simboliza el paso del tiempo, y la puerta de madera simboliza una vida sencilla.\nContexto histórico: Los poetas de la dinastía Tang a menudo expresaban sentimientos profundos por los amigos y expectativas por el futuro a través de poemas de despedida, reflejando la profunda amistad entre los literatos de la época.",
+        "ar": "Mountain farewell finished: بعد توديع صديق في الجبال. التوديع، التوديع المتبادل؛ finished، انتهى.\nAt dusk, close the wooden door: إغلاق الباب الخشبي عند الغسق. الغسق، وقت غروب الشمس؛ close، إغلاق؛ wooden door، باب خشبي.\nGreen grass next year: العشب يصبح أخضر مرة أخرى في الربيع المقبل. Green grass، عشب الربيع؛ next year، العام المقبل.\nWill the nobleman return? هل ستعود أنت، يا صديقي، العام المقبل؟ Nobleman، يشير أصلاً إلى ابن النبيل، هنا يشير إلى الصديق؛ return، العودة.\nهيكل جملة خاص: الجملة الاستفهامية 'Will the nobleman return?' تعبر عن توقع عودة الصديق.\nشرح الإقتباس: مصطلح 'nobleman' مأخوذ من 'Chu Ci · Zhao Yin Shi'، 'النبيل يتجول ولا يعود، عشب الربيع ينمو كثيفاً'، يعبر عن اشتياق لفراق الصديق.\nتحليل الصور: العشب الأخضر يرمز إلى الحياة والأمل، الغسق يرمز إلى مرور الوقت، والباب الخشبي يرمز إلى حياة بسيطة.\nالخلفية التاريخية: شعراء العصر التانغ غالباً ما يعبرون عن مشاعر عميقة للأصدقاء وتوقعات للمستقبل من خلال قصائد الوداع، مما يعكس الصداقة العميقة بين مثقفي ذلك الوقت."
+    },
+    "appreciations": {
+        "zh": "《送别·山中送别》是唐代诗人王维创作的一首五言绝句。主题思想表达了对友人的深情送别和对未来重逢的期盼。写作特色上，诗人以简洁的白描手法，通过日暮掩柴扉的景象，营造出一种宁静而又略带伤感的氛围。春草明年绿的设问，既是对自然规律的描写，又暗含了对友人归来的期待。艺术成就方面，诗歌以平淡的语言蕴含深远的意境，展现了王维山水诗的独特魅力。情感分析上，诗中流露出对友人的依依不舍和对未来相聚的渴望。影响意义上，这首诗在文学史上具有重要地位，被视为送别诗的经典之作，对后世诗歌创作产生了深远影响。",
+        "en": "The poem 'Farewell in the Mountains' by Wang Wei is a five-character quatrain from the Tang Dynasty. The theme reflects a deep farewell to a friend and the anticipation of future reunions. In terms of writing style, the poet uses simple, straightforward descriptions to create a tranquil yet slightly melancholic atmosphere through the image of closing the wooden gate at dusk. The rhetorical question about the green grass next year subtly combines natural imagery with the hope of the friend's return. Artistically, the poem's plain language conceals profound meaning, showcasing Wang Wei's unique charm in landscape poetry. Emotionally, it expresses reluctance to part and a longing for future meetings. Historically, this poem holds a significant place in literary history, considered a classic farewell poem that has profoundly influenced later poetic compositions.",
+        "ja": "《送別·山中送別》は唐代の詩人王維が作った五言絶句です。主題思想は友人への深い送別と再会の期待を表しています。表現手法としては、簡潔な白描で日暮れに柴扉を閉める情景を描き、静かで少し悲しげな雰囲気を作り出しています。春草が翌年緑になるという問いかけは、自然の描写と友人の帰還への期待が込められています。芸術的価値としては、平淡な言葉の中に深い意境を含み、王維の山水詩の独特な魅力を示しています。感情分析では、友人への未練と再会への切望が感じられます。影響力としては、文学史上重要な位置を占め、送別詩の古典として後世の詩作に大きな影響を与えました。",
+        "es": "El poema 'Despedida en la Montaña' de Wang Wei es un cuarteto de cinco caracteres de la dinastía Tang. El tema principal refleja un profundo adiós a un amigo y la anticipación de futuros reencuentros. En cuanto al estilo de escritura, el poeta utiliza descripciones simples y directas para crear una atmósfera tranquila pero ligeramente melancólica a través de la imagen de cerrar la puerta de madera al anochecer. La pregunta retórica sobre la hierba verde del próximo año combina sutilmente la imaginería natural con la esperanza del regreso del amigo. Artísticamente, el lenguaje sencillo del poema encierra un profundo significado, mostrando el encanto único de Wang Wei en la poesía de paisajes. Emocionalmente, expresa la reluctancia a separarse y el anhelo de futuros encuentros. Históricamente, este poema ocupa un lugar significativo en la historia literaria, considerado una obra clásica de despedida que ha influido profundamente en las composiciones poéticas posteriores.",
+        "ar": "القصيدة 'الوداع في الجبل' للشاعر وانغ وي هي قصيدة من خمسة أحرف من عهد التانغ. الفكرة الرئيسية تعبر عن الوداع العميق لصديق وتوقع اللقاءات المستقبلية. من حيث الأسلوب الكتابي، يستخدم الشاعر وصفًا بسيطًا ومباشرًا لخلق جو هادئ ولكن حزين قليلاً من خلال صورة إغلاق الباب الخشبي عند الغسق. السؤال الاستنكاري حول الزرع الأخضر في العام المقبل يجمع بشكل خفي بين الصور الطبيعية وتوقع عودة الصديق. فنيًا، اللغة البسيطة للقصيدة تحمل معنى عميق، وتظهر سحر وانغ وي الفريد في شعر المناظر الطبيعية. عاطفيًا، تعبر عن عدم الرغبة في الانفصال والشوق للقاءات مستقبلية. تاريخيًا، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، وتعتبر عملًا كلاسيكيًا في شعر الوداع أثر بشكل عميق في التأليف الشعري اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "在山中送别之后，日暮时分关上柴门。明年春草再绿时，公子您还回来吗？",
+            "en": "After parting in the mountains, at dusk I close the wooden gate. When the spring grass turns green next year, will the young master return?",
+            "ja": "山の中で送別した後、日暮れて柴の扉を閉じる。来年春草が緑になる時、公子は帰ってくるのか？",
+            "es": "Después de despedirnos en la montaña, al anochecer cierro la puerta de madera. Cuando la hierba de primavera se vuelva verde el año próximo, ¿volverá el joven señor?",
+            "ar": "بعد الوداع في الجبل، عند الغسق أغلق الباب الخشبي. عندما تتحول العشب الربيعية إلى اللون الأخضر العام المقبل، هل سيعود الشاب؟"
+        },
+        "title_translation": {
+            "zh": "送别·山中送别",
+            "en": "Farewell in the Mountains",
+            "ja": "山中の送別",
+            "es": "Despedida en la Montaña",
+            "ar": "الوداع في الجبل"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "山中相送罢，日暮掩柴扉。\n春草明年绿，王孙归不归？",
+    "title_pinyin": "sòng bié·shān zhōng sòng bié",
+    "pinyin": "shān zhōng xiāng sòng bà，rì mù yǎn chái fēi。\nchūn cǎo míng nián lǜ，wáng sūn guī bù guī？"
+}

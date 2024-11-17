@@ -1,0 +1,57 @@
+{
+    "title": "春望",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫（712年－770年），字子美，号少陵野老，唐代著名现实主义诗人，与李白合称为“李杜”。他的诗歌内容广泛，反映了当时社会的现实，特别是对人民疾苦的深刻描绘，被誉为“诗史”。《春望》是他在安史之乱期间所作，表达了对国家破败和人民苦难的深切忧虑。杜甫的诗作以其沉郁顿挫的风格和深刻的思想内容著称，对后世文学产生了深远影响。",
+            "en": "Du Fu (712-770), styled Zimei and also known as Shaoling Ye lao, was a renowned realist poet of the Tang Dynasty, often paired with Li Bai as 'Li Du'. His poetry covers a wide range of topics, reflecting the social realities of his time, particularly the suffering of the common people, earning him the title 'Poet Historian'. 'Spring View' was composed during the An Lushan Rebellion, expressing his deep concern over the state's devastation and the people's plight. Du Fu's works are celebrated for their melancholic and robust style and profound thematic depth, exerting a lasting influence on later literature.",
+            "ja": "杜甫（712年－770年）、字は子美、号は少陵野老、唐代の著名な現実主義詩人で、李白と共に「李杜」と称される。彼の詩は幅広いテーマを扱い、当時の社会の現実を反映し、特に民衆の苦悩を深く描いたことで「詩史」と称賛される。《春望》は安史の乱の間に作られ、国家の荒廃と民衆の苦難に対する深い憂慮を表している。杜甫の詩はその沈鬱なスタイルと深い思想内容で知られ、後世の文学に大きな影響を与えた。",
+            "es": "Du Fu (712-770), también conocido como Zimei y Shaoling Ye lao, fue un destacado poeta realista de la dinastía Tang, a menudo mencionado junto a Li Bai como 'Li Du'. Su poesía abarca una amplia gama de temas, reflejando las realidades sociales de su época, especialmente el sufrimiento del pueblo común, lo que le valió el título de 'Poeta Histórico'. 'Vista de Primavera' fue escrita durante la Rebelión de An Lushan, expresando su profunda preocupación por la devastación del país y la difícil situación del pueblo. Las obras de Du Fu son famosas por su estilo melancólico y robusto y su profunda profundidad temática, ejerciendo una influencia duradera en la literatura posterior.",
+            "ar": "دو فو (712-770)، المعروف أيضًا بزيميي وشاولينغ يي لاو، كان شاعرًا واقعيًا بارزًا في عهد أسرة تانغ، غالبًا ما يُذكر جنبًا إلى جنب مع لي باي كـ'لي دو'. شعره يغطي مجموعة واسعة من المواضيع، يعكس حقائق اجتماعية لعصره، خاصة معاناة الشعب العادي، مما أهله ليُعرف بـ'شاعر التاريخ'. 'منظر الربيع' كُتب خلال تمرد أن لوشان، يعبر عن قلقه العميق إزاء تدمير الدولة ومحنة الشعب. أعمال دو فو معروفة بأسلوبها الحزين والقوي وعمقها الفكري، مما أثر تأثيرًا كبيرًا على الأدب اللاحق."
+        }
+    },
+    "annotations": {
+        "zh": "国破：国家沦陷。山河在：山河依旧。城春：春天的城市。草木深：草木茂盛。感时：感伤时局。花溅泪：花儿也因感时而落泪。恨别：怨恨离别。鸟惊心：鸟鸣声使人惊心。烽火：战火。连三月：持续三个月。家书：家信。抵万金：价值万金。白头：指老年人。搔更短：搔头发时发现头发更短。浑欲：简直要。不胜簪：插不上簪子。",
+        "en": "Guo po: The country is broken. Shan he zai: The mountains and rivers remain. Cheng chun: The city in spring. Cao mu shen: The vegetation is dense. Gan shi: Feeling sorrowful about the times. Hua jian lei: Flowers shed tears. Hen bie: Hating separation. Niao jing xin: The birds' cries startle the heart. Feng huo: Beacon fires. Lian san yue: Lasting for three months. Jia shu: Letters from home. Di wan jin: Worth ten thousand pieces of gold. Bai tou: Referring to the elderly. Sao geng duan: Scratching the head and finding the hair shorter. Hun yu: Almost. Bu sheng zan: Unable to hold a hairpin.",
+        "ja": "国破：国が滅ぶ。山河在：山と川は変わらず。城春：春の城。草木深：草木が深い。感時：時勢に感傷する。花溅泪：花も涙を流す。恨別：別れを恨む。鳥驚心：鳥の鳴き声が心を驚かす。烽火：戦火。連三月：三ヶ月連続する。家書：家からの手紙。抵万金：万金に値する。白頭：老人を指す。搔更短：頭をかくと髪が更に短い。渾欲：ほとんど。不勝簪：簪を挿すことができない。",
+        "es": "Guo po: El país está destruido. Shan he zai: Las montañas y ríos permanecen. Cheng chun: La ciudad en primavera. Cao mu shen: La vegetación es densa. Gan shi: Sentir tristeza por los tiempos. Hua jian lei: Las flores derraman lágrimas. Hen bie: Odiar la separación. Niao jing xin: Los gritos de los pájaros asustan el corazón. Feng huo: Fuegos de señales. Lian san yue: Durando tres meses. Jia shu: Cartas de casa. Di wan jin: Valen diez mil piezas de oro. Bai tou: Se refiere a los ancianos. Sao geng duan: Rascarse la cabeza y encontrar el pelo más corto. Hun yu: Casi. Bu sheng zan: No poder sostener un pasador.",
+        "ar": "Guo po: البلاد مدمرة. Shan he zai: الجبال والأنهار باقية. Cheng chun: المدينة في الربيع. Cao mu shen: النباتات كثيفة. Gan shi: الشعور بالحزن على الأوقات. Hua jian lei: الزهور تذرف الدموع. Hen bie: كراهية الفراق. Niao jing xin: أصوات الطيور تروع القلب. Feng huo: نيران الإشارة. Lian san yue: تستمر لثلاثة أشهر. Jia shu: رسائل من المنزل. Di wan jin: تساوي عشرة آلاف قطعة ذهب. Bai tou: يشير إلى كبار السن. Sao geng duan: خدش الرأس ووجود الشعر أقصر. Hun yu: تقريباً. Bu sheng zan: لا يمكن حمل دبوس الشعر."
+    },
+    "appreciations": {
+        "zh": "《春望》是杜甫的代表作之一，主题思想表达了对国家破败和人民苦难的深切忧虑。写作特色上，诗人运用了对比手法，将国破与山河在、城春与草木深形成鲜明对比，增强了诗歌的感染力。艺术成就方面，诗句凝练、意境深远，展现了杜甫高超的艺术造诣。情感分析上，诗中花溅泪、鸟惊心等意象，抒发了诗人对时局的感伤和对家人的思念。影响意义上，这首诗在文学史上具有重要地位，被誉为反映唐代社会现实的经典之作。",
+        "en": "Chun Wang by Du Fu is one of his masterpieces, with the theme reflecting deep concern over the nation's devastation and people's suffering. In terms of writing techniques, the poet employs contrasts, juxtaposing the broken state of the country with the enduring mountains and rivers, and the spring in the city with the overgrown vegetation, enhancing the poem's emotional impact. Artistically, the verses are concise and the imagery profound, showcasing Du Fu's exceptional artistic skill. Emotionally, the imagery of flowers shedding tears and birds startling the heart conveys the poet's sorrow over the current situation and longing for his family. In terms of influence, this poem holds a significant place in literary history, celebrated as a classic that reflects the realities of the Tang Dynasty.",
+        "ja": "《春望》は杜甫の代表作の一つであり、国家の崩壊と人民の苦難に対する深い憂慮を主题としています。表現手法としては、国の破壊と山河の存続、都の春と草木の深さを対比させることで、詩の感染力を高めています。芸術的成就としては、詩句が凝縮され、意境が深遠で、杜甫の高い芸術的腕前を示しています。感情分析では、花が涙を流し、鳥が心を驚かせるなどのイメージを通じて、詩人が時局に対する感傷と家族への思いを表現しています。影響の意味では、この詩は文学史上重要な地位を占めており、唐代の社会現実を反映した古典的名作として評価されています。",
+        "es": "Chun Wang de Du Fu es una de sus obras más destacadas, cuyo tema principal expresa una profunda preocupación por la destrucción del país y las dificultades del pueblo. En cuanto a las técnicas de escritura, el poeta utiliza el contraste, enfrentando el estado ruinoso de la nación con la permanencia de las montañas y ríos, y la primavera en la ciudad con la exuberante vegetación, lo que intensifica el impacto emocional del poema. Artísticamente, los versos son concisos y el imaginario es profundo, demostrando la excepcional habilidad artística de Du Fu. En el análisis emocional, las imágenes de flores llorando y pájaros alterando el corazón expresan la tristeza del poeta por la situación actual y su añoranza por la familia. En términos de influencia, este poema ocupa un lugar significativo en la historia literaria, siendo aclamado como una obra clásica que refleja las realidades de la dinastía Tang.",
+        "ar": "《春望》 هي واحدة من روائع دوفو، حيث يعبر موضوعها عن القلق العميق إزاء تدمير الدولة والمعاناة الشعبية. من حيث تقنيات الكتابة، يستخدم الشاعر المقارنة، محاولاً مقارنة الدمار الذي لحق بالدولة مع بقاء الجبال والأنهار، والربيع في المدينة مع كثافة النبات، مما يعزز من تأثير الشعر العاطفي. من الناحية الفنية، تكون الأبيات مركزة والصور عميقة، مما يظهر براعة دوفو الفنية العالية. في تحليل العواطف، تعبر صور الزهور التي تذرف الدموع والطيور التي تثير القلوب عن حزن الشاعر على الوضع الراهن وتحنانه على أهله. من حيث التأثير، يحتل هذا الشعر مكانة هامة في تاريخ الأدب، حيث يعتبر كلاسيكياً يعكس واقع العصر التانغي."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "国家破败，山河依旧在；春天城中，草木茂盛。感伤时事，花儿溅泪；怨恨别离，鸟鸣惊心。战火连绵三个月，家书珍贵如万金。白发搔得更短，简直无法插簪。",
+            "en": "Though the country is broken, its mountains and rivers remain; in the spring, the city's grass and trees grow deep. Moved by the times, flowers shed tears; hating separation, birds' songs startle the heart. Beacon fires have burned for three months; a letter from home is worth its weight in gold. Scratching my white hair, it grows ever shorter, barely enough to hold a hairpin.",
+            "ja": "国は破れども山河は在り、春の城に草木深し。時を感じて花は涙を散り、別れを恨んで鳥の声は心を驚かす。烽火は三月にわたり、家書は万金に値する。白髪を爪で掻くと更に短く、簪を挿すこともし難し。",
+            "es": "Aunque el país está destruido, sus montañas y ríos permanecen; en primavera, la ciudad se llena de vegetación. Conmovido por los tiempos, las flores derraman lágrimas; odiando la separación, el canto de los pájaros turba el corazón. Las hogueras de guerra arden durante tres meses; una carta de casa vale más que oro. Rascándome el cabello blanco, se hace aún más corto, apenas puedo usar un pasador.",
+            "ar": "على الرغم من أن البلاد محطمة، إلا أن جبالها وأنهارها باقية؛ في الربيع، تزدهر الأعشاب والأشجار في المدينة. متأثرًا بالأوقات، تتساقط الزهور دموعًا؛ كارهًا للفراق، تغير تغريد الطيور القلب. تستمر نيران المعارك لثلاثة أشهر؛ رسالة من المنزل تساوي ألف ذهب. عندما أهرش شعري الأبيض، يصبح أقصر، وأجد صعوبة في وضع المشبك."
+        },
+        "title_translation": {
+            "zh": "春望",
+            "en": "Spring View",
+            "ja": "春望",
+            "es": "Vista de Primavera",
+            "ar": "منظر الربيع"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "国破山河在，城春草木深。\n感时花溅泪，恨别鸟惊心。\n烽火连三月，家书抵万金。\n白头搔更短，浑欲不胜簪。",
+    "title_pinyin": "chūn wàng",
+    "pinyin": "guó pò shān hé zài，chéng chūn cǎo mù shēn。\ngǎn shí huā jiàn lèi，hèn bié niǎo jīng xīn。\nfēng huǒ lián sān yuè，jiā shū dǐ wàn jīn。\nbái tóu sāo gèng duǎn，hún yù bù shèng zān。"
+}

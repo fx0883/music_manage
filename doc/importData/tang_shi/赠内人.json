@@ -1,0 +1,57 @@
+{
+    "title": "赠内人",
+    "difficulty": 2,
+    "author": {
+        "name": "张祜",
+        "name_pinyin": "zhāng hù",
+        "image": "张祜.jpg",
+        "introduction": {
+            "zh": "张祜，唐代著名诗人，字承吉，南阳（今属河南）人。他的诗作以清丽婉约著称，多描写宫廷生活和自然景物，情感细腻，语言优美。张祜一生仕途坎坷，未能大展宏图，但其诗歌成就颇高，尤其擅长五言、七言绝句，对后世影响深远。",
+            "en": "Zhang Hu, a renowned poet of the Tang Dynasty, styled Chengji, was from Nanyang (now part of Henan Province). His poetry is known for its clarity and elegance, often depicting court life and natural scenery with delicate emotions and beautiful language. Despite a tumultuous official career that never fully blossomed, Zhang Hu's poetic achievements were significant, particularly in the realms of five-character and seven-character jueju, leaving a profound impact on later generations.",
+            "ja": "張祜（ちょうこ）は、唐代の著名な詩人で、字は承吉、南陽（現在の河南省に属する）出身。彼の詩は清麗婉約で知られ、宮廷生活や自然景物を多く描き、感情が繊細で言葉が美しい。張祜は生涯官途が不遇で、大成することができなかったが、詩の成就は高く、特に五言絶句や七言絶句に優れ、後世に大きな影響を与えた。",
+            "es": "Zhang Hu, un poeta famoso de la dinastía Tang, cuyo nombre de cortesía era Chengji, era de Nanyang (actualmente parte de la provincia de Henan). Su poesía es conocida por su claridad y elegancia, a menudo describiendo la vida en la corte y paisajes naturales con emociones delicadas y un lenguaje hermoso. A pesar de una carrera oficial tumultuosa que nunca alcanzó su pleno potencial, los logros poéticos de Zhang Hu fueron significativos, especialmente en el ámbito de los versos de cinco y siete caracteres, dejando una profunda influencia en las generaciones posteriores.",
+            "ar": "장후는 당대의 유명한 시인으로, 자는 승길, 난양(현재 허난성에 속함) 출신이다. 그의 시는 청려완약으로 유명하며, 궁정 생활과 자연 풍경을 많이 묘사하며 감정이 섬세하고 언어가 아름답다. 장후는 생애 관途이 불우하여 크게 성취하지 못했지만, 시의 성취는 높아 특히 오언절구와 칠언절구에 능하여 후대에 큰 영향을 미쳤다."
+        }
+    },
+    "annotations": {
+        "zh": "禁门：指皇宫的大门。宫树：皇宫中的树木。月痕：月亮的光影。媚眼：美丽的眼睛。宿鹭窠：指鹭鸟的巢穴。斜拔：斜着拔出。玉钗：用玉制成的发钗。灯影畔：灯光的边缘。剔开：拨开。红焰：红色的火焰。救飞蛾：救下被火焰吸引的飞蛾。\n\n语法说明：诗句采用平仄对仗，无特殊句式。\n\n典故解释：无特定典故。\n\n意象分析：禁门宫树月痕过，描绘了皇宫夜晚的静谧景象；媚眼惟看宿鹭窠，通过宫女的眼神表达其对自由的向往；斜拔玉钗灯影畔，展现了宫女的优雅动作；剔开红焰救飞蛾，象征宫女内心的善良与对生命的怜悯。\n\n历史背景：唐代宫女生活较为封闭，诗中反映了她们内心的孤独与对自由的渴望。",
+        "en": "Forbidden gate: refers to the gate of the imperial palace. Palace trees: trees within the imperial palace. Moon trace: the light and shadow of the moon. Alluring eyes: beautiful eyes. Heron's nest: the nest of herons. Slanting pull: pulling out at an angle. Jade hairpin: a hairpin made of jade. By the lamplight: at the edge of the lamplight. Pricking open: poking open. Red flame: red flame. Saving the moth: saving the moth attracted by the flame.\n\nGrammar explanation: The poem uses tonal parallelism, with no special sentence structures.\n\nAllusion explanation: No specific allusions.\n\nImagery analysis: 'Moon trace passing by the forbidden gate and palace trees' depicts the tranquil scene of the palace at night; 'Alluring eyes only gaze at the heron's nest' expresses the palace woman's longing for freedom through her gaze; 'Slanting pull of the jade hairpin by the lamplight' shows the elegant action of the palace woman; 'Pricking open the red flame to save the moth' symbolizes the kindness in her heart and her pity for life.\n\nHistorical background: The life of palace women in the Tang Dynasty was relatively secluded, and the poem reflects their inner loneliness and longing for freedom.",
+        "ja": "禁門：宮殿の門を指す。宮樹：宮殿の中の木々。月痕：月の光影。媚眼：美しい目。鷺の巣：鷺の巣穴。斜に抜く：斜めに抜き出す。玉釵：玉で作られた髪飾り。灯影の畔：灯光の端。剔く：ほぐす。紅焰：赤い炎。飛蛾を救う：炎に引き寄せられた飛蛾を救う。\n\n文法説明：詩句は平仄対仗を用い、特殊な文法はない。\n\n典故説明：特定の典故はない。\n\n意象分析：「禁門宮樹月痕過」は宮殿の夜の静寂を描く；「媚眼惟看鷺の巣」は宮女の眼差しを通じて自由への向往を表現；「斜に玉釵灯影の畔」は宮女の優雅な動作を示す；「紅焰を剔いて飛蛾を救う」は宮女の心の善良さと生命への哀れみを象徴する。\n\n歴史背景：唐代の宮女の生活は比較的閉鎖的で、詩中には彼女たちの内なる孤独と自由への渇望が反映されている。",
+        "es": "Puerta prohibida: se refiere a la puerta del palacio imperial. Árboles del palacio: árboles dentro del palacio imperial. Huella de la luna: la luz y la sombra de la luna. Ojos seductores: ojos hermosos. Nido de garza: el nido de las garzas. Sacar inclinado: sacar en un ángulo. Horquilla de jade: una horquilla hecha de jade. Al borde de la luz de la lámpara: en el borde de la luz de la lámpara. Abrir con un pinchazo: abrir con un pinchazo. Llama roja: llama roja. Salvar a la polilla: salvar a la polilla atraída por la llama.\n\nExplicación gramatical: El poema utiliza paralelismo tonal, sin estructuras gramaticales especiales.\n\nExplicación de la alusión: No hay alusiones específicas.\n\nAnálisis de imágenes: 'Huella de la luna pasando por la puerta prohibida y los árboles del palacio' pinta la escena tranquila del palacio por la noche; 'Ojos seductores solo miran el nido de la garza' expresa el anhelo de libertad de la dama del palacio a través de su mirada; 'Sacar inclinado la horquilla de jade al borde de la luz de la lámpara' muestra la acción elegante de la dama del palacio; 'Abrir con un pinchazo la llama roja para salvar a la polilla' simboliza la bondad en su corazón y su compasión por la vida.\n\nContexto histórico: La vida de las damas del palacio en la dinastía Tang era relativamente aislada, y el poema refleja su soledad interna y su deseo de libertad.",
+        "ar": "الباب الممنوع: يشير إلى باب القصر الإمبراطوري. أشجار القصر: الأشجار داخل القصر الإمبراطوري. أثر القمر: ضوء وظل القمر. العيون الجذابة: العيون الجميلة. عش النورس: عش النورس. سحب مائل: سحب بزاوية. مشبك الياقوت: مشبك مصنوع من الياقوت. عند حافة ضوء المصباح: عند حافة ضوء المصباح. فتح بالإبرة: فتح بالإبرة. اللهب الأحمر: اللهب الأحمر. إنقاذ الفراشة: إنقاذ الفراشة التي جذبتها اللهب.\n\nشرح النحو: يستخدم الشعر تناوب الأوزان، بدون بنيات نحوية خاصة.\n\nشرح الإستعارة: لا توجد إستعارات محددة.\n\nتحليل الصور: 'أثر القمر يمر عبر الباب الممنوع وأشجار القصر' يصور المنظر الهادئ للقصر ليلاً؛ 'العيون الجذابة ترى فقط عش النورس' تعبر عن توق المرأة في القصر إلى الحرية من خلال نظرها؛ 'سحب مشبك الياقوت عند حافة ضوء المصباح' يظهر الحركة الأنيقة للمرأة في القصر؛ 'فتح اللهب الأحمر بإنقاذ الفراشة' يرمز إلى الطيبة في قلبها ورحمتها على الحياة.\n\nالخلفية التاريخية: كانت حياة النساء في القصر في عهد التانغ معزولة نسبياً، وي phảnال الشعر وحدهن الداخلية وتوقهن إلى الحرية."
+    },
+    "appreciations": {
+        "zh": "《赠内人》一诗通过细腻的描写，展现了宫中女子的寂寞与善良。主题思想上，诗人借宫女之眼，揭示了深宫生活的孤寂与无奈。写作特色上，运用了借景抒情的手法，通过宫树月痕、宿鹭窠等意象，营造出一种冷清的氛围。艺术成就上，诗句简洁而富有画面感，尤其是‘斜拔玉钗灯影畔，剔开红焰救飞蛾’一句，生动描绘了宫女的动作与心理。情感分析上，诗人抒发了对宫女命运的同情与怜悯。影响意义上，此诗在唐代宫怨诗中具有一定的代表性，对后世同类题材的创作产生了影响。",
+        "en": "The poem 'To the Inner Woman' delicately portrays the loneliness and kindness of a palace woman. Thematic-wise, the poet reveals the solitude and helplessness of palace life through the eyes of the woman. In terms of writing style, the poem employs the technique of expressing emotions through scenery, creating a desolate atmosphere with images like the moon's trace on palace trees and the egret's nest. Artistically, the verses are concise yet vivid, especially the line 'She tilts her jade hairpin by the lamp's shadow, prying open the red flame to save the moth,' which vividly depicts the woman's actions and psyche. Emotionally, the poet expresses sympathy and pity for the woman's fate. Historically, this poem is representative of Tang Dynasty palace жалоб poems, influencing later works in the same genre.",
+        "ja": "《贈内人》は細やかな描写を通じて、宮中の女性の寂しさと優しさを表現しています。主題思想上、詩人は宮女の目を借りて、深宮生活の孤独と無奈を明らかにしています。表現手法としては、情景を借りて感情を表す手法を用い、宮樹の月痕や鷺の巣などのイメージで冷清な雰囲気を作り出しています。芸術的成果としては、詩句は簡潔でありながら画面感に富み、「斜めに玉簪を拔く灯影の畔、紅焔を剔いて飛蛾を救う」という一句は、宮女の動作と心理を生き生きと描いています。感情分析としては、詩人は宮女の運命に対する同情と哀れみを抒発しています。影響意義としては、この詩は唐代の宮怨詩において一定の代表性を持ち、後世の同様の題材の創作に影響を与えました。",
+        "es": "El poema 'A la Mujer del Interior' retrata con delicadeza la soledad y la bondad de una mujer de la corte. En cuanto al tema, el poeta revela la soledad y la impotencia de la vida en el palacio a través de los ojos de la mujer. En términos de estilo, el poema utiliza la técnica de expresar emociones a través del paisaje, creando una atmósfera de desolación con imágenes como la huella de la luna en los árboles del palacio y el nido de la garza. Artísticamente, los versos son concisos pero vívidos, especialmente la línea 'Inclinando su horquilla de jade junto a la sombra de la lámpara, abre la llama roja para salvar a la polilla', que describe vívidamente las acciones y la psicología de la mujer. En el análisis emocional, el poeta expresa simpatía y compasión por el destino de la mujer. En términos de influencia, este poema es representativo de los poemas de queja de palacio de la dinastía Tang, influyendo en obras posteriores del mismo género.",
+        "ar": "القصيدة 'هدية للمرأة الداخلية' تُظهر بوضع دقيق الوحدة واللطف لدى امرأة القصر. من حيث الفكرة الرئيسية، يكشف الشاعر عن الوحدة واليأس في حياة القصر من خلال عيون المرأة. فيما يتعلق بالأسلوب، تستخدم القصيدة تقنية التعبير عن المشاعر من خلال المناظر الطبيعية، مما يخلق جواً من الخلو مع صور مثل أثر القمر على أشجار القصر وبيت البجعة. من الناحية الفنية، تكون الأبيات موجزة ومعبرة، خاصة السطر 'تنحرف بقرطها الياقوتي بجانب ظل المصباح، تفتح اللهب الأحمر لتنقذ الفراشة'، الذي يصف بحيوية أفعال ونفسية المرأة. في تحليل المشاعر، يعبر الشاعر عن التعاطف والشفقة على مصير المرأة. من حيث التأثير، تمثل هذه القصيدة قصائد الشكوى من القصر في عهد التانغ، مؤثرة في الأعمال اللاحقة لنفس النوع."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "禁宫门前的树木上月影掠过，美目只注视着那栖息的鹭鸶巢。斜插玉钗在灯光边缘轻轻拔出，挑开红焰救下扑火的飞蛾。",
+            "en": "Moonlight traces over the trees by the forbidden gate, her charming eyes gaze only at the heron's nest. She tilts and pulls out a jade hairpin by the lamp's glow, prying open the red flame to save the moth in flight.",
+            "ja": "禁門の樹々に月影が過ぎ、魅惑の眼は鷺の巣ばかり見つめる。斜めに玉釵を抜き灯影のほとり、赤い炎を割いて飛ぶ蛾を救う。",
+            "es": "La sombra de la luna pasa por los árboles de la puerta prohibida, sus ojos seductores solo miran el nido del cormorán. Inclinándose, saca un peino de jade junto a la luz de la lámpara, abriendo la llama roja para salvar a la polilla en vuelo.",
+            "ar": "تمر ظلال القمر على الأشجار عند الباب المحرم، وعيناها الجميلتان ترىان فقط عش البجع. تسحب بشكل مائل شنيعة الياقوت بجانب ضوء المصباح، تفتح اللهب الأحمر لتنقذ فراشة الطيران."
+        },
+        "title_translation": {
+            "zh": "赠内人",
+            "en": "To the Concubine",
+            "ja": "内人への贈り物",
+            "es": "Para la Concubina",
+            "ar": "هدية للجارية"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "禁门宫树月痕过，媚眼惟看宿鹭窠。\n斜拔玉钗灯影畔，剔开红焰救飞蛾。",
+    "title_pinyin": "zèng nèi rén",
+    "pinyin": "jìn mén gōng shù yuè hén guò，mèi yǎn wéi kàn sù lù kē。\nxié bá yù chāi dēng yǐng pàn，tī kāi hóng yàn jiù fēi é。"
+}

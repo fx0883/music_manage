@@ -1,0 +1,57 @@
+{
+    "title": "子夜吴歌·夏歌",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，是唐代著名的浪漫主义诗人，被后人尊称为“诗仙”。他的诗作以豪放、奔放、想象丰富著称，语言明快，意境深远。李白的诗歌题材广泛，既有对自然山水的赞美，也有对人生哲理的思考，还有对现实社会的批判。他的作品对后世文学产生了深远的影响。",
+            "en": "Li Bai (701-762), styled Taibai and also known as the Hermit of Qinglian, was a renowned romantic poet of the Tang Dynasty, revered as the 'Poet Immortal' by later generations. His poetry is celebrated for its boldness, exuberance, and rich imagination, characterized by lucid language and profound imagery. Li Bai's themes were diverse, encompassing praise for natural landscapes, reflections on life's philosophies, and critiques of contemporary society. His works have had a profound impact on subsequent literary development.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士で、唐代の著名な浪漫主義詩人であり、後世「詩仙」として尊ばれている。彼の詩は豪放で奔放、想像力に富み、言葉遣いは明快で意境は深遠である。李白の詩の題材は多岐にわたり、自然山水の賛美、人生哲学の思索、現実社会の批判などが含まれる。彼の作品は後世の文学に大きな影響を与えた。",
+            "es": "Li Bai (701-762), también conocido como Taibai y el Ermitaño de Qinglian, fue un destacado poeta romántico de la dinastía Tang, venerado como el 'Poeta Inmortal' por las generaciones posteriores. Su poesía es famosa por su audacia, exuberancia y rica imaginación, con un lenguaje claro y una imaginería profunda. Los temas de Li Bai eran variados, abarcando elogios a paisajes naturales, reflexiones sobre la filosofía de la vida y críticas a la sociedad contemporánea. Sus obras han tenido un impacto profundo en el desarrollo literario posterior.",
+            "ar": "لي بائي (701-762)، المعروف بلقب تايباي وال Eremitaño de Qinglian، كان شاعرًا رومانسيًا بارزًا في عهد التانغ، وأُعرف لاحقًا بلقب 'الشاعر الخالد'. اشتهرت قصائده بالجرأة، الزخم، والخيال الغني، مع لغة واضحة وتصور عميق. تنوعت مواضيع لي بائي لتشمل المديح للمناظر الطبيعية، التأملات في فلسفة الحياة، والنقد للمجتمع المعاصر. أثرت أعماله بشكل عميق في التطور الأدبي اللاحق."
+        }
+    },
+    "annotations": {
+        "zh": "镜湖三百里，菡萏发荷花。\n五月西施采，人看隘若耶。\n回舟不待月，归去越王家。\n\n词语解释：\n- 镜湖：即鉴湖，在今浙江省绍兴市。\n- 菡萏：荷花初开时的花蕾。\n- 隘：狭窄，这里指人多的样子。\n- 若耶：若耶溪，在今浙江省绍兴市。\n- 越王：指越王勾践。\n\n语法说明：\n- \"人看隘若耶\"：省略句，应为\"人看之，隘若耶\"，意为人多到使若耶溪显得狭窄。\n\n典故解释：\n- 西施：春秋时期越国的美女，后被献给吴王夫差。\n- 越王：指越王勾践，曾卧薪尝胆，最终灭吴。\n\n意象分析：\n- 荷花：象征美丽和高洁。\n- 若耶溪：象征自然美景和隐逸之地。\n\n历史背景：\n- 春秋时期，越国与吴国争霸，西施作为美人计的关键人物，被献给吴王夫差，最终帮助越王勾践复仇成功。",
+        "en": "Jinghu three hundred li, lotus blooms from buds.\nIn May, Xi Shi picks, people watch, narrow is Ruoye.\nReturning boat waits not for the moon, goes back to the Yue King's house.\n\nWord Explanation:\n- Jinghu: Also known as Jianhu, located in present-day Shaoxing, Zhejiang Province.\n- HanDan: The bud of a lotus flower just beginning to bloom.\n- Ai: Narrow, here indicating a large crowd.\n- Ruoye: Ruoye Creek, located in present-day Shaoxing, Zhejiang Province.\n- Yue Wang: Refers to King Goujian of Yue.\n\nGrammar Explanation:\n- \"People watch, narrow is Ruoye\": Elliptical sentence, should be \"People watch it, narrow is Ruoye\", meaning the crowd makes Ruoye Creek appear narrow.\n\nAllusion Explanation:\n- Xi Shi: A beauty from the state of Yue during the Spring and Autumn period, later presented to King Fucha of Wu.\n- Yue Wang: Refers to King Goujian of Yue, who endured hardships and ultimately defeated Wu.\n\nImage Analysis:\n- Lotus: Symbolizes beauty and purity.\n- Ruoye Creek: Symbolizes natural beauty and a secluded retreat.\n\nHistorical Background:\n- During the Spring and Autumn period, the states of Yue and Wu vied for dominance. Xi Shi, as a key figure in the beauty trap, was presented to King Fucha of Wu, eventually aiding King Goujian of Yue in his successful revenge.",
+        "ja": "鏡湖三百里、蓮の蕾が荷花に咲く。\n五月に西施が摘む、人々が見て狭く見える若耶。\n舟を返さず月を待たず、越の王家に帰る。\n\n語句の説明：\n- 鏡湖：現在の浙江省紹興市にある鑑湖のこと。\n- 菡萏：蓮の花が咲き始める蕾のこと。\n- 隘：狭い、ここでは人々が多くて狭く見える様子を表す。\n- 若耶：現在の浙江省紹興市にある若耶渓のこと。\n- 越王：越の王勾践のこと。\n\n文法の説明：\n- \"人々が見て狭く見える若耶\"：省略形で、\"人々が見て、狭く見える若耶\"の意。\n\n典故の説明：\n- 西施：春秋時代の越の美女で、後に呉の王夫差に献上された。\n- 越王：越の王勾践で、苦難を乗り越えて最終的に呉を滅ぼした。\n\n意象の分析：\n- 荷花：美しさと高潔さの象徴。\n- 若耶渓：自然の美しさと隠遁の地を象徴。\n\n歴史的背景：\n- 春秋時代、越と呉が覇権を争っていた時代。西施は美人計の重要な人物として呉の王夫差に献上され、最終的に越の王勾践の復讐を助けた。",
+        "es": "Jinghu de trescientos li, los lirios brotan de los capullos.\nEn mayo, Xi Shi recolecta, la gente ve, estrecho es Ruoye.\nEl barco regresa sin esperar la luna, vuelve a la casa del Rey de Yue.\n\nExplicación de palabras:\n- Jinghu: También conocido como Jianhu, ubicado en la actual Shaoxing, provincia de Zhejiang.\n- HanDan: El brote de un lirio que comienza a florecer.\n- Ai: Estrecho, aquí indica una multitud grande.\n- Ruoye: Arroyo Ruoye, ubicado en la actual Shaoxing, provincia de Zhejiang.\n- Yue Wang: Se refiere al Rey Goujian de Yue.\n\nExplicación gramatical:\n- \"La gente ve, estrecho es Ruoye\": Oración elíptica, debería ser \"La gente lo ve, estrecho es Ruoye\", significando que la multitud hace que el arroyo Ruoye parezca estrecho.\n\nExplicación de alusiones:\n- Xi Shi: Una belleza del estado de Yue durante el Período de Primavera y Otoño, posteriormente presentada al Rey Fucha de Wu.\n- Yue Wang: Se refiere al Rey Goujian de Yue, quien soportó dificultades y finalmente derrotó a Wu.\n\nAnálisis de imágenes:\n- Lirio: Simboliza belleza y pureza.\n- Arroyo Ruoye: Simboliza la belleza natural y un refugio apartado.\n\nContexto histórico:\n- Durante el Período de Primavera y Otoño, los estados de Yue y Wu competían por la dominación. Xi Shi, como figura clave en la trampa de belleza, fue presentada al Rey Fucha de Wu, finalmente ayudando al Rey Goujian de Yue en su venganza exitosa.",
+        "ar": "بحيرة جينغهو بطول ثلاثمائة لي، البراعم تزهر لتصبح زهور اللوتس.\nفي مايو، تشي شي تلتقط، الناس يشاهدون، ضيق هو روويه.\nالقارب يعود دون انتظار القمر، يعود إلى بيت ملك يوي.\n\nشرح الكلمات:\n- جينغهو: تعرف أيضًا باسم بحيرة جيانهو، تقع في شاوكسينغ الحالية، مقاطعة تشجيانغ.\n- هان دان: البرعم الذي يبدأ في ازدهار زهرة اللوتس.\n- أى: ضيق، هنا يشير إلى حشد كبير من الناس.\n- روويه: نهر روويه، يقع في شاوكسينغ الحالية، مقاطعة تشجيانغ.\n- يوي وانج: يشير إلى ملك جويجيان من يوي.\n\nشرح النحو:\n- \"الناس يشاهدون، ضيق هو روويه\": جملة مبتورة، ينبغي أن تكون \"الناس يشاهدونه، ضيق هو روويه\"، تعني أن الحشد يجعل نهر روويه يبدو ضيقًا.\n\nشرح الإحالات:\n- تشي شي: جمال من دولة يوي في فترة الربيع والخريف، ثم قدمت لملك فوتشا من وو.\n- يوي وانج: يشير إلى ملك جويجيان من يوي، الذي تحمل الصعوبات وأخيرًا هزم وو.\n\nتحليل الصور:\n- اللوتس: يرمز إلى الجمال والنقاء.\n- نهر روويه: يرمز إلى جمال الطبيعة وملاذ منعزل.\n\nالخلفية التاريخية:\n- خلال فترة الربيع والخريف، كانت دول يوي وو تتنافس على الهيمنة. تشي شي، كشخصية رئيسية في مكيدة الجمال، قدمت لملك فوتشا من وو، وأخيرًا ساعدت ملك جويجيان من يوي في انتقامه الناجح."
+    },
+    "appreciations": {
+        "zh": "《子夜吴歌·夏歌》描绘了镜湖三百里的荷花盛景，西施五月采莲的场景，以及她被越王所纳的结局。主题思想是赞美自然美景与感叹红颜薄命。写作特色上，李白运用白描手法，简洁明快地勾勒出湖光山色和人物活动。艺术成就方面，诗句清新自然，意境深远，展现了李白高超的诗歌艺术。情感分析上，诗人既表达了对美景的喜爱，也隐含了对西施命运的同情。影响意义上，此诗作为唐代民歌的代表作，对后世文学创作有深远影响。",
+        "en": "The poem 'Ziye Wuge · Xia Ge' describes the magnificent scenery of the Mirror Lake with lotus flowers blooming over three hundred miles, the scene of Xi Shi picking lotuses in May, and her eventual fate of being taken by the King of Yue. The main theme is the praise of natural beauty and the lamentation of the tragic fate of a beautiful woman. In terms of writing style, Li Bai uses a plain and straightforward approach to vividly depict the landscape and human activities. Artistically, the poem is fresh and natural, with profound imagery, showcasing Li Bai's superb poetic artistry. Emotionally, the poet expresses both his love for the beautiful scenery and his sympathy for Xi Shi's fate. In terms of influence, this poem, as a representative work of Tang Dynasty folk songs, has had a profound impact on later literary creations.",
+        "ja": "「子夜昊歌・夏歌」は、鏡湖三百里の蓮の花の盛りを描き、五月に西施が蓮を摘む情景、そして越王に迎えられる結末を描いています。主題思想は自然の美しさを讃え、美女の薄命を嘆くことです。表現手法としては、李白は白描の技法を用い、簡潔明瞭に湖光山色と人物の活動を描いています。芸術的成果としては、詩句が清新自然で意境が深遠であり、李白の高い詩の芸術性を示しています。感情分析では、詩人は美しい景色への愛情と西施の運命への同情を表しています。影響の意味では、唐代の民謡の代表作として、後世の文学創作に深い影響を与えました。",
+        "es": "El poema 'Ziye Wuge · Xia Ge' describe la magnífica escena del Lago Espejo con flores de loto en pleno florecimiento a lo largo de trescientos kilómetros, la escena de Xi Shi recolectando lotos en mayo, y su destino final de ser llevada por el Rey de Yue. El tema principal es la alabanza de la belleza natural y el lamento por el destino trágico de una mujer hermosa. En cuanto al estilo de escritura, Li Bai utiliza una técnica sencilla y directa para retratar vívidamente el paisaje y las actividades humanas. Artísticamente, el poema es fresco y natural, con una imaginería profunda, mostrando la excelente habilidad poética de Li Bai. En el análisis emocional, el poeta expresa tanto su amor por la hermosa naturaleza como su compasión por el destino de Xi Shi. En términos de influencia, este poema, como una obra representativa de las canciones populares de la dinastía Tang, ha tenido un impacto profundo en las creaciones literarias posteriores.",
+        "ar": "القصيدة \"زيوي ووجي · شيا غي\" تصف مشهد بحيرة المرآة البالغ طولها ثلاثمائة ميل مع ازدهار أزهار اللوتس، مشهد زي شى تلتقط اللوتس في مايو، ونهايتها التي تمثل في أخذها من قبل ملك يوي. الفكرة الرئيسية هي الثناء على جمال الطبيعة والتحسر على مصير المرأة الجميلة. من حيث الأسلوب الكتابي، يستخدم لي باي تقنية بسيطة ومباشرة ليرسم بشكل حي المناظر الطبيعية والأنشطة البشرية. من الناحية الفنية، القصيدة طازجة وغير مصطنعة، مع صور عميقة، تظهر البراعة الشعرية العالية للي باي. في التحليل العاطفي، يعبر الشاعر عن حبه للطبيعة الجميلة وشفقه على مصير زي شى. من حيث التأثير، هذه القصيدة، باعتبارها عملًا ممثلًا لأغاني الشعب في عهد التانغ، أثرت بشكل عميق على الإبداعات الأدبية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "镜湖方圆三百里，荷花初开菡萏时。\n五月西施来采莲，人们围观若耶溪。\n回舟不待月儿出，急归越王宫中去。",
+            "en": "The Mirror Lake spans three hundred li, lotus buds bloom into flowers.\nIn May, Xi Shi comes to pick lotuses, people crowd the Ruoye Stream.\nShe turns her boat without waiting for the moon, hurries back to the Yue King's palace.",
+            "ja": "鏡湖は三百里にわたる、蓮の花が咲き始める。\n五月に西施が蓮を摘む、人々が若耶の渓を埋める。\n舟を返さず月を待たず、急いで越王の宮へ帰る。",
+            "es": "El Lago Espejo se extiende por trescientos li, los lirios florecen.\nEn mayo, Xi Shi viene a recoger lirios, la gente llena el Río Ruoye.\nVuelve en su barco sin esperar la luna, se apresura al palacio del Rey de Yue.",
+            "ar": "بحيرة المرآة تمتد لثلاثمائة لي، تتفتح زهور اللوتس.\nفي مايو، تأتي سي شي لقطف اللوتس، الناس يزدحمون على نهر رووي.\nترجع بزورقها دون انتظار القمر، تتسرع للعودة إلى قصر ملك يوي."
+        },
+        "title_translation": {
+            "zh": "子夜吴歌·夏歌",
+            "en": "Midnight Songs of Wu - Summer Song",
+            "ja": "子夜の呉歌・夏歌",
+            "es": "Canciones de Wu a Medianoche - Canción de Verano",
+            "ar": "أغاني وو في منتصف الليل - أغنية الصيف"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "镜湖三百里，菡萏发荷花。\n五月西施采，人看隘若耶。\n回舟不待月，归去越王家。",
+    "title_pinyin": "zi yè wú gē·xià gē",
+    "pinyin": "jìng hú sān bǎi lǐ，hàn dàn fā hé huā。\nwǔ yuè xī shī cǎi，rén kàn ài ruò yé。\nhuí zhōu bù dài yuè，guī qù yuè wáng jiā。"
+}

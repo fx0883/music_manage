@@ -1,0 +1,57 @@
+{
+    "title": "终南山",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（693年或694年或701年—761年），字摩诘，号摩诘居士。河东蒲州（今山西永济）人，祖籍山西祁县。唐朝诗人、画家。他精通诗、书、画、音乐等，以诗名盛于开元、天宝间，尤长五言，多咏山水田园，与孟浩然合称“王孟”，有“诗佛”之称。书画特臻其妙，后人推其为南宗山水画之祖。苏轼评价其：“味摩诘之诗，诗中有画；观摩诘之画，画中有诗。”存诗400余首，代表诗作有《相思》、《山居秋暝》等。",
+            "en": "Wang Wei (693 or 694 or 701–761), styled Mojie, also known as Mojie居士. He was from Hedong Puzhou (present-day Yongji, Shanxi), with ancestral roots in Qixian, Shanxi. A poet and painter of the Tang Dynasty, he excelled in poetry, calligraphy, painting, and music. Renowned for his poetry during the Kaiyuan and Tianbao periods, he was particularly skilled in five-character verses, often depicting landscapes and rural life. Together with Meng Haoran, he was known as one of the 'Wang Meng' poets and was called the 'Poetic Buddha'. His calligraphy and painting were highly esteemed, and he is considered the founder of the Southern School of landscape painting. Su Shi praised him: 'In tasting Mojie's poetry, there is painting within; in observing Mojie's painting, there is poetry within.' He left behind over 400 poems, with notable works including 'Acacia' and 'Autumn Evening in a Mountain Dwelling'.",
+            "ja": "王維（693年または694年または701年～761年）、字は摩詰、号は摩詰居士。河東蒲州（現在の山西省永済市）出身、本籍は山西省祁県。唐時代の詩人、画家。詩、書、画、音楽などに精通し、開元・天宝期に詩名を高め、特に五言詩に長け、山水・田園を詠んだ。孟浩然と共に「王孟」と称され、「詩仏」とも呼ばれる。書画は特に優れ、後世には南宗山水画の祖とされる。蘇軾は彼を評して、「摩詰の詩を味わうと、詩の中に画がある；摩詰の画を見ると、画の中に詩がある」と言った。400余篇の詩が現存し、代表作に『相思』『山居秋暝』などがある。",
+            "es": "Wang Wei (693 o 694 o 701-761), apodado Mojie, también conocido como Mojie居士. Nació en Hedong Puzhou (actual Yongji, Shanxi), con raíces ancestrales en Qixian, Shanxi. Poeta y pintor de la dinastía Tang, destacó en poesía, caligrafía, pintura y música. Famoso por su poesía durante los periodos Kaiyuan y Tianbao, era especialmente hábil en versos de cinco caracteres, a menudo describiendo paisajes y vida rural. Junto con Meng Haoran, fue conocido como uno de los poetas 'Wang Meng' y se le llamó el 'Buda Poético'. Su caligrafía y pintura fueron muy apreciadas, y se le considera el fundador de la escuela sureña de pintura de paisajes. Su Shi lo elogió: 'Al saborear la poesía de Mojie, hay pintura dentro; al observar la pintura de Mojie, hay poesía dentro'. Dejó más de 400 poemas, entre los que destacan 'Acacia' y 'Atardecer de Otoño en una Casa de Montaña'.",
+            "ar": "وانغ وي (693 أو 694 أو 701-761)، المعروف بلقبه مو جي، وكذلك يُعرف بـ مو جي居士. وُلد في هيدونغ بوزو (اليوم يونغجي، شانشى)، وينحدر أصله من قيكسيان، شانشى. كان شاعرًا ورسامًا في عهد أسرة تانغ، برع في الشعر، والخط، والرسم، والموسيقى. اشتهر بشعره خلال فترتي كاييان وتيانباو، وكان متميزًا في نظم الأبيات الخماسية، غالبًا ما يصف المناظر الطبيعية والحياة الريفية. وُصف مع مينغ هواوران كواحد من شعراء 'وانغ مينغ'، وأُعرف بـ 'البوذا الشعري'. تميزت خطوطه ورسوماته، ويعتبر مؤسس مدرسة الجنوب في رسم المناظر الطبيعية. أشاد به سو شى قائلًا: 'في تذوق شعر مو جي، هناك لوحة داخله؛ وفي مشاهدة لوحة مو جي، هناك شعر داخله'. ترك أكثر من 400 قصيدة، من أشهر أعماله 'السدر' و'المساء الخريفي في منزل الجبل'."
+        }
+    },
+    "annotations": {
+        "zh": "太乙：即太一，古代指天帝或天神，这里借指终南山之高。近天都：接近天帝居住的地方。连山：连绵的山脉。海隅：海边。回望：回头看。合：聚合。青霭：青色的云雾。入看无：走近了却看不见。分野：古代天文学将天上的星宿与地上的区域相对应，称为分野。中峰：主峰。变：变化。阴晴：天气的阴晴变化。众壑：众多的山谷。殊：不同。欲投人处宿：想找个有人烟的地方投宿。隔水问樵夫：隔着河水向砍柴的人打听。",
+        "en": "Taiyi: Refers to the supreme deity in ancient times, here indicating the height of the Zhongnan Mountains. Near the celestial capital: close to the place where the heavenly emperor resides. Continuous mountains: a series of mountains. Seaside: the edge of the sea. Looking back: turning to look back. Merge: come together. Green mist: green-colored mist. Invisible upon approach: cannot be seen when close. Fenye: ancient astronomy divided the constellations in the sky into regions corresponding to areas on earth. Central peak: the main peak. Change: varies. Weather changes: variations in weather from cloudy to sunny. Numerous valleys: many valleys. Different: distinct. Wanting to find a place to stay: wanting to find a place with people to stay overnight. Asking a woodcutter across the river: inquiring with a woodcutter across the river.",
+        "ja": "太乙：古代における最高神を指し、ここでは終南山の高さを示す。天都に近し：天帝が住む場所に近い。連山：連なる山脈。海隅：海辺。回望：振り返って見る。合：合わさる。青霭：青い霧。入って見えず：近づくと見えなくなる。分野：古代天文学では、天空の星宿と地上の区域を対応させていた。中峰：主峰。変：変わる。陰晴：天気の変化。諸谷：多くの谷。異なる：違う。人のある処に宿を求む：人々がいる場所に宿を求める。水を隔てて薪取りに問う：川を隔てて薪を切る人に尋ねる。",
+        "es": "Taiyi: Se refiere al dios supremo en la antigüedad, aquí indica la altura de las Montañas Zhongnan. Cerca de la capital celestial: cerca del lugar donde reside el emperador celestial. Montañas continuas: una serie de montañas. Orilla del mar: el borde del mar. Mirar hacia atrás: girar para mirar atrás. Unirse: juntarse. Niebla verde: niebla de color verde. Invisible al acercarse: no se puede ver cuando se está cerca. Fenye: en la astronomía antigua, las constelaciones en el cielo se dividían en regiones correspondientes a áreas en la tierra. Pico central: el pico principal. Cambiar: varía. Cambios de clima: variaciones en el clima de nublado a soleado. Valles numerosos: muchos valles. Diferente: distinto. Querer encontrar un lugar para alojarse: querer encontrar un lugar con gente para pasar la noche. Preguntar a un leñador al otro lado del río: preguntar a un leñador al otro lado del río.",
+        "ar": "تايي: يشير إلى الإله الأعلى في العصور القديمة، هنا يشير إلى ارتفاع جبال تشونغنان. قريب من العاصمة السماوية: قريب من المكان الذي يسكن فيه الإمبراطور السماوي. الجبال المتصلة: سلسلة من الجبال. شاطئ البحر: حافة البحر. النظر إلى الوراء: التفات للنظر إلى الوراء. الاندماج: الاجتماع. الضباب الأخضر: ضباب بلون أخضر. غير مرئي عند الاقتراب: لا يمكن رؤيته عند الاقتراب. الفنيات: في علم الفلك القديم، كانت النجوم في السماء مقسمة إلى مناطق تتناسب مع المناطق على الأرض. القمة الوسطى: القمة الرئيسية. التغيير: يتغير. تغيرات الطقس: تفاوتات الطقس من غائم إلى مشمس. الوديان العديدة: العديد من الوديان. مختلف:مميز. البحث عن مكان للإقامة: البحث عن مكان به أشخاص للإقامة فيه. السؤال عن الحطاب من عبر النهر: السؤال عن الحطاب من الجانب الآخر من النهر."
+    },
+    "appreciations": {
+        "zh": "《终南山》这首诗通过描绘终南山的宏伟壮丽，表达了诗人对大自然的敬畏与赞美。主题思想是歌颂自然之美，反思人与自然的关系。写作特色上，诗人运用了远近结合、虚实相生的手法，通过‘白云回望合，青霭入看无’等细腻描写，展现了山景的变幻莫测。艺术成就方面，诗歌结构严谨，意境深远，堪称山水诗的典范。情感分析上，诗人流露出对山川的热爱和对隐逸生活的向往。影响意义上，此诗在文学史上具有重要地位，对后世山水诗创作产生了深远影响。",
+        "en": "The poem 'Zhongnan Mountain' depicts the grandeur and majesty of the Zhongnan Mountains, expressing the poet's awe and admiration for nature. The main theme is the celebration of natural beauty and the reflection on the relationship between man and nature. In terms of writing techniques, the poet employs a combination of near and far perspectives, blending the real and the imaginary, as seen in lines like 'White clouds merge in the rear view, blue mists vanish on close sight.' The artistic achievement lies in its rigorous structure and profound imagery, making it a model of landscape poetry. Emotionally, the poet conveys a deep love for the mountains and a longing for a reclusive life. Historically, this poem holds a significant place in literary history, profoundly influencing later generations of landscape poetry.",
+        "ja": "『終南山』は終南山の壮大さを描き、詩人が自然に対する敬畏と賞賛を表現しています。主題思想は自然の美しさを讃え、人と自然の関係を省察することです。表現手法としては、遠近法の組み合わせや虚実の相生を用い、「白雲回望合、青霭入看無」などの繊細な描写で山景の変幻を表現しています。芸術的成就としては、構成が厳密で意境が深遠であり、山水詩の典型とされています。感情分析では、詩人は山川への愛と隠遁生活への憧れを示しています。影響の意味では、文学史上重要な地位を占め、後世の山水詩創作に大きな影響を与えました。",
+        "es": "El poema 'Montaña Zhongnan' retrata la grandiosidad y majestuosidad de la Montaña Zhongnan, expresando la admiración y el respeto del poeta por la naturaleza. El tema principal es la celebración de la belleza natural y la reflexión sobre la relación entre el hombre y la naturaleza. En cuanto a las técnicas de escritura, el poeta utiliza una combinación de perspectivas cercanas y lejanas, mezclando lo real y lo imaginario, como se ve en versos como 'Las nubes blancas se unen en la mirada atrás, las nieblas azules desaparecen al verlas de cerca'. El logro artístico radica en su estructura rigurosa y su imaginería profunda, siendo un modelo de poesía paisajística. Emocionalmente, el poeta expresa un amor profundo por las montañas y un deseo de vida retirada. Históricamente, este poema ocupa un lugar significativo en la historia literaria, influyendo profundamente en la creación de poesía paisajística de generaciones posteriores.",
+        "ar": "القصيدة 'جبل تشونغنان' تصور عظمة وجلال جبل تشونغنان، وتعبر عن إعجاب وخوف الشاعر من الطبيعة. الفكرة الرئيسية هي الاحتفال بالجمال الطبيعي والتفكير في العلاقة بين الإنسان والطبيعة. من حيث تقنيات الكتابة، يستخدم الشاعر مزيجًا من المنظورات القريبة والبعيدة، يمزج بين الواقع والخيال، كما هو موضح في الأبيات مثل 'السحب البيضاء تتجمع في النظر إلى الوراء، الضباب الأزرق يختفي عند رؤيته عن قرب'. الإنجاز الفني يكمن في بناءه الدقيق وتصوره العميق، مما يجعله نموذجًا للشعر الطبيعي. عاطفيًا، يعبر الشاعر عن حب عميق للجبال ورغبة في الحياة المنعزلة. تاريخيًا، تحتل هذه القصيدة مكانًا مهمًا في تاريخ الأدب، مؤثرة بعمق في إنشاء الشعر الطبيعي للأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "太乙接近天都，连绵的山峦延伸至海边。回头望去白云聚合，青色的雾霭近看却消失。中峰划分了不同的星野，阴晴变化在各山谷中各异。想要寻找人家投宿，隔水向樵夫询问。",
+            "en": "Taiyi is near the celestial capital, with mountains stretching to the sea's edge. Looking back, white clouds merge, while blue mists vanish on close sight. The central peak divides different star regions, and valleys vary in light and shade. Seeking a place to stay, I ask a woodcutter across the water.",
+            "ja": "太乙は天都に近く、連山は海辺に接す。振り返れば白雲が合わさり、青霭は見ると消える。中峰は分野を変え、陰晴は諸谷ぞ異なる。人里に宿を求め、水を隔てて薪取りに尋ねる。",
+            "es": "Taiyi está cerca de la capital celestial, con montañas que llegan hasta el borde del mar. Al mirar atrás, las nubes blancas se unen, mientras la niebla azul desaparece al verla de cerca. La cima central cambia las regiones estelares, y los valles varían en sombra y luz. Buscando un lugar para alojarme, pregunto a un leñador al otro lado del agua.",
+            "ar": "تايي قريب من عاصمة السماء، والجبال متصلة بمحيط البحر. عند التفاتي، تتجمع السحب البيضاء، والضباب الأزرق يختفي عند النظر إليه. القمة الوسطى تغير مناطق النجوم، والوديان تختلف في الظل والضوء. أبحث عن مكان للإقامة، أسأل حطابًا عبر الماء."
+        },
+        "title_translation": {
+            "zh": "终南山",
+            "en": "Mount Zhongnan",
+            "ja": "終南山",
+            "es": "Montaña Zhongnan",
+            "ar": "جبل تشونغنان"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "太乙近天都，连山接海隅。\n白云回望合，青霭入看无。\n分野中峰变，阴晴众壑殊。\n欲投人处宿，隔水问樵夫。",
+    "title_pinyin": "zhōng nán shān",
+    "pinyin": "tài yǐ jìn tiān dōu，lián shān jiē hǎi yú。\nbái yún huí wàng hé，qīng ǎi rù kàn wú。\nfēn yě zhōng fēng biàn，yīn qíng zhòng hè shū。\nyù tóu rén chù sù，gé shuǐ wèn qiáo fū。"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "赠别",
+    "difficulty": 2,
+    "author": {
+        "name": "杜牧",
+        "name_pinyin": "dù mù",
+        "image": "杜牧.jpg",
+        "introduction": {
+            "zh": "杜牧（803年－852年），字牧之，号樊川居士，唐代著名诗人，与李商隐并称“小李杜”。他的诗歌题材广泛，风格清新俊逸，尤以七言绝句见长，代表作有《泊秦淮》、《赤壁》等。杜牧不仅文学成就高，还精通兵法，曾注释《孙子兵法》。其诗歌多反映社会现实，表达对国家兴衰的忧虑。",
+            "en": "Du Mu (803-852), styled Muzhi and known as the Hermit of Fanchuan, was a renowned poet of the Tang Dynasty, often mentioned alongside Li Shangyin as the 'Little Li Du'. His poetry covers a wide range of subjects and is characterized by a fresh and elegant style, particularly excelling in seven-character quatrains. Notable works include 'Mooring on the Qinhuai River' and 'The Red Cliffs'. Du Mu was not only accomplished in literature but also proficient in military strategy, having annotated 'The Art of War'. His poems often reflect social realities and express concerns about the rise and fall of the nation.",
+            "ja": "杜牧（803年－852年）、字は牧之、号は樊川居士、唐代の著名な詩人で、李商隠と並んで「小李杜」と称される。彼の詩は题材が広く、清新で俊逸なスタイルが特徴で、特に七言絶句に優れている。代表作には「泊秦淮」「赤壁」などがある。杜牧は文学の成就が高いだけでなく、兵法にも精通し、「孫子兵法」を注釈した。彼の詩はしばしば社会の現実を反映し、国家の興亡に対する憂慮を表している。",
+            "es": "Du Mu (803-852), conocido por su nombre de cortesía Muzhi y como el Ermitaño de Fanchuan, fue un destacado poeta de la dinastía Tang, a menudo mencionado junto a Li Shangyin como los 'Pequeños Li y Du'. Su poesía abarca una amplia gama de temas y se caracteriza por un estilo fresco y elegante, destacando especialmente en los cuartetos de siete caracteres. Obras notables incluyen 'Amarre en el Río Qinhuai' y 'Las Riscas Rojas'. Du Mu no solo destacó en literatura, sino que también fue competente en estrategia militar, habiendo anotado 'El Arte de la Guerra'. Sus poemas a menudo reflejan realidades sociales y expresan preocupaciones sobre el auge y caída de la nación.",
+            "ar": "دو مو (803-852)، المعروف بلقبه موزي وكنيته راهب فانشوان، كان شاعرًا مشهورًا في عهد التانغ، ويُذكر غالبًا جنبًا إلى جنب مع لي شانغيين كـ 'اللي الصغير ودو'. شعره يغطي مجموعة واسعة من المواضيع ويتميز بأسلوبه العصري والزاهد، ويتفوق خاصة في الأرباع السباعية. من أعماله البارزة 'الرسو على نهر تشينهواي' و 'الجروف الحمراء'. لم يقتصر دو مو على الإنجاز الأدبي فحسب، بل كان بارعًا أيضًا في الاستراتيجية العسكرية، حيث قام بشرح 'فن الحرب'. قصائده غالبًا ما تعكس الوقائع الاجتماعية وتعبر عن القلق بشأن صعود وسقوط الأمة."
+        }
+    },
+    "annotations": {
+        "zh": "多情却似总无情：多情的人表现得好像总是无情。樽前：酒杯前，指饮酒时。笑不成：无法笑出来。蜡烛有心：蜡烛有芯，比喻有感情。替人垂泪：代替人哭泣。到天明：直到天亮。此诗表达了诗人对离别时的复杂情感，多情之人因离别而显得无情，连笑都笑不出来，蜡烛仿佛也有情感，代替人一直流泪到天亮。",
+        "en": "Many emotions seem like no emotions at all, only feeling unable to smile in front of the wine cup. The candle, having a heart, still cherishes the parting, shedding tears for people until dawn. This poem expresses the complex emotions of the poet during parting, where a person of many emotions appears emotionless, unable to smile, and even the candle seems to have feelings, crying for people until morning.",
+        "ja": "多情却似总无情：多くの情を持つ者がまるで情を持たないかのよう。樽前：酒の杯の前、飲酒の際を指す。笑不成：笑うことができない。蜡烛有心：ろうそくには芯がある、感情があると比喻する。替人垂泪：人の代わりに涙を流す。到天明：夜明けまで。この詩は、別れの際の詩人の複雑な感情を表現しており、多くの情を持つ者が別れのために情を持たないように見え、笑うこともできず、ろうそくでさえ感情があるかのように、人の代わりに涙を夜明けまで流す。",
+        "es": "Los que sienten mucho parecen no sentir nada, solo sienten que no pueden reír frente a la copa de vino. La vela, teniendo un corazón, aún lamenta la despedida, llorando en lugar de los demás hasta el amanecer. Este poema expresa las emociones complejas del poeta durante la despedida, donde aquellos que sienten mucho parecen insensibles, incapaces de reír, y hasta la vela parece tener sentimientos, llorando por los demás hasta el día siguiente.",
+        "ar": "الذين يشعرون كثيرًا يبدون كأنهم لا يشعرون بشيء على الإطلاق، فقط يشعرون بأنهم لا يستطيعون الضحك أمام كأس الخمر. الشمعة، ولها قلب، تظل تحزن على الوداع، تبكي بدلاً عن الناس حتى الفجر. هذا الشعر يعبر عن المشاعر المعقدة للشاعر أثناء الوداع، حيث يبدو الذين يشعرون كثيرًا بدون مشاعر، غير قادرين على الضحك، وحتى الشمعة تبدو كما لو أنها تمتلك مشاعر، تبكي عن الناس حتى الصباح."
+    },
+    "appreciations": {
+        "zh": "这首《赠别》诗以深沉的情感和细腻的描写，表达了诗人对离别之情的无奈与不舍。主题思想在于揭示多情之人面对离别时的复杂心理，看似无情却蕴含深情。写作特色上，诗人运用了拟人手法，将蜡烛赋予了情感，‘蜡烛有心还惜别’，形象生动地传达了离别的哀愁。艺术成就方面，诗句简洁而意境深远，‘替人垂泪到天明’一句，既形象又含蓄，具有很高的艺术价值。情感分析上，诗人抒发了对离别对象的深情厚意，以及对离别时刻的无奈和哀伤。影响意义上，这首诗在文学史上具有重要地位，成为表达离别情感的经典之作。",
+        "en": "This poem 'Farewell Gift' expresses the poet's helplessness and reluctance towards parting with deep emotions and delicate descriptions. The theme reveals the complex psychology of a sentimental person facing separation, appearing indifferent but containing deep affection. In terms of writing features, the poet uses personification, endowing the candle with emotions, 'The candle, having a heart, still laments the parting,' vividly conveying the sorrow of separation. In artistic achievement, the verses are concise yet profound in meaning, with the line 'It weeps for humans until dawn' being both vivid and implicit, possessing high artistic value. Emotionally, the poet expresses deep affection for the person being parted from, as well as the helplessness and sadness of the moment of separation. In terms of influence, this poem holds an important position in literary history, becoming a classic work expressing the emotions of parting.",
+        "ja": "この詩「贈別」は、深い感情と繊細な描写で、詩人が別れに対する無念さと惜しみを表現しています。主題思想は、多情な人が別れに直面したときの複雑な心理を明らかにすることにあり、無情に見えても深い愛情を秘めていることです。書き方の特色としては、擬人化の手法を用い、ろうそくに感情を与えています。「ろうそくは心があるのに別れを惜しむ」という表現は、別れの哀愁を生き生きと伝えています。芸術的成就としては、詩句は簡潔でありながら意境が深く、「人に代わって涙を流す直到明け方」という一句は、形象的でありながら含蓄があり、高い芸術的価値を持っています。感情分析では、詩人は別れの対象に対する深い愛情と、別れの時刻に対する無念さと哀しみを表現しています。影響の意味では、この詩は文学史上重要な地位を占めており、別れの感情を表現する古典的名作となっています。",
+        "es": "Este poema 'Regalo de Despedida' expresa la impotencia y el pesar del poeta ante la partida con emociones profundas y descripciones delicadas. El tema revela la psicología compleja de una persona sentimental frente a la separación, aparentemente indiferente pero llena de profundo afecto. En cuanto a las características de escritura, el poeta utiliza la personificación, otorgando emociones a la vela, 'La vela, teniendo corazón, aún lamenta la despedida', transmitiendo vívidamente la tristeza de la separación. En logros artísticos, los versos son concisos pero de gran profundidad, con la línea 'Llora por los humanos hasta el amanecer' siendo tanto vívida como implícita, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa un profundo afecto por la persona de la que se está despidiendo, así como la impotencia y la tristeza del momento de la separación. En términos de influencia, este poema ocupa un lugar importante en la historia de la literatura, convirtiéndose en una obra clásica que expresa las emociones del adiós.",
+        "ar": "هذه القصيدة 'هدية الوداع' تعبر عن عجز الشاعر و حزنه إزاء الابتعاد ب эмоционاة عميقة ووصف دقيق. يكمن الموضوع في كشف النفسية المعقدة للشخص العاطفي عند مواجهة الانفصال، يبدو بلا عاطفة ولكنه يحتوي على حب عميق. من حيث خصائص الكتابة، يستخدم الشاعر التشخيص، مانحًا الشمعة مشاعر، 'الشمعة ولديها قلب تزال تحزن على الوداع'، تنقل بحيوية حزن الانفصال. من حيث الإنجاز الفني، الأبيات قصيرة ولكنها عميقة في المعنى، البيت 'تبكي عن البشر حتى الفجر' يكون حيويًا ومقترنًا، يمتلك قيمة فنية عالية. من حيث التحليل العاطفي، يعبر الشاعر عن حب عميق لمن يودعه، وكذلك عن عجزه وحزنه في لحظة الابتعاد. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، لتصبح عملًا كلاسيكيًا يعبر عن مشاعر الوداع."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "多情之人却似乎总是无情，只觉得在酒杯前无法笑出声。蜡烛若有心也懂得惜别，替人垂泪直到天明。",
+            "en": "The one full of passion seems always devoid of feeling, only sensing that laughter fails before the wine. The candle, if it had a heart, would cherish parting too, shedding tears for others until dawn.",
+            "ja": "情多い者は常に情無きが如く、杯の前では笑顔が成りせぬ。ろうそくも心あれば別れを惜しむ、人に代わり涙を流し明くるまで。",
+            "es": "El que es tan apasionado parece siempre sin sentimiento, solo siente que no puede reír ante el vaso. La vela, si tuviera corazón, también lamentaría la despedida, derramando lágrimas por otros hasta el amanecer.",
+            "ar": "من كان كثير العاطفة يبدو دائمًا بلا مشاعر، يشعر فقط أنه لا يستطيع الضحك أمام الكأس. الشمعة، لو كان لها قلب، ستتأثر بالفراق أيضًا، تسقط الدموع عن الآخرين حتى الفجر."
+        },
+        "title_translation": {
+            "zh": "赠别",
+            "en": "Farewell Gift",
+            "ja": "贈別",
+            "es": "Regalo de Despedida",
+            "ar": "هدية الوداع"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "多情却似总无情，唯觉樽前笑不成。\n蜡烛有心还惜别，替人垂泪到天明。",
+    "title_pinyin": "zèng bié",
+    "pinyin": "duō qíng què shì zǒng wú qíng，wéi jué zūn qián xiào bù chéng。\nlà zhú yǒu xīn hái xī bié，tì rén chuí lèi dào tiān míng。"
+}

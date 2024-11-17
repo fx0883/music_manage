@@ -1,0 +1,57 @@
+{
+    "title": "江雪",
+    "difficulty": 2,
+    "author": {
+        "name": "柳宗元",
+        "name_pinyin": "liǔ zōng yuán",
+        "image": "柳宗元.jpg",
+        "introduction": {
+            "zh": "柳宗元（773年－819年），字子厚，唐代著名文学家、思想家、政治家，河东（今山西运城）人。他与韩愈并称为“韩柳”，是唐代古文运动的代表人物之一。其文学成就主要体现在散文和诗歌方面，代表作有《捕蛇者说》、《永州八记》等。他的诗歌风格清新淡雅，多反映社会现实和抒发个人情感。《江雪》一诗以其孤寂冷峭的意境，成为千古传诵的名篇。",
+            "en": "Liu Zongyuan (773-819), styled Zihou, was a renowned Tang Dynasty litterateur, thinker, and statesman from Hedong (present-day Yuncheng, Shanxi). He, along with Han Yu, was collectively known as 'Han Liu' and was one of the leading figures of the Classical Prose Movement in the Tang Dynasty. His literary achievements are mainly reflected in his prose and poetry, with notable works including 'The Snake Catcher' and 'The Eight Essays of Yongzhou'. His poetic style is fresh and elegant, often reflecting social realities and expressing personal emotions. The poem 'River Snow', with its solitary and cold imagery, has become a celebrated masterpiece through the ages.",
+            "ja": "柳宗元（りゅう そうげん、773年－819年）は、唐代の著名な文学者、思想家、政治家で、字は子厚、河東（現在の山西省運城）の人。韓愈と並んで「韓柳」と称され、唐代の古文運動の代表的な人物の一人。文学の成就は主に散文と詩に現れ、代表作に『捕蛇者説』、『永州八記』などがある。詩のスタイルは清新で淡雅で、社会の現実を反映し、個人的な感情を表現することが多い。『江雪』の詩は、その孤寂で冷たい情景で、千古に伝わる名篇となっている。",
+            "es": "Liu Zongyuan (773-819), conocido por su nombre de cortesía Zihou, fue un destacado literato, pensador y político de la dinastía Tang, originario de Hedong (actual Yuncheng, Shanxi). Junto con Han Yu, es conocido como 'Han Liu' y fue uno de los principales exponentes del Movimiento de Prosa Clásica durante la dinastía Tang. Sus logros literarios se reflejan principalmente en sus ensayos y poesía, con obras destacadas como 'El Cazador de Serpientes' y 'Los Ocho Escritos de Yongzhou'. Su estilo poético es fresco y elegante, a menudo reflejando realidades sociales y expresando emociones personales. El poema 'Nieve en el Río', con su imagen solitaria y fría, se ha convertido en una obra maestra aclamada a través de los tiempos.",
+            "ar": "ليو زونغيان (773-819)، المعروف بلقبه زي هو، كان كاتبًا ومفكرًا وسياسيًا بارزًا في عهد أسرة تانغ، من منطقة هيدونغ (اليوم يونتشينغ، شانشي). وهو معروف مع هان يو كـ \"هان ليو\"، وكان واحدًا من أبرز الشخصيات في حركة النثر الكلاسيكي في عهد أسرة تانغ. إنجازاته الأدبية تتجلى بشكل رئيسي في مقالاته وقصائده، ومن أشهر أعماله \"حديث صائد الأفاعي\" و \"ثمانية مقالات عن يونغتشو\". أسلوبه الشعري هو جديد وأنيق، غالبًا ما يعكس الواقع الاجتماعي ويعبر عن المشاعر الشخصية. قصيدته \"الثلج على النهر\"، بتصورها المنعزل والبارد، أصبحت عملًا رائعًا يُتغنى به عبر العصور."
+        }
+    },
+    "annotations": {
+        "zh": "千山鸟飞绝：所有的山都没有鸟飞的痕迹。绝，断绝。万径人踪灭：所有的路都没有人的踪迹。灭，消失。孤舟蓑笠翁：孤独的小舟上有一个披着蓑衣、戴着斗笠的老翁。蓑笠，用草或棕制成的雨具。独钓寒江雪：独自一人在寒冷的江上钓鱼，周围是飘落的雪花。意象分析：千山、万径、孤舟、寒江、雪，营造出一种孤独、冷寂的氛围。历史背景：此诗为唐代诗人柳宗元所作，反映了他在政治失意后的孤独与寂寞。",
+        "en": "Thousand mountains without a bird in flight: All the mountains are devoid of any bird activity. Extinct, meaning no trace. Ten thousand paths without a footprint: All the paths are devoid of any human traces. Extinct, meaning消失. Lone boat with an old man in straw raincoat and hat: A solitary boat carries an old man wearing a straw raincoat and a hat. Straw raincoat and hat, traditional rain gear made of straw or palm leaves. Fishing alone in the cold river amid the snow: The old man is fishing by himself in the cold river surrounded by falling snow. Imagery analysis: Thousand mountains, ten thousand paths, lone boat, cold river, and snow create an atmosphere of solitude and desolation. Historical background: This poem was written by the Tang Dynasty poet Liu Zongyuan, reflecting his loneliness and melancholy after political setbacks.",
+        "ja": "千山鳥飛絶：すべての山に鳥の飛ぶ跡がない。絶、絶える。万径人踪滅：すべての道に人の跡がない。滅、消える。孤舟蓑笠翁：孤独な小舟に、蓑を着て笠を被った老人がいる。蓑笠、草や棕で作られた雨具。独釣寒江雪：寒い川で雪の中、一人で釣りをしている。意象分析：千山、万径、孤舟、寒江、雪が孤独で冷たい雰囲気を作り出している。歴史背景：この詩は唐代の詩人柳宗元によって作られ、政治的な失意後の孤独と淋しさを反映している。",
+        "es": "Mil montañas sin pájaros en vuelo: Todas las montañas están desprovistas de cualquier actividad de aves. Extintas, significa sin rastro. Diez mil senderos sin huellas humanas: Todos los senderos están desprovistos de cualquier rastro humano. Extintas, significa desaparecer. Barca solitaria con un anciano en sombrero y capa de paja: Una barca solitaria lleva a un anciano que lleva una capa y un sombrero de paja. Capa y sombrero de paja, atuendo tradicional para la lluvia hecho de paja o hojas de palma. Pescando solo en el río frío entre la nieve: El anciano está pescando solo en el río frío rodeado de nieve cayendo. Análisis de imágenes: Mil montañas, diez mil senderos, barca solitaria, río frío y nieve crean una atmósfera de soledad y desolación. Contexto histórico: Este poema fue escrito por el poeta de la dinastía Tang, Liu Zongyuan, reflejando su soledad y melancolía después de reveses políticos.",
+        "ar": "ألف جبل بلا طيور تحلق: جميع الجبال خالية من أي نشاط للطيور. انقرض، يعني بدون أثر. عشرة آلاف طريق بلا أثار بشرية: جميع الطرق خالية من أي أثار بشرية. انقرض، يعني اختفى. قارب وحيد مع رجل عجوز في مظلة وسترة من القش: قارب وحيد يحمل رجل عجوز يرتدي سترة ومظلة من القش. سترة ومظلة من القش، ملابس تقليدية للرطوبة مصنوعة من القش أو أوراق النخيل. يصطاد وحده في النهر البارد وسط الثلج: الرجل العجوز يصطاد وحده في النهر البارد محاط بالثلج المتساقط. تحليل الصور: ألف جبل، عشرة آلاف طريق، قارب وحيد، نهر بارد، وثلج يخلقون جوا من الوحدة والخلو. الخلفية التاريخية: كتب هذا الشعر بواسطة الشاعر التانغي Liu Zongyuan، يعكس وحدته وحزنه بعد الإخفاقات السياسية."
+    },
+    "appreciations": {
+        "zh": "《江雪》是唐代诗人柳宗元的名篇，主题思想表现了诗人超然物外、孤高清绝的情怀。写作特色上，诗人运用了白描手法，以简洁的笔触勾勒出一幅寒江独钓图，意境深远。艺术成就方面，这首诗以极简的意象营造出丰富的诗意空间，堪称山水诗的典范。情感分析上，诗人通过孤独的渔翁形象，抒发了自己政治失意后的孤寂与高洁。影响意义上，这首诗在文学史上具有重要地位，对后世山水诗的创作产生了深远影响。",
+        "en": "Jiang Xue by Liu Zongyuan of the Tang Dynasty reflects the poet's detached and lofty sentiments. In terms of writing features, the poet employs plain description to sketch a vivid scene of solitary fishing in a cold river, creating a profound artistic conception. Artistically, the poem achieves greatness by using minimal imagery to evoke a rich poetic space, exemplifying landscape poetry. Emotionally, the lonely fisherman symbolizes the poet's feelings of isolation and integrity after political setbacks. Historically, this poem holds a significant place in literary history, profoundly influencing later generations of landscape poetry.",
+        "ja": "唐代の詩人柳宗元の『江雪』は、詩人が物事に執着せず、孤高で清絶な心境を表現している。表現手法としては、白描の技法を用い、簡潔な筆致で寒江での独り釣りの情景を描き出し、深遠な境地を創出している。芸術的成就としては、極めて簡素なイメージで豊かな詩的空間を築き上げ、山水詩の模範とされる。感情分析では、孤独な漁翁の姿を通して、政治的な挫折後の寂寥と高潔さを抒発している。影響の意味では、文学史上重要な位置を占め、後世の山水詩の創作に大きな影響を与えた。",
+        "es": "Jiang Xue, del poeta de la dinastía Tang Liu Zongyuan, expresa el tema de la desvinculación del mundo y la elevada soledad del poeta. En cuanto a las características de escritura, el poeta utiliza la técnica de la descripción sencilla para dibujar una escena de pesca solitaria en un río frío, creando una atmósfera artística profunda. En términos de logros artísticos, el poema destaca por crear un espacio poético rico con imágenes mínimas, siendo un ejemplo de poesía paisajística. En el análisis emocional, el pescador solitario simboliza los sentimientos de aislamiento e integridad del poeta tras sus desventuras políticas. En cuanto a su significado e influencia, este poema ocupa un lugar importante en la historia literaria, influyendo profundamente en la creación de poesía paisajística en generaciones posteriores.",
+        "ar": "قصيدة \"jiang xue\" للشاعر لي زونج يوان من عهد التانغ تعبر عن فكرة الانعزال عن العالم والاعتزال الشريف للشاعر. فيما يتعلق بميزات الكتابة، يستخدم الشاعر تقنية الوصف البسيط ليرسم مشهداً لصياد وحيد في نهر بارد، مما يخلق جواً فنياً عميقاً. من حيث الإنجازات الفنية، تبرز القصيدة بإنشائها مساحة شعرية غنية بأقل صورة، لتكون مثالاً على الشعر الطبيعي. في تحليل العواطف، يرمز الصياد الوحيد إلى مشاعر العزلة والنقاء للشاعر بعد إخفاقاته السياسية. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، مؤثرة بشكل عميق في إنشاء الشعر الطبيعي للأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "千山之中鸟儿飞得无影无踪，万条小径上人的踪迹都已消失。孤舟上，一位身披蓑衣、头戴斗笠的老翁，独自在寒冷的江面上垂钓，四周飘着雪花。",
+            "en": "Mountains upon mountains, birds fly no more; paths upon paths, human traces fade. In a solitary boat, an old man in straw raincoat and bamboo hat, alone fishes in the cold river under the falling snow.",
+            "ja": "千の山に鳥の飛ぶ姿もなく、万の径に人跡も消える。孤舟に蓑笠の翁、寒き江に独り雪を釣る。",
+            "es": "En mil montañas, los pájaros ya no vuelan; en diez mil senderos, las huellas humanas se borran. En una barca solitaria, un anciano con sombrero de paja y capote, pesca solo en el río frío bajo la nieve.",
+            "ar": "في آلاف الجبال، الطيور لا تطير؛ في ملايين الدروب، آثار الناس تختفي. في قارب وحيد، رجل هرم في سترة من القش وقبعة من الخوص، يصطاد وحده في النهر البارد تحت الثلج."
+        },
+        "title_translation": {
+            "zh": "江雪",
+            "en": "River Snow",
+            "ja": "江雪",
+            "es": "Nieve en el Río",
+            "ar": "ثلج النهر"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "千山鸟飞绝，万径人踪灭。\n孤舟蓑笠翁，独钓寒江雪。",
+    "title_pinyin": "jiāng xuě",
+    "pinyin": "qiān shān niǎo fēi jué，wàn jìng rén zōng miè。\ngū zhōu suō lì wēng，dú diào hán jiāng xuě。"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "逢入京使",
+    "difficulty": 2,
+    "author": {
+        "name": "岑参",
+        "name_pinyin": "cén cān",
+        "image": "岑参.jpg",
+        "introduction": {
+            "zh": "岑参（约715-770），唐代著名诗人，擅长边塞诗。他的诗作多描写边塞风光和军旅生活，风格雄浑激昂，意境开阔。岑参曾两次出塞，历任安西、北庭节度判官，对边塞生活有深刻体验。《逢入京使》是其代表作之一，表达了诗人对家乡的思念之情。",
+            "en": "Cen Shen (approx. 715-770) was a renowned poet of the Tang Dynasty, particularly skilled in frontier poetry. His works often depict the scenery and life of the frontier, characterized by a robust and passionate style with broad imagery. Cen Shen served in the frontier regions twice, holding positions in the Anxi and Beiting military administrations, gaining profound insights into frontier life. 'Meeting an Envoy to the Capital' is one of his representative works, expressing his longing for home.",
+            "ja": "岑参（約715-770）は唐代の著名な詩人で、辺塞詩に長けていた。彼の詩作は多くが辺塞の風景や軍旅生活を描き、雄渾で激昂したスタイルと開放的な意境が特徴である。岑参は二度辺塞に出向き、安西・北庭節度判官を歴任し、辺塞生活に深い体験を持っていた。《逢入京使》は彼の代表作の一つで、故郷への思慕の情を表している。",
+            "es": "Cen Shen (aprox. 715-770) fue un poeta destacado de la dinastía Tang, especializado en poesía de frontera. Sus obras suelen describir los paisajes y la vida en las fronteras, con un estilo robusto y apasionado y una imaginería amplia. Cen Shen sirvió en las regiones fronterizas en dos ocasiones, ocupando cargos en las administraciones militares de Anxi y Beiting, lo que le proporcionó una profunda comprensión de la vida en la frontera. 'Encontro con un Enviado a la Capital' es una de sus obras representativas, que expresa su anhelo por su hogar.",
+            "ar": "سين شين (حوالي 715-770) كان شاعرًا معروفًا في عهد التانغ، متخصص في الشعر الحدودي. أعماله غالبًا ما تصف المناظر الطبيعية والحياة في الحدود، مع أسلوب قوي ومتحمس وصور واسعة. خدم سين شين في المناطق الحدودية مرتين، شغل مناصب في إدارات أنسي وبейтинг العسكرية، مما أتاح له فهمًا عميقًا لحياة الحدود. 'لقاء رسول إلى العاصمة' هو واحدة من أعماله البارزة، يعبر عن شوقه لوطنه."
+        }
+    },
+    "annotations": {
+        "zh": "故园东望路漫漫：故园指诗人的家乡，东望指诗人向西行进时回望东方的家乡，路漫漫形容路途遥远。双袖龙钟泪不干：龙钟形容泪流满面的样子，双袖指诗人的衣袖，泪不干表示泪水不断。马上相逢无纸笔：马上指骑马时，相逢指遇到，无纸笔表示没有写信的工具。凭君传语报平安：凭君指依靠你，传语指传递消息，报平安表示告诉家人自己安好。\n语法说明：此诗使用了平铺直叙的句式，没有复杂的语法结构。\n典故解释：无特定典故。\n意象分析：故园、路漫漫、双袖龙钟泪、马上相逢等意象表达了诗人对家乡的思念和旅途的艰辛。\n历史背景：此诗写于唐代，诗人岑参在赴边疆途中遇到入京使者，借此机会托人传话给家人。",
+        "en": "Gu yuan dong wang lu man man: Gu yuan refers to the poet's hometown, dong wang means looking eastward while traveling west, lu man man describes the long journey. Shuang xiu long zhong lei bu gan: Long zhong depicts a tear-streaked face, shuang xiu refers to the poet's sleeves, lei bu gan means the tears won't dry. Ma shang xiang feng wu zhi bi: Ma shang means on horseback, xiang feng means meeting, wu zhi bi indicates the lack of writing tools. Ping jun chuan yu bao ping an: Ping jun means relying on you, chuan yu means passing a message, bao ping an means telling the family he is safe.\nGrammar Explanation: The poem uses straightforward sentences without complex grammatical structures.\nAllusion Explanation: No specific allusions.\nImagery Analysis: The imagery of gu yuan, lu man man, shuang xiu long zhong lei, and ma shang xiang feng express the poet's longing for home and the hardships of travel.\nHistorical Background: Written during the Tang Dynasty, the poet Cen Shen composed this on his way to the frontier when he met a messenger heading to the capital, seizing the chance to send word home.",
+        "ja": "故園東望路漫漫：故園は詩人の故郷を指し、東望は西に向かって旅をしながら東を振り返ること、路漫漫は道の長さを表す。双袖龍鐘淚不干：龍鐘は涙で顔が濡れている様子を形容し、双袖は詩人の袖を指し、淚不干は涙が乾かないことを示す。馬上相逢無紙筆：馬上は馬に乗っている時、相逢は出会うこと、無紙筆は書く道具がないことを意味する。凭君傳語報平安：凭君はあなたに頼むこと、傳語はメッセージを伝えること、報平安は家族に無事であることを伝えること。\n文法説明：この詩は平明な叙述句を使用しており、複雑な文法構造はない。\n典故説明：特定の典故はない。\n意象分析：故園、路漫漫、双袖龍鐘淚、馬上相逢などの意象は、詩人の故郷への思慕と旅の辛苦を表している。\n歴史背景：唐代に書かれたこの詩は、詩人岑参が辺境に向かう途中で都に向かう使者に会い、家族への伝言を頼んだ情景を描いている。",
+        "es": "Gu yuan dong wang lu man man: Gu yuan se refiere a la tierra natal del poeta, dong wang significa mirar hacia el este mientras viaja hacia el oeste, lu man man describe el largo camino. Shuang xiu long zhong lei bu gan: Long zhong pinta una cara cubierta de lágrimas, shuang xiu se refiere a las mangas del poeta, lei bu gan significa que las lágrimas no se secan. Ma shang xiang feng wu zhi bi: Ma shang significa a caballo, xiang feng significa encontrarse, wu zhi bi indica la falta de herramientas para escribir. Ping jun chuan yu bao ping an: Ping jun significa confiar en ti, chuan yu significa pasar un mensaje, bao ping an significa informar a la familia que está a salvo.\nExplicación Gramatical: El poema utiliza frases directas sin estructuras gramaticales complejas.\nExplicación de la Alusión: No hay alusiones específicas.\nAnálisis de Imágenes: Las imágenes de gu yuan, lu man man, shuang xiu long zhong lei, y ma shang xiang feng expresan el anhelo del poeta por su hogar y las dificultades del viaje.\nContexto Histórico: Escrito durante la dinastía Tang, el poeta Cen Shen compuso esto en su camino a la frontera cuando conoció a un mensajero que se dirigía a la capital, aprovechando la oportunidad para enviar un mensaje a su familia.",
+        "ar": "قديان دونغ وانغ لومان: قديان يشير إلى مسقط رأس الشاعر، دونغ وانغ يعني النظر نحو الشرق أثناء السفر نحو الغرب، لومان يصف الطريق الطويل. شوانغ شيو لونغ تشونغ ليه بوه جان: لونغ تشونغ يصور وجه متسخ بالدموع، شوانغ شيو يشير إلى أكمام الشاعر، ليه بوه جان يعني أن الدموع لا تجف. ما شانغ شيانغ فونغ وو زي بي: ما شانغ يعني على الحصان، شيانغ فونغ يعني اللقاء، وو زي بي يشير إلى عدم وجود أدوات للكتابة. بينغ جون تشوان يو باو بينغ أن: بينغ جون يعني الاعتماد عليك، تشوان يو يعني نقل رسالة، باو بينغ أن يعني إبلاغ العائلة بأنه بخير.\nشرح النحو: يستخدم الشعر جمل مباشرة بدون بنى نحوية معقدة.\nشرح الإحالة: لا توجد إحالات محددة.\nتحليل الصور: صور قديان، لومان، شوانغ شيو لونغ تشونغ ليه، وما شانغ شيانغ فونغ تعبر عن شوق الشاعر لوطنه والصعوبات التي يواجهها في السفر.\nالخلفية التاريخية: كتب هذا الشعر في عهد التانغ، حيث كتب الشاعر تسين شن في طريقه إلى الحدود عندما التقى رسولاً ذاهبًا إلى العاصمة، فاستغل الفرصة لإرسال رسالة إلى عائلته."
+    },
+    "appreciations": {
+        "zh": "《逢入京使》这首诗表达了诗人对故乡的深切思念和对亲人的牵挂。主题思想是游子思乡之情。写作特色上，诗人运用简洁明快的语言，通过“东望”、“泪不干”等细节描写，生动地展现了内心的情感。艺术成就方面，诗句凝练而富有画面感，情感真挚，具有很高的艺术价值。情感分析来看，诗人通过“凭君传语报平安”一句，抒发了对家人平安的深切祝愿。影响意义上，这首诗在唐代边塞诗中占有重要地位，对后世文学产生了深远影响。",
+        "en": "The poem 'Feng Ru Jing Shi' expresses the poet's deep longing for his homeland and concern for his family. The main theme is the homesickness of a traveler. In terms of writing style, the poet uses concise and straightforward language, vividly depicting his inner emotions through details like 'looking east' and 'tears not drying'. Artistically, the lines are succinct and full of imagery, conveying genuine emotions, thus holding high artistic value. Emotionally, the line 'rely on you to convey my safe wishes' expresses his deep hope for his family's well-being. Historically, this poem holds a significant place in Tang Dynasty border poetry and has had a profound influence on later literature.",
+        "ja": "『逢入京使』は詩人が故郷に対する深い思い出と家族への気遣いを表現した詩です。主題思想は旅人のもどりびとの情です。書き方の特徴としては、詩人は簡潔明瞭な言葉遣いを用い、「東望」、「涙不干」などの詳細な描写を通じて、内面の感情を生き生きと描いています。芸術的成就としては、詩句は凝縮されていて画面的な感覚が豊かで、真摯な感情を伝えており、高い芸術価値を持っています。感情分析では、「君に言葉を伝えて平安を報じよ」という一句で、家族の平安への深い願いを表現しています。影響の意味では、この詩は唐代の辺塞詩において重要な地位を占め、後世の文学に深い影響を与えました。",
+        "es": "El poema 'Feng Ru Jing Shi' expresa el profundo anhelo del poeta por su tierra natal y su preocupación por su familia. El tema principal es el sentimiento de nostalgia del viajero. En cuanto al estilo de escritura, el poeta utiliza un lenguaje conciso y directo, describiendo vívidamente sus emociones internas a través de detalles como 'mirar hacia el este' y 'lágrimas que no se secan'. Artísticamente, los versos son sucintos y llenos de imágenes, transmitiendo emociones genuinas, lo que les confiere un alto valor artístico. En el análisis emocional, la línea 'confío en ti para transmitir mi deseo de paz' expresa su profundo deseo de bienestar para su familia. En términos de influencia, este poema ocupa un lugar importante en la poesía de la frontera de la dinastía Tang y ha tenido un profundo impacto en la literatura posterior.",
+        "ar": "القصيدة 'Feng Ru Jing Shi' تعبر عن شوق الشاعر العميق لوطنه واهتمامه بأهله. الفكرة الرئيسية هي شوق المسافر لوطنه. فيما يتعلق بأسلوب الكتابة، يستخدم الشاعر لغة موجزة وبسيطة، يصف بشكل حي مشاعره الداخلية من خلال تفاصيل مثل 'النظر إلى الشرق' و'الدموع التي لا تجف'. من الناحية الفنية، الأبيات موجزة ومليئة بالصور، تنقل مشاعر صادقة، مما يمنحها قيمة فنية عالية. في تحليل المشاعر، البيت 'أعتمد عليك لنقل تحياتي بالسلام' يعبر عن رغبته العميقة في سلامة أهله. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في شعر الحدود في عهد أسرة تانغ وأثرت بشكل عميق في الأدب اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "向东望故园，路途漫长无尽，双袖湿润，泪水难以干涸。马上相逢，无纸笔可书，只托你传话，报我平安。",
+            "en": "Gazing east to my homeland, the road stretches endlessly; tears soak my sleeves, never dry. Meeting on horseback, no pen or paper in hand, I rely on you to convey my safe and sound news.",
+            "ja": "故郷を東に望み、道は果てしなく続く。両袖は涙で濡れ、乾かない。馬上で出会い、紙筆なく、あなたに言葉を託し、無事を報じよ。",
+            "es": "Mirando al este hacia mi patria, el camino es interminable; mis mangas están empapadas de lágrimas que no se secan. Nos encontramos a caballo, sin papel ni pluma, confío en ti para transmitir que estoy bien.",
+            "ar": "أحدق نحو الشرق لرؤية موطني، والطريق يطول بلا نهاية؛ كفي تبتلان بالدموع ولا تجف. التقينا على الحصان، بلا قلم ولا ورق، أستودعك إيصال سلامي."
+        },
+        "title_translation": {
+            "zh": "逢入京使",
+            "en": "Encountering the Envoy to the Capital",
+            "ja": "入京使に逢う",
+            "es": "Encontrando al Enviado a la Capital",
+            "ar": "لقاء رسول الذهاب إلى العاصمة"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "故园东望路漫漫，双袖龙钟泪不干。\n马上相逢无纸笔，凭君传语报平安。",
+    "title_pinyin": "féng rù jīng shǐ",
+    "pinyin": "gù yuán dōng wàng lù màn màn，shuāng xiù lóng zhōng lèi bù gàn。\nmǎ shàng xiāng féng wú zhǐ bǐ，píng jūn chuán yǔ bào píng ān。"
+}

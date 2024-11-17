@@ -1,0 +1,57 @@
+{
+    "title": "寒食",
+    "difficulty": 2,
+    "author": {
+        "name": "韩翃",
+        "name_pinyin": "hán hóng",
+        "image": "韩翃.jpg",
+        "introduction": {
+            "zh": "韩翃，唐代著名诗人，生卒年不详，字君平，南阳（今属河南）人。天宝十三载（754年）进士，官至中书舍人。韩翃工诗，其诗多写送别、思乡之情，风格清新自然，语言简练。代表作有《寒食》、《章台柳》等，其中《寒食》一诗尤为著名，广为传诵。",
+            "en": "Han Hong, a renowned poet of the Tang Dynasty, whose exact birth and death years are unknown, styled himself Junping and hailed from Nanyang (present-day Henan). He passed the imperial examination in the 13th year of the Tianbao era (754 AD) and eventually rose to the position of a Palace Secretary. Han Hong excelled in poetry, with many of his works focusing on themes of farewell and homesickness. His style was fresh and natural, with concise language. His notable works include 'Cold Food Festival' and 'Willows of Zhangtai', among which 'Cold Food Festival' is particularly famous and widely recited.",
+            "ja": "韓翃（かんこう）は、唐代の著名な詩人で、生没年不詳。字は君平、南陽（現在の河南省）出身。天宝13載（754年）に進士となり、中書舎人まで昇進した。韓翃は詩作に優れ、送別や故郷への思慕を題材にした作品が多い。彼の詩は清新で自然なスタイルと簡潔な言語が特徴である。代表作には「寒食」、「章台柳」などがあり、特に「寒食」は広く知られ、多くの人に詠まれている。",
+            "es": "Han Hong, un poeta destacado de la dinastía Tang, cuyos años exactos de nacimiento y muerte se desconocen, se autodenominaba Junping y era originario de Nanyang (actualmente en Henan). Se graduó en el décimo tercer año del período Tianbao (754 d.C.) y llegó a ocupar el cargo de Secretario del Palacio. Han Hong era experto en poesía, y muchas de sus obras tratan sobre despedidas y nostalgia por el hogar. Su estilo era fresco y natural, con un lenguaje conciso. Sus obras más conocidas incluyen 'Festival de la Comida Fría' y ' sauces de Zhangtai', siendo especialmente famosa la primera, que ha sido ampliamente recitada.",
+            "ar": "هان هونغ، شاعر مشهور من عهد التانغ، لم تُعرف سنة ميلاده ووفاته بدقة، كان يُعرف بجون بينغ وكان من نانيانغ (تقع في مقاطعة خنان حاليًا). تخرج في السنة الثالثة عشرة من فترة تيانباو (754 م) وتولى منصب كاتب القصر. كان هان هونغ ماهرًا في كتابة الشعر، وتناولت العديد من أعماله مواضيع الوداع والحنين إلى الوطن. كان أسلوبه جديدًا وطبيعيًا، ولغته موجزة. من أشهر أعماله 'عيد الطعام البارد' و'الصفصاف في زانغتاي'، واشتهر الأول بشكل خاص وأُعيد نشره على نطاق واسع."
+        }
+    },
+    "annotations": {
+        "zh": "春城：春天的城市。飞花：飘落的花瓣。寒食：古代节日，在清明节前一天，禁火冷食。东风：春风。御柳：皇宫中的柳树。斜：倾斜。日暮：傍晚。汉宫：借指唐朝皇宫。传蜡烛：指皇宫中传送点燃的蜡烛。轻烟：蜡烛燃烧时产生的烟雾。五侯家：泛指权贵之家。特殊句式：无。典故解释：无。意象分析：飞花、东风、御柳、轻烟，这些意象共同营造出春天的气息和宫廷的奢华。历史背景：唐代寒食节期间，皇宫中会点燃蜡烛，象征特权。",
+        "en": "Spring city: the city in spring. Flying flowers: falling petals. Cold Food Festival: an ancient festival on the day before Qingming Festival, when fire was forbidden and cold food was eaten. East wind: spring breeze. Imperial willows: willows in the palace. Slanting: leaning. At dusk: in the evening. Han palace: referring to the Tang Dynasty palace. Passing candles: referring to the transmission of lit candles in the palace. Light smoke: smoke produced by burning candles. Houses of the five marquises: generally referring to the homes of the powerful and noble. Special sentence structure: none. Allusion explanation: none. Imagery analysis: flying flowers, east wind, imperial willows, light smoke, these images together create the atmosphere of spring and the luxury of the palace. Historical background: During the Cold Food Festival in the Tang Dynasty, candles were lit in the palace, symbolizing privilege.",
+        "ja": "春城：春の都市。飛花：落ちる花びら。寒食：古代の祭日で、清明節の前日、火を使わずに冷たい食物を食べる。東風：春風。御柳：宮中の柳。斜：傾く。日暮：夕方。漢宮：唐時代の宮殿を指す。伝蜡烛：宮中で灯されたろうそくを運ぶこと。軽煙：ろうそくが燃えるときに発生する煙。五侯家：権貴の家を総称。特殊文法：なし。典故説明：なし。イメージ分析：飛花、東風、御柳、軽煙、これらのイメージが春の雰囲気と宮殿の豪華さを共に作り出す。歴史的背景：唐代の寒食節には、宮殿でろうそくが灯され、特権を象徴していた。",
+        "es": "Ciudad de primavera: la ciudad en primavera. Flores voladoras: pétalos que caen. Festival de Comida Fría: un festival antiguo celebrado el día antes del Festival de Qingming, cuando se prohibía el fuego y se comía comida fría. Viento del este: brisa de primavera. sauces imperiales: sauces en el palacio. Inclinado: inclinado. Al anochecer: por la tarde. Palacio Han: refiriéndose al palacio de la dinastía Tang. Pasar velas: referirse a la transmisión de velas encendidas en el palacio. Humo ligero: humo producido por la quema de velas. Casas de los cinco marqueses: refiriéndose en general a las casas de los poderosos y nobles. Estructura de oración especial: ninguna. Explicación de la alusión: ninguna. Análisis de imágenes: flores voladoras, viento del este, sauces imperiales, humo ligero, estas imágenes crean juntos la atmósfera de primavera y la opulencia del palacio. Contexto histórico: Durante el Festival de Comida Fría en la dinastía Tang, se encendían velas en el palacio, simbolizando el privilegio.",
+        "ar": "مدينة الربيع: المدينة في فصل الربيع. الزهور الطائرة: بتلات تسقط. عيد الطعام البارد: عيد قديم يكون في اليوم السابق لعيد قمين، حيث يُمنع استخدام النار ويؤكل الطعام البارد. الرياح الشرقية: نسيم الربيع. الأشجار الملكية: أشجار السرو في القصر. مائل: مائل. عند الغسق: في المساء. قصر هان: يشير إلى قصر dynasty التانغ. نقل الشموع: يشير إلى نقل الشموع المشتعلة في القصر. الدخان الخفيف: الدخان الناتج عن حرق الشموع. بيوت الخمسة ماركيز: يشير بشكل عام إلى بيوت الأقوياء والأرستقراطيين. بناء الجملة الخاص: لا يوجد. شرح الإشارة: لا يوجد. تحليل الصور: الزهور الطائرة، الرياح الشرقية، الأشجار الملكية، الدخان الخفيف، هذه الصور تخلق معًا جو الربيع والرفاهية في القصر. الخلفية التاريخية: خلال عيد الطعام البارد في dynasty التانغ، كانت الشموع تُشعل في القصر كرمز للامتياز."
+    },
+    "appreciations": {
+        "zh": "这首《寒食》通过描绘春天的长安城飞花满地、寒食节东风吹斜柳枝的景象，暗讽了当时权贵阶层的特权生活。主题思想在于揭露封建社会的等级制度和不公。写作特色上，诗人运用了对比手法，将自然景象与宫廷生活相对照，形成了鲜明的对比。艺术成就方面，诗歌语言简洁而意境深远，具有较高的艺术价值。情感分析上，诗人表面写景，实则抒发了对现实不满和对社会不公的愤懑之情。影响意义上，这首诗在文学史上具有重要地位，常被引用来批判封建特权。",
+        "en": "This poem 'Han Shi' depicts the scene of flowers flying everywhere in the spring city and willow branches tilting in the east wind during the Cold Food Festival, subtly satirizing the privileged life of the aristocracy at that time. The theme reflects the揭露 of the feudal social hierarchy and injustice. In terms of writing features, the poet uses a contrastive technique, juxtaposing natural scenery with court life, creating a stark contrast. Artistically, the poem is concise in language yet profound in meaning, possessing high artistic value. Emotionally, the poet seemingly describes the scenery but actually expresses dissatisfaction with reality and resentment towards social injustice. In terms of influence, this poem holds a significant place in literary history and is often cited to criticize feudal privileges.",
+        "ja": "この詩「寒食」は、春の長安城に花が舞い散り、寒食節の東風が柳の枝を斜めに吹き曲げる情景を描き、当時の権貴層の特権的生活を皮肉っています。主題思想は、封建社会の階級制度と不公正を暴露することにあります。表現手法としては、自然景観と宮廷生活を対照的に描くことで、鮮明な対比を形成しています。芸術的成果としては、詩の言語は簡潔でありながら意境が深遠で、高い芸術的価値を持っています。感情分析では、詩人は表面上は景色を描いていますが、実際には現実への不満と社会の不公正に対する憤りを表しています。影響の意味では、この詩は文学史上重要な地位を占めており、封建特権を批判するためにしばしば引用されます。",
+        "es": "Este poema 'Han Shi' describe la escena de flores volando por toda la ciudad en primavera y las ramas de sauces inclinándose con el viento del este durante el Festival de la Comida Fría, satirizando sutilmente la vida privilegiada de la aristocracia de la época. El tema principal refleja la denuncia de la jerarquía social y la injusticia del sistema feudal. En cuanto a las características de escritura, el poeta utiliza una técnica de contraste, colocando el paisaje natural junto a la vida de la corte, creando un contraste marcado. Artísticamente, el poema es conciso en su lenguaje pero profundo en su significado, poseyendo un alto valor artístico. En el análisis emocional, el poeta parece describir el paisaje, pero en realidad expresa su insatisfacción con la realidad y su resentimiento hacia la injusticia social. En términos de influencia, este poema ocupa un lugar importante en la historia de la literatura y es a menudo citado para criticar los privilegios feudales.",
+        "ar": "يتناول هذا الشعر 'هان شي' مشهد الأزهار تتناثر في كل مكان في المدينة الربيعية وأغصان اللوز تتأرجح مع رياح الشرق في عيد الطعام البارد، محاكيًا بلطف انتقاد حياة النبلاء المميزة في ذلك الوقت. يكمن موضوع الفكر في كشف التراتبية الاجتماعية والظلم في النظام الإقطاعي. من حيث خصائص الكتابة، يستخدم الشاعر تقنية المقارنة، محاذيًا المناظر الطبيعية مع حياة القصر، مما يخلق تباينًا واضحًا. فنيًا، الشعر بسيط في لغته ولكنه عميق في معناه، ويمتلك قيمة فنية عالية. في تحليل العواطف، يبدو الشاعر يصف المناظر الطبيعية، ولكنه في الواقع يعبر عن عدم رضاه عن الواقع وغيظه من الظلم الاجتماعي. من حيث التأثير، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب ويُستشهد به غالبًا للانتقاد من الامتيازات الإقطاعية."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "春天的城市无处不飘落着花瓣，寒食节时东风吹拂着宫中的柳树。日暮时分，汉宫里传送着点燃的蜡烛，轻柔的烟雾散入了五侯的家中。",
+            "en": "In the spring city, petals fly everywhere; on Cold Food Festival, the east wind bends the imperial willows. At dusk, candles are passed in the Han palace, and light smoke drifts into the homes of the five marquises.",
+            "ja": "春の都には花びらが飛ぶところはない、寒食の節には東風が宮の柳を斜めに吹く。日暮れに漢宮ではろうそくが伝えられ、軽やかな煙が五侯の家に散り入る。",
+            "es": "En la ciudad de primavera, las flores vuelan por todas partes; en el Festival de la Comida Fría, el viento del este inclina los sauces imperiales. Al anochecer, se pasan velas en el palacio Han, y el humo ligero se dispersa en las casas de los cinco marqueses.",
+            "ar": "في مدينة الربيع، تتطاير الأزهار في كل مكان؛ في يوم الصوم، يحني الرياح الشرقي سعف السور العظيم. عند غروب الشمس، تنتشر الشموع في قصر هان، والدخان الخفيف يتفرق إلى بيوت الخمسة أمراء."
+        },
+        "title_translation": {
+            "zh": "寒食",
+            "en": "Cold Food Festival",
+            "ja": "寒食",
+            "es": "Festival de la Comida Fría",
+            "ar": "عيد الصوم"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "春城无处不飞花，寒食东风御柳斜。\n日暮汉宫传蜡烛，轻烟散入五侯家。",
+    "title_pinyin": "hán shí",
+    "pinyin": "chūn chéng wú chù bù fēi huā，hán shí dōng fēng yù liǔ xié。\nrì mù hàn gōng chuán là zhú，qīng yān sàn rù wǔ hóu jiā。"
+}

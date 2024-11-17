@@ -1,0 +1,57 @@
+{
+    "title": "和张仆射塞下曲·其三",
+    "difficulty": 2,
+    "author": {
+        "name": "卢纶",
+        "name_pinyin": "lú lún",
+        "image": "卢纶.jpg",
+        "introduction": {
+            "zh": "卢纶，唐代著名诗人，字允言，河中蒲州（今山西永济）人。他是大历十才子之一，擅长写边塞诗和山水诗，风格雄浑，意境深远。其诗多反映边塞生活和自然风光，表现了战士的英勇和边塞的艰苦。代表作有《塞下曲》等。",
+            "en": "Lu Lun, a renowned poet of the Tang Dynasty, styled Yunyan, was from Pu Prefecture in Hezhong (today's Yongji, Shanxi). He was one of the Ten Talents of the Dali period, excelling in writing frontier poems and landscape poetry, characterized by a robust style and profound artistic conception. His poems often reflect frontier life and natural scenery, portraying the bravery of soldiers and the hardships of the frontier. His representative works include 'Songs of the Frontier' among others.",
+            "ja": "卢纶（ル・ルン）は、唐代の著名な詩人であり、字は允言、河中蒲州（現在の山西省永済市）出身。大暦十才子の一人で、辺塞詩や山水詩に長け、雄渾なスタイルと深遠な意境を持つ。彼の詩は多くが辺塞生活や自然風光を反映し、兵士の勇敢さと辺塞の困難を表現している。代表作に『塞下曲』などがある。",
+            "es": "Lu Lun, poeta destacado de la dinastía Tang, cuyo nombre de cortesía era Yunyan, nació en Pu Prefectura de Hezhong (actual Yongji, Shanxi). Fue uno de los Diez Talentos del período Dali, destacando en la escritura de poesía fronteriza y paisajística, con un estilo robusto y una concepción artística profunda. Sus poemas suelen reflejar la vida en la frontera y los paisajes naturales, mostrando la valentía de los soldados y las dificultades de la frontera. Entre sus obras representativas se encuentra 'Canciones de la Frontera'.",
+            "ar": "لولون، شاعر مشهور من عهد التانغ، واسمه الشهير يونيان، من بوجيانغ في خيزونغ (اليوم يونغجي، شانشى). كان واحدا من عشرة موهوبين في فترة دالي، متخصص في كتابة الشعر الحدودي والشعر الطبيعي، يتميز بأسلوبه القوي ورؤيته الفنية العميقة. قصائده غالبا ما تعكس حياة الحدود والمناظر الطبيعية، وتظهر شجاعة الجنود وصعوبات الحدود. من بين أعماله البارزة 'أغاني الحدود' وغيرها."
+        }
+    },
+    "annotations": {
+        "zh": "月黑雁飞高：月色昏暗，雁群飞得很高。单于夜遁逃：单于（匈奴的首领）在夜晚逃跑。欲将轻骑逐：想要率领轻装的骑兵追赶。大雪满弓刀：大雪覆盖了弓和刀。\n词语解释：月黑 - 月色昏暗；雁 - 鸿雁；单于 - 匈奴的首领；轻骑 - 轻装的骑兵；逐 - 追赶；大雪 - 大量的雪。\n语法说明：无特殊句式。\n典故解释：此诗描绘了唐代边塞战争的情景，单于夜遁逃可能指唐代与匈奴的战争。\n意象分析：月黑、雁飞高、大雪等意象营造出紧张、艰苦的边塞环境。\n历史背景：唐代边塞战争频繁，诗人通过描绘战争场景表达对边塞将士的敬意。",
+        "en": "Moon dark, geese fly high: The moon is dark, and the geese are flying high. Khan flees at night: The Khan (leader of the Huns) escapes at night. Want to chase with light cavalry: Want to lead light cavalry to pursue. Heavy snow covers bows and swords: Heavy snow covers the bows and swords.\nWord explanations: Moon dark - dark moonlight; geese - wild geese; Khan - leader of the Huns; light cavalry - lightly armed cavalry; chase - pursue; heavy snow - a lot of snow.\nGrammar notes: No special sentence structures.\nAllusion explanations: This poem depicts the scene of a Tang Dynasty border war, with the Khan's night escape possibly referring to wars between the Tang Dynasty and the Huns.\nImagery analysis: The imagery of dark moon, high-flying geese, and heavy snow creates a tense and harsh border environment.\nHistorical background: The Tang Dynasty experienced frequent border wars, and the poet expresses respect for the border soldiers through depicting the war scene.",
+        "ja": "月黑雁飛高：月が暗く、雁が高く飛ぶ。単于夜遁逃：単于（匈奴の首長）が夜に逃げる。軽騎逐うことを欲す：軽装の騎兵で追いかけることを望む。大雪弓刀に満つ：大雪が弓と刀に降り積もる。\n語詞解釈：月黑 - 月が暗い；雁 - 鴻雁；単于 - 匈奴の首長；軽騎 - 軽装の騎兵；逐う - 追いかける；大雪 - 多い雪。\n文法説明：特殊な文法はない。\n典拠説明：この詩は唐代の辺境戦争の情景を描いており、単于の夜遁は唐代と匈奴の戦争を指す可能性がある。\n意象分析：月黑、雁飛高、大雪などの意象が緊張感と厳しい辺境環境を作り出す。\n歴史背景：唐代は辺境戦争が頻発し、詩人は戦争の情景を描きながら辺境の将士への敬意を表している。",
+        "es": "Luna oscura, gansos vuelan alto: La luna está oscura y los gansos vuelan alto. El kan huye de noche: El kan (líder de los hunos) huye durante la noche. Querer perseguir con caballería ligera: Querer liderar caballería ligera en persecución. Nieve copiosa cubre arcos y espadas: Nieve copiosa cubre los arcos y las espadas.\nExplicación de palabras: Luna oscura - luna oscura; gansos - gansos salvajes; kan - líder de los hunos; caballería ligera - caballería ligeramente armada; perseguir - seguir; nieve copiosa - mucha nieve.\nNotas gramaticales: No hay estructuras gramaticales especiales.\nExplicación de alusiones: Este poema representa la escena de una guerra fronteriza durante la dinastía Tang, con la huida nocturna del kan posiblemente refiriéndose a las guerras entre la dinastía Tang y los hunos.\nAnálisis de imágenes: Las imágenes de luna oscura, gansos volando alto y nieve copiosa crean un ambiente fronterizo tenso y duro.\nContexto histórico: La dinastía Tang experimentó frecuentes guerras fronterizas, y el poeta expresa respeto por los soldados fronterizos al describir la escena de guerra.",
+        "ar": "القمر مظلم، الأوز يطير عالياً: القمر مظلم، والأوز يطير على ارتفاع عالٍ. خان يهرب في الليل: خان (زعيم الهون) يهرب في الليل. يريد مطاردة الخيالة الخفيفة: يريد قيادة الخيالة الخفيفة في المطاردة. ثلج كثيف يغطي الأقواس والسيوف: ثلج كثيف يغطي الأقواس والسيوف.\nشرح الكلمات: القمر المظلم - قمر مظلم؛ الأوز - الأوز البري؛ خان - زعيم الهون؛ الخيالة الخفيفة - خيالة خفيفة التسليح؛ مطاردة - متابعة؛ ثلج كثيف - الكثير من الثلج.\nملاحظات نحوية: لا توجد بنى نحوية خاصة.\nشرح الإشارات: هذا الشعر يصور مشهد حرب حدودية في عهد التانغ، وهروب خان ليلاً قد يشير إلى الحروب بين عهد التانغ والهون.\nتحليل الصور: صور القمر المظلم، الأوز الطائر عالياً، والثلج الكثيف تخلق بيئة حدودية مشددة وقاسية.\nالخلفية التاريخية: عهد التانغ شهد حروب حدودية متكررة، والشاعر يعبر عن تقديره للجنود الحدوديين من خلال تصوير مشهد الحرب."
+    },
+    "appreciations": {
+        "zh": "这首诗描绘了边塞夜战的紧张场景，表达了将士们英勇无畏、忠诚报国的精神。诗人通过简洁有力的语言，刻画了月黑风高、大雪纷飞的恶劣环境，突出了单于夜遁逃的狼狈和将士们追击的决心。作品主题鲜明，气势磅礴。写作上，诗人运用了对比和衬托的手法，将敌军的逃窜与我军的英勇形成鲜明对比，增强了诗歌的感染力。艺术成就方面，诗歌意境深远，画面感强烈，具有很高的艺术价值。情感上，抒发了诗人对边塞将士的赞美和敬仰之情。在文学史上，这首诗以其独特的边塞风情和深刻的主题思想，成为唐代边塞诗的代表作之一。",
+        "en": "This poem vividly depicts the tense scene of a night battle on the frontier, expressing the bravery and loyalty of the soldiers. Through concise and powerful language, the poet portrays the harsh environment of a moonless, windy night with heavy snow, highlighting the enemy's hasty retreat and the determination of the soldiers to pursue. The theme is clear and the momentum is grand. In terms of writing, the poet uses contrast and foil techniques to starkly contrast the enemy's flight with the bravery of the soldiers, enhancing the poem's emotional impact. Artistically, the poem has a profound意境 and strong visual imagery, making it highly valuable. Emotionally, it conveys the poet's admiration and respect for the frontier soldiers. In the history of literature, this poem stands out as a representative work of Tang Dynasty frontier poetry due to its unique frontier atmosphere and profound thematic content.",
+        "ja": "この詩は、辺塞の夜戦の緊張した場面を描き、将兵たちの勇敢で忠誠心ある精神を表現しています。詩人は簡潔で力強い言葉で、月のない風の強い夜、大雪が降る厳しい環境を描き、単于の狼狽した逃走と将兵たちの追撃の決意を強調しています。作品のテーマは明確で、気勢は壮大です。書き方では、対比と陪襯の手法を用い、敵軍の逃走と我軍の勇敢さを鮮明に対比させ、詩の感染力を高めています。芸術的成就としては、詩の意境は深遠で、画面感が強く、高い芸術価値を持っています。感情面では、詩人が辺塞の将兵たちに対する賛美と敬愛の情を表しています。文学史上では、この詩はその独特な辺塞の風情と深いテーマ思想により、唐代辺塞詩の代表作の一つとして位置づけられています。",
+        "es": "Este poema describe vívidamente la escena tensa de una batalla nocturna en la frontera, expresando el valor y la lealtad de los soldados. A través de un lenguaje conciso y poderoso, el poeta retrata el entorno hostil de una noche sin luna, con viento fuerte y nieve intensa, resaltando la huida desesperada del enemigo y la determinación de los soldados de perseguir. El tema es claro y el impulso es grandioso. En términos de escritura, el poeta utiliza técnicas de contraste y fondo para contrastar marcadamente la huida del enemigo con la valentía de los soldados, aumentando el impacto emocional del poema. Artísticamente, el poema tiene una atmósfera profunda y una fuerte imagen visual, lo que lo hace muy valioso. Emocionalmente, expresa la admiración y el respeto del poeta por los soldados de la frontera. En la historia de la literatura, este poema se destaca como una obra representativa de la poesía fronteriza de la dinastía Tang debido a su atmósfera fronteriza única y su contenido temático profundo.",
+        "ar": "يصور هذا الشعر بشكل حي مشهد المعركة الليلية على الحدود، معبرًا عن شجاعة وولاء الجنود. من خلال لغة موجزة وقوية، يرسم الشاعر البيئة القاسية ليوم مظلم بلا قمر، مع رياح قوية وثلوج كثيفة، مشددًا على هروب العدو المذعور و решимость الجنود بملاحقته. الموضوع واضح والزخم عظيم. من حيث الكتابة، يستخدم الشاعر تقنيات المقارنة والتأطير ليعكس بوضوح هروب العدو مع شجاعة الجنود، مما يزيد من تأثير الشعر العاطفي. فنيًا، للشعر جو عميق وصوره مرئية قوية، مما يجعله ذا قيمة كبيرة. عاطفيًا، يعبر عن إعجاب واحترام الشاعر للجنود على الحدود. في تاريخ الأدب، يبرز هذا الشعر كواحد من أعمال الشعر الحدودي الممثلة لدى عهد التانغ بفضل جو الحدود الفريد والمحتوى الفكري العميق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "月色昏暗雁飞高，单于夜半逃遁。欲率轻骑追赶，大雪覆盖弓刀。",
+            "en": "In the dark of the moon, wild geese fly high; the Khan flees under the cover of night. Ready to chase with light cavalry, snow blankets our bows and swords.",
+            "ja": "月が暗く雁は高く飛ぶ、単于は夜に逃れる。軽騎で追おうとする、大雪が弓刀を覆う。",
+            "es": "En la oscuridad lunar, las gansos vuelan alto; el Khan huye en la noche. Dispuestos a perseguir con caballería ligera, la nieve cubre arcos y espadas.",
+            "ar": "في ظلام القمر، تحلّق البجع عالياً؛ خان يهرب في الليل. نريد مطاردتهم بخيالة خفيفة، الثلوج تغطي القوس والسيف."
+        },
+        "title_translation": {
+            "zh": "和张仆射塞下曲·其三",
+            "en": "To Zhang Pu's Frontier Songs, Part Three",
+            "ja": "張仆射塞下曲・其三",
+            "es": "Con Zhang Pu's Canciones de la Frontera, Parte Tres",
+            "ar": "مع أغاني الحدود لزhang Pu، الجزء الثالث"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "月黑雁飞高，单于夜遁逃。\n欲将轻骑逐，大雪满弓刀。",
+    "title_pinyin": "hé zhāng pū shè sāi xià qū·qí sān",
+    "pinyin": "yuè hēi yàn fēi gāo，dān yú yè dùn táo。\nyù jiāng qīng qí zhú，dà xuě mǎn gōng dāo。"
+}

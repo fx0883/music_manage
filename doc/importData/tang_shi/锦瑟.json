@@ -1,0 +1,57 @@
+{
+    "title": "锦瑟",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，唐代著名诗人，字义山，号玉溪生，又号樊南生。他擅长诗歌创作，尤以爱情诗和咏史诗见长，风格婉约含蓄，语言精炼，意象朦胧，被誉为‘诗魂’。其诗作多涉及政治和个人情感，反映了晚唐社会的复杂面貌。代表作有《锦瑟》、《无题》等。",
+            "en": "Li Shangyin was a renowned poet of the Tang Dynasty, styled Yishan and also known as Yuxi Sheng and Fannan Sheng. He excelled in poetry, particularly in love poems and historical odes, characterized by his elegant and implicit style, refined language, and obscure imagery, earning him the title 'Poetic Soul'. His works often touch upon politics and personal emotions, reflecting the complex facets of the late Tang society. Notable works include 'Jin Se' (The Brocade Zither) and 'Wu Ti' (Untitled).",
+            "ja": "李商隐は唐代の著名な詩人で、字は義山、号は玉谿生、また樊南生とも称される。彼は詩作に長け、特に恋愛詩や歴史詠を得意とし、婉約かつ含蓄あるスタイル、精緻な言語、曖昧なイメージで「詩魂」と称賛された。彼の詩は政治や個人的な感情を多く扱い、晩唐社会の複雑な面貌を反映している。代表作には「錦瑟」「無題」などがある。",
+            "es": "Li Shangyin fue un destacado poeta de la dinastía Tang, conocido por su nombre de cortesía Yishan y también como Yuxi Sheng y Fannan Sheng. Se destacó en la creación poética, especialmente en poemas de amor y odas históricas, caracterizándose por un estilo elegante y sugerente, un lenguaje refinado y una imaginería vaga, lo que le valió el apodo de 'Alma Poética'. Sus obras a menudo tratan sobre política y emociones personales, reflejando la compleja faz de la sociedad de finales de la dinastía Tang. Entre sus obras más destacadas se encuentran 'Jin Se' (El Cítara de Brocado) y 'Wu Ti' (Sin Título).",
+            "ar": "لي شانغ ين كان شاعرًا مشهورًا في عهد تانغ، يُعرف بلقبه يي شان ويُعرف أيضًا بيوي شي شينغ ويي فان نان شينغ. برع في كتابة الشعر، خاصة في قصائد الحب والأغاني التاريخية، يتميز بأسلوبه الراقي والمقنع، ولغته الم tinhillos، وتصوراته الغامضة، مما كسبه لقب 'روح الشعر'. تعالج أعماله غالبًا السياسة والعواطف الشخصية، وتعكس الوجوه المعقدة للمجتمع في أواخر عهد تانغ. من بين أعماله البارزة 'جين سي' (العود الحريري) و'وو تي' (بدون عنوان)."
+        }
+    },
+    "annotations": {
+        "zh": "锦瑟：装饰华美的瑟。无端：无缘无故。五十弦：古代瑟有五十根弦。一弦一柱：每根弦和一个支撑的柱子。思华年：怀念逝去的青春年华。庄生晓梦：庄子在《逍遥游》中梦见自己变成蝴蝶。迷蝴蝶：指梦境与现实混淆。望帝：古代蜀国的君主。春心：指伤春之心。托杜鹃：杜鹃鸟的叫声像是在诉说悲苦。沧海：大海。月明珠有泪：传说珍珠是蚌珠所化，月圆之夜蚌珠会流泪。蓝田：蓝田山，产美玉之地。日暖玉生烟：阳光下美玉似乎冒出轻烟。此情：指上述种种情感。可待：可以等待。成追忆：变成回忆。惘然：茫然若失。",
+        "en": "Jin Se: A beautifully decorated zither. Wu Duan: Without cause. Fifty strings: Ancient zithers had fifty strings. One string, one pillar: Each string and its supporting pillar. Thinking of the glorious years: Recalling the lost youth. Zhuang Sheng's morning dream: Zhuangzi dreamed of becoming a butterfly in his book 'Zhuangzi'. Confused by the butterfly: Refers to the confusion between dream and reality. Wang Di: The ancient king of Shu. Spring heart: The sorrow of spring. Entrusted to the cuckoo: The cuckoo's call seems to express sorrow. The vast sea: The ocean. Moonlight pearls have tears: Legend says pearls are transformed from clams, and clams shed tears on full moon nights. Lan Tian: Lan Tian Mountain, a place famous for its jade. The sun warms and jade emits smoke: In the sunlight, jade seems to emit a mist. This feeling: Refers to the various emotions mentioned. Can wait: Can be waited for. Become memories: Turn into memories. Wistful: Feeling lost and confused.",
+        "ja": "錦瑟：装飾華麗な瑟。無端：理由もなく。五十弦：古代の瑟は五十本の弦を持つ。一弦一柱：一本の弦とその支える柱。思華年：過ぎ去った青春を思い出す。荘生暁夢：荘子が『荘子』で自分が蝶になった夢を見たこと。迷蝴蝶：夢と現実が混同するさま。望帝：古代蜀国の君主。春心：春の悲しみ。託杜鵑：杜鵑の鳴き声が悲しみを訴えているようだ。滄海：大海。月明珠有泪：伝説によると真珠は蛤が変化したもので、満月の夜に蛤が涙を流す。藍田：藍田山、美玉の産地。日暖玉生煙：太陽の下で美玉が煙を立てるようだ。此情：上述の様々な感情。可待：待つことができる。成追憶：思い出になる。惘然：茫然としているさま。",
+        "es": "Jin Se: Un laúd decorado ricamente. Wu Duan: Sin motivo. Cincuenta cuerdas: Los laúdes antiguos tenían cincuenta cuerdas. Una cuerda, un pilar: Cada cuerda y su pilar de apoyo. Pensando en los años gloriosos: Recordando la juventud perdida. El sueño matutino de Zhuang Sheng: Zhuangzi soñó con convertirse en una mariposa en su libro 'Zhuangzi'. Confundido por la mariposa: Refiere a la confusión entre el sueño y la realidad. Wang Di: El antiguo rey de Shu. Corazón de primavera: La tristeza de la primavera. Encomendado al cuco: El canto del cuco parece expresar tristeza. El mar vasto: El océano. Las perlas bajo la luna tienen lágrimas: La leyenda dice que las perlas son transformadas por almejas, y las almejas lloran en noches de luna llena. Lan Tian: Monte Lan Tian, un lugar famoso por su jade. El sol calienta y el jade emite humo: A la luz del sol, el jade parece emitir una niebla. Este sentimiento: Refiere a los diversos sentimientos mencionados. Puede esperar: Puede ser esperado. Convertirse en recuerdos: Convertirse en memorias. Melancólico: Sentirse perdido y confundido.",
+        "ar": "الجين سى: آلة موسيقية زخرفية. وو دون: بدون سبب. خمسون سلسلة: الآلات الموسيقية القديمة كانت تحتوي على خمسين سلسلة. سلسلة واحدة، عمود واحد: كل سلسلة وعمود دعمها. التفكير في السنوات المجيدة: التذكر للشباب المفقود. حلم تشوانغ شينغ في الصباح: تشوانغزي حلما بأنه أصبح فراشة في كتابه 'تشوانغزي'. مشوش بسبب الفراشة: يشير إلى الالتباس بين الحلم والواقع. وانغ دي: الملك القديم لولاية شو. قلب الربيع: حزن الربيع. موكول إلى أبو الحناء: تغريد أبو الحناء يبدو وكأنه يعبر عن الحزن. البحر الواسع: المحيط. اللآلئ تحت ضوء القمر لها دموع: يقال إن اللآلئ هي تحولات من المحارات، والمحارات تبكي في ليالي البدر. لان تيان: جبل لان تيان، مكان مشهور بنوعه من اليشم. الشمس تسخن ويشم ينبعث منه دخان: في ضوء الشمس، اليشم يبدو وكأنه ينبعث منه دخان. هذا الشعور: يشير إلى المشاعر المختلفة المذكورة. يمكن الانتظار: يمكن أن تنتظر. يصبح ذكرى: يتحول إلى ذكريات. حائر: يشعر بالضياع والارتباك."
+    },
+    "appreciations": {
+        "zh": "《锦瑟》是李商隐的代表作之一，主题思想是对逝去青春和美好时光的追忆与感伤。写作特色上，诗人运用了丰富的象征和隐喻手法，如\"锦瑟\"象征人生，\"五十弦\"象征年岁，\"蝴蝶梦\"和\"杜鹃啼\"则分别象征梦幻和哀愁。艺术成就方面，此诗以其深邃的意境和精妙的语言，成为唐诗中的经典之作。情感分析上，诗人抒发了对往昔岁月的怀念和对现实无奈的惆怅。影响意义上，这首诗在文学史上具有重要地位，对后世诗歌创作产生了深远影响。",
+        "en": "Jin Se is one of Li Shangyin's masterpieces, with the theme of reminiscing and lamenting the lost youth and beautiful times. In terms of writing features, the poet employs rich symbolism and metaphor, such as the \"Jin Se\" symbolizing life, the \"fifty strings\" symbolizing years, and the \"butterfly dream\" and \"cuckoo cry\" symbolizing illusion and sorrow respectively. In artistic achievement, this poem stands out in Tang poetry for its profound imagery and exquisite language. Emotionally, the poet expresses nostalgia for the past and helplessness towards the present. In terms of impact, this poem holds a significant place in literary history, profoundly influencing later poetic creation.",
+        "ja": "《錦瑟》は李商隠の代表作の一つであり、主題は過ぎ去った青春や美しい時を振り返り、感傷に浸ることである。表現手法としては、豊かな象徴や隠喩が用いられており、「錦瑟」は人生を、「五十弦」は年月を象徴している。「蝴蝶の夢」と「杜鵑の鳴き声」は、それぞれ夢幻と哀愁を象徴する。芸術的価値としては、深遠な意境と精緻な言葉遣いで、唐詩の古典的名作となっている。感情分析では、詩人は過去の時代への懐かしさと現実への無力感を表現している。影響の意味では、この詩は文学史上重要な地位を占め、後世の詩作に大きな影響を与えた。",
+        "es": "Jin Se es una de las obras maestras de Li Shangyin, cuyo tema central es el recuerdo y la melancolía por la juventud y los tiempos felices perdidos. En cuanto a las características de escritura, el poeta utiliza una rica simbología y metáforas, como la \"Jin Se\" que simboliza la vida, las \"cincuenta cuerdas\" que simbolizan los años, y el \"sueño de la mariposa\" y el \"llanto del cuco\" que simbolizan respectively el sueño y la tristeza. En logros artísticos, este poema se destaca en la poesía Tang por su profundo imaginario y lenguaje exquisito. En el análisis emocional, el poeta expresa nostalgia por el pasado y desesperanza hacia el presente. En términos de significado e influencia, este poema ocupa un lugar importante en la historia literaria, having a profound influence on la creación poética posterior.",
+        "ar": "القصيدة \"جين سي\" هي واحدة من روائع لي شانغ ين، حيث تتناول موضوع تذكر وحنين إلى الشباب والأوقات الجميلة المنصرمة. فيما يتعلق بخصائص الكتابة، يستخدم الشاعر رموزًا ومجازات غنية، مثل \"الجين سي\" التي ترمز للحياة، و\"الخمسون سلسلة\" التي ترمز للأعوام، و\"حلم الفراشة\" و\"نحيب الدوري\" اللذان يرمزان للوهم والحزن على التوالي. من حيث الإنجاز الفني، تبرز هذه القصيدة في شعر التانغ بفضل صورتها العميقة ولغتها الراقية. في تحليل العواطف، يعبر الشاعر عن الشوق للماضي واليأس من الحاضر. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، ولها تأثير عميق على كتابة الشعر اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "精美的瑟琴为何有五十根弦，每根弦每根柱都让我思念逝去的青春年华。庄子清晨梦醒，迷失在蝴蝶的世界，望帝的春心寄托在杜鹃的哀鸣。沧海月明，珍珠仿佛有泪，蓝田日暖，美玉似乎生烟。这份情感等到追忆时才明白，但当时却已茫然若失。",
+            "en": "Why does the exquisite zither have fifty strings? Each string, each pillar, evokes thoughts of bygone years. Zhuangzi wakes from a morning dream, lost in the world of butterflies; the king's spring heart is entrusted to the cuckoo's cry. The moon over the vast sea shines on tears of pearls; the sun warms Lantian, and jade seems to smoke. This feeling could only become a memory, but even then, it was already lost in confusion.",
+            "ja": "美しい瑟（しつ）琴（きん）はなぜ五十弦（げん）を持つのか？一弦一柱（ちゅう）ごとに青春の年月を思う。荘子（そうし）は朝の夢から覚め、蝶々の世界に迷い込む；望帝（ぼうてい）の春の心は鶇鶇（ほととぎす）に託される。碧海（へきかい）の月は真珠の涙を照らし、藍田（らんでん）の日暖（にちだん）は玉が煙を生じる。この情は追憶（ついおく）となって初めて理解されるが、その時は既に茫然（ぼうぜん）であった。",
+            "es": "¿Por qué el espléndido cítara tiene cincuenta cuerdas? Cada cuerda, cada poste, me hace recordar los años juveniles. Zhuangzi se despierta de un sueño matutino, perdido en el mundo de las mariposas; el corazón primaveral del rey se confía al canto del cuco. La luna sobre el mar brilla sobre las lágrimas de perlas; el sol calienta Lantian y el jade parece humear. Este sentimiento solo se convierte en un recuerdo, pero incluso entonces, ya estaba en la confusión.",
+            "ar": "لماذا يحتوي القيثار الجميل على خمسين وترًا؟ كل وتر، كل عمود، يذكرني بالسنوات الشبابية الفائتة. يпросن يصحو من حلم صباحي، يتوه في عالم الفراشات؛ قلب الملك الربيعي يُعهد إلى تغريد الدوري. القمر فوق البحر يضيء دموع اللآلئ؛ الشمس تسخن لانتيان ويبدو أن الياقوت يتصاعد منه دخان. هذا الشعور يصبح ذكرى فقط عندما يُتذكر، ولكن حتى في ذلك الوقت، كان قد فقد في الاضطراب."
+        },
+        "title_translation": {
+            "zh": "锦瑟",
+            "en": "The Exquisite Zither",
+            "ja": "錦瑟（きんしゃく）",
+            "es": "El Cítara Espléndido",
+            "ar": "القيثار الجميل"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "锦瑟无端五十弦，一弦一柱思华年。\n庄生晓梦迷蝴蝶，望帝春心托杜鹃。\n沧海月明珠有泪，蓝田日暖玉生烟。\n此情可待成追忆，只是当时已惘然。",
+    "title_pinyin": "jǐn sè",
+    "pinyin": "jǐn sè wú duān wǔ shí xián，yī xián yī zhù sī huá nián。\nzhuāng shēng xiǎo mèng mí hú dié，wàng dì chūn xīn tuō dù juān。\ncāng hǎi yuè míng zhū yǒu lèi，lán tián rì nuǎn yù shēng yān。\ncǐ qíng kě dài chéng zhuī yì，zhǐ shì dāng shí yǐ wǎng rán。"
+}

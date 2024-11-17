@@ -1,0 +1,57 @@
+{
+    "title": "宿桐庐江寄广陵旧游",
+    "difficulty": 2,
+    "author": {
+        "name": "孟浩然",
+        "name_pinyin": "mèng hào rán",
+        "image": "孟浩然.jpg",
+        "introduction": {
+            "zh": "孟浩然（689年—740年），字浩然，号孟山人，襄州襄阳（今湖北襄阳）人，唐代著名的山水田园诗人。他的诗多描写自然景色和田园生活，风格清新自然，意境深远。代表作有《春晓》、《宿建德江》等。他与王维并称“王孟”，是盛唐山水田园诗派的代表人物之一。",
+            "en": "Meng Haoran (689-740), styled Haoran and also known as Meng Shanren, was from Xiangyang, Xiangzhou (present-day Xiangyang, Hubei). He was a renowned Tang Dynasty poet known for his landscape and pastoral poetry. His works often depict natural scenery and rural life, characterized by a fresh and natural style with profound artistic conception. His famous works include 'Spring Dawn' and 'A Night at Jinde River'. He, along with Wang Wei, is known as one of the leading figures of the landscape and pastoral poetry during the prime of the Tang Dynasty.",
+            "ja": "孟浩然（689年－740年）、字は浩然、号は孟山人、襄州襄陽（現在の湖北省襄陽市）出身の唐代の著名な山水田園詩人。彼の詩は自然の風景や田園生活を描くことが多く、清新で自然なスタイルと深遠な意境が特徴である。代表作には「春暁」、「宿建徳江」などがある。王維と並んで「王孟」と称され、盛唐期の山水田園詩派の代表的な人物の一人である。",
+            "es": "Meng Haoran (689-740), también conocido como Meng Shanren, nació en Xiangyang, Xiangzhou (actualmente Xiangyang, Hubei). Fue un destacado poeta de la dinastía Tang, famoso por su poesía paisajística y campestre. Sus obras suelen describir paisajes naturales y la vida rural, con un estilo fresco y natural y una concepción artística profunda. Entre sus obras más conocidas se encuentran 'Amanecer de primavera' y 'Una noche en el río Jinde'. Junto con Wang Wei, es considerado uno de los principales exponentes de la poesía paisajística y campestre durante el apogeo de la dinastía Tang.",
+            "ar": "مينغ هواوران (689-740)، المعروف أيضًا بـ مينغ شانرين، وُلد في شيانغيانغ، شيانغتشو (الآن شيانغيانغ، هوبيي). كان شاعرًا بارزًا في عهد أسرة تانغ، مشهورًا بقصائده التي تصف الطبيعة الريفية والمناظر الطبيعية. تعكس أعماله غالبًا المشاهد الطبيعية والحياة الريفية بأسلوب طازج وجذاب وبنية فنية عميقة. من أشهر أعماله 'فجر الربيع' و 'ليلة في نهر جينده'. وهو يُعتبر، إلى جانب وانغ وي، واحدًا من أبرز الشخصيات في مجال الشعر الريفي والمناظر الطبيعية خلال ذروة عهد أسرة تانغ."
+        }
+    },
+    "annotations": {
+        "zh": "山暝：山色昏暗。猿愁：猿猴的叫声，显得凄凉。沧江：青绿色的江水。急夜流：夜晚急速流淌。风鸣：风声。两岸叶：两岸的树叶。孤舟：孤单的小船。建德：地名，今属浙江。非吾土：不是我的故乡。维扬：即扬州。旧游：旧时的朋友。两行泪：形容悲伤。海西头：指扬州，因其在东海之西。全诗表达了诗人客居他乡的孤独和对旧友的思念。",
+        "en": "Shan ming: The mountains are dim in the evening. Yuan chou: The sorrowful cry of monkeys. Cang Jiang: The blue-green river. Ji ye liu: Flowing swiftly at night. Feng ming: The sound of the wind. Liang an ye: Leaves on both banks. Gu zhou: A solitary boat. Jian de: A place name, now part of Zhejiang. Fei wu tu: Not my homeland. Wei Yang: Refers to Yangzhou. Jiu you: Old friends. Liang hang lei: Tears streaming down, symbolizing sorrow. Hai xi tou: Refers to Yangzhou, as it is west of the East Sea. The poem expresses the poet's loneliness in a foreign land and his longing for old friends.",
+        "ja": "山暝：山が夕暮れて暗くなること。猿愁：猿の悲しげな鳴き声。滄江：青緑色の川。急夜流：夜間急速に流れること。風鳴：風の音。两岸叶：川の両岸の葉。孤舟：孤立した小舟。建德：地名、現在の浙江省に属する。非吾土：私の故郷でないこと。維揚：揚州のこと。旧游：昔の友達。兩行泪：悲しみを表す涙。海西头：揚州を指す、東海の西に位置するため。この詩は、詩人が異郷での孤独と旧友への思いを表現している。",
+        "es": "Shan ming: Las montañas se oscurecen al anochecer. Yuan chou: El lamento melancólico de los monos. Cang Jiang: El río de color azul-verde. Ji ye liu: Fluyendo rápidamente durante la noche. Feng ming: El sonido del viento. Liang an ye: Las hojas en ambas orillas. Gu zhou: Una barca solitaria. Jian de: Nombre de un lugar, ahora parte de Zhejiang. Fei wu tu: No es mi tierra natal. Wei Yang: Se refiere a Yangzhou. Jiu you: Amigos del pasado. Liang hang lei: Lágrimas que simbolizan tristeza. Hai xi tou: Se refiere a Yangzhou, ubicado al oeste del Mar del Este. El poema expresa la soledad del poeta en una tierra extranjera y su añoranza por sus viejos amigos.",
+        "ar": "shan ming: تعني تظلميد الجبال في المساء. yuan chou: صوت القردة الحزين. cang jiang: النهر ذو اللون الأزرق المخضر. ji ye liu: الجريان السريع في الليل. feng ming: صوت الرياح. liang an ye: أوراق على جانبي النهر. gu zhou: قارب وحيد. jian de: اسم مكان، الآن جزء من مقاطعة تشجيانغ. fei wu tu: ليست أرضي. wei yang: تشير إلى يانغتشو. jiu you: أصدقاء القدماء. liang hang lei: دموع تمثل الحزن. hai xi tou: تشير إلى يانغتشو، لأنها تقع غرب بحر الشرق. يعبر الشعر عن وحدة الشاعر في أرض غريبة وتحنينه لأصدقائه القدامى."
+    },
+    "appreciations": {
+        "zh": "《宿桐庐江寄广陵旧游》是唐代诗人孟浩然的作品，表达了诗人客居他乡的孤独与对旧友的深切思念。主题思想是通过对自然景色的描绘，抒发诗人的孤寂和对友情的珍视。写作特色上，诗人运用了情景交融的手法，将自然景色与内心情感紧密结合，如‘山暝闻猿愁’、‘月照一孤舟’等句，既写景又抒情。艺术成就方面，诗歌语言简练，意境深远，给人以强烈的情感共鸣。情感分析上，诗人通过‘还将两行泪，遥寄海西头’表达了对远方旧友的深深思念和无尽牵挂。影响意义上，此诗在文学史上具有较高地位，是唐代山水诗的代表作之一，对后世诗歌创作产生了深远影响。",
+        "en": "Meng Haoran's 'Staying by the Tonglu River and Sending a Message to Old Friends in Guangling' is a Tang Dynasty poem that expresses the poet's loneliness in a foreign land and his deep longing for old friends. The main theme is the depiction of natural scenery to convey the poet's solitude and the value of friendship. In terms of writing style, the poet employs a technique of blending scenery with emotions, as seen in lines like 'Hearing the sorrow of apes at dusk in the mountains' and 'The moon shining on a solitary boat,' which both describe the scene and express feelings. Artistically, the poem is notable for its concise language and profound imagery, evoking strong emotional resonance. Emotionally, the poet expresses his deep longing for distant friends through 'Sending two lines of tears far to the west of the sea.' In terms of significance, this poem holds a high position in literary history, representing a masterpiece of Tang Dynasty landscape poetry and exerting a lasting influence on later poetic compositions.",
+        "ja": "《宿桐庐江寄广陵旧游》は唐代の詩人孟浩然の作品で、詩人が他郷での孤独と旧友への深い思いを表現しています。主題思想は自然景観の描写を通じて、詩人の孤独と友情の大切さを表しています。表現手法としては、情景融合の技法を用い、‘山暝聞猿愁’、‘月照一孤舟’などの句で、景を描きながらも感情を込めています。芸術的成就としては、詩は簡潔な言語と深遠な意境を持っており、強い感情の共鳴を与えます。感情分析では、‘还将两行泪，遥寄海西头’の句で遠方の旧友への深い思いやりと心配を表しています。影響の意味では、この詩は文学史上高い地位を占めており、唐代山水詩の代表作の一つとして、後世の詩作に大きな影響を与えました。",
+        "es": "El poema 'Alojamiento en el Río Tonglu y Envío de un Mensaje a Viejos Amigos en Guangling' de Meng Haoran, de la dinastía Tang, expresa la soledad del poeta en tierra extranjera y su profundo anhelo por sus viejos amigos. El tema principal es la representación de paisajes naturales para transmitir la soledad del poeta y el valor de la amistad. En cuanto a la técnica de escritura, el poeta utiliza el método de fusión de la escena con las emociones, como se ve en versos como 'Escuchar el lamento de los monos al anochecer en las montañas' y 'La luna iluminando un bote solitario', que tanto describen el paisaje como expresan los sentimientos. Artísticamente, el poema se destaca por su lenguaje conciso y su profunda imaginería, provocando una fuerte resonancia emocional. En el análisis emocional, el poeta expresa su profundo anhelo por sus amigos lejanos a través de 'Enviar dos líneas de lágrimas lejos al oeste del mar'. En términos de significado e influencia, este poema ocupa un lugar destacado en la historia literaria, representando una obra maestra de la poesía paisajística de la dinastía Tang y ejerciendo una influencia duradera en las composiciones poéticas posteriores.",
+        "ar": "قصيدة 'إقامة على نهر تونغلو وإرسال رسالة لأصدقاء القدم في غوانغليانغ' للشاعر مينغ هواوران من العصر التانغي تعبر عن وحدة الشاعر في أرض غريبة وتطلعه العميق لأصدقائه القدامى. الفكرة الرئيسية هي وصف الطبيعة لإظهار وحدة الشاعر وقيمة الصداقة. من حيث الأسلوب الأدبي، يستخدم الشاعر تقنية دمج المشهد بالعواطف، كما في الأبيات 'سماع بكاء القردة عند الغسق في الجبال' و'القمر يضيء قاربًا وحيدًا'، التي تصف المشهد وتعبر عن العواطف. من الناحية الفنية، تتميز القصيدة بلغة موجزة وتصور عميق، مما يثير ردود فعل عاطفية قوية. في تحليل العواطف، يعبر الشاعر عن تطلعه العميق لأصدقائه البعيدين من خلال 'إرسال دموعين بعيدًا إلى الغرب من البحر'. من حيث المعنى والوقع، تحتل هذه القصيدة مكانة مرموقة في تاريخ الأدب، وتعتبر من روائع الشعر الطبيعي في العصر التانغي، ولها تأثير طويل الأمد على كتابة الشعر اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "山色昏暗时听到猿猴悲鸣，青色的江水在夜间急速流淌。\n风声在两岸的树叶间呼啸，月光照着一叶孤舟。\n建德并非我的故乡，维扬却让我怀念旧友。\n只能将两行泪水，遥寄给远在海西的你。",
+            "en": "In the dim mountain dusk, I hear the sorrow of apes,\nBlue rivers rush through the night.\nWind howls through leaves on both banks,\nMoonlight bathes a lone boat.\nJiande is not my homeland,\nIn WeiYang, I recall old friends.\nWith two lines of tears,\nI send my thoughts to the far west of the sea.",
+            "ja": "山が暗くなると猿の嘆きが聞こえ、青い江は夜に急流る。\n風が両岸の葉を鳴らし、月は一艘の孤舟を照らす。\n建徳は我が故郷に非ず、惟揚に旧遊を思い出す。\n二行の涙をもち、遥かに海の西に届ける。",
+            "es": "En la oscuridad de la montaña escucho el lamento de los monos,\nRíos azules corren rápidamente en la noche.\nEl viento silba entre las hojas de ambas orillas,\nLa luna ilumina una solitaria barca.\nJiande no es mi tierra,\nEn WeiYang recuerdo a mis viejos amigos.\nCon dos líneas de lágrimas,\nEnvío mi mensaje al extremo oeste del mar.",
+            "ar": "في ظلام الجبل اسمع بكاء القردة،\nالأنهار الزرقاء تتدفق بسرعة في الليل.\nالرياح تعصف بأوراق الضفتين،\nالقمر يضيء قاربًا وحيدًا.\nجياند ليس أرضي،\nفي وييانغ أتذكر الأصدقاء القدامى.\nبخطين من الدموع،\nأبعث برسالتي إلى نهاية البحر من الغرب."
+        },
+        "title_translation": {
+            "zh": "宿桐庐江寄广陵旧游",
+            "en": "Staying by the Tonglu River and Sending Thoughts to Old Friends in Guangling",
+            "ja": "桐廬江に宿して広陵の旧遊に寄せる",
+            "es": "Alojándose en el Río Tonglu y Enviando Pensamientos a los Viejos Amigos en Guangling",
+            "ar": "الإقامة عند نهر تونغلو وإرسال الأفكار إلى الأصدقاء القدامى في غوانغلينغ"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "山暝闻猿愁，沧江急夜流。\n风鸣两岸叶，月照一孤舟。\n建德非吾土，维扬忆旧游。\n还将两行泪，遥寄海西头。",
+    "title_pinyin": "sù tóng lú jiāng jì guǎng líng jiù yóu",
+    "pinyin": "shān míng wén yuán chóu，cāng jiāng jí yè liú。\nfēng míng liǎng àn yè，yuè zhào yī gū zhōu。\njiàn dé fēi wú tǔ，wéi yáng yì jiù yóu。\nhái jiāng liǎng xíng lèi，yáo jì hǎi xī tóu。"
+}

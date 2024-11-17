@@ -1,0 +1,57 @@
+{
+    "title": "登金陵凤凰台",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，唐朝著名诗人，被后人誉为“诗仙”。他的诗作以豪放、奔放著称，风格多样，内容广泛，尤其擅长描写自然景观和抒发个人情感。李白的诗歌在中国文学史上占有重要地位，对后世影响深远。《登金陵凤凰台》是其代表作之一，通过对凤凰台的描写，抒发了对历史变迁和人生无常的感慨。",
+            "en": "Li Bai (701-762), styled as Taibai and also known as the Hermit of Qinglian, was a renowned poet of the Tang Dynasty, often revered as the 'Poet Immortal'. His poetry is celebrated for its boldness and exuberance, with a diverse style and wide-ranging themes, particularly excelling in depicting natural landscapes and expressing personal emotions. Li Bai's works hold a significant place in the history of Chinese literature, exerting a profound influence on later generations. 'Ascending the Phoenix Terrace at Jinling' is one of his masterpieces, reflecting on historical changes and the transience of life through the depiction of the Phoenix Terrace.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐時代の著名な詩人で、「詩仙」と称賛される。彼の詩は豪放で奔放なスタイルで知られ、多様なテーマを扱い、特に自然景観の描写や個人的な感情の表現に優れている。李白の詩は中国文学史において重要な地位を占め、後世に大きな影響を与えた。《金陵鳳凰台に登る》はその代表作の一つで、鳳凰台の描写を通じて、歴史の変遷と人生の無常を詠っている。",
+            "es": "Li Bai (701-762), conocido por su nombre de estilo Taibai y también como el Ermitaño de Qinglian, fue un destacado poeta de la dinastía Tang, a menudo venerado como el 'Poeta Inmortal'. Su poesía es famosa por su audacia y exuberancia, con un estilo diverso y temas amplios, destacando especialmente en la descripción de paisajes naturales y la expresión de emociones personales. Las obras de Li Bai ocupan un lugar importante en la historia de la literatura china, ejerciendo una profunda influencia en las generaciones posteriores. 'Ascenso a la Terraza del Fénix en Jinling' es una de sus obras maestras, que reflexiona sobre los cambios históricos y la transitoriedad de la vida a través de la descripción de la Terraza del Fénix.",
+            "ar": "لي بائي (701-762)، المعروف بلقبه تايباي وكذلك بـ راهب تشينغليان، كان شاعرًا بارزًا في عهد التانغ، وأُعطي لقب \"شاعر الموتى\". اشتهرت قصائده بجرأتها وتفاؤلها، بأسلوب متنوع ومواضيع واسعة، وخاصة في وصف المناظر الطبيعية والتعبير عن المشاعر الشخصية. تُعد أعمال لي بائي ذات مكانة هامة في تاريخ الأدب الصيني، ولها تأثير عميق على الأجيال اللاحقة. \"صعود منصة فينكس في جينلينغ\" هي واحدة من روائعه، حيث يعكس فيها على التغيرات التاريخية وعبور الحياة من خلال وصف منصة الفينكس."
+        }
+    },
+    "annotations": {
+        "zh": "凤凰台：古台名，在今南京市。凤凰游：传说凤凰曾在此台上游憩。凤去台空：凤凰飞走后，台空留。江自流：长江依旧东流。吴宫：三国时吴国的宫殿。花草埋幽径：花草覆盖了幽深的小径。晋代衣冠：指晋代的名门望族。成古丘：变成了古墓。三山：在南京市西南长江边。半落青天外：形容三山半隐在云雾中。二水：指长江和秦淮河。白鹭洲：长江中的沙洲。浮云能蔽日：比喻奸佞小人蒙蔽君主。长安：指唐朝都城长安。使人愁：让人感到忧愁。",
+        "en": "Phoenix Terrace: An ancient terrace in present-day Nanjing. Phoenixes roamed: Legend has it that phoenixes once roamed here. The phoenixes are gone, the terrace empty: After the phoenixes flew away, the terrace was left empty. The river flows on: The Yangtze River continues to flow eastward. Wu Palace: The palace of the Wu Kingdom during the Three Kingdoms period. Flowers and grasses bury the secluded paths: Flowers and grasses cover the secluded paths. Jin Dynasty attire: Refers to the noble families of the Jin Dynasty. Become ancient mounds: Turned into ancient tombs. Three Mountains: Located southwest of Nanjing by the Yangtze River. Half hidden beyond the blue sky: Describes the Three Mountains partially hidden in mist. Two rivers: Refers to the Yangtze River and the Qinhuai River. Bai Lu Zhou: A sandbar in the Yangtze River. Floating clouds can obscure the sun: Metaphor for treacherous courtiers misleading the ruler. Chang'an: Refers to the Tang Dynasty capital Chang'an. Causes one to worry: Makes one feel sorrowful.",
+        "ja": "鳳凰台：現在の南京市にある古い台。鳳凰遊：伝説によると鳳凰がこの台上で遊んだ。鳳去台空：鳳凰が去った後、台は空っぽのまま。江自流：長江は依然として東に流れる。呉宮：三国時代の呉の宮殿。花草埋幽径：花草が奥深い小径を覆う。晋代衣冠：晋代の名門望族を指す。成古丘：古墳となった。三山：南京市西南の長江沿いにある山。半落青天外：三山が雲霧に半分隠れている様子を形容する。二水：長江と秦淮河を指す。白鷺洲：長江の中の砂州。浮雲能蔽日：奸臣が君主を惑わすたとえ。長安：唐の都長安を指す。使人愁：人を憂鬱にさせる。",
+        "es": "Terraza del Fénix: Una antigua terraza en la actual Nanjing. Fénixes deambulan: Según la leyenda, los fénixes solían deambular aquí. El fénix se va, la terraza vacía: Después de que los fénixes se fueron, la terraza quedó vacía. El río sigue fluyendo: El río Yangtsé sigue fluyendo hacia el este. Palacio de Wu: El palacio del Reino de Wu durante el período de los Tres Reinos. Flores y hierbas entierren los senderos ocultos: Flores y hierbas cubren los senderos ocultos. Atuendos de la dinastía Jin: Se refiere a las familias nobles de la dinastía Jin. Se convierten en antiguas colinas: Se transforman en antiguas tumbas. Tres Montañas: Montañas ubicadas al suroeste de Nanjing, a orillas del río Yangtsé. Medio caído más allá del cielo azul: Describe las Tres Montañas parcialmente ocultas en la niebla. Dos ríos: Se refiere al río Yangtsé y al río Qinhuai. Isla de la Grulla Blanca: Una isla de arena en el río Yangtsé. Las nubes flotantes pueden oscurecer el sol: Metáfora de los cortesanos malvados que engañan al gobernante. Chang'an: Se refiere a la capital de la dinastía Tang, Chang'an. Hace que uno se preocupe: Hace que uno se sienta triste.",
+        "ar": "منصة الفينيق: منصة قديمة في نانجينغ الحالية. الفينيقيون يتجولون: يقال إن الفينيقيين كانوا يتجولون هنا. ذهب الفينيق، المنصة فارغة: بعد أن ذهب الفينيقيون، أصبحت المنصة فارغة. النهر يتدفق: نهر يانغتسي يستمر في التدفق شرقاً. قصر وو: قصر مملكة وو في فترة الثلاث ممالك. الأزهار والأعشاب تغطي المسارات الخفية: الأزهار والأعشاب تغطي المسارات الخفية. أزياء عهد جين: تشير إلى العائلات النبيلة في عهد جين. تتحول إلى تلال قديمة: تصبح مقابر قديمة. الجبال الثلاثة: جبال تقع جنوب غرب نانجينغ على ضفاف نهر يانغتسي. نصفها خارج السماء الزرقاء: تصف الجبال الثلاثة جزئياً مخفية في الضباب. النهران: يشير إلى نهر يانغتسي ونهر تشينهواي. جزيرة البلشون الأبيض: جزيرة رملية في نهر يانغتسي. السحب العائمة تستطيع حجب الشمس: استعارة للخدام الفاسدين الذين يضللون الحاكم. تشانغآن: تشير إلى عاصمة عهد تانغ، تشانغآن. يجعل المرء يشعر بالحزن: يجعل المرء يشعر بالحزن."
+    },
+    "appreciations": {
+        "zh": "《登金陵凤凰台》是唐代诗人李白的作品，主题思想表达了对历史变迁和现实政治的深刻感慨。写作特色上，李白运用了对比、象征等手法，将自然景观与历史遗迹相结合，展现了丰富的意象。艺术成就方面，此诗结构严谨，语言精练，意境深远，具有较高的艺术价值。情感分析显示，诗人抒发了对往昔辉煌的怀念和对现实无奈的忧愁。影响意义上，这首诗在文学史上具有重要地位，被誉为唐代登临诗的代表作之一。",
+        "en": "The poem 'Ascending the Jinling Phoenix Terrace' by the Tang Dynasty poet Li Bai reflects a profound sentiment on historical changes and contemporary politics. In terms of writing features, Li Bai employs contrasts and symbols, blending natural landscapes with historical relics to create rich imagery. Artistically, the poem is structured meticulously, with concise language and profound imagery, holding high artistic value. Emotionally, it expresses the poet's nostalgia for past glories and his sorrow over present helplessness. Historically, this poem holds a significant place in literary history, being regarded as one of the masterpieces of Tang Dynasty ascension poetry.",
+        "ja": "《登金陵鳳凰台》は唐代の詩人李白の作品で、歴史の変遷と現実政治に対する深い感慨を主題としています。表現手法としては、対比や象徴を用い、自然景観と歴史遺跡を結びつけることで豊かなイメージを描いています。芸術的価値としては、構成が緻密で、言葉遣いが簡潔、意境が深遠であり、高い芸術価値を有しています。感情分析では、詩人が過去の栄光への懐かしさと現実の無力感に対する憂愁を抒発しています。影響力としては、文学史上重要な地位を占め、唐代の登臨詩の代表作の一つとして評価されています。",
+        "es": "El poema 'Ascenso a la Terraza del Fénix en Jinling' del poeta de la dinastía Tang, Li Bai, expresa una profunda reflexión sobre los cambios históricos y la política contemporánea. En cuanto a las características de escritura, Li Bai utiliza contrastes y símbolos, combinando paisajes naturales con reliquias históricas para crear una rica imaginería. Artísticamente, el poema está estructurado meticulosamente, con un lenguaje conciso y una imaginería profunda, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa nostalgia por las glorias pasadas y tristeza por la impotencia presente. En términos de influencia, este poema ocupa un lugar significativo en la historia literaria, siendo considerado una de las obras maestras de la poesía de ascensión de la dinastía Tang.",
+        "ar": "القصيدة 'صعود منصة العنقاء في جينلينغ' للشاعر التانغي لي باي تعبر عن تأمل عميق في التغيرات التاريخية والسياسة المعاصرة. من حيث خصائص الكتابة، يستخدم لي باي المقارنات والرموز، يدمج المناظر الطبيعية مع الآثار التاريخية لخلق صورة غنية. فنياً، تتسم القصيدة ببناء دقيق، ولغة موجزة، وصور عميقة، وتحمل قيمة فنية عالية. في التحليل العاطفي، يعبر الشاعر عن حنينه للامجاد الماضية وحزنه على العجز الحالي. من حيث التأثير، تحتل هذه القصيدة مكانة هامة في تاريخ الأدب، وتعتبر واحدة من روائع شعر الصعود في عهد التانغ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "凤凰台上凤凰游，凤去台空江自流。\n吴宫花草埋幽径，晋代衣冠成古丘。\n三山半落青天外，二水中分白鹭洲。\n总为浮云能蔽日，长安不见使人愁。",
+            "en": "On the Phoenix Terrace, phoenixes once roamed;\nNow the phoenixes are gone, the terrace empty, the river flows on its own.\nFlowers and grass in the Wu palace bury the secluded paths;\nThe robes and caps of the Jin dynasty have become ancient mounds.\nThree mountains half-fall beyond the blue sky;\nTwo rivers divide at the White Egret Isle.\nAlways, floating clouds can obscure the sun;\nNot seeing Chang'an makes one sorrowful.",
+            "ja": "鳳凰台に鳳凰遊ぶ、鳳去りて台空き江自ら流る。\n呉宮の花草、幽径を埋み、晋代の衣冠、古丘となる。\n三山半ば青天外に落ち、二水白鷺洲に分かつ。\n総じて浮雲日を蔽い、長安見えず人を愁わす。",
+            "es": "En la Terraza del Fénix, los fénix solían pasear;\nAhora los fénix se han ido, la terraza está vacía, el río fluye solo.\nFlores y hierbas en el palacio de Wu cubren los senderos ocultos;\nLas ropas y sombreros de la dinastía Jin se han convertido en antiguos montículos.\nTres montañas medio caen fuera del cielo azul;\nDos ríos se dividen en la Isla de la Garza Blanca.\nSiempre, las nubes flotantes pueden ocultar el sol;\nNo ver Chang'an hace que uno se sienta triste.",
+            "ar": "على منصة الفينيق، الفينيقيون كانوا يصولون ويجولون؛\nالآن الفينيقيون قد رحلوا، المنصة فارغة، النهر يجري وحده.\nالأزهار والأعشاب في قصر وو تغطي المسارات الخفية؛\nالملابس والقبعات من عهد جين أصبحت تلالًا قديمة.\nثلاث جبال تسقط نصفًا خارج السماء الزرقاء؛\nنهران ينقسمان عند جزيرة البلشون الأبيض.\nدائمًا، السحب العائمة تستطيع إخفاء الشمس؛\nعدم رؤية تشانغآن يجعل المرء حزينًا."
+        },
+        "title_translation": {
+            "zh": "登金陵凤凰台",
+            "en": "Climbing the Jinling Phoenix Terrace",
+            "ja": "金陵鳳凰台に登る",
+            "es": "Subiendo a la Terraza del Fénix en Jinling",
+            "ar": "صعود منصة الفينيق في جينلينغ"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "凤凰台上凤凰游，凤去台空江自流。\n吴宫花草埋幽径，晋代衣冠成古丘。\n三山半落青天外，二水中分白鹭洲。\n总为浮云能蔽日，长安不见使人愁。",
+    "title_pinyin": "dēng jīn líng fèng huáng tái",
+    "pinyin": "fèng huáng tái shàng fèng huáng yóu，fèng qù tái kōng jiāng zì liú。\nwú gōng huā cǎo mái yōu jìng，jìn dài yī guān chéng gǔ qiū。\nsān shān bàn luò qīng tiān wài，èr shuǐ zhōng fēn bái lù zhōu。\nzǒng wèi fú yún néng bì rì，zhǎng ān bù jiàn shǐ rén chóu。"
+}

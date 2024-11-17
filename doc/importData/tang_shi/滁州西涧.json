@@ -1,0 +1,57 @@
+{
+    "title": "滁州西涧",
+    "difficulty": 2,
+    "author": {
+        "name": "韦应物",
+        "name_pinyin": "wéi yīng wù",
+        "image": "韦应物.jpg",
+        "introduction": {
+            "zh": "韦应物（737年－792年），唐代著名诗人，京兆万年（今陕西西安）人。他出身名门望族，早年曾任官职，后因政治失意而隐居。韦应物的诗多描写自然景物，风格清新淡雅，富有哲理，尤其擅长五言诗，被誉为“五言长城”。《滁州西涧》是其代表作之一，展现了诗人对自然美景的喜爱和对人生哲理的感悟。",
+            "en": "Wei Yingwu (737-792), a renowned poet of the Tang Dynasty, was born in Jingzhao Wannian (present-day Xi'an, Shaanxi). He came from a distinguished family and held official positions in his early years, but later retreated into seclusion due to political setbacks. His poetry often depicts natural scenery with a fresh and elegant style, imbued with philosophical insights. He was particularly skilled in writing five-character poems, earning the title of 'The Great Wall of Five-Character Poetry.' 'Chuzhou West Gully' is one of his masterpieces, reflecting his love for natural beauty and his contemplation on life's philosophies.",
+            "ja": "韋応物（737年－792年）は、唐代の著名な詩人で、京兆万年（現在の陝西省西安市）出身。名家の出身で、若い頃は官職に就いていたが、政治的な失意により隠遁生活を送るようになった。彼の詩は自然景物を多く描き、清新で淡雅なスタイルで哲学的な洞察を含んでいる。特に五言詩に優れ、「五言の長城」と称された。《滁州西渓》は彼の代表作の一つで、自然の美しさへの愛と人生哲学への省察を示している。",
+            "es": "Wei Yingwu (737-792) fue un destacado poeta de la dinastía Tang, nacido en Jingzhao Wannian (actual Xi'an, Shaanxi). Proveniente de una familia notable, ocupó cargos oficiales en sus primeros años, pero más tarde se retiró a la vida privada debido a decepciones políticas. Su poesía a menudo describe paisajes naturales con un estilo fresco y elegante, lleno de reflexiones filosóficas. Era particularmente hábil en la escritura de poemas de cinco caracteres, ganándose el apodo de 'El Gran Muro de la Poesía de Cinco Caracteres'. 'Chuzhou West Gully' es una de sus obras maestras, que refleja su amor por la belleza natural y su contemplación sobre las filosofías de la vida.",
+            "ar": "wei yingwu (737-792) كان شاعرًا مشهورًا في عهد التانغ، وُلد في جينغتشاو وانيان (الآن شيان، شانشي). جاء من عائلة نبيلة، وشغل مناصب رسمية في شبابه، ولكنه انسحب إلى حياة الوحدة بسبب الإحباطات السياسية. غالبًا ما تصف أشعاره المناظر الطبيعية بأسلوب طازج وأنيق، مليء بالرؤى الفلسفية. كان بارعًا بشكل خاص في كتابة القصائد ذات الخمسة حروف، مما كسبه لقب 'السور العظيم للشعر ذو الخمسة حروف'. 'Chuzhou West Gully' هو واحد من أشهر أعماله، يعكس حبه للجمال الطبيعي وتأملاته في فلسفات الحياة."
+        }
+    },
+    "annotations": {
+        "zh": "独怜幽草涧边生：独怜，特别喜爱；幽草，生长在幽静处的草；涧边，山涧旁边。上有黄鹂深树鸣：上，指高处；黄鹂，一种鸟，叫声悦耳；深树，树荫深处。春潮带雨晚来急：春潮，春天的潮水；带雨，伴随着雨水；晚来，傍晚时分；急，迅猛。野渡无人舟自横：野渡，荒野中的渡口；无人，没有行人；舟自横，船自己横在水面上。\n语法说明：本诗采用平铺直叙的句式，没有特殊句式。\n典故解释：本诗没有直接引用典故。\n意象分析：幽草、黄鹂、春潮、野渡、舟，这些意象共同构成了一幅宁静而又充满生机的春日山涧图。\n历史背景：唐代诗人韦应物任滁州刺史期间，游览西涧，写下此诗，表达了对自然景色的喜爱和对隐逸生活的向往。",
+        "en": "Du lian you cao jian bian sheng: Du lian, especially fond of; You cao, grass growing in secluded places; Jian bian, beside the mountain stream. Shang you huang li shen shu ming: Shang, referring to a higher place; Huang li, a kind of bird with a melodious call; Shen shu, deep in the shade of trees. Chun chao dai yu wan lai ji: Chun chao, spring tide; Dai yu, accompanied by rain; Wan lai, in the evening; Ji, swift. Ye du wu ren zhou zi heng: Ye du, a ferry in the wilderness; Wu ren, no pedestrians; Zhou zi heng, the boat lying across the water by itself.\nGrammar Explanation: The poem uses a straightforward narrative style without any special sentence structures.\nAllusion Explanation: The poem does not directly quote any classical allusions.\nImagery Analysis: The imagery of secluded grass, orioles, spring tide, wilderness ferry, and boat collectively paints a picture of a tranquil yet vibrant spring scene by a mountain stream.\nHistorical Background: During the Tang Dynasty, the poet Wei Yingwu, while serving as the governor of Chuzhou, visited the West Stream and composed this poem, expressing his love for natural scenery and his longing for a reclusive life.",
+        "ja": "独怜幽草涧边生：独怜、特に愛する；幽草、静かな場所に生える草；涧边、山の谷の側。上有黄鹂深树鸣：上、高い所を指す；黄鹂、美しい鳴き声の鳥；深树、木陰の深い所。春潮带雨晚来急：春潮、春の満潮；带雨、雨とともに；晚来、夕方に；急、急速に。野渡无人舟自横：野渡、荒野の渡し場；无人、人影がない；舟自横、舟が自分で横たわる。\n文法説明：この詩は平明な叙述形式を採用しており、特殊な文法はない。\n典故説明：この詩には直接的な典故の引用はない。\n意象分析：幽草、黄鹂、春潮、野渡、舟、これらの意象が協力して、静かで生き生きとした春の山の谷の風景を描いている。\n歴史背景：唐代の詩人韋応物が滁州刺史を務めていた頃、西渓を訪れ、この詩を作り、自然の風景への愛着と隠遁生活への憧れを表現した。",
+        "es": "Du lian you cao jian bian sheng: Du lian, especialmente apreciar; You cao, hierba que crece en lugares tranquilos; Jian bian, al lado del arroyo de la montaña. Shang you huang li shen shu ming: Shang, refiriéndose a un lugar alto; Huang li, un tipo de pájaro con un canto melodioso; Shen shu, profundo en la sombra de los árboles. Chun chao dai yu wan lai ji: Chun chao, marea de primavera; Dai yu, acompañado de lluvia; Wan lai, en la tarde; Ji, rápido. Ye du wu ren zhou zi heng: Ye du, un ferry en el desierto; Wu ren, sin peatones; Zhou zi heng, el bote yéndose a través del agua por sí mismo.\nExplicación gramatical: El poema utiliza un estilo narrativo sencillo sin estructuras gramaticales especiales.\nExplicación de alusiones: El poema no cita directamente ninguna alusión clásica.\nAnálisis de imágenes: Las imágenes de hierba solitaria, oropéndolas, marea de primavera, ferry en el desierto y bote, juntos pintan una escena tranquila pero vibrante de primavera junto a un arroyo de montaña.\nContexto histórico: Durante la dinastía Tang, el poeta Wei Yingwu, mientras servía como gobernador de Chuzhou, visitó el Arroyo Occidental y compuso este poema, expresando su amor por la naturaleza y su deseo de una vida retirada.",
+        "ar": "دوليان يو تساو جيان بين شينغ: دوليان، حب خاص؛ يو تساو، العشب الذي ينمو في الأماكن الهادئة؛ جيان بين، بجانب وادي الجبل. شانغ يو هوانغ لي شن شو مينغ: شانغ، يشير إلى مكان مرتفع؛ هوانغ لي، نوع من الطيور بصوت عذب؛ شن شو، عميق في ظل الأشجار. تشون تشاو داي يو وان لاي جي: تشون تشاو، المد العالي في الربيع؛ داي يو، مصحوب بالأمطار؛ وان لاي، في المساء؛ جي، سريع. يه دو وو رين تشو زي هينغ: يه دو، ممر في البرية؛ وو رين، بدون راكب؛ تشو زي هينغ، القارب يطفو عبر الماء بنفسه.\nشرح النحو: يستخدم الشعر أسلوبًا سرديًا بسيطًا بدون بنى نحوية خاصة.\nشرح الإحالات: الشعر لا يذكر إحالات أدبية مباشرة.\nتحليل الصور: صور العشب المنعزل، البلابل، المد الربيعي، الممر البري، والقارب، معًا ترسم مشهدًا هادئًا ولكنه مليء بالحياة في ربيع الوادي الجبلي.\nالخلفية التاريخية: خلال فترة حكم أسرة تانغ، كتب الشاعر وي ينغو، أثناء خدمته كحاكم لـ تشوزهو، زار الوادي الغربي وكتب هذا الشعر، يعبر عن حبه للطبيعة وتوقه للحياة المنعزلة."
+    },
+    "appreciations": {
+        "zh": "《滁州西涧》是唐代诗人韦应物的一首写景诗。主题思想：通过描绘西涧的自然景色，表达诗人对宁静、幽美自然景色的喜爱和对纷繁世事的超然态度。写作特色：运用简洁的白描手法，通过幽草、黄鹂、春潮、野渡等意象，营造出一种静谧而又生动的意境。艺术成就：诗中动静结合，色彩鲜明，音韵和谐，展现了高超的艺术表现力。情感分析：抒发了诗人对自然美景的热爱和对世俗的超脱之情，透露出一种淡泊名利、追求自然的心境。影响意义：此诗在文学史上具有重要地位，被誉为唐代山水诗的代表作之一，对后世诗歌创作产生了深远影响。",
+        "en": "Chuzhou West Gully by Wei Yingwu is a landscape poem from the Tang Dynasty. Theme: It depicts the natural scenery of the West Gully, expressing the poet's love for tranquil and beautiful nature and his detached attitude towards worldly affairs. Writing Style: The poem employs simple and straightforward descriptions, using imagery such as secluded grass, yellow orioles, spring tides, and a deserted ferry to create a serene yet vivid scene. Artistic Achievement: The combination of motion and stillness, vivid colors, and harmonious rhythms demonstrates the poet's exceptional artistic skill. Emotional Analysis: It conveys the poet's deep affection for natural beauty and his detachment from worldly concerns, revealing a mindset that values simplicity and nature. Historical Significance: This poem holds a significant place in literary history, being regarded as one of the representative works of Tang Dynasty landscape poetry, and has had a profound influence on later poetic compositions.",
+        "ja": "《滁州西澗》は唐代の詩人韋応物の風景詩です。主題思想：西澗の自然景観を描き、詩人が静かで美しい自然を愛し、世俗の事から超然とした態度を表しています。表現手法：簡潔な白描の手法を用い、幽草、黄鶯、春潮、野渡などのイメージを通じて、静かで生き生きとした情景を作り出しています。芸術的価値：動と静の結合、鮮やかな色彩、調和のとれたリズムが詩人の高い芸術表現力を示しています。感情分析：自然の美しさへの愛情と世俗からの超脱を表し、名利を淡泊にし、自然を追求する心境を示しています。影響意義：文学史上重要な地位を占め、唐代山水詩の代表作の一つとされ、後世の詩作に大きな影響を与えました。",
+        "es": "Chuzhou West Gully, de Wei Yingwu, es un poema paisajístico de la dinastía Tang. Tema: A través de la descripción del paisaje natural del West Gully, expresa el amor del poeta por la naturaleza tranquila y hermosa y su actitud desapegada hacia los asuntos mundanos. Estilo de escritura: Utiliza descripciones sencillas y directas, empleando imágenes como hierbas solitarias, oropéndolas, mareas de primavera y un ferry desierto para crear una escena serena pero viva. Logro artístico: La combinación de movimiento y quietud, colores vivos y ritmos armoniosos demuestra la habilidad artística excepcional del poeta. Análisis emocional: Expresa el profundo afecto del poeta por la belleza natural y su desapego de las preocupaciones mundanas, revelando una mentalidad que valora la simplicidad y la naturaleza. Significado e influencia: Este poema ocupa un lugar importante en la historia de la literatura, siendo considerado una de las obras representativas de la poesía paisajística de la dinastía Tang, y ha tenido una influencia profunda en la creación poética posterior.",
+        "ar": "《تشوزو ويست جولي》 هو قصيدة مناظر طبيعية للشاعر وي يينغو من عهد التانغ. الفكرة الرئيسية: من خلال وصف المناظر الطبيعية لويست جولي، يعبر الشاعر عن حبه للطبيعة الهادئة والجميلة وتعاليه عن الأمور الدنيوية. الأسلوب الأدبي: يستخدم وصفًا بسيطًا مباشرًا، من خلال صور مثل الأعشاب الخفية، البلابل الصفراء، المد العالي في الربيع والعبارة المهجورة لخلق مشهد هادئ ولكنه حي. الإنجاز الفني: دمج الحركة والسكون، الألوان الزاهية والإيقاعات المتناسقة يظهر مهارة فنية استثنائية للشاعر. تحليل العواطف: يعبر عن حب الشاعر العميق للجمال الطبيعي وتعاليه عن شواغل العالم، مما يكشف عن ذهنية تقدر البساطة والطبيعة. المعنى والتأثير: تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، وتعتبر واحدة من الأعمال الرائدة في شعر المناظر الطبيعية لعهد التانغ، ولها تأثير عميق على الكتابة الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "独爱那幽静的草生长在涧边，树丛深处有黄鹂在鸣叫。春潮夹带着雨水在傍晚时分急速上涨，野外的渡口无人，小舟自行横在水面上。",
+            "en": "I alone cherish the secluded grass growing by the stream, above, yellow orioles sing deep in the trees. Spring tide brings rain, swift in the evening, the wild ferry unmanned, a boat lies crosswise on its own.",
+            "ja": "わずかな草が渓辺に生い茂るのを愛す、その上には黄鶯が深い木々で鳴く。春の潮が雨を伴い夕暮れに急く、野渡には人影なく、舟は自ら横たわる。",
+            "es": "Solo aprecio la hierba solitaria que crece junto al arroyo, arriba, los Orioles amarillos cantan en lo profundo de los árboles. La marea de primavera trae lluvia, rápida al anochecer, el vado salvaje sin gente, la barca se cruza sola.",
+            "ar": "أحب وحدي تلك الأعشاب الخفية التي تنمو على حافة الوادي، فوقها، تغني البلابل الصفراء في أعماق الأشجار. المد الربيعي يجلب المطر، بشدة في المساء، المعبر البري بلا أناس، والقارب يطفو من تلقاء نفسه."
+        },
+        "title_translation": {
+            "zh": "滁州西涧",
+            "en": "West Ravine of Chuzhou",
+            "ja": "滁州西渓",
+            "es": "El Arroyo Occidental de Chuzhou",
+            "ar": "الوادي الغربي لـ تشوزهو"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "独怜幽草涧边生，上有黄鹂深树鸣。\n春潮带雨晚来急，野渡无人舟自横。",
+    "title_pinyin": "chú zhōu xī jiàn",
+    "pinyin": "dú lián yōu cǎo jiàn biān shēng，shàng yǒu huáng lí shēn shù míng。\nchūn cháo dài yǔ wǎn lái jí，yě dù wú rén zhōu zì héng。"
+}

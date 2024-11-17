@@ -1,0 +1,57 @@
+{
+    "title": "感遇十二首·其一",
+    "difficulty": 2,
+    "author": {
+        "name": "张九龄",
+        "name_pinyin": "zhāng jiǔ líng",
+        "image": "张九龄.jpg",
+        "introduction": {
+            "zh": "张九龄（678年－740年），字子寿，一名博物，唐朝著名政治家、文学家、诗人。他出生于韶州曲江（今广东省韶关市），是唐代“岭南四杰”之一。张九龄在唐玄宗时期曾任宰相，以直言敢谏著称，被誉为“开元盛世”的重要辅臣。他的诗歌风格清新淡雅，多抒发个人情怀和对自然景物的赞美，代表作有《感遇十二首》等。张九龄的诗作在中国文学史上具有重要地位，对后世文人影响深远。",
+            "en": "Zhang Jiuling (678-740), also known as Zishou and Bowu, was a renowned Tang Dynasty statesman, litterateur, and poet. Born in Qujiang, Shaoyang (present-day Shaoguan, Guangdong Province), he was one of the 'Four Outstanding Figures of Lingnan' during the Tang Dynasty. Zhang Jiuling served as a prime minister under Emperor Xuanzong and was famous for his straightforward and courageous advice, being regarded as a key minister during the 'Prosperous Kaiyuan Era'. His poetry is characterized by its fresh and elegant style, often expressing personal sentiments and admiration for natural scenery. His representative works include 'Twelve Poems on Personal Feelings'. Zhang Jiuling's poetry holds an important place in the history of Chinese literature and has had a profound influence on later generations of scholars.",
+            "ja": "張九齢（678年－740年）、字は子寿、一名は博物、唐代の著名な政治家、文学者、詩人。韶州曲江（現在の広東省韶関市）に生まれ、「嶺南四傑」の一人。唐の玄宗の時代に宰相を務め、直言敢諫で知られ、「開元盛世」の重要な補佐役と称された。彼の詩は清新淡雅なスタイルで、個人の感情や自然景物の賛美を多く抒発しており、「感遇十二首」などの代表作がある。張九齢の詩は中国文学史上で重要な地位を占め、後世の文人に深い影響を与えた。",
+            "es": "Zhang Jiuling (678-740), también conocido como Zishou y Bowu, fue un destacado estadista, literato y poeta de la dinastía Tang. Nacido en Qujiang, Shaoyang (actualmente Shaoguan, provincia de Guangdong), fue uno de los 'Cuatro Figuras Destacadas de Lingnan' durante la dinastía Tang. Zhang Jiuling sirvió como primer ministro bajo el emperador Xuanzong y fue famoso por su consejo franco y valiente, siendo considerado un ministro clave durante la 'Época Próspera de Kaiyuan'. Su poesía se caracteriza por un estilo fresco y elegante, a menudo expresando sentimientos personales y admiración por la scenery natural. Sus obras representativas incluyen 'Doce Poemas sobre Sentimientos Personales'. La poesía de Zhang Jiuling ocupa un lugar importante en la historia de la literatura china y ha tenido una profunda influencia en las generaciones posteriores de eruditos.",
+            "ar": "장 구령(678-740), 자는 자수, 일명 보물, 당대의 저명한 정치가, 문학가, 시인.韶州曲江(현재 광둥성 샤오관시)에서 태어나, 당대 '림남사걸' 중 한 사람. 당 현종 시절 재상을 역임하며 직언감언으로 유명하였으며, '개원盛世'의 중요한 보좌관으로 불림. 그의 시는 청신담아한 스타일로, 개인의 정감과 자연 풍경에 대한 찬미를 많이 서술하며, 대표작으로 '감遇十二首' 등이 있음. 장 구령의 시는 중국문학사에서 중요한 자리를 차지하며, 후대 문인들에게 깊은 영향을 미침."
+        }
+    },
+    "annotations": {
+        "zh": "兰叶春葳蕤，桂华秋皎洁：兰草在春天茂盛，桂花在秋天洁白。葳蕤（wēi ruí）：形容草木茂盛。桂华：桂花。皎洁：明亮洁白。欣欣此生意，自尔为佳节：它们生机勃勃，各自在合适的季节展现美丽。欣欣：生机勃勃的样子。自尔：自然而然。谁知林栖者，闻风坐相悦：谁知道那些隐居山林的人，闻到花香便心生喜悦。林栖者：隐居山林的人。闻风：闻到花香。坐：因而。相悦：心生喜悦。草木有本心，何求美人折！：草木自有其本心，并不求美人来折取。本心：本性。美人：指有才德的人。此诗通过赞美兰桂的自然之美，表达了诗人坚守本心、不求名利的高洁情怀。",
+        "en": "Orchid leaves flourish in spring, cassia flowers shine bright in autumn. 'Flourish' (wēi ruí) means lush and thriving. 'Cassia flowers' refer to the blossoms of the cassia tree. 'Shine bright' (jiǎo jié) means bright and pure. They thrive with vitality, naturally making the season beautiful. 'Thrive' (xīn xīn) means full of life. 'Naturally' (zì ěr) means as it should be. Who knows the forest dwellers, hearing the wind, sit and delight. 'Forest dwellers' refer to those who live in seclusion in the woods. 'Hearing the wind' means smelling the fragrance. 'Sit' (zuò) means thereby. 'Delight' means take pleasure. Plants have their inherent nature, why seek to be plucked by a beauty! 'Inherent nature' means their true nature. 'Beauty' refers to a person of virtue and talent. This poem praises the natural beauty of orchids and cassias, expressing the poet's noble sentiment of adhering to his true nature and not seeking fame and fortune.",
+        "ja": "蘭の葉は春に繁り、桂花は秋に明るく潔い。葳蕤（ウェイルイ）：草木が繁る様子。桂花：桂花の花。明るく潔い（こうけつ）：明るく清らかな様子。このように生き生きとして、それぞれの季節に美しい。生き生きとして（しんしん）：生命力に満ちた様子。それぞれの（じじょう）：自然に。林に住む者は、風の香りを聞いて喜ぶ。林に住む者：山野に隠棲する人々。風の香りを聞く：花の香りを嗅ぐこと。喜ぶ（そうえつ）：喜びを感じる。草木には本心があり、美人に折られることを求めない！本心：本来の心。美人：才徳ある人。この詩は蘭と桂花の自然の美しさを讃え、詩人が本心を守り、名利を求めない高潔な気持ちを表現している。",
+        "es": "Las hojas de orquídea florecen en primavera, las flores de cassia brillan puras en otoño. 'Florecen' (wēi ruí) significa exuberante y próspero. 'Flores de cassia' se refiere a los capullos del árbol de cassia. 'Brillan puras' (jiǎo jié) significa brillante y puro. Prosperan con vitalidad, naturalmente haciendo hermosa la estación. 'Prosperan' (xīn xīn) significa lleno de vida. 'Naturalmente' (zì ěr) significa como debe ser. ¿Quién sabe los que habitan en el bosque, al oír el viento, se sientan y deleiten? 'Los que habitan en el bosque' se refiere a aquellos que viven en reclusión en el bosque. 'Al oír el viento' significa oler el aroma. 'Se sientan' (zuò) significa por ello. 'Deleiten' significa tomar placer. Las plantas tienen su naturaleza inherente, ¿por qué buscar ser cortadas por una belleza? 'Naturaleza inherente' significa su verdadera naturaleza. 'Belleza' se refiere a una persona de virtud y talento. Este poema alaba la belleza natural de las orquídeas y cassias, expresando el sentimiento noble del poeta de adherirse a su verdadera naturaleza y no buscar fama y fortuna.",
+        "ar": "أوراق الأوركيد تزدهر في الربيع، وأزهار السассيا تلمع نقية في الخريف. 'تزدهر' (وэй жуй) تعني مزدهرة وخصبة. 'أزهار السассيا' تشير إلى أزهار شجرة السассيا. 'تلمع نقية' (جياو جييه) تعني تلمع ونقية. تنمو بحيوية، بشكل طبيعي تجعل الموسم جميلًا. 'تنمو' (شين شين) تعني مليئة بالحياة. 'بشكل طبيعي' (زي إير) تعني كما ينبغي. من يعرف الذين يسكنون الغابة، عند سماع الرياح، يجلسون ويسرّون. 'الذين يسكنون الغابة' يشير إلى الذين يعيشون في عزلة في الغابة. 'عند سماع الرياح' يعني شم الرائحة. 'يجلسون' (زو) يعني بسبب ذلك. 'يسرّون' يعني يشعرون بالسعادة. النباتات لها طبيعة أصيلة، ماذا تطلب من أن تقطفها الجميلة؟ 'طبيعة أصيلة' تعني طبيعتها الحقيقية. 'الجميلة' تشير إلى شخص ذو فضيلة وموهبة. هذا الشعر يمدح الجمال الطبيعي للأوركيد والسассيا، يعبر عن المشاعر النبيلة للشاعر بالتمسك بطبيعته الحقيقية وعدم البحث عن الشهرة والثروة."
+    },
+    "appreciations": {
+        "zh": "《感遇十二首·其一》通过描绘春兰秋桂的自然之美，表达了诗人对高洁品质的赞美和对本心坚守的追求。主题思想在于强调草木自有其本心，不求外界赞赏。写作特色上，运用对比手法，将春兰与秋桂并置，突显其各自的美。艺术成就方面，诗句简洁而意境深远，富有哲理。情感分析揭示出诗人淡泊名利、追求内心纯净的情感。在文学史上，此诗对后世文人追求高洁情操产生了深远影响。",
+        "en": "The poem 'Gan Yu Shi Er Shou - Qi Yi' depicts the natural beauty of spring orchids and autumn osmanthus, expressing the poet's admiration for noble qualities and the pursuit of adhering to one's true nature. The main theme emphasizes that plants have their inherent essence, not seeking external praise. In terms of writing style, the use of contrast places spring orchids and autumn osmanthus side by side, highlighting their respective beauties. Artistically, the verses are concise yet profound, rich in philosophy. The emotional analysis reveals the poet's indifference to fame and fortune and his pursuit of inner purity. In literary history, this poem has had a profound impact on later literati's pursuit of noble sentiments.",
+        "ja": "『感遇十二首・其一』は春の蘭と秋の桂花の自然美を描き、詩人が高潔な品質を讃美し、本心を守る追求を表現しています。主題思想は草木がそれぞれ本心を持っていること、外界の賞賛を求めないことにあります。表現手法としては、春の蘭と秋の桂花を対比させることで、それぞれの美しさを強調しています。芸術的成就としては、詩句が簡潔でありながら意境が深く、哲学的な意味を持ちます。感情分析からは、詩人が名利に淡泊で、内面の純粋さを求める感情が読み取れます。文学史上、この詩は後世の文人が高潔な情操を追求する上で深い影響を与えました。",
+        "es": "El poema 'Sensación de Doce Obras - Primera' describe la belleza natural de las orquídeas de primavera y los osmanthus de otoño, expresando la admiración del poeta por las cualidades nobles y la búsqueda de mantener el verdadero ser. El tema principal enfatiza que las plantas tienen su esencia inherente, sin buscar elogios externos. En cuanto al estilo de escritura, se utiliza el contraste para colocar las orquídeas de primavera y los osmanthus de otoño juntos, resaltando sus respectivas bellezas. Artísticamente, los versos son concisos pero profundos, ricos en filosofía. El análisis emocional revela la indiferencia del poeta hacia la fama y la fortuna y su búsqueda de pureza interna. En la historia de la literatura, este poema ha tenido un profundo impacto en la búsqueda de sentimientos nobles por parte de los literatos posteriores.",
+        "ar": "القصيدة 'الشعور بالعشرين عملًا - الأول' تصف جمال الأوركيد الربيعي والغار البري الخريفي، وتعبر عن إعجاب الشاعر بالصفات النبيلة وطلب الحفاظ على النفس الحقيقية. الفكرة الرئيسية تؤكد أن النباتات لها جوهرها الداخلي، لا تبحث عن الثناء الخارجي. من حيث الأسلوب الكتابي، يستخدم التباين لوضع الأوركيد الربيعي والغار البري الخريفي جنبًا إلى جنب، مما يبرز جمال كل منهما. فنيًا، الأبيات موجزة لكن عميقة، غنية بالفلسفة. التحليل العاطفي يكشف عن عدم اهتمام الشاعر بالشهرة والثروة وطلبه للنقاء الداخلي. في تاريخ الأدب، هذه القصيدة أثرت بعمق في طلب الأدباء اللاحقين للعواطف النبيلة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "兰叶在春天茂盛，桂花在秋天皎洁。生机勃勃的景象，自然而然成为美好的时节。谁知道隐居山林的人，闻到香气便心生喜悦。草木自有其本性，何须美人来折取！",
+            "en": "Orchid leaves flourish in spring, cassia flowers shine bright in autumn. This vibrant life, naturally becomes a festive season. Who knows the forest dweller, who delights in the breeze. Plants have their intrinsic nature, why seek the beauty's plucking!",
+            "ja": "蘭の葉は春に繁り、桂花は秋に皎洁だ。このような盛んな生命は、自然と佳節となる。林に住む者は誰が知る、風に聞いて喜ぶ。草木には本心があり、美人が折ることを何故求む。",
+            "es": "Las hojas de orquídea florecen en primavera, las flores de cassia brillan en otoño. Esta vida exuberante, naturalmente se convierte en una estación festiva. ¿Quién sabe del ermitaño del bosque, que se deleita con el viento? Las plantas tienen su propia esencia, ¿por qué buscar que la belleza las corte?",
+            "ar": "أوراق الأوركيد تزدهر في الربيع، وأزهار السرو تتألق في الخريف. هذه الحياة الخصبة، تتحول بشكل طبيعي إلى موسم مميز. من يعرف ساكن الغابة، الذي يسر بروح الهواء. للنباتات طبيعة أصلية، لماذا تطلب من الجميلة قصها!"
+        },
+        "title_translation": {
+            "zh": "感遇十二首·其一",
+            "en": "Reflections on Encounters, Part One",
+            "ja": "感遇十二首·其一",
+            "es": "Reflexiones sobre Encuentros, Primera Parte",
+            "ar": "التفكير في اللقاءات، الجزء الأول"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "兰叶春葳蕤，桂华秋皎洁。\n欣欣此生意，自尔为佳节。\n谁知林栖者，闻风坐相悦。\n草木有本心，何求美人折！",
+    "title_pinyin": "gǎn yù shí èr shǒu·qí yī",
+    "pinyin": "lán yè chūn wēi ruí，guì huá qiū jiǎo jié。\nxīn xīn cǐ shēng yì，zì ěr wèi jiā jié。\nshuí zhī lín qī zhě，wén fēng zuò xiāng yuè。\ncǎo mù yǒu běn xīn，hé qiú měi rén zhé！"
+}

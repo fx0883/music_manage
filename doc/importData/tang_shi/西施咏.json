@@ -1,0 +1,57 @@
+{
+    "title": "西施咏",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（701年－761年），字摩诘，号摩诘居士，唐代著名诗人、画家，与孟浩然合称“王孟”，有“诗佛”之称。他的诗风清新淡远，富有禅意，擅长山水田园诗，亦工于书画，精通音律。代表作有《相思》、《山居秋暝》等，其诗作对后世影响深远。",
+            "en": "Wang Wei (701-761), styled Mojie, also known as Mojie Hermit, was a renowned poet and painter of the Tang Dynasty. He was often paired with Meng Haoran as 'Wang Meng' and was known as the 'Poetic Buddha'. His poetic style was fresh and ethereal, imbued with Zen-like tranquility, excelling in landscape and pastoral poetry. He was also skilled in calligraphy and painting, and proficient in music. His notable works include 'Longing' and 'Autumn Evening in a Mountain Dwelling', which have had a profound influence on later generations.",
+            "ja": "王維（701年－761年）、字は摩詰、号は摩詰居士、唐代の著名な詩人・画家であり、孟浩然と共に「王孟」と称され、「詩仏」とも呼ばれる。彼の詩風は清新で淡遠、禅の趣が溢れ、山水田園詩に長じ、書画にも巧みで、音律にも精通していた。代表作には『相思』『山居秋暝』などがあり、その詩作は後世に大きな影響を与えた。",
+            "es": "Wang Wei (701-761), apodado Mojie y también conocido como Ermitaño Mojie, fue un destacado poeta y pintor de la dinastía Tang. Junto con Meng Haoran, se le conoce como 'Wang Meng' y es llamado el 'Buda Poético'. Su estilo poético es fresco y distante, lleno de un tranquilo sentido Zen, destacando en poesía de paisajes y campestre. También era hábil en caligrafía y pintura, y competente en música. Sus obras más famosas incluyen 'Anhelo' y 'Atardecer de Otoño en una Vivienda Montañosa', las cuales han tenido una profunda influencia en generaciones posteriores.",
+            "ar": "وانغ وي (701-761)، المعروف بلقب مو جييه، ويسمى أيضًا راهب مو جييه، كان شاعرًا وفنانًا مشهورًا في عهد أسرة تانغ. يُعرف مع مينغ هاوران بـ 'وانغ مينغ' ويسمى 'البوذا الشاعر'. يتميز أسلوبه الشعري بالحداثة والبعد، ممتلئًا بالهدوء الزن، متفوقًا في شعر الطبيعة الريفية والمناظر الطبيعية. كان بارعًا أيضًا في الخط والرسم، و ماهر في الموسيقى. من أعماله الشهيرة 'الحنين' و 'المساء الخريفي في منزل الجبل'، والتي أثرت بشكل كبير على الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "艳色：美丽的容貌。宁：难道。微：低微。越溪：指浙江绍兴的若耶溪。吴宫：指吴国的宫殿。贱日：贫贱的时候。殊众：与众不同。贵来：显贵之后。悟：明白。稀：稀少。邀人：请人。傅：涂抹。香粉：化妆品。罗衣：丝绸衣服。君宠：君王的宠爱。益：更加。娇态：娇媚的姿态。怜：爱怜。无是非：没有对错。浣纱伴：一同洗纱的伙伴。持谢：告诉。邻家子：邻居家的女子。效颦：模仿皱眉。安可希：怎么能够希望。",
+        "en": "Yan Se: beautiful appearance. Ning: how can. Wei: lowly. Yue Xi: refers to the Ruoye Creek in Shaoxing, Zhejiang. Wu Gong: refers to the palace of the State of Wu. Jian Ri: when one is poor and lowly. Shu Zhong: different from the crowd. Gui Lai: after becoming noble. Wu: understand. Xi: rare. Yao Ren: invite someone. Fu: apply. Xiang Fen: cosmetics. Luo Yi: silk clothes. Jun Chong: the favor of the monarch. Yi: more. Jiao Tai: coquettish posture. Lian: love and care. Wu Shi Fei: without right or wrong. Huan Sha Ban: companions who washed yarn together. Chi Xie: tell. Lin Jia Zi: the girl next door. Xiao Pin: imitate frowning. An Ke Xi: how can one hope.",
+        "ja": "艶色：美しい容貌。寧：どうして。微：低い身分。越渓：浙江省紹興の若耶渓を指す。呉宮：呉の宮殿を指す。賤日：貧しい時。殊衆：他と異なる。貴来：貴くなった後。悟：理解する。稀：珍しい。邀人：人を誘う。傅：塗る。香粉：化粧品。羅衣：絹の服。君寵：君主の寵愛。益：さらに。嬌態：媚びた態度。憐：かわいがる。無是非：正誤がない。浣紗伴：一緒に紗を洗った仲間。持謝：伝える。隣家子：隣の家の娘。効顰：皺眉をまねる。安可希：どうして望むことができる。",
+        "es": "Yan Se: apariencia hermosa. Ning: ¿cómo puede. Wei: bajo. Yue Xi: se refiere al arroyo Ruoye en Shaoxing, Zhejiang. Wu Gong: se refiere al palacio del Estado de Wu. Jian Ri: cuando uno es pobre y bajo. Shu Zhong: diferente de la multitud. Gui Lai: después de volverse noble. Wu: entender. Xi: raro. Yao Ren: invitar a alguien. Fu: aplicar. Xiang Fen: cosméticos. Luo Yi: ropa de seda. Jun Chong: el favor del monarca. Yi: más. Jiao Tai: postura coqueta. Lian: amor y cuidado. Wu Shi Fei: sin derecho o mal. Huan Sha Ban: compañeros que lavaban hilo juntos. Chi Xie: decir. Lin Jia Zi: la chica de al lado. Xiao Pin: imitar el fruncir el ceño. An Ke Xi: ¿cómo se puede esperar?",
+        "ar": "يَان سِي: الوجه الجميل. نينغ: كيف يمكن. وي: منخفض. يُه سي: يشير إلى جدول روويه في شاوكسينغ، تشجيانغ. وُه غونغ: يشير إلى قصر دولة وو. جيان رِي: عندما يكون الشخص فقيرًا ووضيعًا. شُه جونغ: مختلف عن الجمهور. غوي لاي: بعد أن يصبح نبيلًا. وو: يفهم. شي: نادر. ياو رِين: يدعو شخصًا ما. فو: يطبق. شيانغ فين: مستحضرات التجميل. لُوه يي: ملابس حريرية. جون تشونغ: عطف الملك. يي: أكثر. جياو تاي: وضعية مت кокетливая. ليان: الحب والرعاية. وو شيه في: بدون حق أو خطأ. هوان شا بان: رفاق كانوا يغسلون الخيط معًا. تشي شي: يقول. لين جيا زي: الفتاة المجاورة. شياو بين: يقلد العبوس. أن كي شي: كيف يمكن أن يأمل؟"
+    },
+    "appreciations": {
+        "zh": "《西施咏》通过西施由贫贱到富贵的转变，揭示了世态炎凉和人情冷暖的主题。诗人运用对比手法，将西施前后身份的巨大反差展现得淋漓尽致。艺术上，诗歌语言简练，意象鲜明，具有很强的艺术感染力。情感上，诗人既表达了对西施命运的感慨，也隐含了对世风的不满。在文学史上，这首诗以其深刻的社会批判意义和独特的艺术表现，成为唐代咏史抒情的佳作。",
+        "en": "The poem 'Lament for Xi Shi' explores the theme of the fickleness of human relationships and the coldness of the world through the transformation of Xi Shi from poverty to nobility. The poet employs a contrastive technique to vividly depict the drastic change in Xi Shi's status. Artistically, the poem is concise in language and vivid in imagery, possessing strong artistic appeal. Emotionally, the poet expresses both a sense of melancholy over Xi Shi's fate and implicit dissatisfaction with societal norms. In the history of literature, this poem stands out as a masterpiece of Tang Dynasty poetry for its profound social critique and unique artistic expression.",
+        "ja": "《西施嘆》は、西施が貧賤から富贵へと変わりゆく過程を通じて、世態の炎涼と人情の冷暖を主題としている。詩人は対比の手法を用い、西施の前後の身分の大きな反差を鮮明に描き出している。芸術的には、詩の言葉は簡潔で、意象は鮮明であり、強い芸術的感染力を持っている。感情面では、詩人は西施の運命に対する感慨と、世風に対する不満を暗示している。文学史上、この詩はその深い社会批判の意味と独特な芸術表現によって、唐代の史詠抒情の傑作として位置づけられている。",
+        "es": "El poema 'Elegía a Xi Shi' explora el tema de la volubilidad de las relaciones humanas y la frialdad del mundo a través de la transformación de Xi Shi de la pobreza a la nobleza. El poeta utiliza una técnica de contraste para representar vívidamente el cambio drástico en el estatus de Xi Shi. Artísticamente, el poema es conciso en su lenguaje y nítido en sus imágenes, poseyendo una fuerte apelación artística. Emocionalmente, el poeta expresa tanto una melancolía por el destino de Xi Shi como una insatisfacción implícita con las normas sociales. En la historia de la literatura, este poema se destaca como una obra maestra de la poesía de la dinastía Tang por su profunda crítica social y su expresión artística única.",
+        "ar": "القصيدة 'رثاء شي شي' تكتشف موضوع تقلب العلاقات الإنسانية وبرود العالم من خلال تحول شي شي من الفقر إلى النبل. يستخدم الشاعر تقنية المقارنة ليعرض بوضوح التغيير الكبير في مكانة شي شي. فنياً، القصيدة موجزة في لغتها وواضحة في صورها، ولها جاذبية فنية قوية. عاطفياً، يعبر الشاعر عن الحزن على مصير شي شي والارتياب الضمني من التقاليد الاجتماعية. في تاريخ الأدب، تبرز هذه القصيدة كواحدة من روائع الشعر في عهد التانغ لاسيما لانتقادها الاجتماعي العميق وتعبيرها الفني المميز."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "艳丽的姿色为天下所重，西施怎能长久卑微？\n早晨还是越溪边的女子，傍晚就成了吴宫的妃子。\n贫贱时哪有什么与众不同，显贵后才觉她稀世难寻。\n别人为她搽脂敷粉，她不用自己穿罗衣。\n君王的宠爱使她更加娇媚，君王的怜爱让她无是无非。\n当初一起浣纱的同伴，没能和她同车而归。\n奉劝邻家的女子，效仿西施皱眉怎能企及？",
+            "en": "Her beauty is esteemed by all the world, how could Xi Shi remain obscure for long?\nIn the morning she was a girl by the Yue Stream, by evening a consort in the Wu palace.\nIn her lowly days, she seemed no different from others, but in her exalted state, her rarity was realized.\nOthers apply her makeup, she does not dress herself in silks.\nThe king's favor adds to her charm, his affection knows no right or wrong.\nHer companions from the days of washing silk, none could return home in the same carriage.\nI advise the neighboring girl, to imitate Xi Shi's frown is but a vain hope.",
+            "ja": "艶やかな色は天下に重く、西施はどうして長く卑しいままか。\n朝は越の渓辺の女、夕べは呉の宮の妃となる。\n賤しい日には群れと異ならず、貴くなって初めて珍しさを知る。\n人に香粉を塗らせ、自らは綾衣を着せず。\n君の寵愛で更に嬌態を増し、君の憐れみには是も非もなし。\n当時の紡ぎ仲間、車に同乗して帰ること能わず。\n隣家の娘に告げよ、顰蹙を真似ても希むべからず。",
+            "es": "Su belleza es valorada en todo el mundo, ¿cómo podría Xi Shi seguir siendo humilde por mucho tiempo?\nPor la mañana era una joven del arroyo de Yue, por la noche se convirtió en una concubina del palacio de Wu.\nEn su día humilde, ¿cómo podría ser diferente de la multitud? Solo al ascender se reconoció su rareza.\nOtras personas le aplican polvo de perfume, ella no se viste sola con ropas de seda.\nEl favor del rey aumenta su coquetería, su cariño no distingue entre el bien y el mal.\nSus compañeras de lavado de seda en ese entonces, ninguna pudo regresar en el mismo carruaje.\nLe aconsejo a la hija del vecino, ¿cómo podría esperar imitar el ceño fruncido de Xi Shi?",
+            "ar": "جمالها مُقدر في كل العالم، كيف يمكن لـ\"شى شي\" أن تظل تافهة لفترة طويلة؟\nفي الصباح كانت فتاة بجانب نهر يوي، وفي المساء أصبحت زوجة في قصر وو.\nفي أيام فقرها، لم تكن تختلف عن الآخرين، وعندما أصبحت غنية أدركوا ندرتها.\nآخرون يضعون المساحيق لها، لا ترتدي الملابس الحريرية بنفسها.\nفضل الملك يزيد من أنوثتها، ورحمته لا تعرف الحق والباطل.\nرفيقاتها في غسل الحرير آنذاك، لم يكن يمكنهن العودة في نفس العربة.\nأنا أنصح ابنة الجيران، كيف يمكن أن تأمل في تقليد العبوس لـ\"شى شي\"؟"
+        },
+        "title_translation": {
+            "zh": "西施咏",
+            "en": "Ode to Xi Shi",
+            "ja": "西施吟",
+            "es": "Oda a Xi Shi",
+            "ar": "قصيدة في مدح شى شي"
+        }
+    },
+    "genre": {
+        "name": "五言古诗",
+        "code": "wu_yan_gu_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "艳色天下重，西施宁久微。\n朝为越溪女，暮作吴宫妃。\n贱日岂殊众，贵来方悟稀。\n邀人傅香粉，不自著罗衣。\n君宠益娇态，君怜无是非。\n当时浣纱伴，莫得同车归。\n持谢邻家子，效颦安可希。",
+    "title_pinyin": "xī shī yǒng",
+    "pinyin": "yàn sè tiān xià zhòng，xī shī níng jiǔ wēi。\ncháo wèi yuè xī nǚ，mù zuò wú gōng fēi。\njiàn rì qǐ shū zhòng，guì lái fāng wù xī。\nyāo rén fù xiāng fěn，bù zì zhù luó yī。\njūn chǒng yì jiāo tài，jūn lián wú shì fēi。\ndāng shí huàn shā bàn，mò dé tóng chē guī。\nchí xiè lín jiā zi，xiào pín ān kě xī。"
+}

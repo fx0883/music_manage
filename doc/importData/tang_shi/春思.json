@@ -1,0 +1,57 @@
+{
+    "title": "春思",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，唐朝著名诗人，被后人誉为“诗仙”。他的诗作以豪放、奔放、想象丰富和语言优美著称，代表作有《将进酒》、《庐山谣》、《望庐山瀑布》等。李白的诗歌对后世影响深远，是中国文学史上不可或缺的重要人物。",
+            "en": "Li Bai (701-762), styled Taibai and also known as the Hermit of Qinglian, was a renowned poet of the Tang Dynasty, often revered as the 'Poet Immortal'. His poetry is celebrated for its boldness, exuberance, rich imagination, and exquisite language. Some of his famous works include 'To the Wine', 'Song of the Lushan', and 'Viewing the Waterfall at Lushan'. Li Bai's poetry has had a profound influence on later generations and he is an indispensable figure in the history of Chinese literature.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐代の著名な詩人で、「詩仙」と称賛される。彼の詩は豪放、奔放、豊かな想像力と美しい言葉遣いで知られ、代表作に「将進酒」、「廬山謡」、「望廬山瀑布」などがある。李白の詩は後世に大きな影響を与え、中国文学史上欠かせない重要人物である。",
+            "es": "Li Bai (701-762), también conocido como Taibai y el Ermitaño de Qinglian, fue un destacado poeta de la dinastía Tang, a menudo venerado como el 'Poeta Inmortal'. Su poesía es famosa por su audacia, exuberancia, rica imaginación y lenguaje exquisito. Algunas de sus obras más famosas incluyen 'A la Vino', 'Canción de Lushan' y 'Viendo la Catarata de Lushan'. La poesía de Li Bai ha tenido una profunda influencia en las generaciones posteriores y es una figura indispensable en la historia de la literatura china.",
+            "ar": "لي بái (701-762)، المعروف أيضًا بـ تاي باي و راهب تشينغليان، كان شاعرًا بارزًا في عهد تانغ، يُعرف غالبًا بـ 'الشاعر الخالد'. اشتهرت شاعريته بجرأتها، ازدهارها، خيالها الغني ولغتها الراقية. من أشهر أعماله 'إلى الخمر'، 'أغنية لوشان' و 'مشاهدة شلال لوشان'. أثرت شعر لي باي تأثيرًا عميقًا على الأجيال اللاحقة وهو شخصية لا غنى عنها في تاريخ الأدب الصيني."
+        }
+    },
+    "annotations": {
+        "zh": "燕草如碧丝：燕地的草像碧绿色的丝线。秦桑低绿枝：秦地的桑树低垂着绿色的枝条。当君怀归日：当你怀念家乡的时候。是妾断肠时：正是我肝肠寸断的时候。春风不相识：春风啊，你我素不相识。何事入罗帏：为何要吹进我的罗帐呢？\n语法说明：此诗采用了对比和拟人手法，增强了情感表达。典故解释：无特定典故，但‘断肠’常用于形容极度悲伤。意象分析：燕草、秦桑象征两地相思，春风象征外来的干扰。历史背景：唐代边塞诗常表达征人思乡之情。",
+        "en": "Yan grass like green silk: The grass in Yan region resembles green silk threads. Qin mulberry bends green branches: The mulberry trees in Qin region bend with green branches. When you yearn to return: When you long to return home. It's when I'm heartbroken: It's the time when I am deeply sorrowful. Spring breeze, we don't know each other: Spring breeze, we are strangers. Why enter the silk curtain: Why do you blow into my silk curtain? \nGrammar notes: The poem uses contrast and personification to enhance emotional expression. Allusion explanation: No specific allusion, but 'heartbroken' is often used to describe extreme sorrow. Imagery analysis: Yan grass and Qin mulberry symbolize longing between two places, and the spring breeze symbolizes external disturbance. Historical background: Tang Dynasty frontier poems often expressed the homesickness of soldiers.",
+        "ja": "燕草は碧糸の如し：燕の地の草は碧緑の糸のようである。秦桑は緑枝を低く：秦の地の桑は緑の枝を低く垂れている。君が帰りを思う日：君が故郷に帰りたいと思う日。妾は断腸の時：私が心を痛める時である。春風は知らぬ間に：春風よ、私たちは知り合っていない。何故に羅帷に入る：どうして私の羅帷に入ってくるのか？\n文法説明：この詩は対比と擬人化の手法を使用し、感情表現を強化している。典故説明：特定の典故はないが、「断腸」は極度の悲しみを表す言葉としてよく使われる。意象分析：燕草と秦桑は二つの地の相思を象徴し、春風は外部からの干渉を象徴する。歴史背景：唐代の辺塞詩はよく兵士の故郷への想いを表現していた。",
+        "es": "Hierba de Yan como hilos verdes: La hierba en la región de Yan es como hilos de color verde esmeralda. Moreras de Qin con ramas verdes bajas: Las moreras en la región de Qin tienen ramas verdes que se inclinan. Cuando tú anhelas regresar: Cuando tú sientes nostalgia de tu hogar. Es cuando yo me desgarro el corazón: Es cuando yo siento un profundo dolor. Viento de primavera, no nos conocemos: Viento de primavera, nosotros no nos conocemos. ¿Por qué entras en mi cortina de seda?: ¿Por qué entras en mi cortina de seda? \nNotas gramaticales: El poema utiliza el contraste y la personificación para intensificar la expresión emocional. Explicación de alusiones: No hay alusiones específicas, pero 'desgarrar el corazón' se usa a menudo para describir una profunda tristeza. Análisis de imágenes: La hierba de Yan y las moreras de Qin simbolizan el anhelo entre dos lugares, y el viento de primavera simboliza la interferencia externa. Contexto histórico: Los poemas de la frontera durante la dinastía Tang a menudo expresaban la nostalgia de los soldados por su hogar.",
+        "ar": "حشيش يان كالخيوط الزرقاء: حشيش منطقة يان يشبه الخيوط الزرقاء. توت قين ذو فروع خضراء منخفضة: أشجار التوت في منطقة قين تملك فروعاً خضراء منحنية. عندما تشتاق للعودة: عندما تشتاق للعودة إلى الوطن. ذلك هو وقت انقطاع كبدي: ذلك هو وقت شعوري بالحزن الشديد. رياح الربيع، لا نعرف بعضنا: رياح الربيع، نحن غرباء. لماذا تدخل إلى ستاري الحريري؟: لماذا تدخل إلى ستاري الحريري؟ \nملاحظات نحوية: يستخدم القصيدة المقارنة والتشخيص لتعزيز التعبير العاطفي. شرح الإشارات: لا توجد إشارات محددة، ولكن 'انقطاع الكبد' يستخدم غالباً لوصف الحزن الشديد. تحليل الصور: حشيش يان وتوت قين يرمزان إلى الشوق بين مكانين، ورياح الربيع ترمز إلى التدخل الخارجي. الخلفية التاريخية: قصائد الحدود في عهد التانغ غالباً ما تعبر عن شوق الجنود لأوطانهم."
+    },
+    "appreciations": {
+        "zh": "《春思》这首诗以春景为背景，表达了思妇对远征丈夫的深切思念和哀愁。主题思想是通过对春景的描绘，抒发思妇的孤独与期盼。写作特色上，诗人运用对比手法，将燕地的碧草与秦地的绿桑相对照，突出了两地相隔的遥远。艺术成就方面，诗歌以简洁的语言和生动的意象，营造出强烈的情感氛围，具有较高的艺术价值。情感分析上，诗中‘断肠’一词直接表达了思妇的痛苦心情，‘春风不相识’则进一步强化了她的孤独感。影响意义上，这首诗在唐代闺怨诗中占有重要地位，对后世同类题材的创作产生了深远影响。",
+        "en": "The poem 'Spring Thoughts' sets its backdrop in the spring scenery, expressing a woman's deep longing and sorrow for her husband away at war. The main theme revolves around the depiction of spring scenery to convey the woman's loneliness and anticipation. In terms of writing style, the poet employs a contrast technique, juxtaposing the green grass of Yan with the low-hanging branches of mulberry trees in Qin, highlighting the vast distance between the two places. Artistically, the poem is valued for its concise language and vivid imagery, creating a strong emotional atmosphere. Emotionally, the word 'heartbroken' directly conveys the woman's pain, while 'the spring breeze, an stranger' further emphasizes her solitude. Historically, this poem holds a significant place in Tang Dynasty's 'women's lament' poetry, influencing later works in similar themes.",
+        "ja": "《春思》は春の景色を背景に、遠征中の夫に対する深い思慕と悲哀を表現した詩です。主題思想は、春の景色を通じて、思婦の孤独と期待を抒発することにあります。表現手法としては、燕の碧草と秦の緑桑を対照させ、两地の遠隔を強調しています。芸術的成就としては、簡潔な言語と生き生きとしたイメージで、強い感情の雰囲気を醸し出し、高い芸術価値を持っています。感情分析では、「断腸」の語が思婦の苦悩を直接的に表し、「春風不相識」が彼女の孤独感をさらに強調しています。影響意義としては、唐代の閨怨詩において重要な地位を占め、後世の同様の題材の創作に深い影響を与えました。",
+        "es": "El poema 'Pensamientos de primavera' utiliza el paisaje primaveral como fondo para expresar el profundo anhelo y tristeza de una mujer por su esposo ausente en la guerra. El tema principal se centra en la descripción del paisaje de primavera para transmitir la soledad y la esperanza de la mujer. En cuanto al estilo de escritura, el poeta emplea la técnica del contraste, comparando la hierba verde de Yan con las ramas bajas de los moreras en Qin, resaltando la gran distancia entre ambos lugares. Artísticamente, el poema es valioso por su lenguaje conciso y sus imágenes vívidas, creando una atmósfera emocional intensa. En el análisis emocional, la palabra 'rotura de corazón' expresa directamente el dolor de la mujer, mientras que 'el viento de primavera, un desconocido' refuerza aún más su soledad. En términos de influencia, este poema ocupa un lugar importante en la poesía de lamentaciones femeninas de la dinastía Tang, teniendo un impacto profundo en las obras de temas similares en épocas posteriores.",
+        "ar": "القصيدة 'أفكار الربيع' تستخدم مشهد الربيع كخلفية للتعبير عن الشوق العميق والأسى الذي تشعر به امرأة لزوجها الغائب في الحرب. الفكرة الرئيسية تدور حول وصف مشهد الربيع للتعبير عن وحدة المرأة وتطلعها. فيما يتعلق بالنمط الكتابي، يستخدم الشاعر تقنية المقارنة، محاولاً مقارنة العشب الأخضر في يان بالأغصان المنخفضة لشجرة التوت في تشين، مما يبرز البعد الكبير بين المكانين. من الناحية الفنية، القصيدة ذات قيمة عالية بسبب لغتها المختصرة وتصاويرها الحية، مما يخلق جواً عاطفياً قوياً. في تحليل العواطف، كلمة 'تمزق القلب' تعبر بشكل مباشر عن ألم المرأة، بينما 'رياح الربيع، غير معروفة' تعزز من شعورها بالوحدة. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في قصائد الشكوى النسائية في عهد التانغ، ولها تأثير عميق على الأعمال ذات المواضيع المشابهة في العصور اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "燕地的草如同碧绿的丝线，秦地的桑树低垂着绿枝。当你怀念归家之日，正是我肝肠寸断之时。春风啊，你我素不相识，为何要进入我的罗帐呢？",
+            "en": "The grass in Yan is like green silk threads, the mulberry trees in Qin bow with green branches. When you long to return home, it is the time my heart breaks. O spring breeze, we are strangers, why do you enter my silken curtains?",
+            "ja": "燕の草は碧い糸のよう、秦の桑は緑の枝を垂れる。君が帰りを思う日、それが妾の断腸の時。春風、あなたは知らない者、どうして羅帳に入るのか。",
+            "es": "La hierba en Yan es como hilos de esmeralda, los moreras en Qin bajan sus ramas verdes. Cuando tú anhelas regresar, es cuando mi corazón se quiebra. Oh brisa de primavera, no nos conocemos, ¿por qué entras en mi cortina de seda?",
+            "ar": "النبات في يان كالخيوط الزرقاء، والتفاح في تشين يحني أغصانه الخضراء. عندما تتوق للعودة، يكون ذلك وقت تقطع فيه أمعائي. يا رياح الربيع، نحن غرباء، لماذا تدخل إلى ستاري الحريري؟"
+        },
+        "title_translation": {
+            "zh": "春思",
+            "en": "Spring Thoughts",
+            "ja": "春の思",
+            "es": "Pensamientos de Primavera",
+            "ar": "أفكار الربيع"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "燕草如碧丝，秦桑低绿枝。\n当君怀归日，是妾断肠时。\n春风不相识，何事入罗帏。",
+    "title_pinyin": "chūn sī",
+    "pinyin": "yàn cǎo rú bì sī，qín sāng dī lǜ zhī。\ndāng jūn huái guī rì，shì qiè duàn cháng shí。\nchūn fēng bù xiāng shí，hé shì rù luó wéi。"
+}

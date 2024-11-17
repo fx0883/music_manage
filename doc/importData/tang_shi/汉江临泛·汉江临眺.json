@@ -1,0 +1,57 @@
+{
+    "title": "汉江临泛·汉江临眺",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（701年－761年），字摩诘，号摩诘居士，唐朝著名诗人、画家，与孟浩然并称“王孟”，有“诗佛”之称。他的诗风清新淡雅，擅长描绘山水田园风光，尤其以五言诗见长。王维不仅诗艺高超，还精通音乐、书法、绘画，被誉为“诗中有画，画中有诗”。晚年隐居蓝田辋川，笃信佛教。代表作有《山居秋暝》、《鸟鸣涧》等。",
+            "en": "Wang Wei (701-761), styled Mojie and also known as Mojie居士, was a renowned poet and painter of the Tang Dynasty. He was often mentioned alongside Meng Haoran as 'Wang Meng' and was referred to as the 'Poetic Buddha'. His poetry is characterized by its fresh and elegant style, particularly skilled in depicting landscapes and pastoral scenes, with a special prowess in five-character verses. Wang Wei was not only adept in poetry but also excelled in music, calligraphy, and painting, earning the accolade 'poetry within painting, painting within poetry'. In his later years, he retired to the Lantian Wangchuan area and devoutly practiced Buddhism. His notable works include 'Mountain Dwelling in Autumn Twilight' and 'Birdsong in the Ravine'.",
+            "ja": "王維（701年－761年）、字は摩詰、号は摩詰居士、唐代の著名な詩人、画家。孟浩然と並び「王孟」と称され、「詩仏」とも呼ばれる。彼の詩風は清新で淡雅で、山水田園風景の描写に長けており、特に五言詩に優れていた。王維は詩だけでなく音楽、書道、絵画にも精通し、「詩中有画、画中有詩」と讃えられた。晩年は藍田の輞川に隠棲し、仏教を篤く信仰した。代表作に『山居秋暝』『鳥鳴渓』などがある。",
+            "es": "Wang Wei (701-761), también conocido como Mojie y apodado Mojie居士, fue un destacado poeta y pintor de la dinastía Tang. Se le menciona a menudo junto con Meng Haoran como 'Wang Meng' y se le conoce como el 'Buda Poético'. Su poesía se caracteriza por un estilo fresco y elegante, siendo especialmente hábil en la descripción de paisajes y escenas campestres, con una maestría particular en versos de cinco caracteres. Wang Wei no solo era experto en poesía, sino que también destacaba en música, caligrafía y pintura, ganándose elogios como 'poesía dentro de la pintura, pintura dentro de la poesía'. En sus últimos años, se retiró a la región de Lantian Wangchuan y practicó fervientemente el budismo. Entre sus obras más destacadas se encuentran 'Atardecer en la Vivienda de la Montaña' y 'Canto de Pájaros en el Barranco'.",
+            "ar": "وانغ وي (701-761)، المعروف أيضًا باسم مو جييه ويعرف بـ مو جييه لوشي، كان شاعرًا وفنانًا مشهورًا في عهد أسرة تانغ. غالبًا ما يُذكر جنبًا إلى جنب مع مينغ هواوران باسم 'وانغ مينغ' ويُعرف بـ 'بوذا الشعر'. يتميز شعره بأسلوبه العصري والبسيط، ويبرع في تصوير المناظر الطبيعية والريفية، وخاصة في الأشعار ذات الخمسة حروف. لم يكن وانغ وي ماهرًا في الشعر فقط، بل كان بارعًا أيضًا في الموسيقى والخط والرسم، حيث حصل على لقب 'الشعر في الرسم، والرسم في الشعر'. في سنواته الأخيرة، اعتزل في منطقة لانتشان وانغتشوان وأصبح متدينًا بالبوذية. من بين أعماله البارزة 'الليل الخريفي في منزل الجبل' و'غناء الطيور في الوادي'."
+        }
+    },
+    "annotations": {
+        "zh": "楚塞：指古代楚国边境。三湘：指湖南的湘江、资江、沅江。荆门：山名，在湖北省。九派：指长江的九条支流。江流天地外：形容江水浩渺，流向远方。山色有无中：山色若隐若现。郡邑浮前浦：城邑仿佛漂浮在水面上。波澜动远空：波涛动荡，远空也仿佛在动。襄阳：地名，今湖北襄阳。好风日：美好的风光。留醉与山翁：愿意与山翁一起饮酒陶醉。山翁：指山简，晋代名士。",
+        "en": "Chu Sai: refers to the border of the ancient state of Chu. Sanxiang: refers to the Xiang River, Zijiang River, and Yuan River in Hunan. Jingmen: a mountain name in Hubei Province. Jiupai: refers to the nine tributaries of the Yangtze River. Jiang Liu Tian Di Wai: describes the vast river flowing far beyond the horizon. Shan Se You Wu Zhong: the mountain scenery appears intermittently. Jun Yi Fu Qian Pu: the towns seem to float on the water. Bo Lan Dong Yuan Kong: the waves surge, making the distant sky seem to move. Xiangyang: a place name, now Xiangyang in Hubei. Hao Feng Ri: beautiful scenery. Liu Zui Yu Shan Weng: willing to get drunk with Shan Weng. Shan Weng: refers to Shan Jian, a famous scholar of the Jin Dynasty.",
+        "ja": "楚塞：古代楚の国境を指す。三湘：湖南省の湘江、資江、沅江を指す。荊門：湖北省の山名。九派：長江の九つの支流を指す。江流天地外：江の流れが遠くまで続く様子を形容する。山色有无中：山の色がはっきりしない様子。郡邑浮前浦：町が水の上に浮かんでいるようだ。波澜動遠空：波が動くと遠くの空も動いているようだ。襄陽：湖北省の地名、現在の襄陽。好風日：美しい風景。留醉与山翁：山翁と一緒に酔い痴れること。山翁：晋代の名士、山簡を指す。",
+        "es": "Chu Sai: se refiere a la frontera del antiguo estado de Chu. Sanxiang: se refiere a los ríos Xiang, Zijiang y Yuan en Hunan. Jingmen: nombre de una montaña en la provincia de Hubei. Jiupai: se refiere a los nueve afluentes del río Yangtze. Jiang Liu Tian Di Wai: describe cómo el río fluye vastamente más allá del horizonte. Shan Se You Wu Zhong: la apariencia intermitente de las montañas. Jun Yi Fu Qian Pu: las ciudades parecen flotar sobre el agua. Bo Lan Dong Yuan Kong: las olas se agitan, haciendo que el cielo lejano parezca moverse. Xiangyang: nombre de un lugar, ahora Xiangyang en Hubei. Hao Feng Ri: hermosas vistas. Liu Zui Yu Shan Weng: dispuesto a embriagarse con Shan Weng. Shan Weng: se refiere a Shan Jian, un erudito famoso de la dinastía Jin.",
+        "ar": "Chu Sai: يشير إلى حدود الدولة القديمة لـ تشو. Sanxiang: يشير إلى أنهار شيانغ، زي جيانغ ويوان في هونان. Jingmen: اسم جبل في مقاطعة هوبي. Jiupai: يشير إلى التسع فروع لنهر اليانغتسي. Jiang Liu Tian Di Wai: يصف كيف يتدفق النهر باتساع بعيداً عن الأفق. Shan Se You Wu Zhong: مظهر الجبال يتقطع. Jun Yi Fu Qian Pu: تبدو المدن كأنها تطفو على الماء. Bo Lan Dong Yuan Kong: تتلاطم الأمواج، مما يجعل السماء البعيدة تبدو وكأنها تتحرك. Xiangyang: اسم مكان، الآن شيانغيانغ في هوبي. Hao Feng Ri: مناظر جميلة. Liu Zui Yu Shan Weng: مستعد للإسكار مع Shan Weng. Shan Weng: يشير إلى Shan Jian، عالم شهير في عهد جين."
+    },
+    "appreciations": {
+        "zh": "这首诗描绘了汉江的壮丽景色，表达了诗人对自然美景的热爱和对隐逸生活的向往。主题思想是赞美自然，追求心灵的宁静。写作特色上，诗人运用了虚实结合的手法，通过‘江流天地外，山色有无中’等诗句，将实景与想象相结合，营造出开阔的意境。艺术成就方面，诗中‘郡邑浮前浦，波澜动远空’两句，动静结合，气势磅礴，展现了高超的艺术表现力。情感分析上，诗人通过对汉江景色的描绘，抒发了对美好生活的向往和对自然山水的热爱。影响意义上，此诗作为唐代山水诗的代表作之一，对后世文学创作产生了深远影响。",
+        "en": "This poem vividly描绘s the magnificent scenery of the Han River, expressing the poet's love for natural beauty and his longing for a reclusive life. The theme centers on the praise of nature and the pursuit of inner tranquility. In terms of writing style, the poet employs a combination of reality and imagination, as seen in lines like 'The river flows beyond the heavens, the mountain hues fade in the mist,' creating a vast and open atmosphere. Artistically, the lines 'Towns float on the riverbank, waves stir the distant sky' blend motion and stillness, demonstrating remarkable artistic prowess. Emotionally, the poet conveys his yearning for a better life and his deep love for natural landscapes. Historically, this poem stands as a representative work of Tang Dynasty landscape poetry, exerting a profound influence on later literary creations.",
+        "ja": "この詩は漢江の壮大な景色を描き出し、詩人が自然の美しさに対する愛と隠遁生活への憧れを表現しています。主題思想は自然の賛美と心の静寂の追求にあります。表現手法としては、実景と想像を結合する手法を用い、「江流天地外、山色有無中」などの詩句を通じて、開放的な境地を創り出しています。芸術的成就としては、「郡邑浮前浦、波澜動遠空」の二句で、動と静を融合させ、壮大な气势を示しています。感情分析では、漢江の景色を通じて、美しい生活への憧れと自然山水への愛を抒発しています。影響意義としては、唐代山水詩の代表作として、後世の文学創作に深い影響を与えました。",
+        "es": "Este poema retrata la impresionante belleza del río Han, expresando el amor del poeta por la naturaleza y su deseo de una vida retirada. El tema principal es la alabanza a la naturaleza y la búsqueda de la tranquilidad interior. En cuanto a la técnica literaria, el poeta combina lo real con lo imaginario, como se observa en versos como 'El río fluye más allá del cielo, los colores de las montañas se desvanecen en el horizonte', creando una atmósfera amplia. Artísticamente, los versos 'Las ciudades flotan en la ribera, las olas mueven el cielo lejano' mezclan lo estático con lo dinámico, mostrando una gran habilidad artística. En el análisis emocional, el poeta expresa su anhelo por una vida mejor y su amor por los paisajes naturales. En términos de impacto, este poema es una obra representativa de la poesía paisajística de la dinastía Tang, ejerciendo una influencia profunda en la creación literaria posterior.",
+        "ar": "يصور هذا الشعر الجمال العظيم لنهر هان، معربًا عن حب الشاعر للطبيعة وتطلعه للحياة المنعزلة. يركز الموضوع الرئيسي على مدح الطبيعة وطلب السكون الداخلي. من حيث الأسلوب الأدبي، يستخدم الشاعر مزيجًا من الواقع والخيال، كما هو واضح في أبيات مثل 'النهر يجري خارج السماء، ألوان الجبال تتلاشى في الضباب'، مما يخلق جوًا واسعًا. فنيًا، الأبيات 'المدن تطفو على الضفة، الأمواج تهز السماء البعيدة' تجمع بين الثبات والحركة، مما يظهر مهارة فنية عالية. في التحليل العاطفي، يعبر الشاعر عن تطلعه للحياة الأفضل وحبه للمناظر الطبيعية. من حيث التأثير، يعتبر هذا الشعر عملًا يمثل شعر المناظر الطبيعية في عهد التانغ، مارس تأثيرًا عميقًا على الإبداع الأدبي اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "楚地边塞连接三湘，荆门山前九派汇合。\n江水奔流至天地之外，山色隐现于有无之间。\n城邑仿佛漂浮在前面的水面上，波澜摇动远方的天空。\n襄阳的风光多么美好，愿与山翁共醉于此。",
+            "en": "The Chu border meets the Three Xiang, the Jing Gate unites the Nine Tributaries.\nRivers flow beyond the earth and sky, mountain hues fade in the mist.\nTowns seem to float on the forebay, waves stir the distant sky.\nXiangyang's scenery is so fine, let's stay and drink with the mountain sage.",
+            "ja": "楚の塞は三湘に接し、荊門は九派に通ず。\n江の流れは天地の外に、山の色は有無の中に。\n郡邑は前の浦に浮かび、波濤は遠き空を揺る。\n襄陽の好風日、山翁と共に醉うべし。",
+            "es": "La frontera de Chu se une a las Tres Xiang, la Puerta de Jing conecta las Nueve Ramas.\nEl río fluye más allá del cielo y la tierra, los colores de las montañas se desvanecen en lo visible e invisible.\nLas ciudades parecen flotar en la bahía delantera, las olas mueven el cielo lejano.\nEl hermoso paisaje de Xiangyang, quedémonos a embriagarnos con el anciano de la montaña.",
+            "ar": "تحدها حدود chu بثلاثة xiang، وتتصل بوابات jing بتسع فروع.\nتتدفق الأنهار خارج السماء والأرض، وتتلاشى ألوان الجبال في ما بين الظهور والاختفاء.\nتبدو المدن كأنها تطفو على الماء الأمامي، وتتحرك الأمواج في السماء البعيدة.\nجمال مناظر شيانغيانغ، دعونا نبقى هنا ونشرب مع رجل الجبل."
+        },
+        "title_translation": {
+            "zh": "汉江临泛·汉江临眺",
+            "en": "Gazing upon the Han River",
+            "ja": "漢江臨眺",
+            "es": "Contemplando el Río Han",
+            "ar": "النظر إلى نهر هان"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "楚塞三湘接，荆门九派通。\n江流天地外，山色有无中。\n郡邑浮前浦，波澜动远空。\n襄阳好风日，留醉与山翁。",
+    "title_pinyin": "hàn jiāng lín fàn·hàn jiāng lín tiào",
+    "pinyin": "chǔ sāi sān xiāng jiē，jīng mén jiǔ pài tōng。\njiāng liú tiān dì wài，shān sè yǒu wú zhōng。\njùn yì fú qián pǔ，bō lán dòng yuǎn kōng。\nxiāng yáng hǎo fēng rì，liú zuì yǔ shān wēng。"
+}

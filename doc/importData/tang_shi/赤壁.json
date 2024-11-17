@@ -1,0 +1,57 @@
+{
+    "title": "赤壁",
+    "difficulty": 2,
+    "author": {
+        "name": "杜牧",
+        "name_pinyin": "dù mù",
+        "image": "杜牧.jpg",
+        "introduction": {
+            "zh": "杜牧（803年－852年），字牧之，号樊川居士，唐代著名诗人、文学家。他的诗歌内容广泛，风格清新俊逸，尤以七言绝句见长，与李商隐并称“小李杜”。《赤壁》是其代表作之一，通过对赤壁之战的感慨，表达了对历史兴衰的深刻思考。",
+            "en": "Du Mu (803-852), styled Muzhi and also known as Fan Chuan居士, was a renowned poet and litterateur of the Tang Dynasty. His poetry covers a wide range of topics and is characterized by a fresh and elegant style, particularly excelling in seven-character quatrains. He is often mentioned alongside Li Shangyin as the 'Little Li Du'. 'Chibi' is one of his masterpieces, reflecting on the Battle of Red Cliffs and expressing profound thoughts on the rise and fall of history.",
+            "ja": "杜牧（803年－852年）、字は牧之、号は樊川居士、唐代の著名な詩人、文学者。彼の詩は内容が広範で、スタイルは清新で俊逸であり、特に七言絶句に長けている。李商隠と共に「小李杜」と称される。《赤壁》は彼の代表作の一つで、赤壁の戦いに対する感慨を述べ、歴史の興亡に対する深い思考を表している。",
+            "es": "Du Mu (803-852), conocido por su nombre de cortesía Muzhi y también como Fan Chuan居士, fue un destacado poeta y literato de la dinastía Tang. Su poesía abarca una amplia gama de temas y se caracteriza por un estilo fresco y elegante, destacando especialmente en los cuartetos de siete caracteres. A menudo se le menciona junto a Li Shangyin como el 'Pequeño Li Du'. 'Chibi' es una de sus obras maestras, que reflexiona sobre la Batalla de las Murallas Rojas y expresa pensamientos profundos sobre el auge y caída de la historia.",
+            "ar": "دو مو (803-852)، المعروف بلقبه مو زي وايضاً بفان تشوان居士، كان شاعرًا ومفكرًا مشهورًا في عهد أسرة تانغ. قصائده تغطي مجموعة واسعة من المواضيع وتتميز بأسلوبها العصري والزخرفي، وخاصة في الأرباع السباعية. غالبًا ما يُذكر جنبًا إلى جنب مع لي شانغيين كـ 'الصغير لي دو'. 'تشيبي' هي واحدة من روائعه، حيث يعبر عن تأملاته في معركة تشيبي ويكشف عن تفكير عميق في صعود وسقوط التاريخ."
+        }
+    },
+    "annotations": {
+        "zh": "折戟：折断的戟，古代兵器。沉沙：沉没在沙中。铁未销：铁器尚未锈蚀。自将：自己拿来。磨洗：磨光洗净。认前朝：辨认出是前朝的遗物。东风：春风，特指赤壁之战时的东风。周郎：指周瑜。便：便利，帮助。铜雀：铜雀台，曹操所建。春深：春天深处。锁二乔：指二乔（大乔和小乔）被囚禁。此诗通过描写赤壁之战的遗迹，抒发了作者对历史兴衰的感慨。",
+        "en": "Broken halberd: A broken halberd, an ancient weapon. Buried in sand: Sunken in the sand. Iron not rusted: The iron has not corroded. Self-taken: Taken by oneself. Polished and washed: Cleaned and polished. Recognize the former dynasty: Identify it as a relic of the former dynasty. East wind: Spring breeze, specifically referring to the east wind during the Battle of Red Cliffs. Zhou Lang: Refers to Zhou Yu. Convenient: Helpful, advantageous. Bronze Sparrow: Bronze Sparrow Terrace, built by Cao Cao. Deep in spring: Late spring. Locking the Two Qiaos: Referring to the Two Qiaos (Da Qiao and Xiao Qiao) being imprisoned. This poem reflects the author's感慨 on the rise and fall of history through the depiction of relics from the Battle of Red Cliffs.",
+        "ja": "折戟：折れた戟、古代の武器。沉沙：砂に沈んだ。鉄未銹：鉄がまだ錆びていない。自将：自分で持って。磨洗：磨き洗う。前朝を認む：前の王朝のものと認識する。東風：春風、特に赤壁の戦いの時の東風を指す。周郎：周瑜を指す。便：便利、助け。銅雀：銅雀台、曹操が建てたもの。春深：春の深い時期。二喬を鎖す：二喬（大喬と小喬）が囚われること。この詩は、赤壁の戦いの遺物を描き、作者の歴史の興亡に対する感慨を表現している。",
+        "es": "Hacha rota: Un hacha rota, arma antigua. Sumergido en arena: Hundido en la arena. Hierro no oxidado: El hierro aún no está oxidado. Auto-tomado: Tomado por uno mismo. Pulido y lavado: Limpiado y pulido. Reconocer la dinastía anterior: Identificarlo como un relicario de la dinastía anterior. Viento del este: Brisas de primavera, específicamente refiriéndose al viento del este durante la Batalla de las Escalas Rojas. Zhou Lang: Se refiere a Zhou Yu. Conveniente: Útil, beneficioso. Pájaro de Bronce: Terraza del Pájaro de Bronce, construida por Cao Cao. Profundo en primavera: Tarde en la primavera. Encerrando a las Dos Qiaos: Refiriéndose a las Dos Qiaos (Da Qiao y Xiao Qiao) siendo encarceladas. Este poema refleja el sentimiento del autor sobre el auge y caída de la historia a través de la descripción de reliquias de la Batalla de las Escalas Rojas.",
+        "ar": "رمح مكسور: رمح مكسور، سلاح قديم. مدفون في الرمل: غارق في الرمل. الحديد لم يصدأ: الحديد لم يتآكل بعد. tự mang: mang theo mình. تلميع وغسل: تنظيف وتلميع. التعرف على العهد السابق: التعرف عليه كأثر من العهد السابق. الرياح الشرقية: نسيم الربيع، يشير بشكل خاص إلى الرياح الشرقية أثناء معركة خليج الحصى الأحمر. تشو يانغ: يشير إلى تشو يو. مناسب: مفيد، مساعد. الطائر البرونزي: برج الطائر البرونزي، الذي بنيه تساو تساو. العمق في الربيع: أواخر الربيع. حبس الثنائي تشاو: يشير إلى حبس الثنائي تشاو (دا تشاو وشياو تشاو). يعبر هذا الشعر عن شعور الكاتب تجاه صعود وسقوط التاريخ من خلال وصف آثار معركة خليج الحصى الأحمر."
+    },
+    "appreciations": {
+        "zh": "这首《赤壁》通过描绘古战场上的折戟沉沙，表达了诗人对历史兴衰的深刻感慨。主题思想在于借古讽今，揭示历史的偶然性和英雄的命运。写作特色上，诗人运用了借物抒情的手法，通过折戟和铜雀台的形象，巧妙地引出对赤壁之战的反思。艺术成就方面，诗歌以简洁的语言和生动的意象，展现了历史的厚重感和诗人深邃的思考。情感分析上，诗人抒发了对英雄命运的惋惜和对历史进程的无奈。影响意义上，这首诗在文学史上具有重要地位，被视为唐代咏史怀古的代表作之一。",
+        "en": "This poem 'Chi Bi' depicts the broken halberds buried in the sand, expressing the poet's profound reflections on the rise and fall of history. The theme centers on using the past to satirize the present, revealing the contingency of history and the fate of heroes. In terms of writing style, the poet employs the technique of expressing emotions through objects, skillfully using the images of broken halberds and the Bronze Sparrow Terrace to evoke reflections on the Battle of Red Cliffs. Artistically, the poem achieves a sense of historical depth and profound thought through concise language and vivid imagery. Emotionally, it conveys a sense of regret for the fate of heroes and helplessness towards the course of history. In terms of impact, this poem holds a significant place in literary history, being regarded as one of the representative works of Tang Dynasty historical reflection.",
+        "ja": "この詩「赤壁」は、砂に埋もれた折れた戟を描き、詩人が歴史の盛衰に対する深い感慨を表現しています。主題思想は、過去を借りて現在を風刺し、歴史の偶然性と英雄の運命を明らかにすることにあります。表現手法としては、詩人は物に感情を託す手法を用い、折れた戟と銅雀台の形象を巧みに使い赤壁の戦いへの反省を導き出しています。芸術的成就としては、簡潔な言語と生き生きとしたイメージで、歴史の重厚感と詩人の深い思考を展现しています。感情分析では、詩人は英雄の運命に対する惜しみと歴史の進行に対する無力感を抒発しています。影響の意味では、この詩は文学史上重要な地位を占め、唐代の詠史懐古の代表作の一つとされています。",
+        "es": "Este poema 'Chibi' retrata las lanzas rotas enterradas en la arena, expresando las profundas reflexiones del poeta sobre el auge y caída de la historia. El tema principal es utilizar el pasado para satirizar el presente, revelando la contingencia de la historia y el destino de los héroes. En cuanto al estilo de escritura, el poeta emplea la técnica de expresar emociones a través de objetos, utilizando hábilmente las imágenes de las lanzas rotas y el Palacio de las Cigüeñas de Bronce para evocar reflexiones sobre la Batalla de las Escalas Rojas. Artísticamente, el poema logra una sensación de profundidad histórica y pensamiento profundo a través de un lenguaje conciso y una imaginería vívida. En el análisis emocional, el poema transmite un sentimiento de pesar por el destino de los héroes y una sensación de impotencia hacia el curso de la historia. En términos de impacto, este poema ocupa un lugar significativo en la historia de la literatura, siendo considerado una de las obras representativas de la reflexión histórica de la dinastía Tang.",
+        "ar": "هذه القصيدة 'تشى بى' تصور الرماح المكسورة المدفونة في الرمال، تعبيراً عن تأملات الشاعر العميقة في صعود وسقوط التاريخ. الفكرة الرئيسية هي استخدام الماضي للسخرية من الحاضر، وكشف عن طبيعة التاريخ العرضية وdestino الأبطال. من حيث الأسلوب الكتابي، يستخدم الشاعر تقنية التعبير عن العواطف من خلال الأشياء، باستخدام صور الرماح المكسورة والقبة النحاسية بشكل ماهر لاستدعاء التفكير في معركة جسر الأحمر. من الناحية الفنية، تتحقق القصيدة من إحساس العمق التاريخي والتفكير العميق من خلال لغة موجزة وتصورات حية. في تحليل العواطف، يعبر الشاعر عن الشعور بالأسف على مصير الأبطال والشعور بالعجز تجاه مسار التاريخ. من حيث التأثير، تحتل هذه القصيدة مكانة هامة في تاريخ الأدب، وتعتبر واحدة من الأعمال التمثيلية لتفكير العصر التانغ في التاريخ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "断戟沉埋沙中尚未销蚀，自己将它磨洗认出前朝。若非东风给周郎以方便，铜雀台春深怎能锁住二乔。",
+            "en": "The broken halberd lies buried in the sand, its iron not yet rusted away; I polish and wash it to recognize the former dynasty. If the east wind had not favored Zhou Yu, the Bronze Sparrow Terrace would have locked up the Two Qiaos in the depth of spring.",
+            "ja": "折れた戟が砂に埋もれ、鉄はまだ朽ちず。自ら磨き洗いし、前の朝を認む。東風が周郎に便りを与えずば、銅雀台は春深く二喬を閉ざしたであろう。",
+            "es": "La lanza rota yace enterrada en la arena, su hierro aún no se corroe; la pulo y lavo para reconocer la dinastía pasada. Si el viento del este no hubiera favorecido a Zhou Yu, el Palacio de la Grulla de Bronce habría encerrado a las Dos Qiao en la profundidad de la primavera.",
+            "ar": "الرمح المكسور مدفون في الرمال، الحديد لم يصدأ بعد؛ أكنسه وألمعه لأعترف بالعهد السابق. لو لم يكن للرياح الشرقية نفع لـ تشو يو، لكانت بناية العصفور البرونزي قد أغلقت الباب على الثنائي تشاو في عمق الربيع."
+        },
+        "title_translation": {
+            "zh": "赤壁",
+            "en": "Red Cliffs",
+            "ja": "赤壁",
+            "es": "Cliffes Rojos",
+            "ar": "الجدار الأحمر"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "折戟沉沙铁未销，自将磨洗认前朝。\n东风不与周郎便，铜雀春深锁二乔。",
+    "title_pinyin": "chì bì",
+    "pinyin": "zhé jǐ chén shā tiě wèi xiāo，zì jiāng mó xǐ rèn qián cháo。\ndōng fēng bù yǔ zhōu láng biàn，tóng què chūn shēn suǒ èr qiáo。"
+}

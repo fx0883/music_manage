@@ -1,0 +1,57 @@
+{
+    "title": "烈女操",
+    "difficulty": 2,
+    "author": {
+        "name": "孟郊",
+        "name_pinyin": "mèng jiāo",
+        "image": "孟郊.jpg",
+        "introduction": {
+            "zh": "孟郊（751-814），唐代著名诗人，字东野，湖州武康（今浙江德清）人。他一生坎坷，仕途不顺，但诗歌成就颇高，以苦吟著称，与贾岛并称为“郊寒岛瘦”。其诗作多反映民间疾苦，风格古朴，语言简练，感情真挚。代表作有《游子吟》、《登科后》等。",
+            "en": "Meng Jiao (751-814) was a renowned poet of the Tang Dynasty, styled Dongye, from Wukang, Huzhou (present-day Deqing, Zhejiang). His life was fraught with difficulties and his official career was unsmooth, yet he achieved great success in poetry, known for his meticulous composition, often mentioned alongside Jia Dao as 'Jiao's coldness and Dao's thinness'. His poems frequently reflect the hardships of the common people, characterized by a primitive simplicity, concise language, and sincere emotions. His notable works include 'A Traveler's Song', 'After Passing the Imperial Examination', among others.",
+            "ja": "孟郊（751-814）は唐代の著名な詩人で、字は東野、湖州武康（現在の浙江省徳清県）出身。彼の人生は困難で、官途も順調ではなかったが、詩の分野では高い成就を収め、苦吟で知られ、賈島と並んで「郊寒島痩」と称された。彼の詩作は民間の苦難を多く反映し、風格は古樸、言葉は簡練、感情は真摯である。代表作には「遊子吟」「登科後」などがある。",
+            "es": "Meng Jiao (751-814) fue un poeta destacado de la dinastía Tang, conocido por el seudónimo Dongye, originario de Wukang, Huzhou (actualmente Deqing, Zhejiang). Su vida estuvo llena de dificultades y su carrera oficial no fue exitosa, sin embargo, logró un gran éxito en la poesía, siendo conocido por su composición meticulosa, a menudo mencionado junto a Jia Dao como 'la frialdad de Jiao y la delgadez de Dao'. Sus poemas suelen reflejar las penurias del pueblo común, caracterizados por una simplicidad primitiva, un lenguaje conciso y emociones sinceras. Sus obras más destacadas incluyen 'Canto del Viajero', 'Después de Aprobar el Examen Imperial', entre otras.",
+            "ar": "مينغ جياو (751-814) كان شاعرًا مشهورًا في عهد تانغ، يُعرف بلقب دونغييه، من ووكانغ، هوزهو (الآن ديجينغ، تشجيانغ). حياته كانت مليئة بالصعوبات ومسيرته الرسمية لم تكن ناجحة، ومع ذلك حقق نجاحًا كبيرًا في الشعر، كان معروفًا بكتاباته المتأنية، غالبًا ما يُذكر جنبًا إلى جنب مع جيا داو كـ'برودة جياو و نحافة داو'. قصائده غالبًا ما تعكس معاناة الناس العاديين، تتميز بالبساطة البدائية، واللغة الموجزة، والعواطف الصادقة. من أعماله البارزة 'نشيد المسافر'، 'بعد اجتياز الامتحان الإمبراطوري' وغيرها."
+        }
+    },
+    "annotations": {
+        "zh": "梧桐相待老：梧桐树常被比喻为夫妻，象征相互扶持到老。鸳鸯会双死：鸳鸯鸟总是成对出现，象征忠贞不渝的爱情，双死表示共同赴死。贞女贵殉夫：贞洁的女子以殉夫为贵，即认为为丈夫而死是高尚的行为。舍生亦如此：舍弃生命也应如此，指像鸳鸯一样忠贞。波澜誓不起：发誓心不再起波澜，表示心志坚定。妾心古井水：比喻心如古井之水，平静无波。此诗通过梧桐、鸳鸯等意象，赞颂了贞女的忠贞不渝。",
+        "en": "Wutong trees wait for old age together: Wutong trees are often compared to a married couple, symbolizing mutual support until old age. Mandarin ducks die together: Mandarin ducks always appear in pairs, symbolizing unwavering love, and dying together means facing death together. A chaste woman values dying for her husband: A virtuous woman considers dying for her husband a noble act. She would give up her life in the same way: Referring to being as loyal as the mandarin ducks. Swear not to stir any waves: Swearing that her heart will not be disturbed, indicating firm resolve. My heart is like the water in an ancient well: A metaphor for a heart as calm as the water in an ancient well. This poem, through the imagery of Wutong trees and mandarin ducks, praises the unwavering loyalty of a chaste woman.",
+        "ja": "梧桐相待老：梧桐の木は夫婦にたとえられ、互いに支え合って老いることを象徴する。鴛鴦会双死：鴛鴦は常にペアで現れ、忠実な愛を象徴し、双死は共に死ぬことを意味する。貞女貴殉夫：貞節な女性は夫のために死ぬことを尊ぶ。捨生亦如此：命を捨てることも同様に、鴛鴦のように忠実であること。波澜誓不起：心に波を立てないと誓う、意志の堅さを示す。妾心古井水：心が古井戸の水のように静かであると比喻する。この詩は梧桐や鴛鴦のイメージを通じて、貞女の変わらぬ忠実さを賛美する。",
+        "es": "Wutong trees esperan envejecer juntos: Los árboles Wutong se comparan a menudo con una pareja casada, simbolizando el apoyo mutuo hasta la vejez. Los patos mandarines mueren juntos: Los patos mandarines siempre aparecen en parejas, simbolizando un amor inquebrantable, y morir juntos significa enfrentar la muerte juntos. Una mujer virtuosa valora morir por su esposo: Una mujer virtuosa considera noble morir por su esposo. Renunciar a la vida también así: Referirse a ser tan leal como los patos mandarines. Juro no levantar ninguna ola: Jurar que su corazón no se disturbará, indicando una resolución firme. Mi corazón es como el agua en un pozo antiguo: Una metáfora para un corazón tan tranquilo como el agua en un pozo antiguo. Este poema, a través de la imaginería de los árboles Wutong y los patos mandarines, elogia la lealtad inquebrantable de una mujer virtuosa.",
+        "ar": "شجرة الوونغ تنتظر الشيخوخة معًا: تُقارن شجرة الوونغ غالبًا بالزوجين، وتُعبر عن الدعم المتبادل حتى الشيخوخة. البجع يموتان معًا: البجع يظهر دائمًا في أزواج، ويُرمز إلى الحب غير المتزعزع، والموت معًا يعني مواجهة الموت معًا. المرأة العفيفة تقدر الموت لأجل زوجها: المرأة العفيفة تعتبر الموت لأجل زوجها فعلًا نبيلًا. التخلي عن الحياة أيضًا هكذا: الإشارة إلى أن تكون مخلصة مثل البجع. أقسم ألّا أثير أي موجات: يقسم أن قلبه لن يتزعزع، مما يدل على العزيمة القوية. قلبي مثل ماء البئر القديم: مجاز عن قلب هادئ مثل ماء البئر القديم. هذا الشعر، من خلال صور شجرة الوونغ والبجع، يمدح الولاء غير المتزعزع للمرأة العفيفة."
+    },
+    "appreciations": {
+        "zh": "《烈女操》这首诗以梧桐和鸳鸯为喻，表达了贞女对丈夫的忠贞不渝。主题思想是歌颂女性的贞节和忠诚。写作特色上，诗人运用比喻手法，将梧桐和鸳鸯的自然特性与人的情感相结合，形象生动。艺术成就方面，诗歌简洁明快，意象鲜明，具有较高的艺术价值。情感分析上，诗中抒发了贞女对丈夫的深情厚意和坚定不移的决心。影响意义上，这首诗在文学史上对后世贞节观念的传播和女性形象的塑造产生了深远影响。",
+        "en": "The poem 'Lienücao' uses the metaphors of parasol trees and mandarin ducks to express the unwavering loyalty of a chaste woman to her husband. The theme centers on praising female chastity and fidelity. In terms of writing style, the poet employs metaphors, blending the natural characteristics of the trees and ducks with human emotions, creating vivid imagery. Artistically, the poem is concise and clear, with distinct imagery, possessing high artistic value. Emotionally, it conveys the deep affection and steadfast resolve of the chaste woman for her husband. Historically, this poem has had a profound impact on the dissemination of chastity concepts and the portrayal of female images in literature.",
+        "ja": "『烈女操』は梧桐と鴛鴦を喻として用い、貞女が夫に対する不変の忠誠を表現しています。主題思想は女性の貞節と忠誠を讃えることです。表現手法としては、詩人は比喩を用い、梧桐と鴛鴦の自然特性と人間の感情を結びつけ、鮮明なイメージを作り出しています。芸術的成就としては、詩は簡潔明快で意象が明瞭であり、高い芸術価値を持っています。感情分析では、貞女が夫に対する深い愛情と坚定な決意を抒発しています。影響意義としては、この詩は文学史上、後世の貞節観念の普及と女性像の形成に深い影響を与えました。",
+        "es": "El poema 'Lienücao' utiliza las metáforas de los árboles de parásol y los patos mandarines para expresar la lealtad inquebrantable de una mujer casta hacia su esposo. El tema principal es la alabanza de la castidad y la fidelidad femeninas. En cuanto a la técnica de escritura, el poeta emplea metáforas, fusionando las características naturales de los árboles y los patos con las emociones humanas, creando imágenes vívidas. Artísticamente, el poema es conciso y claro, con imágenes distintivas, poseyendo un alto valor artístico. En el análisis emocional, el poema expresa el profundo afecto y la firme resolución de la mujer casta hacia su esposo. En términos de impacto y significado, este poema ha tenido una influencia profunda en la difusión de los conceptos de castidad y en la formación de la imagen femenina en la historia de la literatura.",
+        "ar": "القصيدة \"ليانويكاو\" تستخدم التمثيل بالأشجار البورية والبط المандарين للتعبير عن الولاء غير المتزعزع للمرأة العفيفة تجاه زوجها. الفكرة الرئيسية هي تمجيد العفة والولاء الأنثوي. من حيث الأسلوب الكتابي، يستخدم الشاعر التمثيل، مدمجاً الخصائص الطبيعية للأشجار والبط مع المشاعر الإنسانية، مما يخلق صوراً حية. فنياً، القصيدة موجزة وواضحة، ذات صور متميزة، وتحمل قيمة فنية عالية. في تحليل العواطف، تعبر القصيدة عن الحب العميق والتصميم القوي للمرأة العفيفة تجاه زوجها. من حيث التأثير والمعنى، أثرت هذه القصيدة تأثيراً عميقاً في نشر مفاهيم العفة وصياغة صورة المرأة في تاريخ الأدب."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "梧桐树相互陪伴到老，鸳鸯鸟成双成对至死。贞洁的女子贵在为夫殉节，舍弃生命也是如此。心中波澜永不兴起，我的心如同古井之水。",
+            "en": "The parasol trees grow old together, the mandarin ducks die side by side. A chaste woman values martyrdom for her husband, even giving up her life is the same. No waves will ever rise in my heart, it is like the water in an ancient well.",
+            "ja": "梧桐は共に老い、鴛鴦は双死す。貞女は夫のために殉じることを貴び、命を捨てるもまた然り。波濤は誓って起らず、妾の心は古井の水。",
+            "es": "Los sicomoros envejecen juntos, los patos mandarines mueren en pareja. Una mujer virtuosa valora morir por su esposo, renunciar a la vida es lo mismo. Juro que no surgirán olas, mi corazón es como el agua de un viejo pozo.",
+            "ar": "الزيتون يتقدم في العمر معًا، البجع يموتان معًا. المرأة العفيفة تعتبر التضحية بزوجها أمرًا ثمينًا، التخلي عن الحياة هو نفس الشيء. أقسم أن لا تنتشر الأمواج، قلبي مثل ماء البئر القديم."
+        },
+        "title_translation": {
+            "zh": "烈女操",
+            "en": "The Chastity of a Brave Woman",
+            "ja": "烈女操",
+            "es": "El Cántico de la Mujer Valiente",
+            "ar": "أغنية المرأة الشجاعة"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "梧桐相待老，鸳鸯会双死。\n贞女贵殉夫，舍生亦如此。\n波澜誓不起，妾心古井水。",
+    "title_pinyin": "liè nǚ cāo",
+    "pinyin": "wú tóng xiāng dài lǎo，yuān yāng huì shuāng sǐ。\nzhēn nǚ guì xùn fū，shě shēng yì rú cǐ。\nbō lán shì bù qǐ，qiè xīn gǔ jǐng shuǐ。"
+}

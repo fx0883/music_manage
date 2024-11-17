@@ -1,0 +1,57 @@
+{
+    "title": "贾生",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐（约813年或833年～约858年），字义山，号玉溪（谿）生、樊南生，唐代著名诗人。他擅长诗歌创作，尤以爱情诗和咏史诗闻名，风格深情绵邈，语言精美，意蕴深远。李商隐的诗歌常以含蓄、象征的手法表达复杂的情感和思想，被誉为‘诗魂’。代表作有《无题》、《锦瑟》等。",
+            "en": "Li Shangyin (approximately 813 or 833 – 858), styled Yishan, also known as Yuxi or Fannan, was a renowned poet of the Tang Dynasty. He excelled in poetry, particularly in love and historical themes, characterized by profound emotions, exquisite language, and deep implications. His works often employ subtle and symbolic techniques to express complex feelings and thoughts, earning him the title 'Poetic Soul'. Notable works include 'Untitled', 'Jin Se', among others.",
+            "ja": "李商隐（約813年または833年～約858年）、字は義山、号は玉谿生、樊南生、唐代の著名な詩人。彼は詩作に長け、特に恋愛詩と歴史詩で知られ、深情で繊細なスタイル、精緻な言葉遣い、深遠な意味を持つ。李商隐の詩はしばしば含蓄的で象徴的な手法を用いて複雑な感情や思想を表現し、「詩魂」と称賛される。代表作に『無題』、『錦瑟』などがある。",
+            "es": "Li Shangyin (aproximadamente 813 o 833 – 858), también conocido como Yishan, Yuxi o Fannan, fue un destacado poeta de la dinastía Tang. Se destacó en la creación de poesía, especialmente en temas de amor e historia, caracterizada por emociones profundas, lenguaje exquisito y significados profundos. Sus obras a menudo utilizan técnicas sutiles y simbólicas para expresar sentimientos y pensamientos complejos, siendo conocido como 'Alma Poética'. Entre sus obras más destacadas se encuentran 'Sin Título', 'Jin Se', entre otras.",
+            "ar": "لي شانغ ين (حوالي 813 أو 833 - حوالي 858)، المعروف أيضًا باسم يي شان، ويو شي، وفان نان، كان شاعرًا مشهورًا في عهد سلالة تانغ. برع في كتابة الشعر، خاصة في مواضيع الحب والتاريخ، يتميز بشاعرية عميقة، لغة فاخرة، ومعاني عميقة. تعتمد أعماله غالبًا على تقنيات غير مباشرة ورمزية للتعبير عن المشاعر والأفكار المعقدة، مما كسبه لقب 'روح الشعر'. من بين أعماله البارزة 'بدون عنوان'، 'جين سي'، وغيرها."
+        }
+    },
+    "annotations": {
+        "zh": "宣室：指汉文帝的宫殿。求贤：寻求贤才。访逐臣：访问被放逐的臣子。贾生：指贾谊，西汉著名文学家、政治家。才调：才华。无伦：无与伦比。可怜：可惜。夜半：半夜。虚前席：形容汉文帝倾听贾谊谈话时，向前移动座席，表示重视。苍生：百姓。问鬼神：询问鬼神之事。全诗讽刺汉文帝虽求贤若渴，却只关心鬼神之事，而不问民生。",
+        "en": "Xuan Shi: refers to the palace of Emperor Wen of Han. Qiu Xian: seeking for talents. Fang Zhu Chen: visiting exiled officials. Jia Sheng: refers to Jia Yi, a famous litterateur and statesman of the Western Han Dynasty. Cai Diao: talent. Wu Lun: unparalleled. Ke Lian: pity. Ye Ban: midnight. Xu Qian Xi: describes Emperor Wen moving his seat forward to listen to Jia Yi, showing his attention. Cang Sheng: the common people. Wen Gui Shen: asking about ghosts and gods. The poem satirizes Emperor Wen for being eager to seek talents but only caring about ghosts and gods, not the livelihood of the people.",
+        "ja": "宣室：漢の文帝の宮殿を指す。求賢：賢才を求めること。訪逐臣：放逐された臣子を訪れること。賈生：賈誼を指す、西漢の著名な文学者・政治家。才調：才能。無倫：比類がない。可哀：残念。夜半：真夜中。虚前席：漢の文帝が賈誼の話を聴くときに座席を前に動かした様子を表す。蒼生：民衆。問鬼神：鬼神のことを尋ねる。全詩は、漢の文帝が賢才を求める一方で、鬼神のことばかりを気にし、民の生活には関心がないことを皮肉っている。",
+        "es": "Xuan Shi: se refiere al palacio del Emperador Wen de Han. Qiu Xian: buscar talento. Fang Zhu Chen: visitar a los funcionarios desterrados. Jia Sheng: se refiere a Jia Yi, un famoso literato y estadista de la Dinastía Han Occidental. Cai Diao: talento. Wu Lun: sin parangón. Ke Lian: lástima. Ye Ban: medianoche. Xu Qian Xi: describe cómo el Emperador Wen se movió su asiento hacia adelante para escuchar a Jia Yi, mostrando su atención. Cang Sheng: el pueblo. Wen Gui Shen: preguntar sobre fantasmas y dioses. El poema satiriza al Emperador Wen por estar ansioso por buscar talentos pero solo preocuparse por fantasmas y dioses, no por la subsistencia del pueblo.",
+        "ar": "Xuan Shi: يشير إلى قصر الإمبراطور Wen من هان. Qiu Xian: البحث عن المواهب. Fang Zhu Chen: زيارة الوزراء المطرودين. Jia Sheng: يشير إلى Jia Yi، وهو كاتب وسياسي مشهور في عهد هان الغربي. Cai Diao: الموهبة. Wu Lun: لا مثيل له. Ke Lian: يأسف. Ye Ban: منتصف الليل. Xu Qian Xi: يصف كيف نقل الإمبراطور Wen مقعده إلى الأمام لسماع Jia Yi، مما يدل على اهتمامه. Cang Sheng: الشعب. Wen Gui Shen: يسأل عن الأرواح والآلهة.القصيدة تسخر من الإمبراطور Wen لأنه كان حريصًا على البحث عن المواهب ولكنه كان يهتم فقط بالأرواح والآلهة، وليس بمعيشة الناس."
+    },
+    "appreciations": {
+        "zh": "《贾生》一诗通过对汉文帝宣室求贤却只问鬼神不问苍生的讽刺，揭示了统治者对贤才的表面重视与实际忽视的矛盾，反映了诗人对当时政治现实的失望和对贤才不被重用的同情。写作上，诗人运用对比手法，将宣室求贤的隆重与夜半虚前席的冷落形成鲜明对比，增强了讽刺效果。艺术上，诗歌言简意赅，寓意深刻，展现了李商隐独特的咏史风格。情感上，诗人抒发了对贾生才华的惋惜和对统治者昏庸的愤懑。此诗在文学史上具有重要地位，成为后世咏史题材的典范。",
+        "en": "The poem 'Jia Sheng' satirizes Emperor Wen of Han's seeking of talents in the Xuan Chamber but only inquiring about ghosts and spirits instead of the welfare of the people, revealing the contradiction between the ruler's superficial appreciation and actual neglect of talents. This reflects the poet's disappointment in the political reality and sympathy for the unappreciated talents. In terms of writing, the poet employs a contrastive technique, juxtaposing the grandeur of seeking talents with the emptiness of the midnight session, enhancing the satirical effect. Artistically, the poem is concise yet profound, showcasing Li Shangyin's unique style in historical narrative. Emotionally, it expresses regret for Jia Sheng's wasted talent and anger at the ruler's incompetence. This poem holds a significant place in literary history, serving as a model for later works on historical themes.",
+        "ja": "《賈生》は、漢の文帝が宣室で賢者を求めたが、実際には鬼神に問い苍生には問わないという皮肉を通じて、統治者が賢才を表面的に重視しながら実際には無視する矛盾を示している。詩人は対比手法を用い、宣室での求賢の荘重さと夜半の虚しい前席の冷たさを鮮明に対比させ、皮肉の効果を強化している。芸術的には、詩は簡潔でありながら深い寓意を持ち、李商隠独特の史詠のスタイルを示している。感情面では、詩人は賈生の才能に対する悔しさと統治者の昏庸に対する憤りを表している。この詩は文学史上重要な地位を占め、後世の歴史詠の題材の典型となっている。",
+        "es": "El poema 'Jia Sheng' satiriza la búsqueda de talentos por parte del Emperador Wen de Han en el Palacio Xuan, pero solo pregunta sobre espíritus y no sobre el bienestar del pueblo, revelando la contradicción entre el aprecio superficial y la negligencia real hacia los talentos por parte de los gobernantes. Esto refleja la decepción del poeta con la realidad política y su simpatía por los talentos no reconocidos. En cuanto a la escritura, el poeta utiliza la técnica del contraste, comparando la solemnidad de la búsqueda de talentos con la vaciedad de la sesión nocturna, intensificando el efecto satírico. Artísticamente, el poema es conciso pero profundo, mostrando el estilo único de Li Shangyin en la narrativa histórica. Emocionalmente, expresa el pesar por el talento desperdiciado de Jia Sheng y la ira hacia la incompetencia de los gobernantes. Este poema ocupa un lugar significativo en la historia de la literatura, sirviendo como un modelo para obras posteriores sobre temas históricos.",
+        "ar": "القصيدة 'جيا شينج' تسخر من طلب الإمبراطور ون من هان للعقول النيرة في قاعة شوان، ولكنه يسأل فقط عن الأرواح وليس عن رفاهية الشعب، تكشف عن التناقض بين تقدير الحكام السطحي والاهمال الفعلي للأدمغة. هذا يعكس خيبة أمل الشاعر من الواقع السياسي و التعاطف مع العقول غير المعترف بها. في الكتابة، يستخدم الشاعر تقنية المقارنة، محاولاً مقارنة solennité البحث عن العقول بفراغ الجلسة الليلية، مما يعزز من تأثير السخرية. فنياً، القصيدة موجزة ولكن عميقة، تعرض أسلوب لي شانغ ين الفريد في السرد التاريخي. عاطفياً، يعبر عن الأسف على موهبة جيا شينج المهدرة والغضب من عدم كفاءة الحكام. تحتل هذه القصيدة مكانة هامة في تاريخ الأدب، لتصبح نموذجاً لأعمال لاحقة في مواضيع تاريخية."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "汉文帝在宣室求贤，访询被放逐的臣子，贾谊的才华更是无与伦比。\n可惜夜半时分，汉文帝只是徒然地向前移动座位，不问百姓疾苦，却只问鬼神之事。",
+            "en": "The Han Emperor sought talents in the Xuan Chamber, consulting exiled ministers; Jia Yi's genius was unparalleled.\nSadly, at midnight, the Emperor merely moved his seat forward in vain, not asking about the people's sufferings, but only inquiring about ghosts and gods.",
+            "ja": "漢の文帝が宣室で賢者を求め、追放された臣下を訪ね、賈誼の才能は比類がない。\n残念ながら夜半に、文帝は無駄に席を前に移しただけで、民の苦しみを問わず、鬼神のみを尋ねた。",
+            "es": "El Emperador Han buscaba talentos en el Palacio de Xuan, consultando a ministros desterrados; el genio de Jia Yi era inigualable.\nLamentablemente, a medianoche, el Emperador solo movió su asiento hacia adelante en vano, sin preguntar por el sufrimiento del pueblo, sino solo por espíritus y dioses.",
+            "ar": "الإمبراطور هان يطلب العباقرة في غرفة شوان، يستشير الوزراء المطرودين؛ موهبة جيا يي كانت لا مثيل لها.\nللأسف، في منتصف الليل، الإمبراطور نقل مقعده للأمام عبثاً، لم يسأل عن معاناة الناس، بل سأل فقط عن الأرواح والألهة."
+        },
+        "title_translation": {
+            "zh": "贾生",
+            "en": "Jia Sheng",
+            "ja": "賈生",
+            "es": "Jia Sheng",
+            "ar": "جيا شينغ"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "宣室求贤访逐臣，贾生才调更无伦。\n可怜夜半虚前席，不问苍生问鬼神。",
+    "title_pinyin": "jiǎ shēng",
+    "pinyin": "xuān shì qiú xián fǎng zhú chén，jiǎ shēng cái diào gèng wú lún。\nkě lián yè bàn xū qián xí，bù wèn cāng shēng wèn guǐ shén。"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "无题·相见时难别亦难",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，字义山，号玉谿生，唐代著名诗人，与杜牧合称“小李杜”。他的诗歌风格深情绵邈，语言精丽，尤以无题诗著称，表现了复杂的思想感情和独特的艺术魅力。李商隐的诗作多涉及政治、爱情、人生哲理等主题，影响深远。",
+            "en": "Li Shangyin, styled Yishan and known as Yuxisheng, was a renowned poet of the Tang Dynasty, often paired with Du Mu as the 'Little Du'. His poetry is characterized by deep emotions and exquisite language, especially famous for his untitled poems, which display complex thoughts and unique artistic charm. His works cover themes such as politics, love, and life philosophy, leaving a profound influence.",
+            "ja": "李商隐（りしょういん）は、字を義山（ぎざん）、号を玉谿生（ぎょくけいせい）と称し、唐代の著名な詩人です。杜牧と共に「小李杜」と称されます。彼の詩は深い感情と精緻な言語で知られ、特に無題詩が有名です。政治、愛情、人生哲学など多岐にわたるテーマを扱い、大きな影響を与えました。",
+            "es": "Li Shangyin, también conocido como Yishan y Yuxisheng, fue un destacado poeta de la dinastía Tang, a menudo mencionado junto a Du Mu como los 'Pequeños Du'. Su poesía se distingue por su profunda emotividad y lenguaje refinado, siendo especialmente famoso por sus poemas sin título que reflejan pensamientos complejos y un encanto artístico único. Sus obras abarcan temas como la política, el amor y la filosofía de la vida, dejando una huella significativa.",
+            "ar": "لي شانغيين، المعروف أيضاً باسم يي شان ويوكسيشينغ، كان شاعرًا بارزًا في عهد التانغ، ويُذكر غالبًا إلى جانب دو مو كـ 'الصغيرين دو'. تتميز شعرته بعمق العواطف واللغة الراقية، وخاصة قصائده غير المعنونة التي تعكس أفكارًا معقدة وجاذبية فنية فريدة. تتناول أعماله مواضيع مثل السياسة، الحب، وفلسفة الحياة، تاركة تأثيرًا كبيرًا."
+        }
+    },
+    "annotations": {
+        "zh": "相见时难别亦难：相见的机会难得，分别时也感到非常痛苦。东风无力百花残：春风力量减弱，百花凋零。春蚕到死丝方尽：春蚕直到死去才停止吐丝，比喻至死不渝的爱情。蜡炬成灰泪始干：蜡烛烧成灰烬，泪水才干涸，比喻无尽的悲伤。晓镜但愁云鬓改：早晨照镜子，只愁白发增多。夜吟应觉月光寒：夜晚吟诗，应感到月光寒冷。蓬山此去无多路：蓬山指仙境，表示距离不远。青鸟殷勤为探看：青鸟是神话中的信使，表示会殷勤探望。",
+        "en": "It is hard to meet, but harder to part; the east wind is weak, and a hundred flowers wither. The silkworm dies when its silk is spun; the candle burns out when its tears dry. In the morning mirror, I worry about my graying hair; at night, reciting poems, I feel the cold moonlight. Not far to the fairy mountain; the blue bird diligently comes to visit.",
+        "ja": "会うのが難しく、別れるのも難しい。東風が弱く、百花が散る。春蚕が死ぬまで糸を出す、ろうそくが灰になるまで涙が乾く。朝鏡に映ると、白髪が増えて心配。夜に詠むと、月光が寒く感じる。蓬山へは道が少ない、青鳥が親切に訪ねてくる。",
+        "es": "Es difícil encontrarse, pero más difícil aún es separarse; el viento del este es débil y las flores se marchitan. La cigarra muere cuando se acaba su hilo; la vela se consume cuando sus lágrimas se secan. Por la mañana, en el espejo, solo me preocupo por el cambio de mi pelo canoso; por la noche, al recitar, siento el frío de la luz lunar. No hay mucho camino hasta la montaña de Peng; el pájaro azul viene diligentemente a visitar.",
+        "ar": "اللقاء صعب والفراق أصعب، الرياح الشرقية ضعيفة والأزهار تتساقط. دودة القز تموت عندما تنتهي من إنتاج الخيط، الشمعة تتحول إلى رماد عندما تجف دموعها. في الصباح أتأمل في المرآة وأقلق على تغير لون شعري، وفي الليل أقرأ الشعر وأشعر ببرودة ضوء القمر. ليس هناك طريق طويل إلى جبل Peng، الطائر الأزرق يأتي بحرص ليزور."
+    },
+    "appreciations": {
+        "zh": "这首诗以深沉的情感表达了相见难、别离更难的苦楚。主题思想在于揭示人生中相聚与分离的无奈和悲哀。写作特色上，诗人运用了比喻、象征等手法，如春蚕丝尽、蜡炬成灰，生动形象地传达了情感的极致。艺术成就方面，诗歌语言凝练，意象鲜明，情感真挚，具有极高的艺术价值。情感分析显示，诗人抒发了对挚爱的深切思念和无尽牵挂。在文学史地位上，此诗被誉为爱情诗的经典之作，对后世文学产生了深远影响。",
+        "en": "This poem profoundly expresses the difficulty of meeting and the even greater pain of parting. The central theme highlights the inevitability and sorrow of both union and separation in life. In terms of writing style, the poet employs metaphors and symbols, such as the silkworm spinning until death and the candle burning to ashes, vividly conveying the extremity of emotions. Regarding artistic achievements, the poem is noted for its concise language, distinct imagery, and sincere emotions, possessing high artistic value. The emotional analysis reveals the poet's deep longing and endless concern for his beloved. In the annals of literary history, this poem is celebrated as a classic of love poetry, exerting a profound influence on later literature.",
+        "ja": "この詩は深い感情で会うことの難しさと別れることの更なる苦しみを表現しています。主題思想は人生における出会いと別れの無常と悲哀を明らかにすることにあります。執筆の特色としては、詩人は比喩や象徴などの手法を用い、春蚕が糸を吐き尽くすまで、蝋燭が灰になるまでという具体的なイメージで感情の極致を伝えています。芸術的成果としては、詩の言語は凝縮されており、意象が鮮明で、感情が真摯であり、高い芸術的価値を持っています。感情分析では、詩人が愛する人への深い思いやりと尽きることのない心配りを表しています。文学史の地位としては、この詩は恋愛詩の古典として讃えられ、後世の文学に大きな影響を与えました。",
+        "es": "Este poema expresa profundamente la dificultad de encontrarse y la aún mayor dificultad de separarse. El tema central revela la inevitabilidad y la tristeza de la unión y la separación en la vida. En cuanto a las características de escritura, el poeta utiliza metáforas y símbolos, como el gusano de seda que teje hasta su muerte y la vela que se quema hasta convertirse en cenizas, transmitiendo vívidamente la intensidad de los sentimientos. En términos de logros artísticos, el poema se destaca por su lenguaje conciso, imágenes claras y emociones sinceras, poseyendo un alto valor artístico. El análisis emocional muestra la profunda añoranza y la continua preocupación del poeta por su amado. En la historia de la literatura, este poema es aclamado como una obra clásica de la poesía de amor, ejerciendo una influencia profunda en la literatura posterior.",
+        "ar": "يعبر هذا الشعر بعمق عن صعوبة اللقاء وعسر الوداع. يكمن موضوعه الرئيسي في إظهار اللازمية والحزن الناتجين عن اللقاء والفراق في الحياة. من حيث خصائص الكتابة، يستخدم الشاعر التمثيل والرمز، مثل دودة القز التي تغزل حتى الموت والشمعة التي تحترق حتى تصبح رمادًا، لنقل شدة العواطف بشكل حي. فيما يتعلق بالإنجازات الفنية، يتميز الشعر بلغته الموجزة، وتصاويره الواضحة، وعواطفه الصادقة، مما يمنحه قيمة فنية عالية. يظهر التحليل العاطفي مدى اشتياق الشاعر العميق وتواصله المستمر مع محبوبه. في تاريخ الأدب، يُعتبر هذا الشعر كواحد من كلاسيكيات الشعر العاطفي، ولديه تأثير عميق على الأدب اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "相见时难别亦难，东风无力百花残。\n春蚕到死丝方尽，蜡炬成灰泪始干。\n晓镜但愁云鬓改，夜吟应觉月光寒。\n蓬山此去无多路，青鸟殷勤为探看。",
+            "en": "It's hard to meet, yet harder to part,\nWhen the east wind is weak, a hundred flowers wither.\nThe silkworm spins its silk until it dies,\nThe candle burns to ashes, tears then dry.\nMorning mirror shows but sorrow in changed hair,\nNightly verse feels the coldness of moonlight.\nNot far to the fairy mountain from here,\nThe blue bird is eager to seek and see.",
+            "ja": "会うのも難く別れるのも難し、\n東風力なく百花が散る。\n春蚕死ぬまで糸尽きず、\n蝋燭灰にならぬ間に涙乾く。\n朝鏡に映るのは鬢の変わりに愁い、\n夜に詠むれば月光の寒さを感ず。\n蓬山へは道少なく、\n青鳥は心尽くし探し見る。",
+            "es": "Es difícil encontrarse y también separarse,\nCuando el viento del este es débil, las flores se marchitan.\nLa oruga teje su seda hasta morir,\nLa vela se consume en cenizas, las lágrimas se secan.\nAl espejo matutino solo le preocupa el cambio del cabello,\nAl recitar de noche, siente el frío de la luz lunar.\nNo hay mucho camino hasta el Monte Peng,\nEl pájaro azul es diligente en buscar y ver.",
+            "ar": "صعب اللقاء وصعب الفراق،\nعندما يضعف الرياح الشرقية، تتساقط الأزهار.\nاليرقة تطوي خيطها حتى تموت،\nالشمعة تحترق حتى تصبح رمادًا، وتجف الدموع.\nالمرآة صباحًا تظهر إلا حزنًا لتغير الشعر،\nالإنشاد ليلاً يشعر ببرودة ضوء القمر.\nليس هناك طريق طويل إلى جبل Peng،\nالطائر الأزرق حريص على البحث والرؤية."
+        },
+        "title_translation": {
+            "zh": "无题·相见时难别亦难",
+            "en": "Untitled: Hard to Meet, Harder to Part",
+            "ja": "無題・会うのも難く別れるのも難し",
+            "es": "Sin título: Difícil encontrarse, más difícil separarse",
+            "ar": "بدون عنوان: صعب اللقاء، أصعب الفراق"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "相见时难别亦难，东风无力百花残。\n春蚕到死丝方尽，蜡炬成灰泪始干。\n晓镜但愁云鬓改，夜吟应觉月光寒。\n蓬山此去无多路，青鸟殷勤为探看。",
+    "title_pinyin": "wú tí·xiāng jiàn shí nán bié yì nán",
+    "pinyin": "xiāng jiàn shí nán bié yì nán，dōng fēng wú lì bǎi huā cán。\nchūn cán dào sǐ sī fāng jǐn，là jù chéng huī lèi shǐ gàn。\nxiǎo jìng dàn chóu yún bìn gǎi，yè yín yīng jué yuè guāng hán。\npéng shān cǐ qù wú duō lù，qīng niǎo yīn qín wèi tàn kàn。"
+}

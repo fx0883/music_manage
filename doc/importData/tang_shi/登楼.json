@@ -1,0 +1,57 @@
+{
+    "title": "登楼",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫（712年－770年），字子美，号少陵野老，唐代著名诗人，与李白并称为“李杜”，被后人尊称为“诗圣”。他的诗歌内容广泛，深刻反映了唐代社会的现实，尤其擅长写律诗和绝句。杜甫的诗歌风格沉郁顿挫，语言精炼，具有很高的艺术成就。代表作有《春望》、《登高》、《茅屋为秋风所破歌》等。",
+            "en": "Du Fu (712-770), styled Zimei and known as Shaoling Ye lao, was a renowned poet of the Tang Dynasty, often mentioned alongside Li Bai as 'Li Du', and revered as the 'Poet Saint' by later generations. His poetry covers a wide range of topics, profoundly reflecting the realities of Tang Dynasty society, particularly excelling in regulated verse and jueju. Du Fu's poetic style is characterized by its melancholic and resolute tone, with refined language, achieving high artistic merits. His notable works include 'Spring View', 'Climbing the Tower', and 'Song of the Thatched Cottage Destroyed by the Autumn Wind'.",
+            "ja": "杜甫（712年－770年）、字は子美、号は少陵野老、唐代の著名な詩人で、李白と並び「李杜」と称され、後世には「詩聖」と尊称される。彼の詩は内容が広範で、唐代社会の現実を深く反映しており、特に律詩や絶句に優れていた。杜甫の詩風は沈鬱で頓挫感があり、言葉遣いが精緻で、高い芸術的成就を示している。代表作には「春望」、「登高」、「茅屋為秋風所破歌」などがある。",
+            "es": "Du Fu (712-770), también conocido como Zimei y apodado Shaoling Ye lao, fue un destacado poeta de la dinastía Tang, mencionado junto a Li Bai como 'Li Du' y venerado como el 'Santo de la Poesía' por las generaciones posteriores. Su poesía abarca una amplia gama de temas, reflejando profundamente la realidad de la sociedad de la dinastía Tang, destacando especialmente en versos regulados y jueju. El estilo poético de Du Fu se caracteriza por su tono melancólico y decidido, con un lenguaje refinado, alcanzando altos méritos artísticos. Sus obras más destacadas incluyen 'Vista de Primavera', 'Subir a la Torre', y 'Canción de la Cabaña de Paja Destrozada por el Viento de Otoño'.",
+            "ar": "دو فو (712-770)، المعروف أيضاً بزيمي ومدعو شاولينغ يي لاو، كان شاعرًا بارزًا في عهد أسرة تانغ، يُذكر جنبًا إلى جنب مع لي باي كـ'لي دو'، ويُحترم كـ'قديس الشعر' من قبل الأجيال اللاحقة. شعره يغطي مجموعة واسعة من المواضيع، يعكس بعمق واقع المجتمع في عهد أسرة تانغ، ويتفوق خاصة في الأشعار المنظومة والجويجو. يتميز أسلوبه الشعري بطابعه الحزين والمثابر، ولغته المكررة، وينال مراتب فنية عالية. من أشهر أعماله 'منظر الربيع'، 'صعود البرج'، و'أغنية البيت القشدي الذي تهدم بفعل رياح الخريف'."
+        }
+    },
+    "annotations": {
+        "zh": "花近高楼伤客心：花朵靠近高楼，使客居他乡的人感到伤心。万方多难此登临：各地多灾多难，此时登上高楼。锦江春色来天地：锦江的春色似乎弥漫天地之间。玉垒浮云变古今：玉垒山的浮云变幻，象征着古今变迁。北极朝廷终不改：指唐朝的政权始终稳固。西山寇盗莫相侵：警告西山的寇盗不要侵扰。可怜后主还祠庙：指蜀汉后主刘禅的祠庙，表达对其无能的同情。日暮聊为《梁甫吟》：傍晚时分，姑且吟咏《梁甫吟》以抒怀。\n语法说明：此诗多用对仗句式，如“花近高楼”与“万方多难”，“锦江春色”与“玉垒浮云”等。\n典故解释：《梁甫吟》是诸葛亮所作，表达忧国忧民之情。\n意象分析：高楼、锦江、玉垒山、北极、西山等意象，表达了诗人对国家命运的忧虑。\n历史背景：此诗写于安史之乱后，唐朝国势动荡时期。",
+        "en": "Flowers near the high tower sadden the traveler's heart; in times of widespread calamity, I ascend this height. The spring scenery of the Jinjiang River seems to fill the universe; the floating clouds over Yulei Mountain change through ancient and modern times. The Northern Court's regime will never change; the bandits on the Western Mountains must not invade. Pitifully, the temple of the later ruler still stands; at dusk, I casually recite 'Liang Fu Yin'.\nGrammar: The poem uses parallel sentences, such as 'Flowers near the high tower' and 'Widespread calamity', 'Spring scenery of Jinjiang' and 'Floating clouds over Yulei'.\nAllusion: 'Liang Fu Yin' was composed by Zhuge Liang, expressing concern for the country and its people.\nImagery: High tower, Jinjiang River, Yulei Mountain, Northern Pole, Western Mountains, etc., convey the poet's anxiety about the fate of the nation.\nHistorical Background: Written after the An Lushan Rebellion, during a period of turmoil in the Tang Dynasty.",
+        "ja": "花近高楼伤客心：花が高楼下に咲くと、旅人の心を悲しませる。万方多难此登临：各地に災難が多い中、この高楼上る。錦江春色来天地：錦江の春色は天地に満ちる。玉垒浮云变古今：玉垒山の浮雲は古今変わる。北极朝廷終不改：唐の朝廷は変わることがない。西山寇盗莫相侵：西山の盗賊が侵さないでほしい。可怜后主还祠庙：哀れな後主の廟がまだある。日暮聊为《梁甫吟》：日暮れて《梁甫吟》を詠む。\n文法説明：対仗の句が多く使われている。\n故事説明：《梁甫吟》は諸葛亮が作った詩で、国と民を憂える心情を表している。\nイメージ分析：高楼、錦江、玉垒山、北极、西山などのイメージが、詩人の国家運命への憂慮を表している。\n歴史背景：安史の乱後、唐が動乱の時代に書かれた。",
+        "es": "Flores cerca del alto edificio entristecen el corazón del viajero; en tiempos de muchas dificultades, subo a esta altura. La primavera del río Jinjiang parece llenar el cielo y la tierra; las nubes flotantes sobre la montaña Yulei cambian a través de tiempos antiguos y modernos. El gobierno del Polo Norte nunca cambiará; los bandidos de la montaña Occidental no deben invadir. Lamentablemente, el templo del último gobernante sigue en pie; al anochecer, recito casualmente 'Liang Fu Yin'.\nGramática: El poema utiliza frases paralelas, como 'Flores cerca del alto edificio' y 'muchas dificultades', 'primavera del río Jinjiang' y 'nubes flotantes sobre Yulei'.\nReferencias: 'Liang Fu Yin' fue compuesto por Zhuge Liang, expresando preocupación por el país y su gente.\nImágenes: Alto edificio, río Jinjiang, montaña Yulei, Polo Norte, montaña Occidental, etc., transmiten la ansiedad del poeta por el destino de la nación.\nContexto histórico: Escrito después de la rebelión de An Lushan, durante un período de disturbios en la dinastía Tang.",
+        "ar": "الزهور بالقرب من البناء العالي تحزن قلب المسافر؛ في أوقات المصاعب العديدة، أتسلق هذه الارتفاع. لون الربيع لنهر جينجيانغ يبدو ملء السماء والأرض؛ السحب العائمة فوق جبل يولي تتغير عبر الزمن القديم والحديث. الحكومة في القطب الشمالي لن تتغير أبدًا؛ لا يجب على اللصوص في الجبل الغربي أن يغزوا. ياللأسف، معبد الحاكم الأخير لا يزال قائمًا؛ عند المغيب، أتغنى بشكل عرضي بـ'ليانغ فوي ين'.\nالنحو: يستخدم الشعر جمل متوازية، مثل 'الزهور بالقرب من البناء العالي' و'المصاعب العديدة'، 'لون الربيع لنهر جينجيانغ' و'السحب العائمة فوق يولي'.\nالإحالات: 'ليانغ فوي ين' كتبه تشوغه ليانغ، يعبر عن القلق على البلاد والناس.\nالصور: البناء العالي، نهر جينجيانغ، جبل يولي، القطب الشمالي، الجبل الغربي، إلخ، تنقل قلق الشاعر على مصير الأمة.\nالخلفية التاريخية: كتب بعد تمرد أن لوشان، خلال فترة من الاضطرابات في عهد سلالة تانغ."
+    },
+    "appreciations": {
+        "zh": "《登楼》一诗主题思想深刻，表达了诗人忧国忧民的情怀。写作特色鲜明，运用对比、象征等手法，将自然景色与历史变迁巧妙结合。艺术成就高，语言凝练，意境深远，展现诗人高超的艺术造诣。情感分析上，诗中流露出对国家动荡的忧虑和对历史人物的同情。在文学史上，此诗被誉为杜甫的代表作之一，对后世文学创作产生了深远影响。",
+        "en": "The poem 'Climbing the Tower' profoundly reflects the poet's concern for the country and its people. Its writing style is distinctive, employing contrasts and symbols to skillfully blend natural scenery with historical changes. The artistic achievement is remarkable, with concise language and profound imagery, showcasing the poet's exceptional artistry. Emotionally, the poem conveys worries about national turmoil and sympathy for historical figures. In literary history, this poem is celebrated as one of Du Fu's masterpieces, exerting a lasting influence on later literary works.",
+        "ja": "《登楼》の詩は、詩人の国と民に対する深い憂慮を表現している。書き方の特色は明確で、対比や象徴などの手法を用いて、自然の風景と歴史の変遷を巧みに結びつけている。芸術的成就是高く、簡潔な言葉と深遠な情景が詩人の優れた芸術性を示している。感情分析では、国家の動乱に対する憂慮と歴史上の人物への同情が感じられる。文学史上、この詩は杜甫の代表作の一つとして評価され、後世の文学創作に大きな影響を与えた。",
+        "es": "El poema 'Subir a la Torre' refleja profundamente la preocupación del poeta por el país y su gente. Su estilo de escritura es distintivo, utilizando contrastes y símbolos para combinar hábilmente el paisaje natural con los cambios históricos. El logro artístico es notable, con un lenguaje conciso y una imaginería profunda, mostrando la excepcional habilidad artística del poeta. En el análisis emocional, el poema expresa la preocupación por la agitación nacional y la simpatía por las figuras históricas. En la historia de la literatura, este poema es aclamado como una de las obras maestras de Du Fu, ejerciendo una influencia duradera en las creaciones literarias posteriores.",
+        "ar": "القصيدة 'صعود البرج' تعبر بعمق عن قلق الشاعر تجاه البلاد والناس. يتميز أسلوب الكتابة بوضوح، باستخدام المقارنات والرموز لدمج المناظر الطبيعية بالتغيرات التاريخية بشكل ماهر. الإنجاز الفني متميز، بلغة موجزة وتصورات عميقة، يظهر براعة الشاعر الفنية. في التحليل العاطفي، تعبر القصيدة عن القلق من اضطرابات الوطن والتعاطف مع الشخصيات التاريخية. في تاريخ الأدب، تُعتبر هذه القصيدة واحدة من روائع دو فو، ولها تأثير كبير على الأعمال الأدبية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "高楼近处花开，却伤了游子的心，万般艰难中我登上此楼。锦江的春色弥漫天地，玉垒的浮云变幻古今。北极的朝廷始终如一，西山的盗寇切莫侵犯。可怜那后主还在祠庙中，日暮时分姑且吟咏《梁甫吟》。",
+            "en": "Flowers near the high tower sadden the traveler's heart, amidst myriad troubles I ascend. The spring scenery of Jinjiang fills the world, the floating clouds of Yulei change through ages. The Northern Court remains unchanged, the bandits of the Western Hills, do not invade. Pitifully, the late ruler still dwells in the temple, at dusk, I chant the 'Liangfu Song' in passing.",
+            "ja": "高楼下の花は旅人の心を傷つけ、万難の中でこの楼に登る。錦江の春色は天地に満ち、玉塁の浮雲は古今に変わりゆく。北極の朝廷は変わらず、西山の盗賊よ侵すなかれ。哀れな後主は祠にあり、日暮れに《梁甫吟》をやむなく詠む。",
+            "es": "Las flores cerca del alto edificio lastiman el corazón del viajero, en medio de tantas dificultades subo aquí. El paisaje de primavera del Río Jin llena el cielo y la tierra, las nubes flotantes de Yulei cambian a través de los tiempos. La corte del Norte nunca cambia, los bandidos de la Montaña del Oeste, no invadan. Lamentablemente, el último rey aún está en el templo, al anochecer, recito el 'Canto de Liangfu' a modo de distracción.",
+            "ar": "الزهور قرب البرج العالي تؤذي قلب المسافر، في وسط كل الصعاب أتسلق هنا. جمال ربيع نهر جين يملأ السماء والأرض، السحب العائمة لقمة يولي تتغير عبر العصور. الحكومة في القطب الشمالي لا تتغير، لصوص الجبل الغربي لا تقتربوا. ياللأسف، الملك الأخير ما زال في المعبد، عند غروب الشمس، أغني 'أنشودة ليانغفو' بشكل عابر."
+        },
+        "title_translation": {
+            "zh": "登楼",
+            "en": "Ascending the Tower",
+            "ja": "楼に登る",
+            "es": "Subiendo a la Torre",
+            "ar": "صعود البرج"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "花近高楼伤客心，万方多难此登临。\n锦江春色来天地，玉垒浮云变古今。\n北极朝廷终不改，西山寇盗莫相侵。\n可怜后主还祠庙，日暮聊为《梁甫吟》。",
+    "title_pinyin": "dēng lóu",
+    "pinyin": "huā jìn gāo lóu shāng kè xīn，wàn fāng duō nán cǐ dēng lín。\njǐn jiāng chūn sè lái tiān dì，yù lěi fú yún biàn gǔ jīn。\nběi jí cháo tíng zhōng bù gǎi，xī shān kòu dào mò xiāng qīn。\nkě lián hòu zhǔ hái cí miào，rì mù liáo wèi《liáng fǔ yín》。"
+}

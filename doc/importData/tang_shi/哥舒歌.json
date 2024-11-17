@@ -1,0 +1,57 @@
+{
+    "title": "哥舒歌",
+    "difficulty": 2,
+    "author": {
+        "name": "西鄙人",
+        "name_pinyin": "xī bǐ rén",
+        "image": "西鄙人.jpg",
+        "introduction": {
+            "zh": "西鄙人，唐代诗人，具体生平不详，因其诗作《哥舒歌》而知名。此诗描绘了哥舒翰镇守边疆的英勇形象，表达了边疆人民对哥舒翰的敬仰之情。诗风朴实豪迈，具有浓郁的边塞风情。",
+            "en": "Xibiren was a poet of the Tang Dynasty, whose specific life details are unknown. He is renowned for his poem 'Song of Geshu'. The poem depicts the heroic image of Geshu Han guarding the border, expressing the border people's admiration for him. The style of the poem is simple and majestic, with a strong flavor of the frontier.",
+            "ja": "西鄙人（せいひじん）は唐代の詩人で、具体的な生涯については不明である。彼の詩「哥舒歌」で知られる。この詩は、哥舒翰が国境を守る英雄的な姿を描き、国境の民が彼に対する敬愛の念を表している。詩風は質朴で豪迈で、濃厚な辺塞の風情を持つ。",
+            "es": "Xibiren fue un poeta de la dinastía Tang, cuyos detalles de vida específicos son desconocidos. Es conocido por su poema 'Canción de Geshu'. El poema retrata la imagen heroica de Geshu Han defendiendo la frontera, expresando la admiración del pueblo fronterizo hacia él. El estilo del poema es sencillo y majestuoso, con un fuerte sabor de la frontera.",
+            "ar": "شى بى رين كان شاعرًا فى عهد التانج، ولا توجد تفاصيل محددة عن حياته. اشتهر بقصيدته \"أغنية جيشو\". تتناول القصيدة صورة البطل جيشو هان وهو يدافع عن الحدود، معبرة عن إعجاب أهل الحدود به. يتميز أسلوب القصيدة بالبساطة والفخامة، ويمتاز بنكهة قوية من الحدود."
+        }
+    },
+    "annotations": {
+        "zh": "北斗七星高：北斗七星指天上的北斗星座，象征方向和权威。哥舒夜带刀：哥舒指唐代名将哥舒翰，夜带刀指他在夜间也携带武器，表示其警惕和勇猛。至今窥牧马：至今指从那时到现在，窥牧马指边境上的敌人在暗中观察牧马，意指窥探边境。不敢过临洮：临洮是唐代边防重镇，不敢过指敌人不敢越过临洮，显示了哥舒翰的威慑力。\n\n语法说明：此诗采用简洁的叙述句式，无特殊句式。\n\n典故解释：哥舒翰是唐代著名将领，曾镇守边疆，屡立战功，此诗以他的名字和事迹为典，赞扬其威猛和守边有功。\n\n意象分析：北斗七星象征权威和方向，哥舒夜带刀象征勇猛和警惕，牧马和临洮象征边疆和防御。\n\n历史背景：唐代边疆经常受到外族侵扰，哥舒翰镇守边疆，维护了国家的安全。",
+        "en": "The Big Dipper is high: The Big Dipper refers to the constellation in the sky, symbolizing direction and authority. Geshu carries a sword at night: Geshu refers to the famous Tang Dynasty general Geshu Han, carrying a sword at night indicates his vigilance and bravery. To this day, they spy on the grazing horses: To this day means from that time to now, spying on the grazing horses refers to the enemies at the border secretly observing the horses, implying border surveillance. They dare not cross Lintao: Lintao is a key border town in the Tang Dynasty, daring not to cross means the enemies do not dare to cross Lintao, showing Geshu Han's deterrent power.\n\nGrammar Explanation: This poem uses simple narrative sentences without any special sentence structures.\n\nAllusion Explanation: Geshu Han was a famous general of the Tang Dynasty who guarded the border and achieved many victories. This poem uses his name and deeds as an allusion to praise his bravery and contributions to border defense.\n\nImagery Analysis: The Big Dipper symbolizes authority and direction, Geshu carrying a sword at night symbolizes bravery and vigilance, and the grazing horses and Lintao symbolize the border and defense.\n\nHistorical Background: During the Tang Dynasty, the borders were frequently harassed by foreign tribes. Geshu Han guarded the border and maintained national security.",
+        "ja": "北斗七星高：北斗七星は天の北斗星座を指し、方向と権威の象徴である。哥舒夜带刀：哥舒は唐代の名将哥舒翰を指し、夜带刀は彼が夜にも武器を携帯することを示し、警戒心と勇猛さを表す。至今窥牧马：至今はその時から現在までを指し、窥牧马は境界のの敵が牧馬をこっそり観察することを意味し、境界を伺うことを示す。不敢过临洮：临洮は唐代の辺防の重要な町であり、不敢过は敵が临洮を越えられないことを意味し、哥舒翰の威嚇力を示す。\n\n文法説明：この詩は簡潔な叙述文を使用しており、特殊な文法はない。\n\n典故説明：哥舒翰は唐代の著名な将軍であり、辺境を守り多くの戦功を挙げた。この詩は彼の名前と事績を典として、彼の勇猛さと辺防への貢献を称賛している。\n\n意象分析：北斗七星は権威と方向を象徴し、哥舒夜带刀は勇猛さと警戒心を象徴し、牧馬と临洮は境界と防衛を象徴する。\n\n歴史背景：唐代には辺境がしばしば外族の侵攻を受けた。哥舒翰は辺境を守り、国家安全を維持した。",
+        "es": "El Cauce Mayor está alto: El Cauce Mayor se refiere a la constelación en el cielo, simbolizando dirección y autoridad. Geshu lleva una espada por la noche: Geshu se refiere al famoso general de la dinastía Tang, Geshu Han, llevar una espada por la noche indica su vigilancia y valentía. Hasta hoy espían los caballos pastando: Hasta hoy significa desde ese tiempo hasta ahora, espían los caballos pastando se refiere a los enemigos en la frontera que observan secretamente los caballos, implicando vigilancia fronteriza. No se atreven a cruzar Lintao: Lintao es una ciudad clave en la frontera de la dinastía Tang, no se atreven a cruzar significa que los enemigos no se atreven a cruzar Lintao, mostrando el poder disuasorio de Geshu Han.\n\nExplicación Gramatical: Este poema utiliza frases narrativas simples sin estructuras gramaticales especiales.\n\nExplicación de la Alusión: Geshu Han fue un famoso general de la dinastía Tang que defendió la frontera y logró muchas victorias. Este poema usa su nombre y hechos como una alusión para elogiar su valentía y contribuciones a la defensa fronteriza.\n\nAnálisis de Imágenes: El Cauce Mayor simboliza autoridad y dirección, Geshu llevando una espada por la noche simboliza valentía y vigilancia, y los caballos pastando y Lintao simbolizan la frontera y la defensa.\n\nContexto Histórico: Durante la dinastía Tang, las fronteras eran frecuentemente acosadas por tribus extranjeras. Geshu Han defendió la frontera y mantuvo la seguridad nacional.",
+        "ar": "البروج السبعة عالية: البروج السبعة تشير إلى مجموعة النجوم في السماء، وتعني الاتجاه والسلطة. جيشو يحمل سيفاً في الليل: جيشو يشير إلى القائد الشهير في عهد التانغ جيشو هان، يحمل سيفاً في الليل يشير إلى حذره وشجاعته. حتى الآن يتجسسون على الخيول الراعية: حتى الآن يعني من ذلك الوقت حتى الآن، يتجسسون على الخيول الراعية يشير إلى الأعداء على الحدود يراقبون الخيول سراً، مما يعني مراقبة الحدود. لا يجرؤون على عبور لينتاو: لينتاو هي مدينة حدودية مهمة في عهد التانغ، لا يجرؤون على عبور يعني أن الأعداء لا يجرؤون على عبور لينتاو، مما يظهر قوة ردع جيشو هان.\n\nشرح النحو: هذا الشعر يستخدم جملة سردية بسيطة دون أي بناء نحوي خاص.\n\nشرح الأمثال: جيشو هان كان قائداً مشهوراً في عهد التانغ الذي دافع عن الحدود وأحرز انتصارات عديدة. يستخدم هذا الشعر اسمه وأفعاله كإشارة لإشادة بشجاعته وتقديماته للدفاع عن الحدود.\n\nتحليل الصور: البروج السبعة ترمز إلى السلطة والاتجاه، جيشو يحمل سيفاً في الليل ترمز إلى الشجاعة والحذر، والخيول الراعية ولينتاو ترمز إلى الحدود والدفاع.\n\nالخلفية التاريخية: خلال عهد التانغ، كانت الحدود تتعرض بشكل متكرر لهجمات القبائل الأجنبية. دافع جيشو هان عن الحدود و maintained الأمن الوطني."
+    },
+    "appreciations": {
+        "zh": "《哥舒歌》通过描绘哥舒夜带刀的英勇形象，表达了边疆人民对哥舒翰的敬仰和对其守边功绩的赞美。主题思想是歌颂边疆将领的英勇和国家的安定。写作特色上，诗人用简洁明快的语言和生动的意象，如北斗七星高悬，形象地突出了哥舒的威武。艺术成就方面，诗歌以短小精悍的篇幅，展现了宏大的主题，具有很高的艺术价值。情感分析上，诗中流露出对哥舒的崇敬和对边疆安定的欣慰。影响意义上，此诗在文学史上具有重要地位，成为唐代边塞诗的代表作之一。",
+        "en": "The poem 'Ge Shu Song' depicts the heroic image of Ge Shu carrying a sword at night, expressing the frontier people's admiration for Ge Shu Han and their praise for his achievements in guarding the border. The main theme is to celebrate the bravery of the frontier generals and the stability of the country. In terms of writing style, the poet uses concise and vivid language and imagery, such as the high hanging北斗七星, to highlight Ge Shu's might. In terms of artistic achievement, the poem, with its short and powerful length, presents a grand theme and has high artistic value. Emotionally, the poem conveys reverence for Ge Shu and relief for the stability of the border. In terms of influence, this poem holds an important position in literary history, becoming one of the representative works of Tang Dynasty border poetry.",
+        "ja": "『哥舒歌』は、哥舒が夜刀を帯びる英勇な姿を描き、辺境の民が哥舒翰に対する敬仰とその守辺の功績への賛美を表現しています。主題思想は、辺境の将軍の勇敢さと国家の安定を讃えることです。表現手法としては、詩人は簡潔明快な言葉と生き生きとしたイメージ、たとえば北斗七星が高くかかる様子を用い、哥舒の威武を形象化しています。芸術的成果としては、短くて力強い詩形で壮大な主題を展開し、高い芸術価値を持っています。感情分析では、哥舒に対する崇敬と辺境の安定に対する安堵が感じられます。影響の意味では、この詩は文学史上重要な地位を占め、唐代辺塞詩の代表作の一つとなっています。",
+        "es": "El poema 'Canción de Ge Shu' retrata la imagen heroica de Ge Shu portando una espada durante la noche, expresando la admiración del pueblo fronterizo hacia Ge Shu Han y su elogio por sus logros en la defensa de la frontera. El tema principal es celebrar la valentía de los generales fronterizos y la estabilidad del país. En cuanto al estilo de escritura, el poeta utiliza un lenguaje conciso y vivo, así como imágenes vívidas, como la alta presencia de las Siete Estrellas del Norte, para resaltar la majestuosidad de Ge Shu. En términos de logro artístico, el poema, con su extensión breve y poderosa, presenta un tema grandioso y posee un alto valor artístico. En el análisis emocional, el poema transmite reverencia hacia Ge Shu y alivio por la estabilidad de la frontera. En cuanto a su significado e influencia, este poema ocupa un lugar importante en la historia de la literatura, convirtiéndose en una de las obras representativas de la poesía fronteriza de la dinastía Tang.",
+        "ar": "القصيدة 'أغنية جو شو' تصور صورة البطل جو شو حاملاً السيف في الليل، تعبيراً عن إعجاب شعب الحدود بجو شو هان وتقديرهم لإنجازاته في حراسة الحدود. الفكرة الرئيسية هي الاحتفال بشجاعة قادة الحدود واستقرار البلاد. فيما يتعلق بأسلوب الكتابة، يستخدم الشاعر لغة موجزة وواضحة، وصور حية، مثل ارتفاع النجوم السبعة في الشمال، لإبراز عظمة جو شو. من حيث الإنجاز الفني، تقدم القصيدة، بطولها القصير والقوي، موضوعاً عظيماً ولها قيمة فنية عالية. في تحليل العواطف، تعبر القصيدة عن إجلال لجو شو وارتياح لاستقرار الحدود. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، لتصبح واحدة من أعمال الشعر الحدودي البارزة في عهد أسرة تانغ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "北斗七星高悬，哥舒夜晚佩刀。\n至今胡人窥探牧马，不敢越过临洮。",
+            "en": "The Big Dipper hangs high, Geshu nights with sword in tow.\nTo this day, nomads spy on horses, dare not crossLintao.",
+            "ja": "北斗七星が高く輝き、哥舒は夜に刀を帯び。\n今も牧馬を窺う者は、臨洮を越えられず。",
+            "es": "El Cazo Grande brilla alto, Geshu lleva espada en noches.\nHasta hoy, nómadas espían caballos, no osan cruzar Lintao.",
+            "ar": "النجم السبع مرتفع، يرتدي جيشو السيف في الليل.\nحتى الآن، يراقب البدو الخيول، لا يجرؤون على تجاوز لينتاو."
+        },
+        "title_translation": {
+            "zh": "哥舒歌",
+            "en": "Geshu Song",
+            "ja": "哥舒歌",
+            "es": "Canción de Geshu",
+            "ar": "أغنية جيشو"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "北斗七星高，哥舒夜带刀。\n至今窥牧马，不敢过临洮。",
+    "title_pinyin": "gē shū gē",
+    "pinyin": "běi dòu qī xīng gāo，gē shū yè dài dāo。\nzhì jīn kuī mù mǎ，bù gǎn guò lín táo。"
+}

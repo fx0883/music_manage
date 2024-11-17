@@ -1,0 +1,57 @@
+{
+    "title": "秋夕",
+    "difficulty": 2,
+    "author": {
+        "name": "杜牧",
+        "name_pinyin": "dù mù",
+        "image": "杜牧.jpg",
+        "introduction": {
+            "zh": "杜牧（803年－852年），字牧之，号樊川居士，唐代著名诗人、文学家。他的诗歌风格清新俊逸，内容广泛，尤以七言绝句著称，与李商隐并称“小李杜”。代表作有《泊秦淮》、《赤壁》等。杜牧的诗歌多反映社会现实，表达对国家和人民的深切关怀。",
+            "en": "Du Mu (803-852), styled Muzhi and known as the Hermit of Fanchuan, was a renowned poet and literary figure of the Tang Dynasty. His poetry is characterized by a fresh and elegant style, covering a wide range of topics, particularly noted for his seven-character quatrains. He is often mentioned alongside Li Shangyin as the 'Little Li Du'. His famous works include 'Mooring on the Qinhuai River' and 'The Red Cliffs'. Du Mu's poems frequently reflect social realities and express deep concern for the country and its people.",
+            "ja": "杜牧（803年－852年）、字は牧之、号は樊川居士、唐代の著名な詩人、文学者。彼の詩風は清新で俊逸、内容は広範で、特に七言絶句で知られ、李商隠と並び「小李杜」と称される。代表作に「泊秦淮」、「赤壁」などがある。杜牧の詩はしばしば社会の現実を反映し、国と人民への深い関心を表している。",
+            "es": "Du Mu (803-852), conocido por su nombre de cortesía Muzhi y su seudónimo Hermitaño de Fanchuan, fue un destacado poeta y literato de la dinastía Tang. Su poesía se caracteriza por un estilo fresco y elegante, con una amplia gama de temas, siendo especialmente famoso por sus cuartetos de siete caracteres. Se le menciona a menudo junto a Li Shangyin como el 'Pequeño Li Du'. Entre sus obras más famosas se encuentran 'Anclado en el Río Qinhuai' y 'Las Riscas Rojas'. La poesía de Du Mu a menudo refleja realidades sociales y expresa una profunda preocupación por el país y su gente.",
+            "ar": "دو مو (803-852)، المعروف بلقبه مو زي واسمه المستعار راهب فانشوان، كان شاعرًا ومفكرًا أدبيًا بارزًا في عهد أسرة تانغ. تميزت قصائده بأسلوبها العذب والزخرفي، وتناولت مواضيع شتى، واشتهرت بشكل خاص بأرباعياته ذات السبعة حروف. غالبًا ما يُذكر جنبًا إلى جنب مع لي شانغيين كـ 'اللي الصغير'. من أشهر أعماله 'الرسو على نهر تشينهواي' و 'الجروف الحمراء'. تعكس قصائد دو مو في كثير من الأحيان حقائق اجتماعية وتعبر عن اهتمام عميق بالبلاد وشعبها."
+        }
+    },
+    "annotations": {
+        "zh": "银烛：银白色的蜡烛。秋光：秋天的月光。冷画屏：画屏显得冷清。轻罗小扇：用轻薄的丝罗制成的小扇子。扑流萤：扑打飞舞的萤火虫。天阶：皇宫中的石阶。夜色凉如水：夜晚的凉意如同冷水一般。卧看：躺着观看。牵牛织女星：指牵牛星和织女星，寓意牛郎织女的传说。",
+        "en": "Silver candles: candles with a silver hue. Autumn light: the light of the autumn moon. Cold painted screen: the painted screen appears cold and desolate. Light silk fan: a small fan made of light silk. Catching fireflies: trying to catch flying fireflies. Heavenly steps: the stone steps in the imperial palace. Night color cool as water: the coolness of the night is like cold water. Lying down to watch: watching while lying down. Altair and Vega: referring to the stars Altair and Vega, symbolizing the legend of the Cowherd and the Weaver Girl.",
+        "ja": "銀燭：銀色のろうそく。秋光：秋の月の光。冷画屏：絵の屏風が冷たく見える。軽羅小扇：軽い絹で作られた小さな扇子。扑流螢：飛んでいる蛍を捕まえる。天階：宮殿の石段。夜色涼如水：夜の涼しさが水のように感じる。臥看：寝転がって見る。牽牛織女星：牽牛星と織女星を指し、牛郎織女の伝説を示す。",
+        "es": "Candelas de plata: velas de color plateado. Luz de otoño: la luz de la luna en otoño. Pintura fría en la pantalla: la pantalla pintada parece fría y solitaria. Abanico pequeño de seda ligera: un abanico pequeño hecho de seda ligera. Atrapar luciérnagas: intentar atrapar luciérnagas voladoras. Escalones celestiales: los escalones de piedra en el palacio imperial. El color de la noche fresco como el agua: la frescura de la noche es como el agua fría. Mirar acostado: mirar mientras está acostado. Estrellas de la Vaca y la Hija del Tejedor: se refiere a las estrellas Altair y Vega, simbolizando la leyenda del Vaquero y la Hilandera.",
+        "ar": "الشموع الفضية: شموع بلون فضي. ضوء الخريف: ضوء القمر في الخريف. شاشة باردة مرسومة: يبدو أن الشاشة المرسومة باردة ووحيدة. مروحة صغيرة من الحرير الخفيف: مروحة صغيرة مصنوعة من الحرير الخفيف. اصطياد اليراعات: محاولة اصطياد اليراعات الطائرة. الدرج السماوي: درج الحجر في القصر الإمبراطوري. لون الليل بارد كالماء: برودة الليل مثل الماء البارد. النظر وهو مستلقي: النظر وهو مستلقي على السرير. نجوم الثور والخياطة: يشير إلى النجوم ألتاير وفيجا، يمثلان أسطورة الثور والخياطة."
+    },
+    "appreciations": {
+        "zh": "《秋夕》这首诗通过描绘秋夜宫中的冷清景象，表达了宫女孤独寂寞的情感。主题思想在于反映宫女内心的孤寂和对自由生活的向往。写作特色上，诗人运用了细腻的描写手法，如\"银烛秋光冷画屏\"、\"轻罗小扇扑流萤\"，生动地刻画了秋夜的冷清和宫女的闲愁。艺术成就方面，诗句简洁而意境深远，画面感强烈，具有较高的艺术价值。情感分析上，诗中流露出宫女对美好生活的渴望和对现实无奈的感伤。影响意义上，这首诗在文学史上被视为唐代宫怨诗的代表作，对后世诗歌创作产生了深远影响。",
+        "en": "The poem 'Autumn Night' depicts the cold and desolate scene in the palace during autumn, expressing the loneliness and solitude of the palace maid. The main theme reflects the inner loneliness of the palace maid and her yearning for a free life. In terms of writing style, the poet uses delicate descriptive techniques, such as 'Silver candles and autumn light on the cold painted screen' and 'Gently waving a silk fan to catch fireflies', vividly portraying the coldness of the autumn night and the idle worries of the palace maid. Artistically, the verses are concise yet profound, with a strong sense of imagery, possessing high artistic value. Emotionally, the poem reveals the palace maid's longing for a better life and her sorrow over the helplessness of reality. In terms of influence, this poem is regarded as a representative work of Tang Dynasty palace抱怨 poetry, having a profound impact on later poetic creations.",
+        "ja": "「秋夕」は、秋の夜に宮中の冷たい情景を描き、宮女の孤独と寂寥を表現しています。主題思想は、宮女の内面の孤独と自由な生活への憧れを反映しています。表現手法としては、「銀烛秋光冷画屏」、「軽羅小扇扑流蛍」などの細やかな描写を用い、秋の夜の冷たさと宮女の暇愁を生き生きと描いています。芸術的成就としては、詩句は簡潔でありながら意境が深く、画面感が強く、高い芸術価値を持っています。感情分析では、詩には宮女が美しい生活への渴望と現実の無力さに対する感傷がにじみ出ています。影響の意味では、この詩は唐代の宮怨詩の代表作とされ、後世の詩作に大きな影響を与えました。",
+        "es": "El poema 'Noche de Otoño' retrata la escena fría y solitaria del palacio en otoño, expresando la soledad y el aislamiento de la doncella de palacio. El tema principal refleja la soledad interna de la doncella y su anhelo por una vida libre. En cuanto a la técnica de escritura, el poeta utiliza descripciones delicadas, como 'Lámparas de plata y luz de otoño en la pantalla fría' y 'Abanicando con un lecho de seda para atrapar luciérnagas', retratando vívidamente el frío de la noche de otoño y la melancolía ociosa de la doncella. Artísticamente, los versos son concisos pero profundos, con una fuerte sensación de imagen, poseyendo un alto valor artístico. En el análisis emocional, el poema revela el deseo de la doncella por una vida mejor y su tristeza por la impotencia de la realidad. En términos de influencia, este poema se considera una obra representativa de la poesía de quejas de palacio de la dinastía Tang, teniendo un impacto profundo en la creación poética posterior.",
+        "ar": "القصيدة 'ليل الخريف' تصور المشهد البارد والوحيد في القصر خلال الخريف، تعبيراً عن الوحدة والانعزال التي تشعر بها فتاة القصر. الفكرة الرئيسية تعكس الوحدة الداخلية للفتاة ورغبتها في حياة حرة. من حيث الأسلوب الكتابي، يستخدم الشاعر وصفاً دقيقاً، مثل 'الشموع الفضية وأضواء الخريف على الشاشة الباردة' و 'تحريك مروحة من خيش رقيق لاصطياد اليراعات'، يصور بوضوح برودة ليلة الخريف والكمد الباطل للفتاة. فنياً، الأبيات قصيرة ولكنها عميقة، مع شعور قوي بالصورة، تمتلك قيمة فنية عالية. في التحليل العاطفي، تكشف القصيدة عن رغبة الفتاة في حياة أفضل وحزنها على عجز الواقع. من حيث التأثير، تعتبر هذه القصيدة عملاً يمثل شعر تذمر القصر في عهد التانغ، ولها تأثير عميق على كتابة الشعر اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "银烛的秋光映照着冷清的画屏，轻罗小扇扑打着飞舞的流萤。天阶的夜色凉如冷水，卧在床上观赏牵牛星和织女星。",
+            "en": "Silver candles cast a cold glow on the painted screen in autumn, a light silk fan flutters to catch the fleeting fireflies. The night on the celestial steps is cool as water, lying down to watch the Cowherd and Weaver stars.",
+            "ja": "銀烛の秋光が冷たい絵屏に映り、軽い羅の小扇で流れ螢をはたかむ。天の階の夜色は水のように冷たく、床に卧して牵牛と織女の星を眺める。",
+            "es": "Las velas de plata proyectan una luz fría en el biombo pintado en otoño, un abanico de seda ligero persigue a las luciérnagas errantes. La noche en los escalones celestiales es fresca como el agua, acostado observando las estrellas del Boyero y la Hilandera.",
+            "ar": "تضيء الشموع الفضية ضوءًا باردًا على الشاشة المرسومة في الخريف، مروحة صغيرة من الحرير الخفيف تطارد اليراعات الطائرة. ليلة الدرج السماوي باردة كالماء، مستلقيًا أشاهد نجم الثور ونجم الغزلان."
+        },
+        "title_translation": {
+            "zh": "秋夕",
+            "en": "Autumn Evening",
+            "ja": "秋の夕べ",
+            "es": "Noche de Otoño",
+            "ar": "ليلة الخريف"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "银烛秋光冷画屏，轻罗小扇扑流萤。\n天阶夜色凉如水，卧看牵牛织女星。\n",
+    "title_pinyin": "qiū xī",
+    "pinyin": "yín zhú qiū guāng lěng huà píng，qīng luó xiǎo shàn pū liú yíng。\ntiān jiē yè sè liáng rú shuǐ，wò kàn qiān niú zhī nǚ xīng。\n"
+}

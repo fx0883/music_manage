@@ -1,0 +1,57 @@
+{
+    "title": "金谷园",
+    "difficulty": 2,
+    "author": {
+        "name": "杜牧",
+        "name_pinyin": "dù mù",
+        "image": "杜牧.jpg",
+        "introduction": {
+            "zh": "杜牧，唐代著名诗人，字牧之，号樊川居士，京兆万年（今陕西西安）人。他生于公元803年，卒于852年。杜牧的诗歌以豪放、清新、俊逸著称，尤擅长七言绝句，与李商隐并称“小李杜”。他的作品多反映社会现实，抒发个人情感，具有很高的艺术成就。代表作有《泊秦淮》、《赤壁》、《过华清宫》等。",
+            "en": "Du Mu, a renowned poet of the Tang Dynasty, styled himself as Muzhi and was also known as the Hermit of Fanchuan. He was born in 803 AD in Jingzhao (present-day Xi'an, Shaanxi) and passed away in 852 AD. Du Mu's poetry is celebrated for its boldness, freshness, and elegance, particularly his mastery of the seven-character quatrain. He is often mentioned alongside Li Shangyin as the 'Little Li Du'. His works frequently reflect social realities and express personal emotions, achieving high artistic merit. Notable works include 'Mooring on the Qinhuai River', 'Red Cliffs', and 'Passing by the Huaqing Palace'.",
+            "ja": "杜牧は唐代の著名な詩人で、字は牧之、号は樊川居士。京兆万年（現在の陝西省西安市）出身。803年生まれ、852年没。杜牧の詩は豪放、清新、俊逸で知られ、特に七言絶句に長けていた。李商隠と並んで「小李杜」と称される。彼の作品は社会現実を反映し、個人的な感情を表現しており、高い芸術的成果を上げている。代表作には「泊秦淮」、「赤壁」、「過華清宮」などがある。",
+            "es": "Du Mu, un poeta famoso de la dinastía Tang, cuyo nombre de cortesía era Muzhi y también era conocido como el Ermitaño de Fanchuan. Nació en 803 d.C. en Jingzhao (actual Xi'an, Shaanxi) y falleció en 852 d.C. La poesía de Du Mu es conocida por su audacia, frescura y elegancia, especialmente su dominio del cuarteto de siete caracteres. A menudo se menciona junto a Li Shangyin como el 'Pequeño Li Du'. Sus obras a menudo reflejan realidades sociales y expresan emociones personales, logrando un alto mérito artístico. Obras destacadas incluyen 'Anclado en el Río Qinhuai', 'Cliffes Rojos' y 'Pasar por el Palacio Huaqing'.",
+            "ar": "دو مو، شاعر مشهور من عهد التانغ، كان يُعرف بلقبه موزي، ويعرف أيضًا ب Eremita de Fanchuan. وُلد في عام 803 م في جينغتشاو (الآن شيان، شانشي) وتوفي في عام 852 م. اشتهرت شعرته بدقتها، وحداثتها، وروعتها، خاصة في قصائد السبعة أحرف. غالبًا ما يُذكر جنبًا إلى جنب مع لي شانغيين كـ 'اللي الصغير'. أعماله غالبًا ما تعكس حقائق المجتمع وتعبر عن المشاعر الشخصية، وتحقق ميزة فنية عالية. من بين أعماله البارزة 'المرساة على نهر تشينهواي'، 'الجرف الأحمر' و 'المرور عبر قصر هوا تشينغ'."
+        }
+    },
+    "annotations": {
+        "zh": "繁华事散逐香尘：繁华的往事如香尘般消散。流水无情草自春：流水无情地流逝，草木却依旧在春天生长。日暮东风怨啼鸟：日暮时分，东风吹拂，鸟儿的啼叫声显得哀怨。落花犹似坠楼人：飘落的花瓣犹如当年坠楼的美人。\n词语解释：繁华事 - 昔日的繁华盛事；香尘 - 指代奢华生活的尘土；流水无情 - 比喻时光流逝无情；草自春 - 草木自然地在春天生长；怨啼鸟 - 哀怨的鸟鸣声；坠楼人 - 指晋代石崇的爱妾绿珠坠楼自杀之事。\n语法说明：无特殊句式。\n典故解释：坠楼人指晋代石崇的爱妾绿珠，因政治斗争而坠楼自杀，象征悲剧命运。\n意象分析：香尘、流水、春草、啼鸟、落花，构成一幅春日残景，寄托了诗人对逝去繁华和悲剧命运的感慨。\n历史背景：金谷园是晋代石崇的别墅，曾极尽奢华，后因政治斗争而衰败。",
+        "en": "The bustling affairs have scattered like fragrant dust; the flowing water is heartless, but the grasses still flourish in spring. At dusk, the east wind抱怨s the crying birds; the falling flowers still resemble the lady who fell from the tower.\nWord Explanation: bustling affairs - former prosperity; fragrant dust - metaphor for luxurious life; heartless water -比喻 the relentless passage of time; grasses flourish - natural growth of plants in spring; complaining birds - melancholic bird calls; lady who fell - refers to Lu Zhu, a beloved concubine of Shi Chong in the Jin Dynasty, who committed suicide by jumping off a tower.\nGrammar Explanation: No special sentence structures.\nAllusion Explanation: The lady who fell refers to Lu Zhu, symbolizing tragic fate.\nImagery Analysis: Fragrant dust, flowing water, spring grass, crying birds, and falling flowers create a scene of spring decay, reflecting the poet's lament over lost prosperity and tragic fate.\nHistorical Background: Jin Gu Yuan was Shi Chong's villa in the Jin Dynasty, known for its extravagance, but later declined due to political struggles.",
+        "ja": "繁華な出来事は香り高い塵のように散り、流れ水は無情で草は春に自ら咲く。日暮れ時の東風が鳥の啼き声を恨み、落ちる花はまるで楼から落ちた人のように見える。\n語彙説明：繁華な出来事 - 昔の栄華；香り高い塵 - 奢華な生活の象徴；無情な水 - 時の流れの比喩；草は春に咲く - 春に自然に育つ草；恨む鳥の声 - 悲しげな鳥の鳴き声；楼から落ちた人 - 晋代の石崇の愛妾、緑珠が楼から飛び降りたこと。\n文法説明：特異な文法はない。\n典故説明：楼から落ちた人は晋代の石崇の愛妾、緑珠を指し、悲劇的な運命を象徴する。\nイメージ分析：香り高い塵、流れ水、春の草、鳥の啼き声、落ちる花が春の荒廃した風景を描き、詩人が過ぎ去った栄華と悲劇的な運命に対する感慨を表している。\n歴史背景：金谷園は晋代の石崇の別荘で、かつては豪華絢爛だったが、政治的な争いにより衰退した。",
+        "es": "Los asuntos prósperos se dispersan como polvo fragante; el agua fluye sin piedad, pero la hierba florece en primavera. Al atardecer, el viento del este se queja de los pájaros que lloran; las flores caídas aún se asemejan a la mujer que cayó del edificio.\nExplicación de palabras: asuntos prósperos - la antigua prosperidad; polvo fragante - metáfora de la vida lujosa; agua sin piedad - el paso implacable del tiempo; hierba florece - crecimiento natural de la hierba en primavera; pájaros quejándose - llamadas melancólicas de los pájaros; mujer que cayó - se refiere a Lu Zhu, una amante de Shi Chong en la dinastía Jin, que se suicidó saltando de un edificio.\nExplicación gramatical: No hay estructuras de oraciones especiales.\nExplicación de la alusión: La mujer que cayó se refiere a Lu Zhu, simbolizando un destino trágico.\nAnálisis de imágenes: Polvo fragante, agua fluyendo, hierba de primavera, pájaros llorando y flores cayendo crean una escena de decadencia primaveral, reflejando el lamento del poeta por la prosperidad perdida y el destino trágico.\nContexto histórico: Jin Gu Yuan era la villa de Shi Chong en la dinastía Jin, conocida por su extravagancia, pero más tarde decayó debido a las luchas políticas.",
+        "ar": "الامور المزدهرة تتفرق كالغبار العطري؛ والماء يجري بلا رحمة، لكن العشب يزدهر في الربيع. عند المغيب، يعترض الريح الشرقية على أصوات الطيور الباكية؛ والزهور المتساقطة لا تزال تشبه المرأة التي سقطت من البناء.\nشرح الكلمات: الأمور المزدهرة - الازدهار السابق؛ الغبار العطري - مجاز للحياة الفاخرة؛ الماء بلا رحمة - استعارة لمرور الزمن بلا رحمة؛ العشب يزدهر - نمو العشب بشكل طبيعي في الربيع؛ الطيور الباكية - أصوات الطيور الحزينة؛ المرأة التي سقطت - تشير إلى لوزو، محبوبة شي تشونغ في عهد جين، التي انتحرت بالقفز من المبنى.\nشرح النحو: لا توجد بنى جمل خاصة.\nشرح الإسقاط: المرأة التي سقطت تشير إلى لوزو، وتعبر عن المصير المأساوي.\nتحليل الصور: الغبار العطري، الماء الجاري، عشب الربيع، الطيور الباكية، والزهور المتساقطة تشكل مشهداً لانحطاط الربيع، تعبر عن حزن الشاعر على الازدهار الضائع والمصير المأساوي.\nالخلفية التاريخية: كانت جين غو يوان فيلا لشي تشونغ في عهد جين، معروفة بفخامتها، ولكنها تدهورت بسبب الصراعات السياسية."
+    },
+    "appreciations": {
+        "zh": "《金谷园》一诗通过对金谷园昔日繁华与今日荒凉的对比，表达了诗人对世事无常、人生短暂的感慨。诗中运用了借景抒情的手法，以流水、春草、啼鸟、落花等自然景物，营造出一种凄凉、哀怨的氛围。艺术上，诗人巧妙地将自然景象与历史事件相结合，增强了诗歌的感染力和深度。情感上，诗人抒发了对往昔盛景的怀念和对现实衰败的无奈。在文学史上，这首诗以其深刻的主题和精湛的艺术手法，成为唐代怀古诗歌的代表作之一。",
+        "en": "The poem 'Jin Gu Yuan' contrasts the former prosperity of the Jin Gu Garden with its present desolation, expressing the poet's reflections on the impermanence of worldly affairs and the brevity of life. The poem employs the technique of using scenery to convey emotions, with elements like flowing water, spring grass, crying birds, and falling flowers creating a melancholic and жалобный atmosphere. Artistically, the poet skillfully combines natural scenes with historical events, enhancing the poem's emotional impact and depth. Emotionally, the poet expresses nostalgia for the past glories and a sense of helplessness towards the present decline. In the history of literature, this poem stands out as a representative work of Tang Dynasty's nostalgic poetry due to its profound theme and exquisite artistic techniques.",
+        "ja": "《金谷園》の詩は、金谷園の昔日の繁栄と今日の荒涼との対比を通じて、詩人が世事の無常や人生の短さに対する感慨を表現しています。詩中では借景抒情の手法が用いられ、流水、春草、啼鳥、落花などの自然景物を用いて、悲涼で哀愁に満ちた雰囲気を作り出しています。芸術的には、詩人は自然の景象と歴史的事件を巧みに結びつけ、詩の感染力と深みを増しています。感情面では、詩人は過去の盛景に対する懐かしさと現実の衰退に対する無力感を抒発しています。文学史上、この詩はその深い主題と精緻な芸術手法により、唐代の懐古詩の代表作の一つとして位置づけられています。",
+        "es": "El poema 'Jin Gu Yuan' contrasta la antigua prosperidad del Jardín Jin Gu con su actual desolación, expresando la reflexión del poeta sobre la impermanencia de los asuntos mundanos y la brevedad de la vida. El poema utiliza la técnica de expresar emociones a través del paisaje, con elementos como el agua fluyente, la hierba de primavera, los pájaros que lloran y las flores que caen, creando una atmósfera melancólica y quejumbrosa. Artísticamente, el poeta combina hábilmente los paisajes naturales con eventos históricos, aumentando el impacto emocional y la profundidad del poema. Emocionalmente, el poeta expresa nostalgia por las glorias pasadas y una sensación de impotencia ante el declive actual. En la historia de la literatura, este poema se destaca como una obra representativa de la poesía nostálgica de la dinastía Tang debido a su tema profundo y sus técnicas artísticas exquisitas.",
+        "ar": "القصيدة 'جين غو يوان' تقارن بين ازدهار حديقة جين غو في الماضي وخرابها في الحاضر، تعبيراً عن تأملات الشاعر في زوال الأمور الدنيوية و قصر الحياة. تستخدم القصيدة تقنية التعبير عن العواطف من خلال المناظر الطبيعية، باستخدام عناصر مثل المياه الجارية، العشب الربيعي، الطيور النادبة و الأزهار المتساقطة، لخلق جو حزين و مأساوي. فنياً، يجمع الشاعر ببراعة المناظر الطبيعية بالأحداث التاريخية، مما يزيد من تأثير القصيدة العاطفي وعمقها. عاطفياً، يعبر الشاعر عن الشوق للأيام الخوالي والشعور بالعجز أمام التدهور الحالي. في تاريخ الأدب، تبرز هذه القصيدة كواحدة من أعمال الشعر النوستالجي البارزة في عهد التانغ بفضل موضوعها العميق وتقنياتها الفنية الراقية."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "繁华往事随香尘消散，流水无情草木自绿春常在。日暮东风中鸟鸣声含怨，落花飘零犹如那坠楼人。",
+            "en": "The glories of the past fade with the fragrant dust, the heartless stream flows on while grasses spring in spring. At dusk, the east wind carries the抱怨 of crying birds, the falling flowers still resemble the lady who leapt from the tower.",
+            "ja": "華やかなりし事は香塵と共に散り、流れ水は無情に草は自ら春を告げる。日暮れ東風鳥の啼き声に怨みを含み、落ち花はまだ楼より墜ちし人に似る。",
+            "es": "Las glorias pasadas se desvanecen con el polvo aromático, el río sin piedad fluye mientras la hierba florece en primavera. Al anochecer, el viento del este trae el lamento de los pájaros, las flores caídas aún se asemejan a la mujer que cayó del edificio.",
+            "ar": "تتلاشى مجد الأيام الخوالي مع غبار العبير، يتدفق النهر بلا رحمة والنباتات تزدهر في الربيع. عند غروب الشمس، يحمل الرياح الشرقية شكوى تغريد الطيور، تتساقط الأزهار وكأنها المرأة التي سقطت من البرج."
+        },
+        "title_translation": {
+            "zh": "金谷园",
+            "en": "Jin Gu Garden",
+            "ja": "金谷園",
+            "es": "Jardín Jin Gu",
+            "ar": "حديقة جين جو"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "繁华事散逐香尘，流水无情草自春。\n日暮东风怨啼鸟，落花犹似坠楼人。",
+    "title_pinyin": "jīn gǔ yuán",
+    "pinyin": "fán huá shì sàn zhú xiāng chén，liú shuǐ wú qíng cǎo zì chūn。\nrì mù dōng fēng yuàn tí niǎo，luò huā yóu shì zhuì lóu rén。"
+}

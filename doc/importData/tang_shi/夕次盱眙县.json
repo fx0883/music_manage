@@ -1,0 +1,57 @@
+{
+    "title": "夕次盱眙县",
+    "difficulty": 2,
+    "author": {
+        "name": "韦应物",
+        "name_pinyin": "wéi yīng wù",
+        "image": "韦应物.jpg",
+        "introduction": {
+            "zh": "韦应物（约737-792），唐代著名诗人，京兆万年（今陕西西安）人。早年曾任三卫郎，后因安史之乱流落江南，曾任滁州、江州、苏州等地刺史，世称“韦苏州”。其诗多写山水田园，风格清新自然，与王维、孟浩然、柳宗元并称“山水田园四大家”。代表作有《观田家》、《滁州西涧》等。",
+            "en": "Wei Yingwu (approx. 737-792) was a renowned poet of the Tang Dynasty, born in Jingzhao Wan'an (present-day Xi'an, Shaanxi). He initially served as a guard officer but was displaced to the south during the An Lushan Rebellion. He later held positions as the prefect of Chuzhou, Jiangzhou, and Suzhou, and was known as 'Wei of Suzhou'. His poetry often depicted landscapes and rural life, characterized by a fresh and natural style. He is grouped with Wang Wei, Meng Haoran, and Liu Zongyuan as the 'Four Masters of Landscape and Pastoral Poetry'. Notable works include 'Observing the Peasants' and 'The West Stream of Chuzhou'.",
+            "ja": "韦應物（約737-792年）は、唐代の著名な詩人で、京兆万年（現在の陝西省西安市）出身。若い頃は三衛郎として仕え、後に安史の乱で江南に流れ、滁州、江州、蘇州などの刺史を務めた。『韦蘇州』と称される。彼の詩は山水や田園を多く描き、清新で自然なスタイルが特徴。王維、孟浩然、柳宗元と共に「山水田園詩の四大家」と並び称される。代表作に『観田家』、『滁州西渓』などがある。",
+            "es": "Wei Yingwu (aprox. 737-792) fue un poeta destacado de la dinastía Tang, nacido en Jingzhao Wan'an (actual Xi'an, Shaanxi). Inicialmente sirvió como oficial de guardia, pero fue desplazado al sur durante la Rebelión de An Lushan. Más tarde, ocupó cargos como prefecto de Chuzhou, Jiangzhou y Suzhou, y fue conocido como 'Wei de Suzhou'. Su poesía a menudo describía paisajes y vida rural, con un estilo fresco y natural. Es agrupado con Wang Wei, Meng Haoran y Liu Zongyuan como los 'Cuatro Maestros de la Poesía Paisajística y Pastoral'. Obras notables incluyen 'Observando a los Campesinos' y 'El Arroyo Occidental de Chuzhou'.",
+            "ar": "wei yingwu (حوالي 737-792) كان شاعرًا مشهورًا في عهد التانغ، وُلد في جينغتشاو وانيان (الآن شيان، شانشي). بدأ حياته المهنية كضابط حراسة لكن تم نقله إلى الجنوب خلال تمرد أن لوشان. لاحقًا شغل مناصب كحاكم لـ تشوزو، جيانغتشو، وسوتشو، واشتهر بـ 'wei من سوتشو'. قصائده غالبًا ما تصف المناظر الطبيعية والحياة الريفية بأسلوب طازج وغير مصطنع. يُصنف مع وانغ في، مينغ هاوران، وليو زونغيان كـ 'أربعة كبار شعراء للمناظر الطبيعية والشعر الريفي'. من أعماله البارزة 'مراقبة الفلاحين' و 'التيار الغربي لـ تشوزو'."
+        }
+    },
+    "annotations": {
+        "zh": "落帆：降下帆篷。逗：停留。淮镇：淮河边的小镇，指盱眙县。停舫：停泊船只。孤驿：孤零零的驿站。浩浩：形容风势猛烈。冥冥：昏暗的样子。日沉夕：太阳落山。山郭：山城。芦洲：长满芦苇的沙洲。秦关：指长安，诗人怀念的地方。听钟：听寺庙的钟声。未眠客：未能入睡的旅客。\n语法说明：本诗采用平仄对仗工整的律诗句式，无特殊句式。\n典故解释：无特殊典故。\n意象分析：落帆、孤驿、浩浩风、冥冥日、山郭暗、芦洲白等意象营造出一种孤寂、凄凉的氛围。\n历史背景：盱眙县位于淮河边，唐代为交通要道，诗人可能在此地停留，抒发旅途中的孤独和对家乡的思念。",
+        "en": "Luo fan (lower the sail): to lower the sail. Dou (stop): to stay. Huai zhen (Huai town): a small town on the Huai River, referring to Xuyi County. Ting fang (stop boat): to moor the boat. Gu yi (lonely inn): a solitary inn. Hao hao (vast): describing the wind as strong. Ming ming (dim): dark. Ri chen xi (the sun sets): the sun sets. Shan guo (mountain city): a city surrounded by mountains. Lu zhou (reed sandbank): a sandbank covered with reeds. Qin guan (Qin pass): refers to Chang'an, the place the poet misses. Ting zhong (listen to the bell): listening to the temple bell. Wei mian ke (sleepless traveler): a traveler who cannot sleep.\nGrammar explanation: The poem uses a regular meter with balanced tonal patterns, no special sentence structures.\nAllusion explanation: No specific allusions.\nImagery analysis: The imagery of lowering the sail, lonely inn, vast wind, dim sun, dark mountain city, and white reed sandbank creates an atmosphere of solitude and desolation.\nHistorical background: Xuyi County is located on the Huai River and was a major transportation hub during the Tang Dynasty. The poet might have stayed here, expressing his loneliness on the journey and longing for his hometown.",
+        "ja": "落帆（らくはん）：帆を降ろすこと。逗（とう）：とどまること。淮镇（わいちん）：淮河のほとりの小さな町、盱眙県を指す。停舫（ていぼう）：船を停めること。孤驿（こえき）：ひとりぼっちの駅。浩浩（こうこう）：風が強いさま。冥冥（めいめい）：暗いさま。日沉夕（にちちんせき）：太陽が沈むこと。山郭（さんかく）：山に囲まれた町。芦洲（ろしゅう）：葦で覆われた砂州。秦关（しんかん）：長安を指す、詩人が懐かしむ場所。听钟（ちょうしょう）：寺の鐘の音を聞くこと。未眠客（みみんかく）：眠れない旅人。\n文法説明：本詩は平仄対仗が整った律詩の句式を採用しており、特殊な句式はない。\n典故説明：特殊な典故はない。\n意象分析：落帆、孤驿、浩浩風、冥冥日、山郭暗、芦洲白などの意象が孤独で寂しい雰囲気を作り出している。\n歴史背景：盱眙県は淮河のほとりに位置し、唐代には交通の要所であった。詩人はここに滞在し、旅の孤独と故郷への思慕を詠んでいる。",
+        "es": "Luo fan (bajar la vela): bajar la vela. Dou (detenerse): quedarse. Huai zhen (pueblo de Huai): un pequeño pueblo en la rivera del río Huai, refiriéndose a Xuyi County. Ting fang (detener el barco): atracar el barco. Gu yi (posada solitaria): una posada solitaria. Hao hao (vasto): describiendo el viento como fuerte. Ming ming (oscuro): oscuro. Ri chen xi (puesta del sol): el sol se pone. Shan guo (ciudad montañosa): una ciudad rodeada de montañas. Lu zhou (bahía de juncos): una bahía cubierta de juncos. Qin guan (paso de Qin): se refiere a Chang'an, el lugar que el poeta extraña. Ting zhong (escuchar la campana): escuchar la campana del templo. Wei mian ke (viajero sin dormir): un viajero que no puede dormir.\nExplicación gramatical: El poema utiliza un metro regular con patrones tonales equilibrados, sin estructuras de oración especiales.\nExplicación de alusiones: No hay alusiones específicas.\nAnálisis de imágenes: Las imágenes de bajar la vela, posada solitaria, viento vasto, sol oscuro, ciudad montañosa oscura y bahía de juncos blanca crean una atmósfera de soledad y desolación.\nContexto histórico: Xuyi County está ubicado en la rivera del río Huai y era un importante centro de transporte durante la dinastía Tang. El poeta probablemente se quedó aquí, expresando su soledad en el viaje y su anhelo por su hogar.",
+        "ar": "Luo fan (إنزال الشراع): إنزال الشراع. Dou (التوقف): البقاء. Huai zhen (بلدة هوى): بلدة صغيرة على نهر هوى، تشير إلى مقاطعة شوي. Ting fang (إيقاف القارب): ربط القارب. Gu yi (النزل المنعزل): نزل منعزل. Hao hao (واسع): يصف الرياح القوية. Ming ming (معتم): مظلم. Ri chen xi (غروب الشمس): غروب الشمس. Shan guo (مدينة الجبل): مدينة محاطة بالجبال. Lu zhou (شاطئ القصب): شاطئ مغطى بالقصب. Qin guan (ممر تشين): يشير إلى تشانغآن، المكان الذي يتوق إليه الشاعر. Ting zhong (استماع للجرس): استماع لصوت جرس المعبد. Wei mian ke (سائح لم ينم): سائح لم يتمكن من النوم.\nشرح النحو: يستخدم الشعر وزناً منتظماً مع أنماط نغمية متوازنة، بدون بنيات جمل خاصة.\nشرح الإقتباسات: لا توجد إقتباسات محددة.\nتحليل الصور: صور إنزال الشراع، النزل المنعزل، الرياح الواسعة، الشمس المظلمة، المدينة الجبلية المظلمة وشاطئ القصب الأبيض تخلق جواً من الوحدة والبؤس.\nالخلفية التاريخية: تقع مقاطعة شوي على نهر هوى وكانت مركزاً مهماً للنقل في عهد أسرة تانغ. ربما توقف الشاعر هنا، يعبر عن وحدته في الرحلة وتوقه إلى وطنه."
+    },
+    "appreciations": {
+        "zh": "《夕次盱眙县》描绘了诗人在盱眙县停泊时的所见所感。主题思想是表达旅途中的孤独与思乡之情。写作特色上，诗人通过细腻的景物描写，如‘浩浩风起波，冥冥日沉夕’，营造出一种凄凉的氛围。艺术成就方面，诗歌情景交融，意境深远，语言简练而富有张力。情感分析上，诗人通过‘独夜忆秦关，听钟未眠客’抒发了对故乡的深切思念。影响意义上，此诗在唐代山水诗中占有一席之地，对后世诗人有一定的影响。",
+        "en": "In 'Evening Stop at Xuyi County', the poet describes his impressions while docking at Xuyi County. The theme centers on the loneliness and homesickness experienced during travel. In terms of writing style, the poet uses detailed descriptions of the scenery, such as 'the vast wind raises waves, the dim sun sinks in the evening', to create a desolate atmosphere. Artistically, the poem blends scenery and emotion, offering profound imagery with concise and powerful language. Emotionally, the lines 'alone at night, I remember the Qin Pass, listening to the bell, the sleepless traveler' express deep longing for home. Historically, this poem holds a significant place in Tang Dynasty landscape poetry and has influenced later poets.",
+        "ja": "「夕次盱眙県」は、詩人が盱眙県に停泊した際の所見所感を描いた詩です。主題思想は、旅の中での孤独と故郷への思慕です。表現手法としては、「浩浩風起波、冥冥日沈夕」といった繊細な風景描写を通じて、寂寥とした雰囲気を醸し出しています。芸術的成果としては、情景が融合し、深遠な境地を描き出し、簡潔でありながら張力のある言葉遣いが特徴です。感情分析では、「独夜憶秦関、聴鐘未眠客」という一節で、故郷への深い想いを表現しています。影響意義としては、唐代の山水詩において重要な位置を占め、後世の詩人にも影響を与えました。",
+        "es": "En 'Noche en el Condado de Xuyi', el poeta describe sus impresiones mientras se detiene en el condado de Xuyi. El tema principal es la soledad y la nostalgia durante el viaje. En cuanto a la técnica literaria, el poeta utiliza descripciones detalladas del paisaje, como 'el viento vasto levanta olas, el sol oscuro se hunde en la tarde', para crear una atmósfera melancólica. Artísticamente, el poema fusiona la naturaleza y los sentimientos, ofreciendo una imaginería profunda con un lenguaje conciso y poderoso. En el análisis emocional, las líneas 'solo en la noche recuerdo el Paso de Qin, escuchando la campana, el viajero sin dormir' expresan un profundo anhelo por el hogar. En términos de influencia, este poema ocupa un lugar importante en la poesía paisajística de la dinastía Tang y ha influido en poetas posteriores.",
+        "ar": "في 'التوقف المسائي في مقاطعة شويي'، يصف الشاعر انطباعاته أثناء رسو سفينته في مقاطعة شويي. يركز الموضوع على الوحدة والحنين إلى الوطن أثناء السفر. من حيث الأسلوب الأدبي، يستخدم الشاعر وصفًا دقيقًا للمناظر الطبيعية، مثل 'الرياح العاتية تثير الأمواج، الشمس الغامضة تغرب في المساء'، لخلق جو من الحزن. من الناحية الفنية، يدمج الشعر الطبيعة والمشاعر، ويعرض صورًا عميقة بلغة موجزة وقوية. في التحليل العاطفي، تُعبّر الأسطر 'وحيدًا في الليل أتذكر معبر تشين، أستمع للجرس، المسافر الذي لا ينام' عن شوق عميق للوطن. من حيث التأثير، يحتل هذا الشعر مكانة مهمة في الشعر المناظري للعهد التانغوي وأثرى في شعراء لاحقين."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "降帆逗留淮镇，停船临近孤驿。浩荡风起波涛，昏暗日沉夕照。\n人归山郭昏暗，雁落芦洲洁白。独夜思念秦关，听钟未眠旅客。",
+            "en": "Lowering sails at Huai town, mooring near the lone inn. Vast winds stir waves, dimly the sun sets in the dusk.\nPeople return to the darkened hills, geese land on the white reed isle. Alone at night, I yearn for Qin Pass, listening to the bell, a sleepless traveler.",
+            "ja": "帆を下ろし淮の町に留まり、孤舟は寂しい駅に臨む。浩々と風が波を立て、冥冥と日が夕に沈む。\n人々は山の郭に帰り闇に包まれ、鴈は白い葦の洲に降りる。独り夜に秦関を思い、鐘の音に耳を傾け眠れぬ旅人。",
+            "es": "Bajando las velas en el pueblo de Huai, atracando cerca de la solitaria posada. Vientos vastos levantan olas, el sol se hunde en la oscuridad del atardecer.\nLa gente regresa a los oscuros cerros, las gansos aterrizan en la blanca isla de juncos. Solo en la noche recuerdo el Paso de Qin, escuchando la campana, un viajero sin dormir.",
+            "ar": "خفض الأشرعة في بلدة هواي، التوقف بالقرب من المحطة المنعزلة. رياح عاتية تثير الأمواج، الشمس تغوص في الظلام مع حلول المساء.\nيعود الناس إلى الجبال المظلمة، تحط الحمام على جزيرة القصب البيضاء. وحيدًا في الليل أتذكر معبر تشين، أستمع للجرس، مسافر لا ينام."
+        },
+        "title_translation": {
+            "zh": "夕次盱眙县",
+            "en": "Stopping at Xuyi County at Dusk",
+            "ja": "夕次盱眙県",
+            "es": "Parada en el Condado de Xuyi al Atardecer",
+            "ar": "التوقف في مقاطعة شويي عند الغسق"
+        }
+    },
+    "genre": {
+        "name": "五言古诗",
+        "code": "wu_yan_gu_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "落帆逗淮镇，停舫临孤驿。浩浩风起波，冥冥日沉夕。\n人归山郭暗，雁下芦洲白。独夜忆秦关，听钟未眠客。",
+    "title_pinyin": "xī cì xū yí xiàn",
+    "pinyin": "luò fān dòu huái zhèn，tíng fǎng lín gū yì。hào hào fēng qǐ bō，míng míng rì chén xī。\nrén guī shān guō àn，yàn xià lú zhōu bái。dú yè yì qín guān，tīng zhōng wèi mián kè。"
+}

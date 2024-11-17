@@ -1,0 +1,57 @@
+{
+    "title": "黄鹤楼送孟浩然之广陵",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，唐朝著名诗人，被后人尊称为“诗仙”。他的诗作以豪放、奔放著称，题材广泛，风格多样，尤其擅长写山水田园和边塞风光。李白的诗歌对后世影响深远，是中国文学史上不可或缺的重要人物。",
+            "en": "Li Bai (701-762), styled as Tai Bai and also known as the Hermit of Qinglian, was a renowned poet of the Tang Dynasty, revered by later generations as the 'Poet Immortal'. His poetry is celebrated for its boldness and unrestraint, covering a wide range of themes and styles, with a particular mastery of landscapes and frontier scenes. Li Bai's works have had a profound influence on later generations, making him an indispensable figure in the history of Chinese literature.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐代の著名な詩人であり、後世の人々に「詩仙」と敬称されている。彼の詩は豪放で奔放であり、幅広いテーマと多様なスタイルで知られ、特に山水田園や辺塞の風景を描くことに長けていた。李白の詩は後世に大きな影響を与え、中国文学史上欠かせない重要人物である。",
+            "es": "Li Bai (701-762), conocido también como Tai Bai y el Ermitaño de Qinglian, fue un destacado poeta de la Dinastía Tang, venerado por las generaciones posteriores como el 'Poeta Inmortal'. Su poesía es famosa por su audacia y libertad, abarcando una amplia gama de temas y estilos, con una especial maestría en la descripción de paisajes y escenas fronterizas. Las obras de Li Bai han tenido una profunda influencia en las generaciones siguientes, convirtiéndose en una figura indispensable en la historia de la literatura china.",
+            "ar": "لي بائي (701-762)، المعروف أيضًا بـ تاي باي و راهب تشينغليان، كان شاعرًا بارزًا في عهد أسرة تانغ، وأُعطي لقب \"شاعر الخالدون\" من قبل الأجيال اللاحقة. اشتهرت قصائده بجرأتها وتحررها، وتناولت مجموعة واسعة من المواضيع والأنماط، مع براعة خاصة في تصوير المناظر الطبيعية والمناظر الحدودية. أثرت أعمال لي بائي بشكل عميق على الأجيال اللاحقة، مما جعله شخصية لا غنى عنها في تاريخ الأدب الصيني."
+        }
+    },
+    "annotations": {
+        "zh": "故人：老朋友，指孟浩然。西辞：向西告别。黄鹤楼：位于今湖北省武汉市，是著名的古建筑。烟花：形容春天繁花似锦的景象。三月：指农历三月。下扬州：前往扬州。孤帆：单独的一只帆船。远影：远处的影子。碧空尽：碧蓝的天空尽头。唯见：只看到。长江：中国第一大河流。天际流：流向天边。\n语法说明：本诗采用平起仄收式，首句不入韵。每句均为七言，符合唐代七言绝句的格式。\n典故解释：黄鹤楼是诗人常用来送别的地点，含有深厚的文化底蕴。\n意象分析：烟花三月、孤帆远影、长江天际流等意象，营造出一种离别时的凄美和壮阔。\n历史背景：唐代扬州是繁华的商业城市，孟浩然前往扬州，李白在此送别。",
+        "en": "Gu ren: old friend, referring to Meng Haoran. Xi ci: bid farewell to the west. Huanghe Tower: located in present-day Wuhan, Hubei Province, a famous ancient building. Yanhua: describing the flourishing scenery of spring flowers. March: referring to the third month of the lunar calendar. Xia Yangzhou: going to Yangzhou. Gu fan: a single sailboat. Yuan ying: distant shadow. Bi kong jin: the end of the blue sky. Wei jian: only see. Yangtze River: the largest river in China. Tian ji liu: flowing to the horizon.\nGrammar explanation: This poem uses the flat-rising and oblique-ending style, with the first line not rhyming. Each line is seven characters, conforming to the format of Tang Dynasty seven-character quatrains.\nAllusion explanation: Huanghe Tower is a common place for poets to bid farewell, containing profound cultural heritage.\nImage analysis: Images such as yan hua March, gu fan yuan ying, and Yangtze River tian ji liu create a melancholic and grand atmosphere during parting.\nHistorical background: Yangzhou in the Tang Dynasty was a prosperous commercial city. Meng Haoran was going to Yangzhou, and Li Bai bid him farewell here.",
+        "ja": "故人：古い友達、孟浩然を指す。西辞：西に別れる。黄鹤楼：現在の湖北省武漢市に位置する有名な古建築。烟花：春の花の咲き乱れる様子を形容する。三月：旧暦の三月。下扬州：揚州へ行く。孤帆：一本の帆船。遠影：遠くの影。碧空尽：青空の果て。唯見：ただ見る。長江：中国最大の河川。天際流：空の果てに流れる。\n文法説明：この詩は平起仄収式を採用し、初句は韻を踏まない。各句は七言で、唐代の七言絶句の形式に従う。\n典故説明：黄鹤楼は詩人がよく別れの場所として用いる場所で、深い文化的背景を持つ。\n意象分析：烟花三月、孤帆遠影、長江天際流などの意象は、別れの際の悲美と壮大さを作り出す。\n歴史背景：唐代の揚州は繁華な商業都市で、孟浩然が揚州へ行く際、李白がここで別れを告げた。",
+        "es": "Gu ren: viejo amigo, refiriéndose a Meng Haoran. Xi ci: despedirse hacia el oeste. Huanghe Tower: ubicado en la actual Wuhan, provincia de Hubei, es una famosa construcción antigua. Yanhua: describiendo el esplendor de las flores en primavera. Marzo: refiriéndose al tercer mes del calendario lunar. Xia Yangzhou: ir a Yangzhou. Gu fan: un solo barco de vela. Yuan ying: sombra lejana. Bi kong jin: el final del cielo azul. Wei jian: solo ver. Yangtze River: el río más grande de China. Tian ji liu: fluir hacia el horizonte.\nExplicación gramatical: Este poema utiliza el estilo de inicio plano y final oblicuo, con la primera línea sin rimar. Cada línea tiene siete caracteres, siguiendo el formato de los cuartetos de siete caracteres de la dinastía Tang.\nExplicación de la alusión: Huanghe Tower es un lugar común para que los poetas se despidan, conteniendo un profundo patrimonio cultural.\nAnálisis de imágenes: Imágenes como yan hua marzo, gu fan yuan ying, y Yangtze River tian ji liu crean una atmósfera melancólica y grandiosa durante la despedida.\nContexto histórico: Yangzhou en la dinastía Tang era una ciudad comercial próspera. Meng Haoran iba a Yangzhou, y Li Bai le despidió aquí.",
+        "ar": "الصديق القديم: صديق قديم، يشير إلى مينغ هواوران. الوداع إلى الغرب: الوداع نحو الغرب. برج الهانغهي: يقع في ووهان الحالية، مقاطعة هوبي، وهو بناء قديم مشهور. الألعاب النارية: تصف ازدهار الأزهار في الربيع. مارس: يشير إلى الشهر الثالث من التقويم القمري. الذهاب إلى يانغتشو: الذهاب إلى يانغتشو. الشراع الوحيد: قارب شراعي واحد. الظل البعيد: الظل البعيد. نهاية السماء الزرقاء: نهاية السماء الزرقاء. فقط يرى: فقط يرى. نهر اليانغتسي: أكبر نهر في الصين. يتدفق نحو الأفق.\nشرح النحو: يستخدم هذا الشعر أسلوب البداية المسطحة والنهاية المائلة، مع عدم تزامن أول سطر. كل سطر مكون من سبعة أحرف، وفقًا لنمط الأرباع السباعية في عهد التانغ.\nشرح الإحالة: برج الهانغهي هو مكان شائع للشعراء للاعتذار، يحتوي على تراث ثقافي عميق.\nتحليل الصور: صور مثل الألعاب النارية في مارس، الشراع الوحيد البعيد، ونهر اليانغتسي يتدفق نحو الأفق، تخلق جوًا حزينًا ورائعًا أثناء الوداع.\nالخلفية التاريخية: يانغتشو في عهد التانغ كانت مدينة تجارية مزدهرة. مينغ هواوران كان يذهب إلى يانغتشو، ولي باي قال وداعًا هنا."
+    },
+    "appreciations": {
+        "zh": "这首诗描绘了诗人李白送别好友孟浩然去广陵的情景。主题思想是表达深厚的友情和离别的惆怅。写作特色上，李白运用了借景抒情的手法，通过黄鹤楼、烟花三月、孤帆远影等意象，营造出一种既美丽又伤感的氛围。艺术成就方面，诗中的意境深远，语言简练而富有画面感，展现了李白高超的艺术才华。情感分析上，诗人抒发了对友人的依依不舍和对未来重逢的期盼。影响意义上，这首诗在文学史上具有重要地位，成为送别诗的经典之作。",
+        "en": "This poem depicts Li Bai's farewell to his friend Meng Haoran as he departs for Guangling. The main theme is the deep friendship and the melancholy of parting. In terms of writing style, Li Bai employs the technique of expressing emotions through scenery, using images such as the Yellow Crane Tower, the misty March, and the distant silhouette of a solitary sail to create a beautiful yet poignant atmosphere. Artistically, the poem's profound imagery and concise yet vivid language showcase Li Bai's exceptional talent. Emotionally, the poet expresses his reluctance to part and his hope for future reunions. Historically, this poem holds a significant place in literary history, becoming a classic example of farewell poetry.",
+        "ja": "この詩は、李白が友人の孟浩然を広陵に送る情景を描いています。主題は深い友情と別れの悲しみです。表現手法としては、李白は風景を通じて感情を表す技法を用い、黄鶴楼、煙花の三月、孤立した帆の遠影などのイメージを使って、美しくも切ない雰囲気を作り出しています。芸術的成就としては、詩の意境が深く、簡潔でありながら豊かな画面感を持つ言葉が、李白の高い芸術的才能を示しています。感情分析では、詩人は友人への未練と再会の期待を表しています。影響の意味では、この詩は文学史上重要な地位を占め、別れの詩の古典的名作となっています。",
+        "es": "Este poema describe la despedida de Li Bai a su amigo Meng Haoran mientras se dirige a Guangling. El tema principal es la profunda amistad y la melancolía del adiós. En cuanto al estilo de escritura, Li Bai utiliza la técnica de expresar emociones a través del paisaje, empleando imágenes como la Torre del Halcón Amarillo, la niebla de marzo y la silueta lejana de una vela solitaria para crear una atmósfera hermosa pero triste. Artísticamente, el poema presenta una imaginería profunda y un lenguaje conciso pero vívido, mostrando el excepcional talento de Li Bai. En el análisis emocional, el poeta expresa su renuencia a separarse y su esperanza de futuros reencuentros. En términos de impacto, este poema ocupa un lugar significativo en la historia de la literatura, convirtiéndose en una obra clásica de la poesía de despedida.",
+        "ar": "يصف هذا الشعر توديع لي بائي لصديقه مينغ هواوران عند مغادرته إلى غوانغلينغ. الفكرة الرئيسية هي الصداقة العميقة وحزن الوداع. من حيث الأسلوب الكتابي، يستخدم لي بائي تقنية التعبير عن العواطف من خلال المناظر الطبيعية، باستخدام صور مثل برج الحمامة الصفراء، الضباب في مارس والظل البعيد لشراع منفرد لخلق جو جميل ولكنه حزين. من الناحية الفنية، يقدم الشعر صورًا عميقة ولغة موجزة ولكنها حية، مما يظهر موهبة لي بائي الاستثنائية. في التحليل العاطفي، يعبر الشاعر عن تردده في الانفصال وتأمله في اللقاءات المستقبلية. من حيث التأثير، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب، ليصبح قطعة كلاسيكية من شعر الوداع."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "老友向西告别黄鹤楼，烟花三月时节下扬州。\n孤帆远影消失在碧空尽头，只见长江在天际奔流。",
+            "en": "My old friend departs west from the Yellow Crane Tower,\nAmidst the misty flowers of March, he heads to Yangzhou.\nThe lonely sail's distant shadow fades at the blue sky's end,\nOnly the Yangtze River flows to the horizon.",
+            "ja": "故人西に黄鶴楼を辞し、烟花の三月に扬州に下る。\n孤帆の遠影碧空に尽き、唯長江天際に流る。",
+            "es": "Mi viejo amigo se despide hacia el oeste desde la Torre del Halcón Amarillo,\nEn el humeante florecer de marzo, baja a Yangzhou.\nLa sombra lejana de la vela solitaria se pierde en el cielo azul,\nSolo veo el río Yangtsé fluir hacia el horizonte.",
+            "ar": "صديقي القديم يودع غربا من برج البجعة الصفراء،\nفي شهر مارس المليء بالأزهار الدخانية، ينزل إلى يانغتشو.\nظل الشراع المنعزل يختفي في نهاية السماء الزرقاء،\nأرى فقط نهر اليانغتسي يتدفق نحو الأفق."
+        },
+        "title_translation": {
+            "zh": "黄鹤楼送孟浩然之广陵",
+            "en": "Farewell to Meng Haoran at the Yellow Crane Tower",
+            "ja": "黄鶴楼にて孟浩然を送る",
+            "es": "Despedida a Meng Haoran en la Torre del Halcón Amarillo",
+            "ar": "الوداع لمينغ هواوران في برج البجعة الصفراء"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "故人西辞黄鹤楼，烟花三月下扬州。\n孤帆远影碧空尽，唯见长江天际流。 ",
+    "title_pinyin": "huáng hè lóu sòng mèng hào rán zhī guǎng líng",
+    "pinyin": "gù rén xī cí huáng hè lóu，yān huā sān yuè xià yáng zhōu。\ngū fān yuǎn yǐng bì kōng jǐn，wéi jiàn zhǎng jiāng tiān jì liú。"
+}

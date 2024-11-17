@@ -1,0 +1,57 @@
+{
+    "title": "咏蝉·在狱咏蝉",
+    "difficulty": 2,
+    "author": {
+        "name": "骆宾王",
+        "name_pinyin": "luò bīn wáng",
+        "image": "骆宾王.jpg",
+        "introduction": {
+            "zh": "骆宾王，唐代著名诗人，初唐四杰之一。字观光，义乌（今属浙江）人。早年随父从军，后任道王府属，因事被贬，曾入狱。在狱中作《咏蝉·在狱咏蝉》一诗，抒发其怀才不遇的悲愤之情。他的诗多抒发政治感慨，风格刚健，辞采华赡，对后世有较大影响。",
+            "en": "Luo Binwang was a renowned poet of the Tang Dynasty and one of the Four Outstanding Poets of the Early Tang. His style name was Guanguang, and he was from Yiwu (now part of Zhejiang Province). He followed his father into military service in his early years and later served in the court of the Dao Prince, but was demoted due to an incident and was even imprisoned. It was during his imprisonment that he composed the poem 'Chanting Cicadas: Chanting Cicadas in Prison', expressing his frustration at being unrecognized despite his talents. His poetry often reflects political sentiments, characterized by a robust style and rich diction, exerting significant influence on later generations.",
+            "ja": "骆宾王は唐代の著名な詩人であり、初唐の四傑の一人です。字は観光、烏義（現在の浙江省に属する）の人です。若い頃父に従って軍に参加し、後に道王の府に属しましたが、事件により左遷され、牢獄に収容されたこともあります。獄中で『蝉を詠む・獄中で蝉を詠む』という詩を作り、才能が認められないことへの悲憤を表現しました。彼の詩は多くが政治的な感慨を述べ、風格は剛健で、辞彩は華やかで、後世に大きな影響を与えました。",
+            "es": "Luo Binwang fue un poeta destacado de la dinastía Tang y uno de los Cuatro Genios del Principio de Tang. Su nombre de estilo era Guanguang y era de Yiwu (actualmente parte de la provincia de Zhejiang). En sus primeros años, siguió a su padre en el servicio militar y más tarde sirvió en la corte del Príncipe Dao, pero fue degradado debido a un incidente y también fue encarcelado. Fue durante su encarcelamiento que compuso el poema 'Cantando a las Cigarras: Cantando a las Cigarras en Prisión', expresando su frustración por no ser reconocido a pesar de sus talentos. Su poesía a menudo refleja sentimientos políticos, caracterizada por un estilo robusto y una rica dicción, ejerciendo una influencia significativa en las generaciones posteriores.",
+            "ar": "لو بينوان كان شاعرًا مشهورًا في عهد التانغ وأحد الأربعة العظام في بداية عهد التانغ. اسمه المستعار كان جوانغوان، وكان من يويه (تقع الآن في مقاطعة تشجيانغ). في شبابه، التحق بوالده في الخدمة العسكرية، ثم خدم في بلاط الأمير داو، ولكن تمت إزالته من منصبه بسبب حادثة وكان قد سجن أيضًا. كان خلال سجنه كتب قصيدة 'الغناء للصراصير: الغناء للصراصير في السجن'، يعبر فيها عن حنقه من عدم الاعتراف بمواهبه. قصائده غالبًا ما تعبر عن المشاعر السياسية، تتميز بنمط قوي وأسلوب غني بالكلمات، مما أثر بشكل كبير على الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "西陆：指秋天。南冠：指囚犯。客思：客居他乡的思绪。不堪：难以承受。玄鬓：指蝉的黑色翅膀，比喻青年。白头：指诗人自己，比喻年老。露重：露水浓重。飞难进：难以飞翔。响易沉：声音容易被掩盖。高洁：高尚纯洁。表予心：表达我的心声。本诗通过咏蝉抒发了诗人身陷囹圄的苦闷和对高洁品格的坚守。",
+        "en": "Xilu refers to autumn. Nanguan refers to a prisoner. Kesai means the thoughts of living in a foreign land. Bukan means hard to bear. Xuanbin refers to the black wings of a cicada, symbolizing youth. Baitou refers to the poet himself, symbolizing old age. Luchong means heavy dew. Feinanjin means difficult to fly. Xiangyichen means the sound is easily drowned out. Gaojie means noble and pure. Biaoyuxin means expressing my inner voice. This poem expresses the poet's distress of being imprisoned and his adherence to a noble character through chanting cicadas.",
+        "ja": "西陸は秋を指す。南冠は囚人を指す。客思は他郷での思いを意味する。不堪は耐え難いことを意味する。玄鬢は蝉の黒い羽を指し、青年を喻う。白頭は詩人自身を指し、老年を喻う。露重は露の重さを意味する。飛難進は飛ぶのが難しいことを意味する。響易沈は声が容易に消えることを意味する。高潔は高貴で純潔なことを意味する。表予心は自分の心を表現することを意味する。この詩は蝉を詠じて、詩人が牢獄にいる苦悩と高潔な品格を守る意志を表現している。",
+        "es": "Xilu se refiere al otoño. Nanguan se refiere a un prisionero. Kesai significa los pensamientos de vivir en un lugar extranjero. Bukan significa difícil de soportar. Xuanbin se refiere a las alas negras de la cigarra, simbolizando la juventud. Baitou se refiere al poeta mismo, simbolizando la vejez. Luchong significa rocío pesado. Feinanjin significa difícil de volar. Xiangyichen significa que el sonido es fácilmente ahogado. Gaojie significa noble y puro. Biaoyuxin significa expresar mi voz interior. Este poema expresa la angustia del poeta por estar encarcelado y su adherencia a un carácter noble a través del canto de las cigarras.",
+        "ar": "الشروح باللغة العربية: يشير \"البرج الغربي\" إلى الخريف. \"القبعة الجنوبية\" تشير إلى السجين. \"التفكير في الضيف\" يعني التفكير في العيش في مكان غريب. \"التعاسة\" تعني الصعوبة في الاحتمال. \"الرموش السوداء\" تشير إلى الأجنحة السوداء للصراصير، وتعني الشباب. \"الرأس الأبيض\" يشير إلى الشاعر نفسه، ويعني الشيخوخة. \"الندى الثقيل\" يعني الندى الكثيف. \"الصعوبة في الطيران\" تعني صعوبة الطيران. \"سهولة الانخفاض في الصوت\" تعني سهولة انخفاض الصوت. \"النقاء العالي\" يعني الطهارة والنقاء. \"التعبير عن قلبي\" يعني التعبير عن صوتي الداخلي. يعبر هذا الشعر عن معاناة الشاعر من السجن والتزامه بالنقاء العالي من خلال ترديد الصراصير."
+    },
+    "appreciations": {
+        "zh": "这首《咏蝉·在狱咏蝉》是唐代诗人骆宾王在狱中所作，主题思想是借咏蝉来表达自己高洁的品格和身处困境的无奈。写作特色上，诗人运用了托物言志的手法，通过描写蝉的处境来隐喻自己的遭遇，露重风多的意象象征环境的险恶。艺术成就方面，诗歌意象生动，情感真挚，语言凝练，具有较高的艺术价值。情感分析上，诗人抒发了对自身命运的感慨和对高洁品格的坚持，透露出一种悲愤与无奈。影响意义上，这首诗在文学史上具有重要地位，被誉为唐代咏物诗的佳作，对后世诗歌创作产生了深远影响。",
+        "en": "This poem 'Yong Chan • In Prison Singing of the Cicada' by the Tang Dynasty poet Luo Binwang, written while in prison, primarily expresses the poet's noble character and the helplessness of being in a difficult situation through the metaphor of the cicada. In terms of writing style, the poet employs the technique of using objects to convey his thoughts, describing the cicada's plight to metaphorically represent his own. The imagery of heavy dew and strong winds symbolizes the harshness of his environment. Artistically, the poem is vivid in imagery, sincere in emotion, and concise in language, possessing high artistic value. Emotionally, the poet expresses his feelings about his fate and his adherence to a noble character, revealing a sense of grief and helplessness. In terms of influence, this poem holds an important place in literary history, being acclaimed as a masterpiece of Tang Dynasty poetry on objects, and has had a profound impact on later poetic compositions.",
+        "ja": "この詩「詠蝉・獄中詠蝉」は唐代の詩人駱賓王が獄中で作ったもので、蝉を詠じて自己の高潔な品格と困難な状況にある無力さを表現するという主題思想を持つ。表現手法としては、物に託して志を言う手法を用い、蝉の境遇を描写することで自身の遭遇を隐喻している。露の重さと風の多さのイメージは環境の険しさを象徴している。芸術的成果としては、詩のイメージが生き生きとしており、感情が真摯で、言語が凝縮されており、高い芸術的価値を持つ。感情分析としては、詩人は自身の運命に対する感慨と高潔な品格の堅持を抒発し、悲憤と無力感を洩らしている。影響の意味では、この詩は文学史上重要な地位を占め、唐代の詠物詩の傑作と称され、後世の詩作に深い影響を与えた。",
+        "es": "Este poema 'Yong Chan • Cantando a la Cigarra en Prisión' del poeta de la dinastía Tang Luo Binwang, escrito mientras estaba en prisión, tiene como tema principal la expresión de su carácter noble y la impotencia de encontrarse en una situación difícil a través de la metáfora de la cigarra. En cuanto a la técnica de escritura, el poeta utiliza el recurso de hablar a través de objetos, describiendo la situación de la cigarra para representar metafóricamente su propia situación. Las imágenes de la roció pesada y el viento fuerte simbolizan la dureza de su entorno. Artísticamente, el poema es vívido en sus imágenes, sincero en sus emociones y conciso en su lenguaje, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa sus sentimientos sobre su destino y su adherencia a un carácter noble, revelando una sensación de tristeza e impotencia. En términos de significado e influencia, este poema ocupa un lugar importante en la historia de la literatura, siendo aclamado como una obra maestra de la poesía de la dinastía Tang sobre objetos, y ha tenido un profundo impacto en la composición poética posterior.",
+        "ar": "هذه القصيدة 'يونغ تشان • تغني للصراصير في السجن' للشاعر Luo Binwang من عهد التانغ، كتبت أثناء وجوده في السجن، تهدف إلى التعبير عن أخلاقه النبيلة واليأس من وضعه الصعب من خلال استعارة الصرصور. فيما يتعلق بطريقة الكتابة، يستخدم الشاعر تقنية التحدث من خلال الأشياء، ووصف وضع الصرصور ليمثل بشكل مجازي وضعه الخاص. صور الرواسب الثقيلة والرياح القوية ترمز إلى قسوة بيئته. من الناحية الفنية، القصيدة حية في صورها، صادقة في عواطفها، وموجزة في لغتها، وتمتلك قيمة فنية عالية. في تحليل العواطف، يعبر الشاعر عن مشاعره تجاه مصيره وتمسكه بالنقاء الأخلاقي، مما يكشف عن شعور بالحزن والعجز. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، وتُعتبر كواحدة من روائع الشعر في عهد التانغ حول الأشياء، ولها تأثير عميق على كتابة الشعر اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "秋天蝉声鸣唱，囚徒思乡情深。\n难以忍受黑色蝉影，对着白头吟咏。\n露水重难飞进，风多声音易沉。\n无人相信高洁，谁为我表心迹？",
+            "en": "In the west land, cicadas sing; a southern captive's thoughts run deep.\nUnbearable is the shadow of their dark brows, facing my white-haired lament.\nHeavy with dew, they struggle to fly; in the wind, their sound easily sinks.\nNone believe in purity; who will speak for my heart?",
+            "ja": "西の地で蝉の声が響く、南冠の客の思いは深し。\n黒い額の影に耐え難く、白い頭に向かって詠む。\n露が重く飛び難し、風が多く声は易く沈む。\n高潔を信じる者無し、誰が我が心を表さん？",
+            "es": "En la tierra del oeste, cantan las cigarras; el pensamiento del preso del sur es profundo.\nInsoportable es la sombra de sus cejas oscuras, frente a mi canto de cabellos blancos.\nPesada de rocío, difícil de volar; con mucho viento, el sonido fácilmente se hunde.\nNadie cree en la pureza; ¿quién hablará por mi corazón?",
+            "ar": "في أرض الغرب، تصدح الذبابات؛ تفكير السجين الجنوبي عميق.\nيتعذر تحمل ظل حاجبيها الداكنين، أمام شعري الأبيض أنشد.\nثقيلة بالندى، يصعب الطيران؛ مع الرياح الكثيرة، الصوت يغرق بسهولة.\nلا يؤمن أحد بالنقاء؛ من سيشهد لقلبي؟"
+        },
+        "title_translation": {
+            "zh": "咏蝉·在狱咏蝉",
+            "en": "Chanting Cicadas in Prison",
+            "ja": "獄中の蝉を詠む",
+            "es": "Cantando a las Cigarras en Prisión",
+            "ar": "تغني للذباب في السجن"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "西陆蝉声唱，南冠客思深。\n不堪玄鬓影，来对白头吟。\n露重飞难进，风多响易沉。\n无人信高洁，谁为表予心？",
+    "title_pinyin": "yǒng chán·zài yù yǒng chán",
+    "pinyin": "xī lù chán shēng chàng，nán guān kè sī shēn。\nbù kān xuán bìn yǐng，lái duì bái tóu yín。\nlù zhòng fēi nán jìn，fēng duō xiǎng yì chén。\nwú rén xìn gāo jié，shuí wèi biǎo yǔ xīn？"
+}

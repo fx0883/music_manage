@@ -1,0 +1,57 @@
+{
+    "title": "瑶池",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，唐代著名诗人，字义山，号玉溪生，又号樊南生。他擅长诗歌创作，尤以七言律诗见长，风格婉约、意蕴深远，被誉为‘诗魂’。其诗作多涉及政治、爱情、人生等多个领域，反映了晚唐社会的复杂面貌。代表作有《无题》、《锦瑟》等。",
+            "en": "Li Shangyin was a renowned poet of the Tang Dynasty, styled Yishan and also known as Yuxi Sheng and Fannan Sheng. He excelled in poetry, particularly in seven-character regulated verse, known for his graceful and profound style, and was revered as the 'Soul of Poetry'. His works cover various themes including politics, love, and life, reflecting the complex facets of the late Tang society. Notable works include 'Untitled Poems' and 'Jin Se' (The Zither).",
+            "ja": "李商隐は唐代の著名な詩人で、字は義山、号は玉谿生、また樊南生と称される。詩作に長じ、特に七言律詩においてその腕前を発揮し、風格は婉約で意韻深遠であり、「詩魂」と称賛された。彼の詩は政治、恋愛、人生等多岐にわたり、晚唐社会の複雑な面貌を反映している。代表作に『無題』、『錦瑟』などがある。",
+            "es": "Li Shangyin fue un destacado poeta de la dinastía Tang, conocido por su nombre de pila Yishan y también como Yuxi Sheng y Fannan Sheng. Se destacó en la creación poética, especialmente en el verso regulado de siete caracteres, caracterizado por un estilo elegante y profundo, y fue aclamado como el 'Alma de la Poesía'. Sus obras abarcan temas como la política, el amor y la vida, reflejando la compleja faz de la sociedad de finales de la dinastía Tang. Obras destacadas incluyen 'Poemas sin Título' y 'Jin Se' (El Cítara).",
+            "ar": "لي شانغ ين كان شاعرًا مشهورًا في عهد التانغ، يُعرف بلقبه يي شان ويُعرف أيضًا بيوي شي شينغ و فان نان شينغ. برع في كتابة الشعر، خاصة في الأشعار المقيدة من سبعة حروف، معروف بنمطه الرقيق والمحتوى العميق، وأُعطي لقب 'روح الشعر'. أعماله تشمل مواضيع متعددة مثل السياسة، الحب، والحياة، تعكس الوجوه المعقدة للمجتمع في أواخر عهد التانغ. من أعماله البارزة 'قصائد غير معنونة' و 'جين سي' (العود الذهبي)."
+        }
+    },
+    "annotations": {
+        "zh": "瑶池：古代神话中仙女西王母居住的地方。阿母：指西王母。绮窗：装饰华丽的窗户。黄竹：指《黄竹歌》，相传为周穆王所作，表达了对百姓疾苦的哀叹。八骏：指周穆王的八匹骏马，传说能日行三万里。穆王：即周穆王，西周时期的君主。何事：为什么。不重来：不再来。这首诗通过描绘西王母等待周穆王而不得的情景，表达了作者对逝去时光的感慨和对人生无常的叹息。",
+        "en": "Jade Pool: A mythical place where the fairy Queen Mother of the West resides. Mother: Refers to the Queen Mother of the West. Embroidered window: A lavishly decorated window. Yellow Bamboo: Refers to the 'Yellow Bamboo Song', allegedly composed by King Mu of Zhou, expressing lament for the suffering of the people. Eight Horses: The eight fine horses of King Mu of Zhou, said to be able to travel 30,000 li in a day. King Mu: Refers to King Mu of Zhou, a ruler from the Western Zhou period. What matter: Why. Not return: Not come again. This poem depicts the scene of the Queen Mother of the West waiting in vain for King Mu, conveying the author's reflections on the passage of time and the transience of life.",
+        "ja": "瑶池：古代神話における西王母が住む場所。阿母：西王母を指す。綺窗：豪華に飾られた窓。黄竹：《黄竹歌》を指す。周穆王が作ったとされ、民衆の苦しみを嘆く歌。八駿：周穆王の八頭の駿馬で、一日三万里を走るとされる。穆王：周穆王、西周時代の君主。何事：なぜ。不重来：再び来ないこと。この詩は、西王母が周穆王を待ち続けるが叶わない情景を描き、作者が過ぎ去った時間への感慨と人生の無常を嘆く心情を表している。",
+        "es": "Piscina de Jade: Lugar mítico donde reside la Reina Madre del Oeste. Madre: Se refiere a la Reina Madre del Oeste. Ventana de seda: Una ventana ricamente decorada. Bambú Amarillo: Se refiere a la 'Canción del Bambú Amarillo', supuestamente compuesta por el Rey Mu de Zhou, expresando lamento por las penurias del pueblo. Ocho Caballos: Los ocho caballos magníficos del Rey Mu de Zhou, que se dice que podían recorrer 30,000 li en un día. Rey Mu: Se refiere al Rey Mu de Zhou, un monarca de la época de la Dinastía Zhou Occidental. Qué asunto: Por qué. No regresar: No volver. Este poema representa la escena de la Reina Madre del Oeste esperando en vano al Rey Mu, transmitiendo las reflexiones del autor sobre el paso del tiempo y la transitoriedad de la vida.",
+        "ar": "حوض الياقوت: المكان الأسطوري الذي تعيش فيه ملكة الأم من الغرب. الأم: تشير إلى ملكة الأم من الغرب. نافذة الحرير: نافذة مزخرفة بشكل فاخر. البامبو الأصفر: يشير إلى 'أغنية البامبو الأصفر'، التي يُقال إنها كُتبت من قبل الملك مو من تشو، تعبّر عن حزن على معاناة الناس. الثمانية خيول: الخيول الثمانية الرائعة للملك مو من تشو، يقال إنها تستطيع قطع 30,000 لي في يوم واحد. الملك مو: يشير إلى الملك مو من تشو، حاكم من فترة تشو الغربية. ما الأمر: لماذا. لا يعود: لا يأتي مرة أخرى. هذا الشعر يصور مشهد ملكة الأم من الغرب تنتظر بلا فائدة الملك مو، يعبر عن تأملات الشاعر في مرور الزمن وعدم الثبات في الحياة."
+    },
+    "appreciations": {
+        "zh": "《瑶池》一诗以瑶池阿母开启绮窗的景象开篇，营造出一种神秘而庄严的氛围。然而，黄竹歌声动地哀的描写，瞬间将读者带入一种悲凉的情感之中。八骏日行三万里，穆王何事不重来的反问，既表现了对穆王不再重来的遗憾，也隐含了对人生无常的深刻思考。诗中运用对比和反问的手法，增强了作品的感染力。其艺术成就在于以简洁的语言，传达出丰富的情感和哲理，具有较高的艺术价值。此诗抒发了对逝去美好时光的怀念和对人生无常的感慨，情感深沉。在文学史上，这首诗以其独特的艺术表现和深刻的思想内涵，占有重要地位。",
+        "en": "The poem 'Jade Pool' opens with a scene of the Mother of the Jade Pool opening her ornate window, creating a mysterious and solemn atmosphere. However, the description of the Yellow Bamboo songs moving the earth with sorrow suddenly plunges the reader into a melancholic mood. The rhetorical question 'Why doesn't King Mu return, though his eight horses can travel thirty thousand miles a day?' expresses regret over King Mu's absence and subtly reflects on the impermanence of life. The use of contrast and rhetorical questions enhances the poem's impact. Its artistic achievement lies in conveying rich emotions and philosophies through concise language, making it highly valuable. The poem expresses a deep longing for bygone days and a sense of life's transience, with profound emotions. In literary history, this poem holds a significant position due to its unique artistic expression and profound thematic content.",
+        "ja": "「瑶池」の詩は、瑶池の母が綺麗な窓を開ける情景で始まり、神秘的で荘厳な雰囲気を作り出しています。しかし、黄竹の歌声が地を動かすような哀しみを描くと、読者は突然悲しみの気分に引き込まれます。八頭の馬が一日に三万里も走るのに、穆王は何故戻らないのかという反問は、穆王の不在への悔しさを表し、人生の無常を暗示しています。対比と反問の手法を用いることで、作品の感染力が増しています。その芸術的成就は、簡潔な言葉で豊かな感情と哲理を伝えることにあり、高い芸術価値を持っています。この詩は、過去の美しい時を懐かしむ気持ちと人生の無常に対する感慨を表しており、感情は深いものです。文学史上、この詩は独特の芸術表現と深い思想的な内容で重要な地位を占めています。",
+        "es": "El poema 'El Estanque de Jade' comienza con la escena de la Madre del Estanque de Jade abriendo su ventana ornada, creando una atmósfera misteriosa y solemne. Sin embargo, la descripción de las canciones del Bambú Amarillo que conmueven la tierra con tristeza, de repente sumerge al lector en un estado melancólico. La pregunta retórica '¿Por qué no regresa el Rey Mu, si sus ocho caballos pueden recorrer treinta mil millas en un día?' expresa el pesar por la ausencia del Rey Mu y sutilmente reflexiona sobre la impermanencia de la vida. El uso del contraste y las preguntas retóricas refuerza el impacto del poema. Su logro artístico radica en transmitir ricas emociones y filosofías a través de un lenguaje conciso, lo que lo hace altamente valioso. El poema expresa un profundo anhelo por los días pasados y una sensación de transitoriedad de la vida, con emociones profundas. En la historia de la literatura, este poema ocupa una posición significativa debido a su única expresión artística y contenido temático profundo.",
+        "ar": "القصيدة 'حوض الياقوت' تبدأ بمنظر فتح أم حوض الياقوت نافذتها الفاخرة، مما يخلق جواً غامضاً و مهيباً. ومع ذلك، فإن وصف أغاني الخيزران الأصفر التي تتحرك في الأرض بحزن، يغرق القارئ فجأة في مزاج حزين. السؤال الاستنكاري 'لماذا لا يعود الملك مو، وإن كان خيوله الثمانية تستطيع قطع ثلاثين ألف ميل في يوم واحد؟' يعبر عن الأسف لغياب الملك مو ويفكر بشكل غير مباشر في زوال الحياة. استخدام التباين والأسئلة الاستنكارية يعزز تأثير القصيدة. إن الإنجاز الفني للقصيدة يكمن في نقل العواطف والفلسفات الغنية من خلال لغة موجزة، مما يجعلها ذات قيمة عالية. القصيدة تعبر عن الحنين العميق للأيام الخوالي وحس الظرفية في الحياة، بعواطف عميقة. في تاريخ الأدب، تحتل هذه القصيدة مكانة مهمة بفضل تعبيرها الفني الفريد وعمق محتواها الفكري."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "瑶池的仙女打开华丽的窗户，黄竹歌声传来，震撼大地，充满悲哀。八匹骏马日行三万里，穆王为何不再重来。",
+            "en": "The fairy of the Jasper Pool opens her ornate window, the song of the Yellow Bamboo shakes the earth with sorrow. The eight steeds travel thirty thousand miles a day, why does King Mu not return again?",
+            "ja": "瑶池の仙女が綺麗な窓を開き、黄竹の歌声が大地を揺らし、哀しみに満ちる。八頭の駿馬は一日に三万里を走る、穆王は何故再び来ないのか。",
+            "es": "La hada del Estanque de Jade abre su ventana exquisita, la canción del Bambú Amarillo sacude la tierra con tristeza. Los ocho corceles recorren treinta mil li en un día, ¿por qué el Rey Mu no vuelve de nuevo?",
+            "ar": "فتحت أم الياقوت نافذتها الفاخرة، وأغنية الخيزران الأصفر تزلزل الأرض بحزنها. الثمانية خيول تسافر ثلاثين ألف ميل في اليوم، فلماذا لا يعود الملك مو مجددًا؟"
+        },
+        "title_translation": {
+            "zh": "瑶池",
+            "en": "The Jasper Pool",
+            "ja": "瑶池",
+            "es": "El Estanque de Jade",
+            "ar": "حوض الياقوت"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "瑶池阿母绮窗开，黄竹歌声动地哀。\n八骏日行三万里，穆王何事不重来。",
+    "title_pinyin": "yáo chí",
+    "pinyin": "yáo chí ā mǔ qǐ chuāng kāi，huáng zhú gē shēng dòng dì āi。\nbā jùn rì xíng sān wàn lǐ，mù wáng hé shì bù zhòng lái。"
+}

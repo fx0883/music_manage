@@ -1,0 +1,57 @@
+{
+    "title": "送魏万之京",
+    "difficulty": 2,
+    "author": {
+        "name": "李颀",
+        "name_pinyin": "lǐ qí",
+        "image": "李颀.jpg",
+        "introduction": {
+            "zh": "李颀（约公元690年－751年），唐代著名诗人，赵郡（今河北赵县）人。他的诗风清新脱俗，善于描绘自然景色和抒发情感，尤其擅长写送别诗。李颀的诗作在唐代颇受推崇，与王昌龄、高适等人齐名。他的代表作有《送魏万之京》、《古从军行》等。李颀的诗作在后世也有很高的评价，被誉为“诗中有画，画中有诗”。",
+            "en": "Li Qi (approximately 690-751 AD) was a renowned poet of the Tang Dynasty, originating from Zhao Commandery (present-day Zhao County, Hebei Province). His poetic style was fresh and refined, excelling in depicting natural landscapes and expressing emotions, particularly adept at writing farewell poems. Li Qi's works were highly esteemed during the Tang Dynasty, ranking alongside poets such as Wang Changling and Gao Shi. His notable works include 'Sending Wei Wan to the Capital' and 'Ancient Military March'. His poetry has also received high praise in later generations, being acclaimed as 'having painting within poetry, and poetry within painting'.",
+            "ja": "李颀（約690年－751年）は、唐代の著名な詩人で、趙郡（現在の河北省趙県）出身。彼の詩風は清新で俗世離れしており、自然景観の描写や感情の発露に優れ、特に送別詩を得意とした。李颀の詩作は唐代において高く評価され、王昌齢、高適などと並び称された。代表作には「魏万への送別」、「古従軍行」などがある。李颀の詩は後世にも高い評価を受け、「詩中に画あり、画中に詩あり」と称賛されている。",
+            "es": "Li Qi (aproximadamente 690-751 d.C.) fue un poeta destacado de la dinastía Tang, originario de Zhao Commandery (actualmente Zhao County, provincia de Hebei). Su estilo poético era fresco y exquisito, destacando en la descripción de paisajes naturales y la expresión de emociones, siendo particularmente hábil en la escritura de poemas de despedida. Las obras de Li Qi fueron muy apreciadas durante la dinastía Tang, al mismo nivel que poetas como Wang Changling y Gao Shi. Sus obras más conocidas incluyen 'Enviando a Wei Wan a la Capital' y 'Marcha Militar Antigua'. Su poesía también ha recibido altos elogios en generaciones posteriores, siendo aclamada como 'tener pintura dentro de la poesía, y poesía dentro de la pintura'.",
+            "ar": "لي قي (حوالي 690-751 م) كان شاعرًا مشهورًا في عهد التانغ، ينحدر من Zhao Commandery (حاليًا Zhao County، مقاطعة خبي). كان أسلوبه الشعري جديدًا وفريدًا، متميزًا في تصوير المناظر الطبيعية والتعبير عن المشاعر، وخاصة في كتابة قصائد الوداع. تمتعت أعمال لي قي بتقدير كبير خلال عهد التانغ، ووضع على نفس المستوى مع شعراء مثل وانغ تشانغلينغ وجاو شي. من أشهر أعماله 'إرسال وي وين إلى العاصمة' و'المسيرة العسكرية القديمة'. حصلت شعرية لي قي أيضًا على تقدير كبير في الأجيال اللاحقة، وأُعجب بها كـ 'وجود الرسم داخل الشعر، والشعر داخل الرسم'."
+        }
+    },
+    "annotations": {
+        "zh": "朝闻游子唱离歌：清晨听到游子唱起离别之歌。游子，指魏万。离歌，离别之歌。昨夜微霜初渡河：昨晚微霜初降，渡过黄河。微霜，轻微的霜。鸿雁不堪愁里听：鸿雁的鸣叫声在愁绪中难以忍受。鸿雁，大雁，常用来象征离别。云山况是客中过：何况在客途中还要经过云雾缭绕的山。云山，云雾缭绕的山。关城树色催寒近：关城的树木颜色催促着寒意的临近。关城，指潼关。御苑砧声向晚多：御苑中傍晚时分的捣衣声格外多。御苑，皇家园林。砧声，捣衣声。莫见长安行乐处：不要只看到长安是行乐之地。长安，唐朝都城。空令岁月易蹉跎：白白让岁月轻易流逝。蹉跎，虚度光阴。",
+        "en": "At dawn I hear the traveler sing a farewell song; last night a light frost crossed the river. The cry of wild geese is unbearable in sorrow; moreover, the misty mountains are passed through in a stranger's land. The color of trees in the fortress town hastens the approach of cold; the sound of pestles in the imperial garden grows louder in the evening. Do not see Chang'an as a place of pleasure; let not the years slip away in vain. Traveler refers to Wei Wan; farewell song symbolizes departure. Light frost indicates the early arrival of winter. Wild geese are often associated with parting. Misty mountains represent the hardships of travel. Fortress town refers to Tongguan. Imperial garden is a royal garden. Pestle sound signifies the activity of washing clothes. Chang'an is the capital of the Tang Dynasty. Slipping away in vain means wasting time.",
+        "ja": "朝聞遊子唱離歌：朝に遊子の別れの歌を聞く。遊子は魏万を指す。離歌は別れの歌。昨夜微霜初渡河：昨夜、軽い霜が初めて川を渡る。微霜は軽い霜。鴻雁不堪愁里聴：鴻雁の鳴き声が愁いの中で耐え難い。鴻雁は別れの象徴。雲山況是客中過：況や客の中で雲に覆われた山を過ぎる。雲山は雲に覆われた山。関城樹色催寒近：関城の樹木の色が寒さの近づきを促す。関城は潼関。御苑砧声向晚多：御苑で夕方に砧の音が多くなる。御苑は皇室の庭園。砧声は衣類を搗く音。莫見長安行楽処：長安をただ行楽の場所と見てはならない。長安は唐の都。空令歳月易蹉跎：無駄に歳月が過ぎ去るのを許してはならない。蹉跎は時間の無駄。",
+        "es": "Al amanecer escucho al viajero cantar una canción de despedida; anoche una ligera escarcha cruzó el río. El grito de las gansos es insoportable en la tristeza; además, las montañas nebulosas se pasan en tierra extraña. El color de los árboles en la ciudadela acelera la llegada del frío; el sonido de los pilones en el jardín imperial aumenta al anochecer. No veas a Chang'an como un lugar de placer; no dejes que los años pasen en vano. Viajero se refiere a Wei Wan; canción de despedida simboliza la partida. Ligera escarcha indica la llegada temprana del invierno. Gansos están asociados con la despedida. Montañas nebulosas representan las dificultades del viaje. Ciudadela se refiere a Tongguan. Jardín imperial es un jardín real. Sonido de pilones significa la actividad de lavar ropa. Chang'an es la capital de la dinastía Tang. Pasar en vano significa perder el tiempo.",
+        "ar": "سمعت في الصباح مغادراً يغني أغنية الوداع؛ ليلة البارحة قطرت صقيع خفيف عبر النهر. صوت الحمام الجارح لا يطاق في الحزن؛ والأكثر من ذلك، المرور عبر الجبال الضبابية في أرض غريبة. لون الأشجار في المدينة الحصينة يدفع ببرودة الشتاء القريب؛ صوت الطواحين في الحديقة الإمبراطورية يزيد في المساء. لا ترى Chang'an ك مكان للترفيه؛ لا تدع السنوات تمر سدى. المغادر يشير إلى ويي وون؛ أغنية الوداع ترمز إلى الرحيل. الصقيع الخفيف يشير إلى وصول الشتاء المبكر. الحمام الجارح يرتبط بالطلاق. الجبال الضبابية تمثل صعوبات السفر. المدينة الحصينة تشير إلى Tongguan. الحديقة الإمبراطورية هي حديقة ملكية. صوت الطواحين يشير إلى نشاط غسل الملابس. Chang'an هي عاصمة dynasty Tang. تمر السنوات سدى تعني تضييع الوقت."
+    },
+    "appreciations": {
+        "zh": "这首诗通过送别友人魏万前往京城，表达了诗人对友人的深情厚谊和对人生岁月的感慨。主题思想在于劝勉友人珍惜时光，勿虚度年华。写作特色上，诗人运用了细腻的景物描写，如微霜、鸿雁、云山等，营造出一种凄凉的氛围，增强了离别的情感。艺术成就方面，诗歌结构严谨，意境深远，语言凝练，情感真挚，具有较高的艺术价值。情感分析上，诗人既抒发了对友人的依依不舍，又流露出对时光流逝的无奈和警示。影响意义上，这首诗在唐代送别诗中占有重要地位，对后世文学创作产生了深远影响。",
+        "en": "This poem expresses the poet's deep friendship and感慨 on the passage of time through bidding farewell to his friend Wei Wan heading to the capital. The main theme is to encourage the friend to cherish the time and not to waste the years. In terms of writing features, the poet uses delicate descriptions of the scenery, such as the light frost, wild geese, and cloudy mountains, creating a melancholic atmosphere that enhances the sense of parting. In terms of artistic achievements, the poem has a rigorous structure, profound artistic conception, concise language, and sincere emotions, possessing high artistic value. Emotionally, the poet expresses both his reluctance to part with his friend and his helplessness and warning about the passage of time. In terms of influence and significance, this poem holds an important position in Tang Dynasty farewell poems and has had a profound impact on later literary creation.",
+        "ja": "この詩は、友人の魏万が都に向かうのを見送りながら、詩人が友人への深い友情と人生の歳月に対する感慨を表現しています。主題思想は、友人に時を大切にし、無駄に歳月を過ごさないよう勧めることです。執筆の特色としては、詩人は細やかな風景描写、例えば軽い霜、鴻鴈、雲山などを用い、別れの情感を強める悲しげな雰囲気を作り出しています。芸術的成就としては、詩は構成が厳密で、意境が深遠、言語が凝縮され、感情が真摯であり、高い芸術的価値を有しています。感情分析では、詩人は友人との別れの悲しみと時の流れに対する無力感と警告を表しています。影響と意義においては、この詩は唐代の送別詩の中で重要な位置を占め、後世の文学創作に深い影響を与えました。",
+        "es": "Este poema expresa la profunda amistad del poeta y su reflexión sobre el paso del tiempo al despedir a su amigo Wei Wan hacia la capital. El tema principal es animar al amigo a valorar el tiempo y no dejar que los años pasen en vano. En cuanto a las características de escritura, el poeta utiliza descripciones detalladas del paisaje, como el ligero escarcha, las gansos salvajes y las montañas nubladas, creando una atmósfera melancólica que intensifica el sentimiento de despedida. En términos de logros artísticos, el poema tiene una estructura rigurosa, una concepción artística profunda, un lenguaje conciso y emociones sinceras, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa tanto su renuencia a separarse de su amigo como su impotencia y advertencia sobre el paso del tiempo. En cuanto a la influencia y el significado, este poema ocupa un lugar importante en la poesía de despedida de la dinastía Tang y ha tenido un profundo impacto en la creación literaria posterior.",
+        "ar": "يعبر هذا الشعر عن صداقة عميقة للشاعر وتأملاته حول مرور الزمن من خلال توديع صديقه وي وان المتوجه إلى العاصمة. الفكرة الرئيسية هي حث الصديق على تقييم الوقت وعدم ترك السنوات تمر هباء. فيما يتعلق بميزات الكتابة، يستخدم الشاعر وصفًا دقيقًا للمناظر الطبيعية، مثل الصقيع الخفيف، البجع البري، والجبال الضبابية، مما يخلق جوًا حزينًا يعزز شعور الوداع. من حيث الإنجازات الفنية، يحتوي الشعر على بنية دقيقة، مفهوم فني عميق، لغة موجزة، وعواطف صادقة، يمتلك قيمة فنية عالية. في تحليل العواطف، يعبر الشاعر عن تردده في الانفصال عن صديقه وعجزه و تحذيره من مرور الزمن. من حيث التأثير والمعنى، يحتل هذا الشعر مكانة مهمة في شعر الوداع في عهد التانغ وأثر بشكل عميق على الإبداع الأدبي اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "清晨听到游子唱起离别之歌，昨夜薄霜初降渡过黄河。\n鸿雁声中更觉离愁难耐，云山之间何况是客中经过。\n关城树色催促寒意渐近，御苑砧声傍晚时分更多。\n不要只看到长安行乐之处，白白让岁月轻易蹉跎。",
+            "en": "At dawn I hear the traveler sing a farewell song,\nLast night a light frost crossed the river for the first time.\nThe cries of swans are hard to bear in sorrow,\nAnd mountains shrouded in clouds are doubly so for a guest passing through.\nThe trees in the fortress town hasten the approach of winter,\nAnd the sounds of looms in the imperial garden grow louder in the evening.\nDo not see Chang'an as just a place of pleasure,\nLest you let the years slip away in vain.",
+            "ja": "朝に旅人のはなむけの歌を聞く、昨夜は微霜が初めて川を渡る。\n鴻鴈の鳴き声は愁いに耐えがたく、雲山は旅人には一層過酷だ。\n関城の樹色は寒さを促し、御苑の杵音は夕暮れに多くなる。\n長安の楽しみの場所だけを見て、無駄に歳月を過ごすな。",
+            "es": "Al amanecer escucho al viajero cantar la canción de despedida,\nAnoche un ligero escarcha cruzó el río por primera vez.\nEs difícil soportar el lamento de las gaviotas en la tristeza,\nY aún más pasar entre montañas nubladas como un extraño.\nLos colores de los árboles en la ciudadela aceleran la llegada del frío,\nY los sonidos de los batanes en el jardín imperial aumentan al atardecer.\nNo veas a Chang'an solo como un lugar de diversión,\nPara no dejar que los años pasen en vano.",
+            "ar": "سمعت في الصباح مغني المسافر بأغنية الوداع،\nليلة البارحة صقيع خفيف عبر النهر لأول مرة.\nصوت البجع يصعب تحمله في الحزن،\nوالجبال المكسوة بالغيوم أشد على المسافر.\nألوان الأشجار في المدينة الحصينة تدفع ببرودة الشتاء،\nوأصوات المكاسح في الحديقة الإمبراطورية تزداد في المساء.\nلا ترى Chang'an مجرد مكان للمرح،\nلئلا تترك السنوات تضيع سدى."
+        },
+        "title_translation": {
+            "zh": "送魏万之京",
+            "en": "Farewell to Wei Wan on His Journey to the Capital",
+            "ja": "魏万への送別詩",
+            "es": "Despedida a Wei Wan en su viaje a la capital",
+            "ar": "وداع لوي وان في رحلته إلى العاصمة"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "朝闻游子唱离歌，昨夜微霜初渡河。\n鸿雁不堪愁里听，云山况是客中过。\n关城树色催寒近，御苑砧声向晚多。(\n树\n色 一作：曙)\n莫见长安行乐处，空令岁月易蹉跎。",
+    "title_pinyin": "sòng wèi wàn zhī jīng",
+    "pinyin": "cháo wén yóu zi chàng lí gē，zuó yè wēi shuāng chū dù hé。\nhóng yàn bù kān chóu lǐ tīng，yún shān kuàng shì kè zhōng guò。\nguān chéng shù sè cuī hán jìn，yù yuàn zhēn shēng xiàng wǎn duō。(\nshù\nsè  yī zuò：shǔ)\nmò jiàn zhǎng ān xíng lè chù，kōng lìng suì yuè yì cuō tuó。"
+}

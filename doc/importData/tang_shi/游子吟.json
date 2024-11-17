@@ -1,0 +1,57 @@
+{
+    "title": "游子吟",
+    "difficulty": 2,
+    "author": {
+        "name": "孟郊",
+        "name_pinyin": "mèng jiāo",
+        "image": "孟郊.jpg",
+        "introduction": {
+            "zh": "孟郊（751年－814年），字东野，唐代著名诗人，湖州武康（今浙江德清）人。他出身贫寒，早年屡试不第，直到46岁才中进士。孟郊的诗作多反映社会现实，风格朴实无华，语言简练有力，尤以《游子吟》最为脍炙人口，表达了对母爱的深情赞颂。他的诗歌在当时影响颇大，与贾岛并称“郊寒岛瘦”，是中唐时期的重要诗人之一。",
+            "en": "Meng Jiao (751-814), styled Dongye, was a renowned poet of the Tang Dynasty, born in Wukang, Huzhou (present-day Deqing, Zhejiang). He came from a poor family and struggled in his early years, failing the imperial examinations multiple times before finally passing at the age of 46. Meng Jiao's poetry often reflects social realities, characterized by a plain and unadorned style and concise, powerful language. His most famous work, 'Song of the Wanderer,' is a heartfelt ode to maternal love. His poems had a significant impact during his time, and he is often mentioned alongside Jia Dao as 'Jiao Han Dao Shou,' making him one of the important poets of the mid-Tang period.",
+            "ja": "孟郊（751年－814年）、字は東野、唐代の著名な詩人で、湖州武康（現在の浙江省徳清県）出身。貧しい家庭に生まれ、若い頃は何度も科挙に失敗し、46歳でようやく進士に合格した。孟郊の詩はしばしば社会の現実を反映し、質素で飾り気のないスタイルと簡潔で力強い言葉遣いが特徴である。代表作『遊子吟』は母愛に捧げた深い感謝の詩として知られ、当時大きな影響を与えた。賈島と共に「郊寒島痩」と並称され、中唐期の重要な詩人の一員である。",
+            "es": "Meng Jiao (751-814), conocido por su nombre de estilo Dongye, fue un destacado poeta de la dinastía Tang, originario de Wukang, Huzhou (actual Deqing, Zhejiang). Proveniente de una familia pobre, enfrentó dificultades en sus primeros años, fallando en los exámenes imperiales en múltiples ocasiones hasta que finalmente los aprobó a los 46 años. La poesía de Meng Jiao a menudo refleja realidades sociales, con un estilo sencillo y sin adornos y un lenguaje conciso y poderoso. Su obra más famosa, 'Canto del Viajero', es un emotivo elogio al amor maternal. Sus poemas tuvieron un gran impacto en su época, y se le menciona junto a Jia Dao como 'Jiao Han Dao Shou', siendo uno de los poetas importantes del período medio de la dinastía Tang.",
+            "ar": "مينغ جياو (751-814)، المعروف بلقبه دونغييه، كان شاعرًا مشهورًا في عهد أسرة تانغ، وُلد في ووكانغ، هوزهو (الآن ديشينغ، تشجيانغ). وُلد في عائلة فقيرة وواجه صعوبات في شبابه، حيث فشل في الامتحانات الإمبراطورية عدة مرات حتى اجتازها في سن 46. قصائد مينغ جياو غالبًا ما تعكس الحقائق الاجتماعية، تتميز بنمط بسيط غير متكلف ولغة موجزة وقوية. أشهر أعماله، 'أنشودة المسافر'، هي ترنيمة حماسية للعطف الأمومي. أثرت قصائده بشكل كبير في وقته، ويُذكر جنبًا إلى جنب مع جيا داو كـ 'جياو هان داو شو'، مما جعله واحدًا من الشعراء المهمين في فترة تانغ الوسطى."
+        }
+    },
+    "annotations": {
+        "zh": "慈母：指母亲。手中线：指母亲手中的针线。游子：指离家远行的儿子。身上衣：指游子穿的衣服。临行：即将出发。密密缝：指母亲缝制衣服时非常仔细。意恐：心中担心。迟迟归：指游子迟迟不归。寸草心：比喻子女对母亲的心意。三春晖：指春天的阳光，比喻母亲的恩情。此诗通过描写母亲为游子缝制衣服的细节，表达了对母爱的赞美和感激。",
+        "en": "Kind mother: refers to the mother. Thread in hand: refers to the needle and thread in the mother's hand. Wanderer: refers to a son who travels far from home. Clothes on the body: refers to the clothes worn by the wanderer. Before departure: about to leave. Meticulously sewn: refers to the mother sewing very carefully. Fear in mind: worried in the heart. Delayed return: refers to the wanderer's delayed return. Heart of an inch of grass: metaphor for the child's affection for the mother. Sunshine of three springs: refers to the spring sunlight, metaphor for the mother's kindness. This poem expresses the praise and gratitude for maternal love through the detail of the mother sewing clothes for the wanderer.",
+        "ja": "慈母：母親を指す。手中線：母親の手にある針と糸を指す。遊子：家を離れて遠くへ行く息子を指す。身上衣：遊子が着ている服を指す。臨行：出発する直前。密密縫：母親が服を縫うとき非常に丁寧であることを指す。意恐：心配していること。遅々帰：遊子がなかなか帰ってこないこと。寸草心：子供が母親に対する心を比喩する。三春暉：春の陽光を指し、母親の恩を比喩する。この詩は、母親が遊子のために服を縫う細かい描写を通じて、母愛に対する賛美と感謝を表現している。",
+        "es": "Madre cariñosa: se refiere a la madre. Hilo en mano: se refiere al hilo y la aguja en la mano de la madre. Viajero: se refiere a un hijo que viaja lejos de casa. Ropa en el cuerpo: se refiere a la ropa que lleva el viajero. Antes de partir: justo antes de salir. Cosido con esmero: se refiere a que la madre cose muy cuidadosamente. Temor en mente: preocupación en el corazón. Retorno retrasado: se refiere a que el viajero tarda en regresar. Corazón de hierba pequeña: metáfora de la intención del hijo hacia la madre. Luz de las tres primaveras: se refiere a la luz del sol en primavera, metáfora de la bondad de la madre. Este poema expresa alabanza y gratitud hacia el amor maternal a través del detalle de la madre cosiendo ropa para el viajero.",
+        "ar": "أم حنون: تشير إلى الأم. خيط في اليد: يشير إلى الخيط والإبرة في يد الأم. مسافر: يشير إلى ابن يسافر بعيدًا عن المنزل. ثياب على الجسد: تشير إلى الثياب التي يرتديها المسافر. قبل الذهاب: قبل المغادرة مباشرة. خياطة دقيقة: تشير إلى أن الأم تخيط بحذر شديد. خوف في القلب: قلق في القلب. عودة متأخرة: يشير إلى تأخر المسافر في العودة. قلب عشب صغير: مجاز عن نية الابن تجاه الأم. ضوء الثلاث ربيعات: يشير إلى ضوء الشمس في الربيع، مجاز عن لطف الأم. يعبر هذا الشعر عن الثناء والامتنان للعطف الأمومي من خلال تفصيل الأم وهي تخيط ثيابًا للمسافر."
+    },
+    "appreciations": {
+        "zh": "《游子吟》以简洁朴实的语言，表达了深厚的母爱主题。诗人通过慈母为游子缝衣的细节，生动刻画了母亲对儿子的无尽关怀和牵挂。'临行密密缝，意恐迟迟归'两句，细腻地描绘了母亲的心理活动，展现了母爱的深沉与无私。'谁言寸草心，报得三春晖'以比喻手法，将母爱比作春天的阳光，强调了母爱的伟大和子女难以回报的感恩之情。全诗情感真挚，意境深远，堪称歌颂母爱的经典之作。",
+        "en": "The poem 'A Traveler's Song' conveys the profound theme of maternal love through simple and unadorned language. The poet vividly depicts the mother's endless care and concern for her son through the detail of sewing clothes. The lines 'As he departs, she sews densely, fearing a late return' intricately portray the mother's emotional state, highlighting the depth and selflessness of her love. The metaphor 'Who says the heart of a blade of grass can repay the sun's warmth in spring?' emphasizes the greatness of maternal love and the impossibility of repaying it. The poem is sincere in emotion and profound in meaning, making it a classic in celebrating motherly love.",
+        "ja": "《遊子吟》は簡潔で質素な言葉で、深い母の愛のテーマを表現しています。詩人は母が遊子のために衣服を縫う細かい描写を通じて、母親が息子に対する尽きることのない关怀と心配を生き生きと描いています。「臨行密密縫、意恐遅遅帰」という二行は、母親の心理活動を細やかに描き出し、母の愛の深さと無私を示しています。「誰言寸草心、報得三春暉」という比喩は、母の愛を春の陽光に例え、母の愛の偉大さと子供が報いるのが難しい感謝の気持ちを強調しています。全詩は感情が真挚で、意境が深遠であり、母の愛を讃える古典的名作と言えます。",
+        "es": "El poema 'Canto del Viajero' expresa el profundo tema del amor maternal a través de un lenguaje sencillo y austero. El poeta retrata vívidamente el cuidado y la preocupación inagotables de la madre por su hijo mediante el detalle de coser ropa. Las líneas 'Al partir, cose densamente, temiendo un regreso tardío' describen finamente el estado emocional de la madre, resaltando la profundidad y el desinterés de su amor. La metáfora '¿Quién dice que el corazón de una brizna de hierba puede recompensar el calor de la primavera?' enfatiza la grandeza del amor maternal y la imposibilidad de devolverlo. El poema es sincero en emoción y profundo en significado, making it a clásico en la celebración del amor maternal.",
+        "ar": "القصيدة 'أنشودة المسافر' تعبر عن موضوع الحب الأمومي العميق من خلال لغة بسيطة وخالصة. يصور الشاعر بوضوح العناية والقلق اللانهائيين للأم تجاه ابنها من خلال تفاصيل خياطة الملابس. الأبيات 'عند الرحيل، تُخيط بإحكام، تخشى التأخر في العودة' تصف بدقة الحالة العاطفية للأم، وتبرز عمق وتضحية حبها. التشبيه 'من قال إن قلب البرعم يمكنه أن يكافئ دفء الربيع؟' يُؤكد على عظمة الحب الأمومي وصعوبة رده. القصيدة صادقة في العاطفة، عميقة في المعنى، وتعد كلاسيكية في تهليل الحب الأمومي."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "慈母手中的针线，为游子缝制身上的衣衫。临行前密密地缝补，担心儿子迟迟不归。谁说寸草般微弱的心意，能报答得了三春阳光般的恩情。",
+            "en": "The loving mother's hand holds the thread, sewing clothes for the wandering son. Before his departure, she stitches closely, fearing he might return late. Who says the heart of a tiny grass can repay the warmth of three springs' sunlight?",
+            "ja": "慈母の手の糸、遊子の体に衣。行く前にしっかりと縫い、帰りが遅れることを恐れる。誰が言ったか、寸草の心が、三春の陽光を報いることができるか。",
+            "es": "El hilo en las manos de la madre cariñosa, viste al hijo errante. Antes de partir, cose con esmero, temiendo su tardío regreso. ¿Quién dice que el corazón de una brizna de hierba puede recompensar la luz de tres primaveras?",
+            "ar": "خيط في يد الأم الحانية، يكسو ابن السفر. قبل الذهاب، يخيط بحذر، خشية تأخر عودته. من يقول أن قلب العشب الصغير يمكنه أن يكافئ ضوء ثلاث ربيعات؟"
+        },
+        "title_translation": {
+            "zh": "游子吟",
+            "en": "The Wanderer's Song",
+            "ja": "遊子吟",
+            "es": "Canto del Viajero",
+            "ar": "أنشودة المسافر"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "慈母手中线，游子身上衣。\n临行密密缝，意恐迟迟归。\n谁言寸草心，报得三春晖。",
+    "title_pinyin": "yóu zi yín",
+    "pinyin": "cí mǔ shǒu zhōng xiàn，yóu zi shēn shàng yī。\nlín xíng mì mì fèng，yì kǒng chí chí guī。\nshuí yán cùn cǎo xīn，bào dé sān chūn huī。"
+}

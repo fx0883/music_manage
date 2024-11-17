@@ -1,0 +1,57 @@
+{
+    "title": "和张仆射塞下曲·其二",
+    "difficulty": 2,
+    "author": {
+        "name": "卢纶",
+        "name_pinyin": "lú lún",
+        "image": "卢纶.jpg",
+        "introduction": {
+            "zh": "卢纶，唐代著名诗人，字允言，河中蒲州（今山西永济）人。他擅长写边塞诗，风格雄浑豪放，意境深远。其诗多描写边塞风光和军旅生活，表现了将士们的英勇和边塞的艰苦。卢纶的诗作在当时颇受赞誉，与钱起、韩翃、司空曙并称“大历十才子”。《和张仆射塞下曲·其二》是其代表作之一，通过描绘将军夜射的场景，展现了边塞将士的英勇无畏。",
+            "en": "Lu Lun, a renowned poet of the Tang Dynasty, styled Yunyan, was from Puzhou in Hezhong (present-day Yongji, Shanxi). He excelled in writing frontier poems, characterized by their grand and bold style and profound imagery. His works often depict the landscapes of the frontier and the life of soldiers, highlighting their bravery and the hardships of the border regions. Lu Lun's poetry was highly praised during his time, and he was one of the \"Ten Talents of the Dali Era\" along with Qian Qi, Han Hong, and Sikong Shu. \"Reply to General Zhang's Frontier Poem II\" is one of his masterpieces, portraying the scene of a general shooting at night, showcasing the valor of frontier soldiers.",
+            "ja": "卢纶（ル・ルン）は唐代の著名な詩人で、字は允言、河中蒲州（現在の山西省永済市）出身。辺塞詩を得意とし、そのスタイルは雄渾豪放、意境は深遠である。彼の詩は多くが辺塞の風景や軍旅生活を描き、将兵たちの勇敢さと辺塞の困難さを表現している。当時、彼の詩作は高く評価され、錢起、韓翃、司空曙と共に「大暦十才子」と称された。《和张仆射塞下曲・其二》は彼の代表作の一つで、将軍が夜に弓を引く場面を描き、辺塞の将兵の勇敢さを示している。",
+            "es": "Lu Lun, un destacado poeta de la dinastía Tang, cuyo nombre de cortesía era Yunyan, era originario de Puzhou en Hezhong (actual Yongji, Shanxi). Se destacó en la escritura de poemas sobre las fronteras, con un estilo grandioso y audaz y una imaginería profunda. Sus obras a menudo describen los paisajes de la frontera y la vida de los soldados, resaltando su valentía y las dificultades de las regiones fronterizas. La poesía de Lu Lun fue muy elogiada en su tiempo, y fue uno de los \"Diez Talentos de la Era Dali\" junto con Qian Qi, Han Hong y Sikong Shu. \"Respuesta a la Canción de la Frontera de General Zhang II\" es una de sus obras maestras, que retrata la escena de un general disparando en la noche, mostrando la valentía de los soldados de la frontera.",
+            "ar": "لولون، شاعر مشهور من عهد التانغ، كان اسمه المستعار يونيان، وهو من بوزو في هيزونغ (اليوم يونغجي، شانشى). برع في كتابة الشعر الحدودي، يتميز بأسلوبه العظيم والجريء وتصوراته العميقة. كثيراً ما تصف أعماله مناظر الحدود وحياة الجنود، وتبرز شجاعتهم وصعوبة المناطق الحدودية. تمت الإشادة بشعر لولون في وقته، وكان واحداً من \"عشرة مواهب في عهد دالي\" إلى جانب تشيان تشي، هان هونغ، وسكونغ شو. \"الرد على قصيدة الحدود لجنرال تشانغ II\" هي واحدة من روائعه، تصور مشهد الجنرال وهو يطلق النار في الليل، ويعرض شجاعة جنود الحدود."
+        }
+    },
+    "annotations": {
+        "zh": "林暗草惊风：树林昏暗，草丛被风吹动。惊，动词，被风吹动。将军夜引弓：将军在夜晚拉开弓箭。引，动词，拉开。平明寻白羽：天亮时寻找箭杆上的白羽毛。平明，名词，天刚亮的时候。白羽，名词，箭杆上的白色羽毛，代指箭。没在石棱中：发现箭深深地没入石棱中。没，动词，陷入。石棱，名词，石头的棱角。此诗描绘了将军夜间射箭，天亮发现箭深入石中的情景，表现了将军的英勇和箭术的高超。",
+        "en": "Lin an cao jing feng: The forest is dark, and the grass is startled by the wind. Jing, verb, disturbed by the wind. Jiang jun ye yin gong: The general draws his bow at night. Yin, verb, to draw. Ping ming xun bai yu: At dawn, he searches for the white feathers on the arrow. Ping ming, noun, early morning. Bai yu, noun, white feathers on the arrow, referring to the arrow itself. Mo zai shi leng zhong: He finds the arrow deeply embedded in the stone ridge. Mo, verb, to sink into. Shi leng, noun, the edge of a stone. This poem depicts a general shooting an arrow at night and discovering it deeply embedded in stone at dawn, showcasing his bravery and archery skills.",
+        "ja": "林暗草惊風：森が暗く、草が風で驚く。驚、動詞、風で動く。将軍夜引弓：将軍が夜に弓を引く。引、動詞、引き絞る。平明尋白羽：夜明けに矢の白い羽根を探す。平明、名詞、夜明け。白羽、名詞、矢の白い羽根、矢を指す。没在石棱中：矢が石の稜に深く没している。没、動詞、没入する。石棱、名詞、石の稜。この詩は、将軍が夜に矢を射、夜明けに矢が石に深く刺さっているのを発見する情景を描き、将軍の勇敢さと弓の技術の高さを表現している。",
+        "es": "Lin an cao jing feng: El bosque está oscuro y la hierba se asusta con el viento. Jing, verbo,扰动 por el viento. Jiang jun ye yin gong: El general tira del arco por la noche. Yin, verbo, tirar. Ping ming xun bai yu: Al amanecer, busca las plumas blancas en la flecha. Ping ming, nombre, al amanecer. Bai yu, nombre, plumas blancas en la flecha, refiriéndose a la flecha. Mo zai shi leng zhong: Encuentra la flecha profundamente incrustada en la arista de la piedra. Mo, verbo, hundirse en. Shi leng, nombre, la arista de una piedra. Este poema describe a un general disparando una flecha por la noche y descubriéndola profundamente incrustada en la piedra al amanecer, mostrando su valentía y habilidades en el tiro con arco.",
+        "ar": "لين آن تشاو جينغ فونغ: الغابة مظلمة، وال풀 يرتعش بسبب الرياح. جينغ، فعل، يتأثر بالرياح. تشانغ جون يي ين جونغ: الجنرال يسحب القوس في الليل. ين، فعل، يسحب. بينغ مينغ سون باي يو: عند الفجر، يبحث عن الريش الأبيض على السهم. بينغ مينغ، اسم، وقت الفجر. باي يو، اسم، الريش الأبيض على السهم، يشير إلى السهم نفسه. مو زاي شيلينغ تشونغ: يجد السهم غارقًا عميقاً في حافة الحجر. مو، فعل، يغرق في. شيلينغ، اسم، حافة الحجر. هذا الشعر يصور الجنرال وهو يرمي السهم في الليل ويكتشف أنه غارق عميقاً في الحجر عند الفجر، مما يعكس شجاعته ومهاراته في الرماية بالقوس."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘将军夜射的场景，展现了边疆战士的英勇无畏和超凡技艺。主题思想在于歌颂边塞将士的勇敢与智慧。写作特色上，诗人运用简洁有力的语言，通过细节描写如“林暗草惊风”和“平明寻白羽”，营造出紧张而壮烈的氛围。艺术成就方面，诗句凝练，意境深远，具有很高的艺术价值。情感分析来看，诗人抒发了对边塞将士的敬佩之情。影响意义上，此诗在文学史上具有重要地位，成为唐代边塞诗的代表作之一。",
+        "en": "This poem depicts the scene of a general shooting at night, showcasing the bravery and extraordinary skills of frontier warriors. The theme centers on praising the courage and wisdom of the border soldiers. In terms of writing style, the poet uses concise and powerful language, with detailed descriptions like 'the dark forest where the grass stirs in the wind' and 'searching for the white feather at dawn,' creating a tense and heroic atmosphere. Artistically, the verses are succinct and profound, holding high artistic value. Emotionally, the poet expresses admiration for the border soldiers. In terms of influence, this poem holds a significant place in literary history, becoming one of the representative works of Tang Dynasty frontier poetry.",
+        "ja": "この詩は、将軍が夜に弓を引く場面を描き、辺境の戦士たちの勇敢さと超絶技巧を示しています。主題思想は、辺塞の将士たちの勇気と知恵を讃えることです。執筆の特色としては、詩人は簡潔で力強い言葉を用い、「林暗草驚風」や「平明尋白羽」といった細部描写を通じて、緊張感と壮烈な雰囲気を作り出しています。芸術的成就としては、詩句が凝縮され、意境が深遠で、高い芸術価値を持っています。感情分析では、詩人は辺塞の将士たちに対する敬愛の念を表しています。影響の意味では、この詩は文学史上重要な地位を占め、唐代辺塞詩の代表作の一つとなっています。",
+        "es": "Este poema retrata la escena de un general disparando en la noche, mostrando la valentía y las habilidades extraordinarias de los guerreros fronterizos. El tema principal es alabar el coraje y la sabiduría de los soldados de la frontera. En cuanto a la técnica de escritura, el poeta utiliza un lenguaje conciso y poderoso, con descripciones detalladas como 'el bosque oscuro donde la hierba se estremece con el viento' y 'buscando la pluma blanca al amanecer', creando una atmósfera tensa y heroica. Artísticamente, los versos son sucintos y profundos, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa su admiración por los soldados de la frontera. En términos de influencia, este poema ocupa un lugar significativo en la historia de la literatura, convirtiéndose en una de las obras representativas de la poesía fronteriza de la dinastía Tang.",
+        "ar": "يصور هذا الشعر مشهد الجنرال وهو يرمي بالقوس في الليل، مظهراً شجاعة ومهارات استثنائية للجنود الحدوديين. يركز الموضوع الرئيسي على مدح شجاعة وذكاء جنود الحدود. من حيث أسلوب الكتابة، يستخدم الشاعر لغة موجزة وقوية، مع وصف مفصل مثل 'الغابة المظلمة حيث تهتز العشب مع الرياح' و 'البحث عن الريشة البيضاء عند الفجر'، مما يخلق جواً من التوتر والبطولة. فنياً، الأبيات موجزة وجوهرية، ولها قيمة فنية عالية. من حيث التحليل العاطفي، يعبر الشاعر عن إعجابه بجنود الحدود. من حيث التأثير، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب، ليصبح واحداً من أعمال الشعر الحدودي الممثلة للعهد التانغي."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "林中昏暗，草被风吹动，将军在夜晚拉弓。清晨寻找那白羽箭，发现它深嵌在石棱中。",
+            "en": "In the dark woods, grass stirs in the wind; the general draws his bow at night. At dawn, he seeks the white-feathered arrow, finding it lodged deep in the stone ridge.",
+            "ja": "林は暗く、草は風に驚く、将軍は夜に弓を引く。平明に白羽を探すと、石の稜線に没している。",
+            "es": "En el bosque oscuro, la hierba se alarma con el viento; el general tensa el arco en la noche. Al amanecer, busca la flecha de plumas blancas, hallándola incrustada en la arista de la roca.",
+            "ar": "في الغابة المظلمة، تتخوف العشب من الرياح؛ يقوم الجنرال بتشدید القوس في الليل. عند الفجر، يبحث عن السهم ذي الريش الأبيض، فيجدونه مدفونًا في حافة الصخرة."
+        },
+        "title_translation": {
+            "zh": "和张仆射塞下曲·其二",
+            "en": "In Response to General Zhang's Frontier Songs, Part Two",
+            "ja": "張仆射塞下曲に和す・其二",
+            "es": "En respuesta a las canciones de la frontera de Zhang Pu, Parte II",
+            "ar": "ردًا على أغاني الحدود لزhang Pu، الجزء الثاني"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "林暗草惊风，将军夜引弓。\n平明寻白羽，没在石棱中。",
+    "title_pinyin": "hé zhāng pū shè sāi xià qū·qí èr",
+    "pinyin": "lín àn cǎo jīng fēng，jiāng jūn yè yǐn gōng。\npíng míng xún bái yǔ，méi zài shí léng zhōng。"
+}

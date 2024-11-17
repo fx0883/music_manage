@@ -1,0 +1,57 @@
+{
+    "title": "夜泊牛渚怀古",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，是唐代著名的浪漫主义诗人，被后人尊称为“诗仙”。他的诗作以豪放、奔放、想象丰富著称，代表作品有《将进酒》、《庐山谣》、《望庐山瀑布》等。李白的诗歌广泛涉及自然、历史、人生等多个领域，表现了他对自由和理想的追求。",
+            "en": "Li Bai (701-762), styled Taibai and also known as the Hermit of Qinglian, was a renowned romantic poet of the Tang Dynasty, revered as the 'Poet Immortal' by later generations. His poetry is celebrated for its boldness, exuberance, and rich imagination, with famous works including 'To the Wine', 'Song of Lushan', and 'Viewing the Waterfall at Lushan'. Li Bai's poems cover a wide range of themes including nature, history, and life, reflecting his pursuit of freedom and ideals.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐代の著名な浪漫主義詩人であり、後世「詩仙」と尊称される。彼の詩は豪放、奔放、豊かな想像力で知られ、「将進酒」、「廬山謡」、「望廬山瀑布」などの代表作がある。李白の詩は自然、歴史、人生など多岐にわたるテーマを扱い、自由と理想の追求を表現している。",
+            "es": "Li Bai (701-762), también conocido como Taibai y el Ermitaño de Qinglian, fue un destacado poeta romántico de la dinastía Tang, venerado como el 'Poeta Inmortal' por las generaciones posteriores. Su poesía es famosa por su audacia, exuberancia y rica imaginación, con obras destacadas como 'Jin Jiǔ', 'Canción de Lushan' y 'Viendo la Catarata de Lushan'. Las poesías de Li Bai abarcan una amplia gama de temas, incluyendo la naturaleza, la historia y la vida, reflejando su búsqueda de la libertad y los ideales.",
+            "ar": "لي بái (701-762)، المعروف بلقب تايباي وال Eremitaño de Qinglian، كان شاعرًا رومانسيًا بارزًا في عهد التانغ، وأُعطي لقب الشاعر الخالد من قبل الأجيال اللاحقة. اشتهرت قصائده بقوتها، ازدهارها، وتخيلها الغني، ومن أشهر أعماله \"Jin Jiǔ\"، \"أغنية لوشان\"، و \"مشاهدة شلال لوشان\". تناولت قصائد لي بái مواضيع واسعة تشمل الطبيعة، التاريخ، والحياة، معبرة عن بحثه عن الحرية والمثل."
+        }
+    },
+    "annotations": {
+        "zh": "牛渚西江夜，青天无片云。\n牛渚：地名，位于今安徽省当涂县西北长江边。西江：指长江。\n登舟望秋月，空忆谢将军。\n登舟：上船。谢将军：指东晋谢尚，曾任镇西将军。\n余亦能高咏，斯人不可闻。\n余：我。高咏：高声吟咏。斯人：此人，指谢将军。\n明朝挂帆席，枫叶落纷纷。\n明朝：明天。挂帆席：扬帆起航。枫叶：象征秋天的落叶。\n\n此诗通过夜泊牛渚，望月怀古，表达了诗人对谢将军的怀念和对自身才华不得赏识的感慨。\n历史背景：唐代诗人常以怀古抒发个人情感，此诗亦然。",
+        "en": "Niu Zhu Xi Jiang Ye, Qing Tian Wu Pian Yun.\nNiu Zhu: a place name, located in the northwest of Dangtu County, Anhui Province, on the Yangtze River. Xi Jiang: refers to the Yangtze River.\nDeng Zhou Wang Qiu Yue, Kong Yi Xie Jiang Jun.\nDeng Zhou: boarding the boat. Xie Jiang Jun: refers to Xie Shang of the Eastern Jin Dynasty, who once served as the General of the Western Command.\nYu Yi Neng Gao Yong, Si Ren Bu Ke Wen.\nYu: I. Gao Yong: reciting loudly. Si Ren: this person, referring to Xie Jiang Jun.\nMing Zhao Gua Fan Xi, Feng Ye Luo Fen Fen.\nMing Zhao: tomorrow. Gua Fan Xi: setting sail. Feng Ye: symbolizes the falling leaves of autumn.\n\nThis poem expresses the poet's nostalgia for General Xie and his regret that his talents are not appreciated, through the scene of mooring at Niu Zhu and gazing at the moon.\nHistorical background: Tang Dynasty poets often used nostalgia to express personal emotions, and this poem is no exception.",
+        "ja": "牛渚西江夜、青天無片雲。\n牛渚：地名、安徽省当塗県西北の長江辺に位置する。西江：長江を指す。\n登舟望秋月、空忆謝将軍。\n登舟：船に乗る。謝将軍：東晋の謝尚を指す、鎮西将軍を務めたことがある。\n余亦能高詠、斯人不可聞。\n余：私。高詠：大声で詠むこと。斯人：この人、謝将軍を指す。\n明朝挂帆席、楓葉落紛紛。\n明朝：明日。挂帆席：帆を上げて出航すること。楓葉：秋を象徴する落ち葉。\n\nこの詩は、牛渚に夜泊し、月を眺めて古を懐くことで、謝将軍への思い出と自分の才能が認められないことへの感慨を表現している。\n歴史背景：唐代の詩人はよく懐古を通じて個人的な感情を表現し、この詩も例外ではない。",
+        "es": "Niu Zhu Xi Jiang Ye, Qing Tian Wu Pian Yun.\nNiu Zhu: nombre de un lugar, ubicado en el noroeste del condado de Dangtu, provincia de Anhui, a orillas del río Yangtsé. Xi Jiang: se refiere al río Yangtsé.\nDeng Zhou Wang Qiu Yue, Kong Yi Xie Jiang Jun.\nDeng Zhou: subir al barco. Xie Jiang Jun: se refiere a Xie Shang de la dinastía Jin del Este, quien sirvió como General del Comando Occidental.\nYu Yi Neng Gao Yong, Si Ren Bu Ke Wen.\nYu: yo. Gao Yong: recitar en voz alta. Si Ren: esta persona, refiriéndose a Xie Jiang Jun.\nMing Zhao Gua Fan Xi, Feng Ye Luo Fen Fen.\nMing Zhao: mañana. Gua Fan Xi: zarpar. Feng Ye: simboliza las hojas caídas del otoño.\n\nEste poema expresa la nostalgia del poeta por el General Xie y su pesar por no ser reconocido por su talento, a través de la escena de anclar en Niu Zhu y contemplar la luna.\nContexto histórico: Los poetas de la dinastía Tang a menudo usaban la nostalgia para expresar emociones personales, y este poema no es una excepción.",
+        "ar": "نيو زه شي جيانغ يي، تشينغ تيان وو بين يون.\nنيو زه: اسم مكان، يقع في الشمال الغربي لمقاطعة دانغتسو، مقاطعة آنهوي، على ضفاف نهر يانغتسي. شي جيانغ: يشير إلى نهر يانغتسي.\nدينغ تشو وونغ تشيو يوي، كونغ يي شيه جيانغ جون.\nدينغ تشو: صعود القارب. شيه جيانغ جون: يشير إلى شيه شانغ من عهد جين الشرقي، الذي خدم كجنرال القيادة الغربية.\nيوي يي نينغ جاو يونغ، سي رين بوك كي وين.\nيوي: أنا. جاو يونغ: الترتيل بصوت عالٍ. سي رين: هذا الشخص، يشير إلى شيه جيانغ جون.\nمينغ تشاو جوا فان شي، فنغ يي ليو فين فين.\nمينغ تشاو: غدًا. جوا فان شي: الإبحار. فنغ يي: يرمز إلى أوراق الشجر المتساقطة في الخريف.\n\nهذا الشعر يعبر عن ندم الشاعر على عدم تقدير موهبته، من خلال مشهد الإرساء في نيو زه والنظر إلى القمر.\nالخلفية التاريخية: كان شعراء عهد التانغ يستخدمون التاريخ للتعبير عن مشاعرهم الشخصية، وهذا الشعر ليس استثناء."
+    },
+    "appreciations": {
+        "zh": "《夜泊牛渚怀古》是唐代诗人李白的作品，主题思想表达了对古代英雄的怀念和对自身才华不得施展的感慨。写作特色上，诗人通过登舟望月、空忆谢将军等具体场景，巧妙地将怀古之情与现实感受相结合，语言简练而意境深远。艺术成就方面，此诗以简洁的笔触勾勒出秋夜江景，情感真挚，具有很高的艺术价值。情感分析上，诗人抒发了对谢将军的敬仰及自身怀才不遇的落寞之情。影响意义上，这首诗在文学史上具有重要地位，展示了李白独特的怀古风格和深厚的艺术功底。",
+        "en": "Night Mooring at Niuzhu by Li Bai of the Tang Dynasty reflects the theme of怀念 for ancient heroes and the frustration of unfulfilled talent. In terms of writing style, the poet skillfully combines historical nostalgia with personal feelings through specific scenes like gazing at the autumn moon from a boat and reminiscing about General Xie. The artistic achievement lies in its concise depiction of the autumn night river scene, conveying sincere emotions and high artistic value. Emotionally, it expresses admiration for General Xie and the poet's own sense of disappointment. Historically, this poem holds a significant place in literary history, showcasing Li Bai's unique style of historical reflection and profound artistic skill.",
+        "ja": "唐代の詩人李白の《夜泊牛渚怀古》は、古代の英雄への思い出と自身の才能が発揮できない寂しさを主題としています。表現手法としては、舟に乗って秋の月を眺め、謝将軍を空しく思い出す具体的な情景を通じて、巧妙に古今の感情を結びつけています。芸術的成果としては、簡潔な筆致で秋の夜の江の景色を描き、真摯な感情を伝え、高い芸術価値を持っています。感情分析では、謝将軍への敬慕と自分自身の不遇の寂しさを表現しています。影響の意味では、文学史上重要な位置を占め、李白独自の懐古のスタイルと深い芸術的功底を示しています。",
+        "es": "La obra 'Noche atracada en Niuzhu' del poeta Li Bai de la dinastía Tang, expresa el tema de la nostalgia por los héroes antiguos y la frustración por no poder desplegar su propio talento. En cuanto a la técnica literaria, el poeta combina hábilmente el recuerdo histórico con sus sentimientos personales a través de escenas específicas como observar la luna de otoño desde el barco y recordar al General Xie. En términos de logro artístico, el poema destaca por su descripción concisa del paisaje fluvial nocturno de otoño, transmitiendo emociones sinceras y un alto valor artístico. En el análisis emocional, se expresa la admiración por el General Xie y la melancolía por la propia situación de Li Bai. En cuanto a su significado e influencia, este poema ocupa un lugar importante en la historia literaria, mostrando el estilo único de Li Bai en la reflexión histórica y su profunda habilidad artística.",
+        "ar": "قصيدة 'الإقامة ليلاً في نويزو' للشاعر لي باي من عهد التانغ، تتناول موضوع التفكير في الأبطال القدامى والحسرة على عدم إظهار موهبته الخاصة. من حيث الأسلوب الأدبي، يدمج الشاعر ببراعة التفكير في التاريخ مع مشاعره الشخصية من خلال مشاهد محددة مثل مشاهدة القمر الخريفي من على القارب وتذكر الجنرال شيه. من حيث الإنجاز الفني، تبرز القصيدة بوصفها المشهد الليلي الخريفي على النهر بشكل موجز، ناقلة مشاعر صادقة وقيمة فنية عالية. في تحليل المشاعر، يعبر الشاعر عن إعجابه بالجنرال شيه وحزنه على وضعه الخاص. من حيث المعنى والتأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، معرضة لأسلوب لي باي الفريد في التفكير التاريخي ومهارته الفنية العميقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "牛渚西江的夜晚，青天没有一丝云彩。\n登上船仰望秋月，徒然回忆起谢将军。\n我也能高声吟咏，但那人却听不到。\n明天挂起帆席，枫叶纷纷飘落。",
+            "en": "On the night at Niuzhu on the West River, the clear sky holds not a single cloud.\nBoarding the boat, I gaze at the autumn moon, vainly recalling General Xie.\nI too can recite lofty verses, but that man cannot hear.\nTomorrow, hoisting the sail, maple leaves will fall in abundance.",
+            "ja": "西江の牛渚の夜、青空に一片の雲もない。\n舟に乗り秋の月を望む、空しく謝将軍を思い出す。\n我もまた高吟できるが、その人は聞こえない。\n明朝帆を上げると、楓の葉が紛紛と落ちる。",
+            "es": "En la noche de Niuzhu en el Río Occidental, el cielo azul no tiene ni una nube.\nSubiendo al barco, miro la luna de otoño, recordando en vano al General Xie.\nYo también puedo recitar alto, pero esa persona no puede oír.\nMañana izaremos la vela, y las hojas de arce caerán en abundancia.",
+            "ar": "في ليلة بنيوزهو على نهر الغرب، السماء الزرقاء بلا قطعة سحاب واحدة.\nأصعد إلى السفينة أنظر إلى هلال الخريف، أتذكر شانغ شيه في vão.\nأنا أيضًا أستطيع أن أ recite الشعر العالي، لكن ذلك الشخص لا يمكنه السماع.\nغدًا نرفع الشراع، وأوراق الخشب البقري تسقط بغزارة."
+        },
+        "title_translation": {
+            "zh": "夜泊牛渚怀古",
+            "en": "Reflecting on the Past at Night by Niuzhu",
+            "ja": "夜泊牛渚懐古",
+            "es": "Reflexionando sobre el Pasado en Noche en Niuzhu",
+            "ar": "التفكير في الماضي في ليلة بنيوزهو"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "牛渚西江夜，青天无片云。\n登舟望秋月，空忆谢将军。\n余亦能高咏，斯人不可闻。\n明朝挂帆席，枫叶落纷纷。",
+    "title_pinyin": "yè pō niú zhǔ huái gǔ",
+    "pinyin": "niú zhǔ xī jiāng yè，qīng tiān wú piàn yún。\ndēng zhōu wàng qiū yuè，kōng yì xiè jiāng jūn。\nyú yì néng gāo yǒng，sī rén bù kě wén。\nmíng cháo guà fān xí，fēng yè luò fēn fēn。"
+}

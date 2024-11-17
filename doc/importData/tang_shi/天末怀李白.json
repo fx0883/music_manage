@@ -1,0 +1,57 @@
+{
+    "title": "天末怀李白",
+    "difficulty": 2,
+    "author": {
+        "name": "杜甫",
+        "name_pinyin": "dù fǔ",
+        "image": "杜甫.jpg",
+        "introduction": {
+            "zh": "杜甫（712年－770年），字子美，号少陵野老，唐代著名现实主义诗人，与李白并称为“李杜”，被后人尊称为“诗圣”。他的诗歌内容广泛，反映了唐代社会的各个方面，尤其是对人民疾苦的关注，具有很高的历史价值和艺术成就。代表作有《春望》、《登高》、《茅屋为秋风所破歌》等。",
+            "en": "Du Fu (712-770), styled Zimei, also known as Shaoling Ye lao, was a renowned realist poet of the Tang Dynasty, often paired with Li Bai as 'Li Du' and revered as the 'Poet Saint' by later generations. His poetry covers a wide range of topics, reflecting various aspects of Tang Dynasty society, particularly his concern for the suffering of the people, and holds high historical and artistic value. His famous works include 'Spring View', 'Climbing High', and 'Song of the Thatched Cottage Destroyed by the Autumn Wind'.",
+            "ja": "杜甫（712年－770年）、字は子美、号は少陵野老、唐代の著名な現実主義詩人で、李白と並んで「李杜」と称され、後世には「詩聖」と尊称される。彼の詩は内容が広範で、唐代社会の各方面を反映し、特に人民の苦難に対する関心が高く、高い歴史的・芸術的価値を持つ。代表作に「春望」、「登高」、「茅屋為秋風所破歌」などがある。",
+            "es": "Du Fu (712-770), también conocido como Zimei y Shaoling Ye lao, fue un destacado poeta realista de la dinastía Tang, a menudo mencionado junto a Li Bai como 'Li Du' y venerado como el 'Santísimo Poeta' por las generaciones posteriores. Su poesía abarca una amplia gama de temas, reflejando diversos aspectos de la sociedad de la dinastía Tang, especialmente su atención a las penurias del pueblo, y posee un alto valor histórico y artístico. Sus obras más famosas incluyen 'Vista de Primavera', 'Ascenso Alto' y 'Canción de la Cabaña de Paja Destrozada por el Viento de Otoño'.",
+            "ar": "دو فو (712-770)، المعروف أيضًا بزيميي و شاولينغ يي لاو، كان شاعرًا واقعيًا بارزًا في عهد سلالة تانغ، غالبًا ما يُذكر جنبًا إلى جنب مع لي باي كـ 'لي دو' ويُحترم كـ 'الشاعر القديس' من قبل الأجيال اللاحقة. شعره يغطي مجموعة واسعة من المواضيع، يعكس جوانب مختلفة من المجتمع في عهد سلالة تانغ، خاصة اهتمامه بمعاناة الناس، وله قيمة تاريخية وفنية عالية. من أشهر أعماله 'منظر الربيع'، 'الصعود العالي' و 'أغنية الكوخ القشدي الذي دمرته رياح الخريف'."
+        }
+    },
+    "annotations": {
+        "zh": "凉风起天末：凉风从天边吹起。君子意如何：君子指的是李白，问他的心情如何。鸿雁几时到：鸿雁指代书信，问书信何时能到。江湖秋水多：江湖指代四方，秋水多暗示路途艰难。文章憎命达：文章指李白的诗文，憎命达意为文才出众却命运多舛。魑魅喜人过：魑魅指代邪恶势力，喜人过指喜欢陷害人。应共冤魂语：应与冤魂对话。投诗赠汨罗：将诗投赠给汨罗江，暗指屈原。",
+        "en": "Cool wind rises from the horizon: A cool wind blows from the distant sky. How is the gentleman feeling: The gentleman refers to Li Bai, asking about his state of mind. When will the swan geese arrive: Swan geese symbolize letters, asking when the letters will arrive. The rivers and lakes have much autumn water: Rivers and lakes represent the world, and much autumn water implies difficult journeys. Literary works hate a smooth life: Literary works refer to Li Bai's poems, hating a smooth life means being talented but having a tough fate. Demons delight in people's misfortunes: Demons represent evil forces, delighting in people's misfortunes means they enjoy harming others. Should converse with wronged souls: Should talk with wronged souls. Throw poems to Miluo River: Throwing poems to the Miluo River,暗示Qu Yuan.",
+        "ja": "涼風起天末：涼風が天の果てから吹き起こる。君子意如何：君子は李白を指し、彼の気持ちを尋ねる。鴻雁幾時到：鴻雁は手紙の象徴で、手紙がいつ届くかを尋ねる。江湖秋水多：江湖は四方を指し、秋水多は道のりが困難であることを暗示する。文章憎命達：文章は李白の詩文を指し、憎命達は才能があっても運命が悪いことを意味する。魑魅喜人過：魑魅は悪い勢力を指し、喜人過は人を陷害することを好むことを意味する。應共冤魂語：冤魂と話すべきである。投詩贈汨羅：詩を汨羅江に投げ与えることで、屈原を暗示する。",
+        "es": "Viento fresco surge del extremo del cielo: Un viento fresco sopla desde el horizonte. ¿Cómo está el caballero: El caballero se refiere a Li Bai, preguntando por su estado de ánimo. ¿Cuándo llegarán las grullas: Las grullas simbolizan cartas, preguntando cuándo llegarán. Los ríos y lagos tienen mucha agua de otoño: Los ríos y lagos representan el mundo, y mucha agua de otoño sugiere viajes difíciles. Las obras literarias odian una vida fácil: Las obras literarias se refieren a los poemas de Li Bai, odiar una vida fácil significa ser talentoso pero tener una vida difícil. Los demonios se deleitan en los problemas de los demás: Los demonios representan fuerzas malignas, deleitarse en los problemas de los demás significa disfrutar perjudicando a otros. Debería hablar con almas agraviadas: Debería conversar con almas agraviadas. Lanzar poemas al río Miluo: Lanzar poemas al río Miluo, insinuando a Qu Yuan.",
+        "ar": "الرياح الباردة تهب من أقصى السماء: رياح باردة تهب من الأفق. كيف تشعر السيد: السيد يشير إلى لي باي، يسأل عن حاله. متى ستصل البجع: البجع يرمز إلى الرسائل، يسأل متى ستصل. الأنهار والبحيرات تحتوي على الكثير من ماء الخريف: الأنهار والبحيرات تمثل العالم، والكثير من ماء الخريف يشير إلى رحلات صعبة. الأعمال الأدبية تكره الحياة السهلة: الأعمال الأدبية تشير إلى قصائد لي باي، تكره الحياة السهلة تعني أن يكون الموهوب يعيش حياة صعبة. الأشباح تستمتع بمشاكل الآخرين: الأشباح تمثل القوى الشريرة، تستمتع بمشاكل الآخرين تعني تستمتع بإيذاء الآخرين. يجب أن يتحدث مع الأرواح المظلومة: يجب أن يتحادث مع الأرواح المظلومة. رمي القصائد إلى نهر ميلو: رمي القصائد إلى نهر ميلو، يشير إلى كو يوان."
+    },
+    "appreciations": {
+        "zh": "《天末怀李白》是杜甫怀念李白的诗作，主题思想表达了对友人的深切思念和对其命运的深切同情。写作特色上，杜甫通过秋风、鸿雁、江湖等自然景象，营造出一种凄凉的氛围，运用象征手法，借景抒情。艺术成就方面，诗歌结构紧凑，意象鲜明，语言凝练，情感真挚，具有很高的艺术价值。情感分析上，诗中流露出对李白才华的赞美、对其遭遇的同情以及对友情的珍视。影响意义上，这首诗在文学史上具有重要地位，不仅展现了杜甫的深厚情感，也反映了唐代文人间的深厚友谊，对后世诗歌创作产生了深远影响。",
+        "en": "The poem 'Lament for Li Bai at the Edge of Heaven' by Du Fu expresses deep longing and sympathy for his friend Li Bai. The thematic idea centers on profound friendship and concern for Li Bai's fate. In terms of writing features, Du Fu uses natural imagery such as autumn wind, swan geese, and rivers to create a melancholic atmosphere, employing symbolism to convey emotions. Artistically, the poem is structured tightly, with vivid imagery and concise language, showcasing high artistic value. Emotionally, it reveals admiration for Li Bai's talent, sympathy for his misfortunes, and the value of friendship. Historically, this poem holds a significant place in literary history, not only demonstrating Du Fu's deep emotions but also reflecting the strong bonds among Tang dynasty literati, influencing later poetic compositions profoundly.",
+        "ja": "杜甫の詩「天末李白を懐ぶ」は、李白への深い思いやりとその運命への同情を表現しています。主題思想上、友人への深い思いやりとその運命への同情が表れています。表現手法としては、秋風、鴻雁、江湖などの自然景観を用いて、悲しみの雰囲気を作り出し、象徴手法を用いて情景を描いています。芸術的成果としては、詩の構造が緊密で、意象が鮮明、言語が凝縮され、感情が真摯であり、高い芸術的価値を持っています。感情分析では、李白の才能への賛美、その遭遇への同情、友情の大切さが感じられます。影響意義としては、文学史上重要な地位を占め、杜甫の深い感情を示すとともに、唐代文人間の深い友情を反映し、後世の詩作に大きな影響を与えました。",
+        "es": "El poema 'Recordando a Li Bai en el Cielo' de Du Fu expresa un profundo anhelo y simpatía por su amigo Li Bai. La idea temática centra en la amistad profunda y la preocupación por el destino de Li Bai. En cuanto a las características de escritura, Du Fu utiliza imágenes naturales como el viento de otoño, las gansos salvajes y los ríos para crear una atmósfera melancólica, empleando el simbolismo para expresar emociones. Artísticamente, el poema está estructurado de manera compacta, con imágenes vívidas y un lenguaje conciso, mostrando un alto valor artístico. Emocionalmente, revela admiración por el talento de Li Bai, simpatía por sus desventuras y el valor de la amistad. Históricamente, este poema ocupa un lugar significativo en la historia literaria, no solo demostrando las profundas emociones de Du Fu, sino también reflejando los fuertes lazos entre los literatos de la dinastía Tang, influyendo profundamente en las composiciones poéticas posteriores.",
+        "ar": "القصيدة 'الحنين إلى لي باي عند نهاية السماء' للشاعر دو ف تعبر عن مشاعر الحنين والتعاطف العميق مع صديقه لي باي. الفكرة الرئيسية تركز على الصداقة العميقة والاهتمام بمصير لي باي. من حيث خصائص الكتابة، يستخدم دو ف صور الطبيعة مثل رياح الخريف، البجع البري، والأنهار لخلق جو حزين، مستخدماً الرمزية للتعبير عن العواطف. فنياً، القصيدة منظمة بإحكام، مع صور حية ولغة موجزة، تظهر قيمة فنية عالية. عاطفياً، تكشف عن إعجاب بموهبة لي باي، التعاطف مع محنته، وقيمة الصداقة. تاريخياً، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، ليس فقط تظهر العمق العاطفي لدو ف، بل تعكس أيضاً الروابط القوية بين أدباء عهد التانغ، مؤثرة بعمق في كتابات الشعر اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "凉风起自天边，君子你心情如何？\n鸿雁何时能到，江湖秋水繁多。\n文章憎恶命运通达，魑魅喜欢人犯过错。\n应当与冤魂共语，投诗赠给汨罗江。",
+            "en": "Cool winds rise from the ends of the sky, how does the nobleman feel?\nWhen will the swan geese arrive, amidst the many autumn waters of the lakes and rivers?\nLiterary works detest a smooth fate, while demons delight in human errors.\nHe should converse with wronged souls, casting poems to the Miluo River.",
+            "ja": "凉風が天の果てから吹き起こる、君子の心はどうか。\n鴻雁はいつ到着するのか、江湖の秋水は多い。\n文章は運命の順風を憎む、魑魅は人の過ちを喜ぶ。\n冤魂と語るべきで、詩を汨羅に投げ贈る。",
+            "es": "El viento frío surge del fin del cielo, ¿cómo está tu espíritu, noble?\n¿Cuándo llegarán las grullas, con tantas aguas de otoño en ríos y lagos?\nLos escritos odian una vida fácil, los demonios se alegran de los errores humanos.\nDebería hablar con almas injustamente tratadas, lanzando poemas al río Miluo.",
+            "ar": "تهب الرياح الباردة من أقصى السماء، كيف تشعر يا سيد؟\nمتى ستصل الحمامات، مع وفرة مياه الخريف في الأنهار والبحيرات؟\nالكتابات تكره الحظ السعيد، والشياطين تفرح بزلات البشر.\nينبغي أن يتحادث الأرواح المظلومة، بقذف القصائد إلى نهر ميلو."
+        },
+        "title_translation": {
+            "zh": "天末怀李白",
+            "en": "Missing Li Bai at the Edge of the Sky",
+            "ja": "天の果てに李白を想う",
+            "es": "Recordando a Li Bai en el Confín del Cielo",
+            "ar": "الحنين إلى لي باي عند أقصى السماء"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "凉风起天末，君子意如何。\n鸿雁几时到，江湖秋水多。\n文章憎命达，魑魅喜人过。\n应共冤魂语，投诗赠汨罗。",
+    "title_pinyin": "tiān mò huái lǐ bái",
+    "pinyin": "liáng fēng qǐ tiān mò，jūn zi yì rú hé。\nhóng yàn jǐ shí dào，jiāng hú qiū shuǐ duō。\nwén zhāng zēng mìng dá，chī mèi xǐ rén guò。\nyīng gòng yuān hún yǔ，tóu shī zèng mì luó。"
+}

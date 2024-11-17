@@ -1,0 +1,57 @@
+{
+    "title": "相思",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维，唐代著名诗人、画家，字摩诘，号摩诘居士。他精通诗、书、画、音乐等，以诗名盛于开元、天宝间，尤长五言，多咏山水田园，与孟浩然合称“王孟”，有“诗佛”之称。其诗风清新淡远，自然脱俗，代表作有《相思》、《九月九日忆山东兄弟》等。",
+            "en": "Wang Wei, a renowned poet and painter of the Tang Dynasty, styled himself as Mojie and also known as Mojie Hermit. He excelled in poetry, calligraphy, painting, and music, particularly famous for his five-character verses during the Kaiyuan and Tianbao periods. He often depicted landscapes and rural life, and was paired with Meng Haoran as 'Wang Meng', earning the title 'Poetic Buddha'. His poetic style is fresh, serene, and naturally unworldly, with notable works including 'Xiang Si' (Love Seed) and 'Remembering My Brothers in Shandong on the Ninth Day of the Ninth Month'.",
+            "ja": "王维は唐代の著名な詩人、画家であり、字は摩詰、号は摩詰居士である。詩、書、画、音楽など多くの分野に精通し、特に開元・天宝期に五言詩で名を馳せた。山水や田園を詠んだ作品が多く、孟浩然と並んで「王孟」と称され、「詩仏」とも呼ばれる。彼の詩風は清新で淡遠、自然で俗世離れしており、「相思」「九月九日に山東の兄弟を憶う」などの代表作がある。",
+            "es": "Wang Wei, un famoso poeta y pintor de la dinastía Tang, cuyo nombre de cortesía era Mojie y también era conocido como Ermitaño Mojie. Dominaba la poesía, la caligrafía, la pintura y la música, siendo especialmente conocido por sus versos de cinco caracteres durante los periodos Kaiyuan y Tianbao. A menudo describía paisajes y vida rural, y junto con Meng Haoran era conocido como 'Wang Meng', obteniendo el título de 'Buda Poético'. Su estilo poético es fresco, sereno y naturalmente ajeno al mundo, con obras destacadas como 'Xiang Si' (Semilla de Amor) y 'Recordando a mis hermanos en Shandong el noveno día del noveno mes'.",
+            "ar": "وانغ وي، شاعر وأديب ورسام مشهور في عهد تانغ، كان يُعرف بلقبه مو جييه، وكذلك يُعرف بـ مو جييه الزاهد. برع في الشعر، الخط، الرسم والموسيقى، وكان مشهورًا بشكل خاص بشعره ذي الخمس حروف في فترات كاي يوان وتيان باو. كثيرًا ما كان يصف المناظر الطبيعية والحياة الريفية، وكان يُعرف جنبًا إلى جنب مع مينغ هواوران بـ 'وانغ مينغ'، وحصل على لقب 'بوذا الشعر'. يتميز أسلوبه الشعري بالحداثة، الهدوء والبُعد عن العالم بشكل طبيعي، ومن أشهر أعماله 'شي أنغ' (حبة الحب) و 'تذكر إخواني في شاندونغ في اليوم التاسع من الشهر التاسع'."
+        }
+    },
+    "annotations": {
+        "zh": "红豆：指相思豆，常用于象征爱情和相思。南国：指中国南方地区。春来：春天到来。发几枝：指红豆树新长出几枝。愿君：希望你。多采撷：多采摘。此物：指红豆。最相思：最能表达相思之情。本诗通过红豆这一意象，表达了对远方亲友的深切思念。句式上，采用了简洁明了的陈述句，增强了表达效果。",
+        "en": "Red beans: Refers to the love bean, often used to symbolize love and longing. Southern land: Refers to the southern regions of China. Spring comes: The arrival of spring. How many branches sprout: Refers to how many new branches the red bean tree grows. I hope you: An expression of hope. Gather more: Pick more. This thing: Refers to the red beans. Most longing: Best expresses the feeling of longing. This poem uses the image of red beans to express deep longing for distant relatives and friends. In terms of syntax, it employs simple and clear declarative sentences, enhancing the expressive effect.",
+        "ja": "红豆：相思の豆を指し、愛情や相思の象徴としてよく使われる。南国：中国の南方地域を指す。春来：春の到来。発几枝：红豆の木が新しい枝をいくつか出すこと。願君：あなたに願う。多采撷：たくさん摘むこと。此物：红豆を指す。最相思：最も相思の情を表す。本詩は红豆というイメージを通じて、遠く離れた親友への深い思いを表現している。文法的には、簡潔明瞭な叙述文を使い、表現効果を高めている。",
+        "es": "Granos de frijol rojo: Se refiere a los frijoles del amor, a menudo utilizados como símbolo de amor y añoranza. Tierra del sur: Se refiere a las regiones del sur de China. La llegada de la primavera: La llegada de la primavera. ¿Cuántas ramas brotan?: Se refiere a cuántas ramas nuevas crece el árbol de frijol rojo. Espero que tú: Una expresión de esperanza. Recoger más: Cosechar más. Esta cosa: Se refiere a los frijoles rojos. Más añoranza: Mejor expresa el sentimiento de añoranza. Este poema utiliza la imagen de los frijoles rojos para expresar un profundo anhelo por los parientes y amigos lejanos. En términos de sintaxis, emplea oraciones declarativas simples y claras, lo que refuerza el efecto expresivo.",
+        "ar": "حبات الذرة الحمراء: تشير إلى حبات الحب، غالبًا ما تستخدم كرمز للحب والشوق. أرض الجنوب: تشير إلى المناطق الجنوبية من الصين. قدوم الربيع: وصول الربيع. كم عدد الفروع التي تبرعم؟: يشير إلى عدد الفروع الجديدة التي ينموها شجرة حبات الذرة الحمراء. أتمنى لك: تعبير عن الأمل. اجمع أكثر: اختر أكثر. هذا الشيء: يشير إلى حبات الذرة الحمراء. أكثر شوقًا: يعبر بشكل أفضل عن شعور الشوق. يستخدم هذا الشعر صورة حبات الذرة الحمراء للتعبير عن اشتياق عميق للأقارب والأصدقاء البعيدين. من الناحية النحوية، يستخدم جمل بسيطة وواضحة، مما يعزز من تأثير التعبير."
+    },
+    "appreciations": {
+        "zh": "《相思》这首诗以红豆为意象，表达了诗人对远方友人的深切思念。主题思想在于通过红豆这一象征物，传达出浓烈的相思之情。写作特色上，诗人采用了简洁明快的语言和比兴手法，以红豆的生长和采摘来寄托情感，既生动又含蓄。艺术成就方面，这首诗以其精炼的语言和深远的意境，成为唐代五言绝句的代表作之一。情感分析上，诗人通过红豆这一具体物象，抒发了对友人的深厚情谊和强烈的思念之情。影响意义上，这首诗在中国文学史上具有重要地位，广为传诵，影响深远。",
+        "en": "The poem 'Xiangsi' uses red beans as a metaphor to express the poet's deep longing for a distant friend. The theme revolves around conveying intense feelings of yearning through the symbol of red beans. In terms of writing style, the poet employs concise and vivid language, using the growth and picking of red beans as a metaphor for emotions, which is both vivid and subtle. Artistically, this poem stands out as a representative work of Tang Dynasty's five-character quatrains due to its refined language and profound imagery. Emotionally, the poet expresses deep friendship and strong longing through the concrete image of red beans. In terms of influence, this poem holds a significant place in the history of Chinese literature, widely recited and profoundly influential.",
+        "ja": "『相思』这首詩は、紅豆を象徴として、遠く離れた友人への深い思いやりを表現しています。主題思想は、紅豆という象徴物を通じて、濃烈な相思の情を伝えることにあります。表現手法としては、簡潔明快な言語と比興手法を採用し、紅豆の成長と採集に感情を託しています。芸術的成就としては、精緻な言語と深遠な意境を持つこの詩は、唐代五言絶句の代表作の一つとして知られています。感情分析では、紅豆という具体的な物象を通じて、友人への深い友情と強い思慕の情を抒発しています。影響の意味では、この詩は中国文学史上重要な地位を占め、広く伝唱され、深い影響を与えています。",
+        "es": "El poema 'Xiangsi' utiliza las judías rojas como metáfora para expresar el profundo anhelo del poeta por un amigo lejano. El tema central es la transmisión de intensos sentimientos de añoranza a través del símbolo de las judías rojas. En cuanto a la técnica literaria, el poeta emplea un lenguaje conciso y vívido, utilizando el crecimiento y la recolección de las judías rojas como metáfora de los sentimientos, lo cual es tanto vívido como sutil. Artísticamente, este poema se destaca como una obra representativa de los cuartetos de cinco caracteres de la dinastía Tang debido a su lenguaje refinado y su profunda imaginería. En el análisis emocional, el poeta expresa una profunda amistad y un fuerte deseo a través de la imagen concreta de las judías rojas. En términos de influencia, este poema ocupa un lugar significativo en la historia de la literatura china, siendo ampliamente recitado y profundamente influyente.",
+        "ar": "القصيدة \"الحنين\" تستخدم حبات الذرة الحمراء كمجاز للتعبير عن اشتياق الشاعر العميق لأصدقائه البعيدين. يركز الموضوع الرئيسي على نقل مشاعر الحنين الشديدة من خلال رمز حبات الذرة الحمراء. من حيث الأسلوب الأدبي، يستخدم الشاعر لغة موجزة وواضحة، مستخدماً نمو وقطف حبات الذرة الحمراء كمجاز للعواطف، وهو ما يكون في غاية الوضوح والغموض. من الناحية الفنية، تبرز هذه القصيدة كواحدة من الأعمال الممثلة لأرباع الأبيات الخماسية في عهد التانغ بفضل لغتها المكررة وتصوراتها العميقة. في تحليل العواطف، يعبر الشاعر عن صداقة عميقة ورغبة شديدة من خلال صورة محددة لحبات الذرة الحمراء. من حيث التأثير، تحتل هذه القصيدة مكانة هامة في تاريخ الأدب الصيني، حيث تُ recitada على نطاق واسع وتكون ذات تأثير عميق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "红豆生长在南方，春天来时发几枝。愿你多采一些，这东西最能表达相思之情。",
+            "en": "Red beans grow in the southern land, in spring they sprout several branches. I wish you'd pick more, for this is the deepest token of longing.",
+            "ja": "赤い豆は南の国に生え、春来て数枝咲く。君多く摘むことを願う、この物は最も相思を表す。",
+            "es": "Los frijoles rojos crecen en el sur, en primavera brotan varios tallos. Deseo que recojas muchos, ya que esta cosa expresa mejor el anhelo.",
+            "ar": "الحبوب الحمراء تنمو في الجنوب، في الربيع تبرعم عدة فروع. أتمنى لك أن تقطف الكثير، فهذه الأشياء تعبر عن الحنين بشكل كبير."
+        },
+        "title_translation": {
+            "zh": "相思",
+            "en": "Yearning",
+            "ja": "相思",
+            "es": "Anhelo",
+            "ar": "الحنين"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "红豆生南国，春来发几枝。\n愿君多采撷，此物最相思。",
+    "title_pinyin": "xiāng sī",
+    "pinyin": "hóng dòu shēng nán guó，chūn lái fā jǐ zhī。\nyuàn jūn duō cǎi xié，cǐ wù zuì xiāng sī。"
+}

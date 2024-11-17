@@ -1,0 +1,57 @@
+{
+    "title": "蜀先主庙",
+    "difficulty": 2,
+    "author": {
+        "name": "刘禹锡",
+        "name_pinyin": "liú yǔ xī",
+        "image": "刘禹锡.jpg",
+        "introduction": {
+            "zh": "刘禹锡（772-842），唐代著名文学家、政治家，字梦得，河南洛阳人。他擅长诗文，尤以诗歌著称，作品多反映社会现实，风格清新刚健，被誉为“诗豪”。刘禹锡曾参与“永贞革新”，失败后被贬，辗转于各地任职，但始终不改其志。他的诗歌在唐代文学中占有重要地位，代表作有《陋室铭》、《竹枝词》等。",
+            "en": "Liu Yuxi (772-842) was a renowned Tang Dynasty litterateur and statesman, styled Mengde, from Luoyang, Henan. He excelled in poetry and prose, particularly known for his poetry that often reflected social realities, with a fresh and robust style, earning him the title 'Poet Hero'. Liu participated in the 'Yongzhen Reform', and after its failure, he was exiled and served in various regions, yet he never wavered in his convictions. His poetry holds a significant place in Tang literature, with notable works including 'Inscription on the Humble Room' and 'Bamboo Branch Songs'.",
+            "ja": "劉禹錫（りゅう うしゃく、772-842）は、唐代の著名な文学者、政治家で、字は夢得、河南省洛陽出身。詩文に長じ、特に詩が有名で、社会現実を反映した作品が多く、清新かつ剛健なスタイルで「詩豪」と称された。劉禹錫は「永貞革新」に参加し、失敗後は各地に左遷されたが、志を変えなかった。彼の詩は唐代文学において重要な地位を占め、代表作に『陋室銘』『竹枝詞』などがある。",
+            "es": "Liu Yuxi (772-842) fue un destacado literato y político de la dinastía Tang, con el estilo de Mengde, originario de Luoyang, Henan. Destacó en poesía y prosa, especialmente conocido por su poesía que a menudo reflejaba realidades sociales, con un estilo fresco y robusto, siendo apodado 'Héroe Poeta'. Liu participó en la 'Reforma Yongzhen', y tras su fracaso, fue desterrado y sirvió en diversas regiones, pero nunca cambió sus convicciones. Su poesía ocupa un lugar importante en la literatura Tang, con obras destacadas como 'Inscripción en la Humilde Habitación' y 'Canciones de Ramas de Bambú'.",
+            "ar": "ليو يو شي (772-842) كان كاتبًا ومفكرًا بارزًا في عهد التانغ، وكان يعرف بلقب مينغدي، وهو من لويانغ، خنان. برع في الشعر والمقالات، وكان معروفًا بشكل خاص بشعره الذي يعكس في كثير من الأحيان الحقائق الاجتماعية، بأسلوب جديد وقوي، مما أهله ليُعرف بـ 'بطل الشعر'. شارك ليو في 'إصلاح يونغزين'، وبعد فشله، تم نفيه وعمل في مناطق مختلفة، لكنه لم يغير من قناعاته أبدًا. شعره يحتل مكانة مهمة في الأدب التانغي، ومن أشهر أعماله 'نقش على الغرفة المتواضعة' و 'أغاني فروع bambú'."
+        }
+    },
+    "annotations": {
+        "zh": "天地英雄气：指刘备的英雄气概。千秋尚凛然：形容其英雄气概历经千年仍令人敬畏。势分三足鼎：指三国鼎立的局面。业复五铢钱：指刘备恢复汉室的努力，五铢钱是汉代的货币。得相能开国：指刘备得到诸葛亮辅佐，得以建立蜀汉。生儿不象贤：指刘备的儿子刘禅不肖，未能继承其贤德。凄凉蜀故妓：指蜀汉灭亡后，蜀地的歌妓。来舞魏宫前：指这些歌妓在魏宫前跳舞，象征蜀汉的灭亡。",
+        "en": "Heaven and earth hero spirit: Refers to Liu Bei's heroic spirit. A thousand autumns still awe-inspiring: Describes his heroic spirit remains revered through millennia. Power divided into three-legged tripod: Refers to the tripartite balance of the Three Kingdoms. Restore the five-zhu coin: Liu Bei's efforts to restore the Han dynasty, with the five-zhu coin being the currency of the Han. Able to found a state with a chancellor: Refers to Liu Bei's success in establishing Shu Han with the help of Zhuge Liang. Sons not resembling the virtuous: Refers to Liu Bei's son Liu Shan being unworthy, failing to inherit his virtue. Desolate Shu's former prostitutes: Refers to the singers and dancers of Shu after its fall. Dancing in front of the Wei palace: Symbolizes the fall of Shu Han as these dancers perform in the Wei palace.",
+        "ja": "天地英雄気：劉備の英雄的な気概を指す。千秋尚凛然：その英雄気概が千年経ってもなお畏敬される様子を形容する。勢分三足鼎：三国鼎立の局面を指す。業復五銖銭：劉備が漢室を復興する努力を指し、五銖銭は漢代の貨幣である。得相能開国：劉備が諸葛亮を得て蜀漢を建国したことを指す。生児不象賢：劉備の子劉禅が不肖で、その賢德を継げなかったことを指す。淒涼蜀故妓：蜀漢滅亡後の蜀の歌妓を指す。来舞魏宮前：これらの歌妓が魏の宮殿前で舞うことで、蜀漢の滅亡を象徴する。",
+        "es": "Espíritu heroico del cielo y la tierra: Se refiere al espíritu heroico de Liu Bei. Mil otoños aún imponente: Describe cómo su espíritu heroico sigue siendo reverenciado a través de los milenios. Poder dividido en trípode de tres patas: Se refiere a la situación de equilibrio de los Tres Reinos. Restaurar la moneda de cinco zhus: Los esfuerzos de Liu Bei por restaurar la dinastía Han, con la moneda de cinco zhus siendo la currency de la dinastía Han. Capaz de fundar un estado con un canciller: Se refiere al éxito de Liu Bei en establecer Shu Han con la ayuda de Zhuge Liang. Hijos que no se asemejan a los virtuosos: Se refiere a que el hijo de Liu Bei, Liu Shan, no era digno, fallando en heredar su virtud. Prostitutas antiguas de Shu desoladas: Se refiere a las prostitutas y bailarinas de Shu después de su caída. Bailando frente al palacio de Wei: Simboliza la caída de Shu Han mientras estas bailarinas realizan en el palacio de Wei.",
+        "ar": "روح البطل بين السماء والأرض: تشير إلى روح البطولة لدى Liu Bei. الألف خريف لا تزال مهيبة: تصف كيف أن روحه البطولية ما زالت محترمة عبر آلاف السنين. القوة مقسمة إلى ثلاثة أرجل: تشير إلى توازن الدول الثلاث. استعادة العملة ذات الخمسة شو: الجهود التي بذلها Liu Bei لاستعادة أسرة هان، حيث كانت العملة ذات الخمسة شو هي العملة في عهد أسرة هان. القادر على تأسيس دولة بوزير: يشير إلى نجاح Liu Bei في تأسيس Shu Han بمساعدة Zhuge Liang. الأبناء لا يشبهون الأفاضل: يشير إلى أن ابن Liu Bei، Liu Shan، لم يكن جديراً، ففشل في وراثة فضيلته. الفتيات القديمات في Shu البائسات: يشير إلى المغنيات والراقصات في Shu بعد سقوطها. يرقصن أمام قصر Wei: يرمز إلى سقوط Shu Han بينما ترقص هذه الفتيات أمام قصر Wei."
+    },
+    "appreciations": {
+        "zh": "这首诗通过凭吊蜀先主刘备的庙宇，表达了对英雄气概的赞美和对历史兴衰的感慨。主题思想是缅怀英雄，反思历史。写作特色上，诗人运用对比手法，将刘备的辉煌与后继无人的凄凉形成鲜明对比，增强了作品的感染力。艺术成就方面，诗歌结构紧凑，语言凝练，意境深远，具有较高的艺术价值。情感分析上，诗人抒发了对英雄的敬仰和对历史变迁的哀叹。影响意义上，这首诗在文学史上具有重要地位，对后世怀古题材的诗歌创作产生了深远影响。",
+        "en": "This poem, by paying tribute to the temple of Shu's former ruler Liu Bei, expresses admiration for heroic spirit and reflections on the rise and fall of history. The main theme is to commemorate heroes and reflect on history. In terms of writing features, the poet uses contrast to vividly depict the brilliance of Liu Bei and the desolation of having no worthy successors, enhancing the poem's emotional impact. In terms of artistic achievements, the poem has a compact structure, concise language, and profound imagery, possessing high artistic value. Emotionally, the poet expresses reverence for heroes and lamentation over historical changes. In terms of influence and significance, this poem holds an important position in literary history, profoundly impacting later works on nostalgic themes.",
+        "ja": "この詩は、蜀の先主劉備の廟を弔うことで、英雄の気概を賛美し、歴史の興亡に感慨を表しています。主題思想は英雄を偲び、歴史を省みることです。表現手法としては、対比を用いて劉備の輝かしい業績と後継者の不在による淋しさを鮮明に描き、作品の感染力を高めています。芸術的成果としては、詩の構造が緊密で、言語が凝縮され、意境が深遠であり、高い芸術的価値を持っています。感情分析としては、詩人は英雄への敬仰と歴史の変遷に対する嘆きを抒発しています。影響と意義としては、この詩は文学史上重要な地位を占め、後世の懐古的な詩の創作に深い影響を与えました。",
+        "es": "Este poema, mediante la conmemoración del templo del antiguo gobernante de Shu, Liu Bei, expresa la admiración por el espíritu heroico y las reflexiones sobre el auge y caída de la historia. El tema principal es recordar a los héroes y reflexionar sobre la historia. En cuanto a las características de escritura, el poeta utiliza el contraste para retratar vívidamente la grandeza de Liu Bei y la desolación de no tener sucesores dignos, lo que aumenta el impacto emocional de la obra. En términos de logros artísticos, el poema tiene una estructura compacta, un lenguaje conciso y una imaginería profunda, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa reverencia por los héroes y lamentación por los cambios históricos. En cuanto a su influencia y significado, este poema ocupa un lugar importante en la historia literaria, teniendo un profundo impacto en la creación de poesía de temas nostálgicos en épocas posteriores.",
+        "ar": "هذه القصيدة، من خلال تخليد ذكرى معبد سابق لرئيس شوشي، ليو بيه، تعبر عن إعجاب الروح البطولية وتأملات في صعود وسقوط التاريخ. الفكرة الرئيسية هي تذكر الأبطال وتأمل التاريخ. فيما يتعلق بميزات الكتابة، يستخدم الشاعر المقارنة ليصور بشكل حي عظمة ليو بيه واليأس من عدم وجود وريث جدير، مما يزيد من تأثير العمل العاطفي. من حيث الإنجازات الفنية، تحتوي القصيدة على بنية مدمجة، لغة موجزة، وتصور عميق، مما يمتلك قيمة فنية عالية. في تحليل العواطف، يعبر الشاعر عن إجلال الأبطال وحزن على التغيرات التاريخية. من حيث التأثير والمعنى، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، ولها تأثير عميق على إنشاء الشعر ذو المواضيع النوستالجية في العصور اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "天地间的英雄气概，千秋万代依然凛然。势力三分如鼎足而立，功业恢复五铢钱制。得到贤相能够开国，生子却不像先贤。凄凉的蜀国旧妓，在魏宫前舞蹈。",
+            "en": "The hero's spirit fills the earth and sky, still awe-inspiring through the ages. The power divided into a tripod stance, the legacy restored with the five-zhu coin. A capable chancellor could found a state, but his son failed to emulate his virtue. The forlorn Shu dancers, now perform before the Wei palace.",
+            "ja": "天地に満ちる英雄の気概、千秋にわたり依然として凛々しい。勢力は三足の鼎のように分かれ、業は五銖銭の制度を復活させた。賢相を得て国を開くことができたが、生まれた子は先賢に似ていない。淋しい蜀の旧妓が、魏の宮殿前で舞う。",
+            "es": "El espíritu heroico llena el cielo y la tierra, aún imponente a través de los siglos. La fuerza se divide en un trípode, la obra restaura la moneda de cinco zhus. Un canciller capaz puede fundar un estado, pero su hijo no imita a los sabios. Las tristes prostitutas del Shu, ahora bailan delante del palacio de Wei.",
+            "ar": "روح البطولة تملأ السماء والأرض، ما زالت مهيبة عبر العصور. القوة مقسمة إلى ثلاثة أرجل، الإنجاز يعيد العمل بالنقود الخماسية. الحصول على وزير حكيم يمكنه تأسيس دولة، لكن ابنه لا يشبه الأبطال. الحزانيات من راقصات شو، يرقصن أمام قصر وي."
+        },
+        "title_translation": {
+            "zh": "蜀先主庙",
+            "en": "Temple of the Shu Emperor",
+            "ja": "蜀先主廟",
+            "es": "Templo del Emperador de Shu",
+            "ar": "معبد الإمبراطور شو"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "天地英雄气，千秋尚凛然。势分三足鼎，业复五铢钱。\n得相能开国，生儿不象贤。凄凉蜀故妓，来舞魏宫前。",
+    "title_pinyin": "shǔ xiān zhǔ miào",
+    "pinyin": "tiān dì yīng xióng qì，qiān qiū shàng lǐn rán。shì fēn sān zú dǐng，yè fù wǔ zhū qián。\ndé xiāng néng kāi guó，shēng ér bù xiàng xián。qī liáng shǔ gù jì，lái wǔ wèi gōng qián。"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "江南曲",
+    "difficulty": 2,
+    "author": {
+        "name": "李益",
+        "name_pinyin": "lǐ yì",
+        "image": "李益.jpg",
+        "introduction": {
+            "zh": "李益（748-829），唐代著名诗人，字君虞，陇西姑臧（今甘肃武威）人。大历四年（769年）进士，官至礼部尚书。他的诗风格多样，尤以边塞诗著称，语言凝练，意境深远。其诗作在唐代颇受推崇，对后世也有较大影响。《江南曲》是其代表作之一，描绘了一位商妇对丈夫的思念与怨望。",
+            "en": "Li Yi (748-829) was a renowned poet of the Tang Dynasty, styled Junyu, originating from Gaozang in Longxi (present-day Wuwei, Gansu). He passed the imperial examination in 769 and eventually rose to the position of Minister of Rites. His poetry is diverse in style, particularly noted for his frontier poems, which are concise in language and profound in imagery. His works were highly esteemed during the Tang Dynasty and have had a significant influence on later generations. 'Jiangnan Qu' is one of his representative works, depicting a merchant's wife's longing and resentment towards her husband.",
+            "ja": "李益（748-829）は唐代の著名な詩人で、字は君虞、隴西姑臧（現在の甘粛省武威市）出身。大暦4年（769年）に進士となり、礼部尚書まで昇進した。彼の詩は多様なスタイルを持ち、特に辺塞詩で知られ、言葉は凝縮され、意境は深遠である。唐代において高く評価され、後世にも大きな影響を与えた。《江南曲》は彼の代表作の一つで、商家の妻が夫に対する思いやりと怨みを描いている。",
+            "es": "Li Yi (748-829) fue un poeta destacado de la dinastía Tang, conocido por su nombre de cortesía Junyu, originario de Gaozang en Longxi (actualmente Wuwei, Gansu). Se graduó en el examen imperial en 769 y finalmente ascendió al puesto de Ministro de Ritos. Su poesía es variada en estilo, especialmente famosa por sus poemas de frontera, que son concisos en lenguaje y profundos en imaginería. Sus obras fueron muy apreciadas durante la dinastía Tang y han tenido una influencia significativa en las generaciones posteriores. 'Jiangnan Qu' es una de sus obras representativas, que describe el anhelo y el resentimiento de una esposa de comerciante hacia su marido.",
+            "ar": "لي يي (748-829) كان شاعرًا مشهورًا في عهد التانغ، يعرف بلقبه \"جونيي\"، من مواليد غاوزانغ في لونغشي (الآن ووي، قانسو). تخرج في الإمتحان الإمبراطوري في عام 769 وتدرج حتى أصبح وزيرًا للشعائر. أشعاره متنوعة في الأسلوب، مشهورة خاصة بأشعار الحدود، التي تتميز بلغة مكثفة وعمق في التصور. أشعاره كانت محل تقدير كبير في عهد التانغ وأثرت بشكل كبير على الأجيال اللاحقة. \"جيانغان كو\" هي واحدة من أعماله المميزة، تصف شوق وحنق زوجة تاجر على زوجها."
+        }
+    },
+    "annotations": {
+        "zh": "嫁得瞿塘贾：嫁给了一个在瞿塘做生意的商人。瞿塘，指瞿塘峡，位于长江三峡之一。贾，商人。朝朝误妾期：每天都不按时回来，辜负了我的期望。朝朝，每天。妾，古代女子自称。早知潮有信：如果早知道潮水有规律。潮有信，指潮水涨落有固定的时间。嫁与弄潮儿：宁愿嫁给一个弄潮的人。弄潮儿，指善于在潮水中游泳的人。\n语法说明：此诗使用了反语和对比的修辞手法，表达女子的失望和无奈。\n典故解释：弄潮儿，古代指善于在潮水中游泳的人，常用来比喻勇敢、冒险的人。\n意象分析：潮水象征有规律、可靠的事物，与商人的不守时形成对比，突显女子的失望。\n历史背景：唐代商业繁荣，许多商人长期在外经商，导致家庭关系紧张，此诗反映了这一社会现象。",
+        "en": "Married to a merchant of Qutang, he disappoints me every day. Qutang refers to Qutang Gorge, one of the Three Gorges on the Yangtze River. Merchant, a businessman. Every day he misses our appointment. Every day, daily. I, the wife speaking in ancient times. If I had known the tide is reliable: If I had known that the tide has a fixed schedule. The tide is reliable, meaning the tide rises and falls at set times. I would rather marry a tide-player. Tide-player, someone skilled in swimming in the tide.\nGrammar Explanation: The poem uses irony and contrast to express the woman's disappointment and helplessness.\nAllusion Explanation: Tide-player, in ancient times referred to someone skilled in swimming in the tide, often used to symbolize bravery and risk-taking.\nImage Analysis: The tide symbolizes something regular and reliable, contrasting with the merchant's unreliability, highlighting the woman's disappointment.\nHistorical Background: During the Tang Dynasty, commerce flourished, and many merchants were away for long periods, leading to strained family relationships. This poem reflects this social phenomenon.",
+        "ja": "瞿塘の商人に嫁いだ、毎日私の期待を裏切る。瞿塘は長江三峡の一つ、瞿塘峡を指す。商人、ビジネスマン。毎日約束を破る。毎日、毎日。妾、古代の女性が自分を指す言葉。潮が信頼できることを知っていたら：潮が決まった時間に満ち引きすることを知っていたら。潮が信頼できる、潮が決まった時間に満ち引くこと。潮遊びの人に嫁ぎたかった。潮遊びの人、潮の中で泳ぐのが得意な人。\n文法説明：この詩は皮肉と対比の修辞技法を使用し、女性の失望と無力感を表現している。\n典故説明：潮遊びの人、古代には潮の中で泳ぐのが得意な人を指し、勇敢で冒険的な人を象徴する。\nイメージ分析：潮は規則的で信頼できるものを象徴し、商人の不誠実さと対比して、女性の失望を強調する。\n歴史背景：唐代には商業が繁栄し、多くの商人が長期間家を空けることが多かったため、家庭関係が緊張することも多かった。この詩はその社会現象を反映している。",
+        "es": "Casada con un comerciante de Qutang, cada día me hace esperar en vano. Qutang se refiere a la Garganta de Qutang, una de las Tres Gargantas del Río Yangtsé. Comerciante, un hombre de negocios. Cada día me falla. Cada día, diario. Esclava, la forma en que las mujeres se referían a sí mismas en la antigüedad. Si hubiera sabido que la marea es confiable: Si hubiera sabido que la marea tiene un horario fijo. La marea es confiable, significa que la marea sube y baja a horas establecidas. Preferiría casarme con un hombre que juega con la marea. Hombre que juega con la marea, alguien habilidoso en nadar en la marea.\nExplicación Gramatical: El poema utiliza ironía y contraste para expresar la decepción y la impotencia de la mujer.\nExplicación de la Alusión: Hombre que juega con la marea, en la antigüedad se refería a alguien habilidoso en nadar en la marea, a menudo usado para simbolizar valentía y riesgo.\nAnálisis de Imágenes: La marea simboliza algo regular y confiable, contrastando con la falta de fiabilidad del comerciante, resaltando la decepción de la mujer.\nContexto Histórico: Durante la dinastía Tang, el comercio floreció y muchos comerciantes estaban ausentes durante largos períodos, lo que llevaba a tensiones familiares. Este poema refleja ese fenómeno social.",
+        "ar": "تزوجت تاجرًا من قوتم، يخيب ظني كل يوم. قوتم تشير إلى مضيق قوتم، وهو واحد من المضائق الثلاثة في نهر اليانغتسي. تاجر، رجل أعمال. كل يوم يخطئ الموعد. كل يوم، يوميًا. أنا، تعبير المرأة عن نفسها في العصور القديمة. لو كنت أعلم أن المد والجزر لهما مواعيد ثابتة: لو كنت أعلم أن المد والجزر يحدثان في أوقات محددة. المد والجزر لهما مواعيد ثابتة، يعني أن المد والجزر يحدثان في أوقات محددة. كنت لأفضل الزواج من رجل يلعب مع المد. رجل يلعب مع المد، شخص ماهر في السباحة في المد.\nشرح النحو: يستخدم الشعر السخرية والتباين للتعبير عن خيبة الأمل واليأس لدى المرأة.\nشرح الإقتباس: رجل يلعب مع المد، في العصور القديمة كان يشير إلى شخص ماهر في السباحة في المد، ويستخدم غالبًا كرمز للشجاعة والمخاطرة.\nتحليل الصور: المد يرمز إلى شيء منتظم وموثوق، في مقابل عدم موثوقية التاجر، مما يعزز من خيبة أمل المرأة.\nالخلفية التاريخية: خلال عهد التانغ، ازدهر التجارة وكثير من التجار كانوا يغيبون لفترات طويلة، مما يؤدي إلى توتر العلاقات الأسرية. هذا الشعر يعكس هذا الظاهرة الاجتماعية."
+    },
+    "appreciations": {
+        "zh": "这首《江南曲》通过一位商妇的口吻，表达了对丈夫长期不归的失望和怨恨。主题思想是对婚姻生活不如意的控诉和对自由生活的向往。写作特色上，诗人运用了对比手法，将潮水的守信与丈夫的无信相对比，增强了情感的表达力。艺术成就方面，诗句简洁明快，意境深远，给人以强烈的共鸣。情感分析上，诗中透露出商妇内心的孤独与无奈，以及对理想生活的渴望。影响意义上，此诗在文学史上具有重要地位，反映了唐代商业发展和女性心理的复杂性。",
+        "en": "This poem \"Jiangnan Qu\" expresses the disappointment and resentment of a merchant's wife towards her husband's long absence. The thematic idea is a complaint about an unsatisfactory marriage and a longing for a free life. In terms of writing features, the poet uses a contrast technique, comparing the reliable tides with the husband's unreliability, enhancing the emotional expression. In terms of artistic achievements, the verses are concise and profound, evoking strong resonance. Emotionally, the poem reveals the wife's loneliness and helplessness, as well as her desire for an ideal life. In terms of significance, this poem holds an important place in literary history, reflecting the complexity of Tang Dynasty commerce and female psychology.",
+        "ja": "この詩「江南曲」は、商人の妻の口吻を通じて、夫の長期不在に対する失望と恨みを表現しています。主題思想は、不都合な結婚生活への訴えと自由な生活への憧れです。表現手法としては、詩人は対比手法を用い、潮の信実と夫の不信実を対比させ、感情の表現力を強化しています。芸術的成果としては、詩句は簡潔明快で意境が深く、強い共鳴を与えます。感情分析では、商人の妻の内面の孤独と無力感、理想的生活への渴望がにじみ出ています。影響の意味では、この詩は文学史上重要な地位を占め、唐代の商業発展と女性心理の複雑性を反映しています。",
+        "es": "Este poema \"Jiangnan Qu\" expresa la decepción y el resentimiento de una esposa de comerciante hacia la larga ausencia de su marido. La idea temática es una queja sobre un matrimonio insatisfactorio y un deseo de una vida libre. En cuanto a las características de escritura, el poeta utiliza una técnica de contraste, comparando las mareas confiables con la falta de fiabilidad del marido, lo que refuerza la expresión emocional. En términos de logros artísticos, los versos son concisos y profundos, evocando una fuerte resonancia. En el análisis emocional, el poema revela la soledad y la impotencia de la esposa, así como su deseo de una vida ideal. En cuanto a su significado, este poema ocupa un lugar importante en la historia de la literatura, reflejando la complejidad del comercio y la psicología femenina durante la dinastía Tang.",
+        "ar": "هذه القصيدة \"jiangnan qu\" تعبر عن الإحباط والغيظ لزوجة تاجر تجاه غياب زوجها الطويل. الفكرة الرئيسية هي شكوى من زواج غير مرضٍ ورغبة في حياة حرة. من حيث خصائص الكتابة، يستخدم الشاعر تقنية المقارنة، مقارنة المد والجزر الموثوق بهما بعدم موثوقية الزوج، مما يعزز التعبير العاطفي. من حيث الإنجازات الفنية، الأبيات موجزة وعميقة، تثير رنينًا قويًا. في التحليل العاطفي، تكشف القصيدة عن الوحدة والعجز الداخليين لزوجة التاجر، ورغبتها في حياة مثالية. من حيث المعنى، تحتل هذه القصيدة مكانًا مهمًا في تاريخ الأدب، تعكس تعقيد التجارة والنفسية الأنثوية في عهد أسرة تانغ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "嫁给了瞿塘的商人，天天都误了我的期待。早知道潮水有信，当初就该嫁给弄潮的人。",
+            "en": "Married to a merchant of Qutang, he delays me day by day. Had I known the tide is faithful, I would have wed a tide-player instead.",
+            "ja": "瞿塘の商人に嫁いだ、毎日私の期待を裏切る。潮が信頼できることを早く知っていれば、潮を操る者に嫁ぐべきだった。",
+            "es": "Casada con un comerciante de Qutang, día a día me falla. Si hubiera sabido que la marea es fiel, me habría casado con un jinete de olas.",
+            "ar": "تزوجت بتجار قوتانغ، يخيب ظني كل يوم. لو كنت أعلم أن المد والجزر مخلص، لكنت تزوجت برجل يلعب مع الأمواج."
+        },
+        "title_translation": {
+            "zh": "江南曲",
+            "en": "Jiangnan Melody",
+            "ja": "江南曲",
+            "es": "Melodía de Jiangnan",
+            "ar": "أغنية جيانغنان"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "嫁得瞿塘贾，朝朝误妾期。\n早知潮有信，嫁与弄潮儿。",
+    "title_pinyin": "jiāng nán qū",
+    "pinyin": "jià dé qú táng jiǎ，cháo cháo wù qiè qī。\nzǎo zhī cháo yǒu xìn，jià yǔ nòng cháo ér。"
+}

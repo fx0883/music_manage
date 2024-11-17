@@ -1,0 +1,57 @@
+{
+    "title": "遣怀",
+    "difficulty": 2,
+    "author": {
+        "name": "杜牧",
+        "name_pinyin": "dù mù",
+        "image": "杜牧.jpg",
+        "introduction": {
+            "zh": "杜牧（803年－852年），字牧之，号樊川居士，唐代著名诗人、文学家。他的诗歌风格清新俊逸，内容广泛，尤以咏史抒怀和描写山水田园见长。杜牧的诗歌在唐代诗坛独树一帜，与李商隐并称“小李杜”。《遣怀》一诗反映了他在扬州十年间的放荡生活和内心的感慨。",
+            "en": "Du Mu (803-852), styled Mujin and also known as Fan Chuan居士, was a renowned poet and litterateur of the Tang Dynasty. His poetry is characterized by a fresh and elegant style, covering a wide range of themes, particularly excelling in historical reflections and descriptions of landscapes and pastoral scenes. Du Mu's poetry stands out in the Tang Dynasty literary scene, and he is often mentioned alongside Li Shangyin as the 'Little Li Du'. The poem 'Qian Huai' reflects his libertine life in Yangzhou over a decade and his inner sentiments.",
+            "ja": "杜牧（803年－852年）、字は牧之、号は樊川居士、唐代の著名な詩人・文学家。彼の詩は清新で俊逸なスタイルを持ち、内容は広範で、特に歴史を詠んだ詩や山水田園の描写に優れている。杜牧の詩は唐代の詩壇で独特の地位を占め、李商隠と共に「小李杜」と称される。《遣怀》は、彼が揚州で10年間過ごした放蕩生活と内心の感慨を反映した作品である。",
+            "es": "Du Mu (803-852), también conocido como Mujin y Fan Chuan居士, fue un poeta y literato destacado de la dinastía Tang. Su poesía se distingue por un estilo fresco y elegante, abarcando una amplia gama de temas, especialmente destacándose en reflexiones históricas y descripciones de paisajes y escenas campestres. La poesía de Du Mu ocupa un lugar único en la escena literaria de la dinastía Tang, y se le menciona a menudo junto a Li Shangyin como el 'Pequeño Li Du'. El poema 'Qian Huai' refleja su vida disipada en Yangzhou durante una década y sus sentimientos internos.",
+            "ar": "دو مو (803-852)، المعروف أيضًا باسم مو جين وفان تشوان居士، كان شاعرًا ومفكرًا بارزًا في عهد أسرة تانغ. تتميز شعرته بأسلوبها العذب والرشيق، وتغطي مجموعة واسعة من المواضيع، وخاصة في التأملات التاريخية ووصف المناظر الطبيعية والريفية. تبرز شعر دو مو في المشهد الأدبي لعهد أسرة تانغ، ويُذكر غالبًا إلى جانب لي شانغيين كـ'الصغير لي دو'. يعكس الشعر 'تشيان هواي' حياته المترفة في يانغتشو لمدة عقد وعواطفه الداخلية."
+        }
+    },
+    "annotations": {
+        "zh": "落魄：失意潦倒。江南：指长江以南地区。载酒行：带着酒到处游荡。楚腰纤细：楚地女子的腰身纤细，出自《墨子·兼爱中》。掌中轻：形容女子体态轻盈，能在掌中起舞。十年一觉：形容时间过得很快，仿佛一场梦。扬州梦：指在扬州度过的放荡生活。赢得：落得。青楼：妓院。薄幸名：负心、薄情的名声。",
+        "en": "Luopo: Feeling down and out. Jiangnan: Refers to the region south of the Yangtze River. Zaijiuxing: Carrying wine and wandering around. Chu Yao Xixian: slender waists of women from the Chu region, derived from 'Mozi·Jian'ai Zhong'. Zhang Zhong Qing: Describing a woman's light and graceful figure, as if she could dance in the palm of a hand. Shi Nian Yi Jue: Time passes quickly, like a dream. Yangzhou Meng: Refers to a dissolute life spent in Yangzhou. Ying De: Ending up with. Qinglou: Brothel. Boxing Ming: A reputation for being fickle and unfaithful.",
+        "ja": "落魄：失意して転落している様子。江南：長江以南の地域を指す。載酒行：酒を持ってさまようこと。楚腰細細：楚の地の女性の細い腰のこと、「墨子・兼愛中」に由来。掌中軽：女性の体が軽く、掌の上で踊れるほどの軽やかさを形容。十年一覚：時間が早く過ぎ、まるで夢のよう。揚州夢：揚州で過ごした放蕩な生活を指す。赢得：結果として得る。青楼：遊廓。薄幸名：浮気者、冷たい男の評判。",
+        "es": "Luopo: Desafortunado y derrotado. Jiangnan: Se refiere a la región al sur del río Yangtsé. Zaijiuxing: Andar con vino. Chu Yao Xixian: Cinturas delgadas de las mujeres de la región de Chu, mencionado en 'Mozi·Jian'ai Zhong'. Zhang Zhong Qing: Describiendo una figura femenina ligera y grácil, como si pudiera bailar en la palma de una mano. Shi Nian Yi Jue: Diez años parecen un sueño, indicando el paso rápido del tiempo. Yangzhou Meng: Refiere a una vida disoluta en Yangzhou. Ying De: Ganar o terminar con. Qinglou: Burdel. Boxing Ming: Reputación de ser infiel y voluble.",
+        "ar": "لُوبُو: يشير إلى الشعور باليأس والضياع. جيانغنان: يشير إلى المنطقة الواقعة جنوب نهر اليانغتسي. زاي جيوشينغ: التجول حاملاً الخمر. شو ياو شيكسيان: الأذرع الرقيقة للنساء من منطقة شو، مأخوذ من 'مو زي · جيان آي تشونغ'. تشانغ تشونغ تشينغ: وصف لرشاقة جسد المرأة، كأنها تستطيع الرقص في راحة اليد. شين يين يي جوي: عشر سنوات كأنها حلم، يشير إلى سرعة مرور الزمن. يانغتشو مينغ: يشير إلى حياة الترف والفساد في يانغتشو. ينغ ديه: ينتهي به الأمر. تشينغلو: بيت الدعارة. باوكسينغ مينغ: سمعة كونه غير مخلص وغير متسق."
+    },
+    "appreciations": {
+        "zh": "这首诗《遣怀》是杜牧对自己人生经历的反思和感慨。主题思想是表达了诗人对过去荒唐生活的悔悟和对现实无奈的感叹。写作特色上，诗人运用了对比和象征手法，通过\"落魄\"与\"载酒行\"、\"楚腰纤细\"与\"掌中轻\"的对比，展现了他在江南的放荡生活。艺术成就方面，诗歌语言简洁而富有意象，情感真挚，具有很高的艺术价值。情感分析上，诗人抒发了对青春虚度的悔恨和对人生如梦的感慨。影响意义上，这首诗在文学史上具有重要地位，常被用来表达对过去生活的反思和对人生哲理的思考。",
+        "en": "This poem \"Qian Huai\" by Du Mu reflects on his life experiences with a sense of regret and melancholy. The thematic idea conveys the poet's remorse over his dissolute past and his resignation to the present reality. In terms of writing style, the poet employs contrasts and symbolism, illustrating his debauched life in the south through phrases like \"fallen\" and \"carrying wine,\" and \"slender waist\" and \"light in the palm.\" Artistically, the poem is valued for its concise language rich in imagery and sincere emotions. Emotionally, it expresses regret over wasted youth and a sense of life's fleeting nature. Historically, this poem holds a significant place in literary history, often cited for its reflection on past life and philosophical musings on existence.",
+        "ja": "この詩『遣怀』は、杜牧が自分の人生経験を振り返り、感慨を述べた作品です。主題思想は、詩人が過去の放蕩生活に対する悔悟と現実に対する無念さを表現しています。表現手法としては、対比と象徴を用い、\"落魄\"と\"載酒行\"、\"楚腰細細\"と\"掌中軽\"の対比を通じて、江南での遊蕩生活を描いています。芸術的価値としては、簡潔でありながら意象に富む言葉遣いと真摯な感情が高く評価されます。感情分析では、青春の無駄遣いに対する悔恨と人生の夢幻性に対する感慨を抒発しています。影響力の点では、文学史上重要な地位を占め、過去の生活の反省や人生哲学への思索を表す作品としてよく引用されます。",
+        "es": "Este poema \"Qian Huai\" de Du Mu es una reflexión sobre sus experiencias de vida con un sentimiento de arrepentimiento y melancolía. La idea temática expresa el remordimiento del poeta por su pasado disoluto y su resignación ante la realidad presente. En cuanto a la técnica literaria, el poeta utiliza contrastes y simbolismos, mostrando su vida libertina en el sur a través de frases como \"caído\" y \"llevando vino\", y \"cintura delgada\" y \"ligero en la palma\". Artísticamente, el poema es valorado por su lenguaje conciso y rico en imágenes y emociones sinceras. En el análisis emocional, expresa el arrepentimiento por la juventud desperdiciada y la sensación de la fugacidad de la vida. En términos de impacto, este poema ocupa un lugar significativo en la historia de la literatura, a menudo citado por su reflexión sobre la vida pasada y sus meditaciones filosóficas sobre la existencia.",
+        "ar": "هذه القصيدة \"الإحساس بالمرارة\" للشاعر دو مو تعكس تجاربه الحياتية بروح من الندم والحزن. الفكرة الرئيسية تبرز ندم الشاعر على حياته الماضية المليئة بالانحلال والاستسلام للواقع الحالي. من حيث الأسلوب الأدبي، يستخدم الشاعر التباين والرمزية، موضحًا حياته المنحلة في الجنوب من خلال جمل مثل \"ساقط\" و \"حامل للخمر\"، و \"وسط نحيف\" و \"خفيف في اليد\". فنيًا، تُقدر القصيدة لغة موجزة وغنية بالصور والعواطف الصادقة. في التحليل العاطفي، يعبر الشاعر عن ندمه على شبابه المهدور وحس الحياة الزائلة. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، وتُستشهد بها غالبًا لتفكيرها في الحياة الماضية وتأملاتها الفلسفية حول الوجود."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "失意流落在江南，带着酒意四处游荡，楚地女子的细腰在掌中轻柔如风。十年的扬州生活如同一梦，只落得青楼中薄情郎的名声。",
+            "en": "Drifting in the south with wine in hand, slender waists of Chu girls feel light in my palm. Ten years in Yangzhou felt like a dream, earning me a reputation as a heartless lover in the brothels.",
+            "ja": "江南で酒を携えさまよい、楚の細腰は掌に軽やかに。十年の揚州の夢が覚め、青楼で薄情者の名を得たり。",
+            "es": "Vagando por el sur con vino en mano, cinturas finas de chicas de Chu livianas en mi palma. Diez años en Yangzhou como un sueño, ganándome el nombre de un amante infiel en los burdeles.",
+            "ar": "أهيم في الجنوب ومعي الخمر، خصر النساء من تشو خفيفة في راحة يدي. عشر سنوات في يانغتشو كالحلم، اكتسبت سمعة العاشق faithless في بيوت الدعارة."
+        },
+        "title_translation": {
+            "zh": "遣怀",
+            "en": "Reflections",
+            "ja": "遣懐",
+            "es": "Reflexiones",
+            "ar": "تأملات"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "落魄江南载酒行，楚腰纤细掌中轻。\n十年一觉扬州梦，赢得青楼薄幸名。",
+    "title_pinyin": "qiǎn huái",
+    "pinyin": "luò pò jiāng nán zài jiǔ xíng，chǔ yāo xiān xì zhǎng zhōng qīng。\nshí nián yī jué yáng zhōu mèng，yíng dé qīng lóu báo xìng míng。"
+}

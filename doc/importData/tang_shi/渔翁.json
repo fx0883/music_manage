@@ -1,0 +1,57 @@
+{
+    "title": "渔翁",
+    "difficulty": 2,
+    "author": {
+        "name": "柳宗元",
+        "name_pinyin": "liǔ zōng yuán",
+        "image": "柳宗元.jpg",
+        "introduction": {
+            "zh": "柳宗元（773年－819年），字子厚，唐代著名文学家、哲学家、政治家，河东（今山西运城）人。他与韩愈共同倡导古文运动，被后人尊为“唐宋八大家”之一。柳宗元的作品以散文著称，其山水游记尤为出色，代表作有《永州八记》等。他的诗歌风格清新自然，多描写山水田园，表达对现实的不满和对自然的向往。《渔翁》一诗即体现了其诗风的典型特征。",
+            "en": "Liu Zongyuan (773–819), styled Zihou, was a renowned Tang Dynasty litterateur, philosopher, and statesman from Hedong (present-day Yuncheng, Shanxi). Together with Han Yu, he advocated the Classical Prose Movement and was revered as one of the 'Eight Great Prose Masters of the Tang and Song Dynasties' by later generations. Liu Zongyuan's works are renowned for their prose, particularly his landscape travelogues such as 'The Eight Records of Yongzhou'. His poetic style is fresh and natural, often depicting landscapes and pastoral scenes, expressing dissatisfaction with reality and longing for nature. The poem 'Fisherman' exemplifies the typical characteristics of his poetic style.",
+            "ja": "柳宗元（りゅう そうげん、773年－819年）は、唐代の著名な文学者、哲学者、政治家で、河東（現在の山西省運城）の人。韓愈とともに古文運動を唱え、後世「唐宋八大家」の一人として尊ばれた。柳宗元の作品は散文で知られ、特に山水記が出色で、「永州八記」などが代表作である。彼の詩風は清新自然で、山水田園を多く描き、現実への不満と自然への憧れを表現している。「漁翁」の詩はその詩風の典型を示している。",
+            "es": "Liu Zongyuan (773-819), conocido por su nombre de estilo Zihou, fue un destacado literato, filósofo y político de la dinastía Tang, originario de Hedong (actual Yuncheng, Shanxi). Junto con Han Yu, promovió el Movimiento de Prosa Clásica y fue reverenciado como uno de los 'Ocho Grandes Maestros de la Prosa de las Dinastías Tang y Song' por las generaciones posteriores. Las obras de Liu Zongyuan son famosas por su prosa, especialmente sus diarios de viaje por paisajes como 'Los Ocho Registros de Yongzhou'. Su estilo poético es fresco y natural, a menudo describiendo paisajes y escenas pastorales, expresando insatisfacción con la realidad y anhelo por la naturaleza. El poema 'Pescador' ejemplifica las características típicas de su estilo poético.",
+            "ar": "ليو زونغيان (773-819)، المعروف بلقبه زيهو، كان كاتبًا ومفكرًا وسياسيًا بارزًا في عهد أسرة تانغ، من منطقة هيدونغ (اليوم يونتشينغ، شانشي). بالاشتراك مع هان يو، دعا إلى حركة النثر الكلاسيكي وأُعتبر واحدا من 'ثمانية كبار كتاب النثر في عصور تانغ وسونغ' من قبل الأجيال اللاحقة. تعرف أعمال ليو زونغيان بنثرها، خاصة مذكراته عن السفر في الأماكن الطبيعية مثل 'ثمانية سجلات يونغتشو'. يتميز أسلوبه الشعري بالحداثة والطبيعية، غالبا ما يصف المناظر الطبيعية والمناظر الريفية، يعبر عن عدم رضاه عن الواقع وتوقه للطبيعة. قصيدة 'الصياد' تعكس السمات النموذجية لأسلوبه الشعري."
+        }
+    },
+    "annotations": {
+        "zh": "渔翁：指打鱼的老人。夜傍：夜晚靠近。西岩：西边的山岩。宿：住宿。晓：早晨。汲：取水。清湘：清澈的湘江水。燃：点燃。楚竹：楚地的竹子。烟销：烟雾消散。日出：太阳升起。不见人：看不到人影。欸乃：形容划桨的声音。一声：一声响。山水绿：山水变得青绿。回看：回头看。天际：天边。下中流：顺流而下。岩上：山岩之上。无心：无意。云相逐：云彩相互追逐。",
+        "en": "Fisherman: refers to an old man who fishes. Night beside: staying close to at night. West Rock: the rock on the west side. Lodge: to stay overnight. Dawn: early morning. Draw: to fetch water. Clear Xiang: the clear water of the Xiang River. Burn: to light. Chu Bamboo: bamboo from the Chu region. Smoke dissipates: the smoke disperses. Sun rises: the sun comes up. No one seen: no human figure is visible. Ai Nai: the sound of rowing. A sound: a single sound. Landscape green: the landscape turns green. Look back: to look back. Horizon: the edge of the sky. Down the middle stream: flowing downstream. On the rock: on top of the rock. Careless: unintentional. Clouds chasing each other: clouds chasing one another.",
+        "ja": "漁翁：漁をする老人のこと。夜傍：夜に近づく。西岩：西の岩。宿：宿泊する。暁：朝のこと。汲む：水をくむ。清湘：澄んだ湘江の水。燃やす：火をつける。楚竹：楚の地の竹。煙消える：煙が消える。日出る：太陽が昇る。人見えず：人影が見えない。唉乃：櫂をこぐ音。一声：一声の音。山水緑：山水が緑になる。回る見る：振り返って見る。天際：空の果て。中流下る：中流に下る。岩上：岩の上。無心：意識しない。雲追う：雲が互いに追い合う。",
+        "es": "Pescador: se refiere a un anciano que pesca. Noche junto a: cerca de por la noche. Roca Occidental: la roca del lado oeste. Alojarse: pasar la noche. Amanecer: la mañana temprano. Sacar: obtener agua. Xiang claro: el agua clara del río Xiang. Encender: prender fuego. bambú de Chu: bambú de la región de Chu. Humo se disipa: el humo se disipa. Sale el sol: el sol sale. Nadie visto: no se ve ninguna figura humana. Ai Nai: sonido de remar. Un sonido: un solo sonido. Paisaje verde: el paisaje se vuelve verde. Mirar hacia atrás: mirar atrás. Horizonte: el borde del cielo. Bajar por el medio corriente: fluir río abajo. En la roca: en la parte superior de la roca. Sin intención: sin intención. Nubes persiguiéndose: nubes persiguiéndose entre sí.",
+        "ar": "الصياد: يشير إلى رجل مسن يصطاد. الليل بجانب: قريب من في الليل. الصخرة الغربية: الصخرة في الجانب الغربي. الإقامة: قضاء الليل. الفجر: الصباح الباكر. سحب: جلب الماء. شيانغ الصافي: المياه الصافية لنهر شيانغ. إشعال: إضرام النار. bambú de Chu: bambú من منطقة تشو. الدخان يتبدد: يتلاشى الدخان. شروق الشمس: تشرق الشمس. لا أحد يرى: لا تظهر أي شكل بشري. آي ناي: صوت التجديف. صوت واحد: صوت واحد فقط. المناظر الطبيعية الخضراء: يصبح المشهد أخضر. النظر إلى الوراء: النظر إلى الوراء. الأفق: حافة السماء. النزول في منتصف التيار: التدفق نزولاً في النهر. على الصخرة: في الجزء العلوي من الصخرة. غير مقصود: بدون نية. السحب تلاحق بعضها البعض: السحب تلاحق بعضها البعض."
+    },
+    "appreciations": {
+        "zh": "《渔翁》这首诗通过描绘渔翁夜晚宿于西岩、清晨汲取清湘之水、燃楚竹的情景，展现了渔翁与自然和谐共处的静谧生活。主题思想在于表达对自然生活的向往和对世俗的超脱。写作特色上，诗人运用细腻的笔触和生动的意象，如‘烟销日出不见人，欸乃一声山水绿’，通过视觉和听觉的结合，营造出一种空灵幽远的意境。艺术成就方面，此诗以简洁的语言和丰富的意象，达到了情景交融的艺术效果，展现了唐诗独特的审美价值。情感分析上，诗人通过对渔翁生活的描写，抒发了对自然山水的热爱和对宁静生活的向往。影响意义上，此诗在文学史上具有重要地位，被视为唐代山水诗的代表作之一，对后世文人山水诗的创作产生了深远影响。",
+        "en": "The poem 'Fisherman' depicts a fisherman spending the night by the Western Cliff, drawing clear water from the Xiang River in the morning, and burning Chu bamboo. It portrays a serene life in harmony with nature. The main theme is the longing for a natural life and detachment from worldly affairs. In terms of writing style, the poet uses delicate brushstrokes and vivid imagery, such as 'Smoke fades at sunrise, no one in sight; a single call echoes, mountains and rivers turn green,' blending visual and auditory elements to create an ethereal atmosphere. Artistically, the poem achieves a harmonious blend of scenery and emotion with concise language and rich imagery, showcasing the unique aesthetic value of Tang poetry. Emotionally, it expresses the poet's love for natural landscapes and yearning for a tranquil life. Historically, this poem holds a significant place in literary history, considered a representative work of Tang dynasty landscape poetry, profoundly influencing later generations of literary creations.",
+        "ja": "『漁翁』这首詩は、漁翁が夜西岩に泊まり、朝清らかな湘の水を汲み、楚の竹を燃やす情景を描いて、自然と調和した静かな生活を表現しています。主題思想は、自然生活への憧れと世俗からの超脱にあります。表現手法としては、詩人は繊細な筆致と生き生きとしたイメージを用い、「煙消日出自見人、唉乃一声山水緑」という視覚と聴覚の結合によって、空靈幽遠な意境を創り出しています。芸術的成果としては、簡潔な言語と豊かなイメージで情景が融合し、唐诗独特の美意識を示しています。感情分析では、漁翁の生活を通じて自然山水への愛と静かな生活への憧憬を抒発しています。影響の意味では、文学史上重要な地位を占め、唐代山水詩の代表作の一つとして後世の文人山水詩の創作に深い影響を与えました。",
+        "es": "El poema 'Pescador' describe cómo un pescador pasa la noche junto a la Roca Occidental, extrae agua clara del río Xiang por la mañana y quema bambú de Chu. Representa una vida serena en armonía con la naturaleza. El tema principal es el anhelo de una vida natural y el desapego de los asuntos mundanos. En cuanto al estilo de escritura, el poeta utiliza pinceladas delicadas e imágenes vívidas, como 'El humo se disipa al amanecer, no se ve a nadie; un grito resonante y montañas y ríos se vuelven verdes', combinando elementos visuales y auditivos para crear una atmósfera etérea. Artísticamente, el poema logra una fusión armoniosa de la escena y la emoción con un lenguaje conciso y ricas imágenes, mostrando el valor estético único de la poesía Tang. En el análisis emocional, el poeta expresa su amor por los paisajes naturales y su deseo de una vida tranquila. En términos de impacto, este poema ocupa un lugar significativo en la historia literaria, considerado una obra representativa de la poesía paisajística de la dinastía Tang, influyendo profundamente en la creación de poesía paisajística de generaciones posteriores.",
+        "ar": "القصيدة 'الصياد' تصف كيف يقضي الصياد الليل بجانب الصخرة الغربية، يسحب الماء العذب من نهر شيانغ في الصباح ويشعل bambú من تشو. تظهر حياة هادئة في تناغم مع الطبيعة. الفكرة الرئيسية هي الرغبة في حياة طبيعية والابتعاد عن الأمور الدنيوية. من حيث الأسلوب الكتابي، يستخدم الشاعر لمسات دقيقة وصور حية، مثل 'يتلاشى الدخان عند شروق الشمس، لا يرى أحد؛ صوت واحد يصدح والجبال والأنهار تتحول إلى اللون الأخضر'، يجمع بين العناصر البصرية والسمعية لخلق جو خفيف. فنياً، تصل القصيدة إلى مزيج متناغم من المشهد والمشاعر بلغة موجزة وصور غنية، تظهر القيمة الجمالية الفريدة للشعر التانغ. في التحليل العاطفي، يعبر الشاعر عن حبه للمناظر الطبيعية ورغبته في حياة هادئة. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، تعتبر عملًا يمثل الشعر الطبيعي للدولة التانغ، مؤثرة بعمق في إنشاء الشعر الطبيعي للأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "渔翁夜晚靠着西岩歇宿，清晨汲取清澈的湘水燃烧楚地的竹子。烟雾消散日出却不见人影，只听一声欸乃山水变得翠绿。回头望见天际间的江水奔流，岩上白云悠然相逐。",
+            "en": "The fisherman spends the night beside the western cliff, in the morning he draws clear water from the Xiang and burns Chu bamboo. With the smoke dispersing and the sun rising, no one is seen; only a single 'ai nai' sound makes the landscape turn green. Looking back, he sees the river flowing into the sky, with clouds on the cliff chasing each other carelessly.",
+            "ja": "漁翁は夜西の岩に泊まり、朝は清らかな湘の水を汲み楚の竹を燃やす。煙が消え日が出ても人影はない、一声の「唉乃」で山水が緑に変わる。天際を見ると中流に下り、岩の上の雲は無心に追い合う。",
+            "es": "El pescador pasa la noche junto a la roca occidental, por la mañana extrae agua clara del Xiang y quema bambú de Chu. El humo se disipa y sale el sol sin ver a nadie; un solo 'ai nai' hace que la montaña y el río se vuelvan verdes. Mirando hacia atrás, ve el río fluir hacia el cielo, con nubes en la roca persiguiéndose sin intención.",
+            "ar": "يبيت الصياد الليل قرب الصخرة الغربية، وفي الصباح يسحب الماء العذب من نهر شيانغ ويشعل bambú من تشو. مع تلاشي الدخان وطلوع الشمس لا يرى أحداً؛ صوت واحد 'أي ناي' يجعل الجبل والنهر يتحولان إلى اللون الأخضر. بالنظر إلى الوراء، يرى النهر يتدفق نحو السماء، والسحب على الصخرة تتبع بعضها البعض بلا قصد."
+        },
+        "title_translation": {
+            "zh": "渔翁",
+            "en": "The Fisherman",
+            "ja": "漁翁",
+            "es": "El Pescador",
+            "ar": "الصياد"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。\n烟销日出不见人，欸乃一声山水绿。\n回看天际下中流，岩上无心云相逐。",
+    "title_pinyin": "yú wēng",
+    "pinyin": "yú wēng yè bàng xī yán sù，xiǎo jí qīng xiāng rán chǔ zhú。\nyān xiāo rì chū bù jiàn rén，āi nǎi yī shēng shān shuǐ lǜ。\nhuí kàn tiān jì xià zhōng liú，yán shàng wú xīn yún xiāng zhú。"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "终南别业",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（701年－761年），字摩诘，号摩诘居士，唐朝著名诗人、画家，与孟浩然并称“王孟”，有“诗佛”之称。其诗多描写山水田园风光，风格清新淡远，富有禅意。王维精通诗、书、画、音乐等，是盛唐时期多才多艺的文人代表。晚年隐居终南山，创作了大量脍炙人口的山水诗。",
+            "en": "Wang Wei (701-761), styled Mojie, also known as Mojie居士, was a renowned poet and painter of the Tang Dynasty, often referred to as the 'Poetic Buddha'. His poetry frequently depicted landscapes and pastoral scenes, characterized by a fresh and distant style imbued with Zen philosophy. Wang Wei excelled in poetry, calligraphy, painting, and music, representing the versatile literati of the prosperous Tang era. In his later years, he retired to the Zhongnan Mountains, where he produced many celebrated landscape poems.",
+            "ja": "王维（701年－761年）、字は摩詰、号は摩詰居士、唐時代の著名な詩人・画家であり、孟浩然と並び「王孟」と称され、「詩仏」とも呼ばれる。彼の詩は山水や田園風景を多く描き、清新で淡遠なスタイルが特徴で、禅の思想が色濃く反映されている。王维は詩、書、画、音楽など多くの分野で才能を発揮し、盛唐期の多才な文人の代表である。晩年は終南山に隠棲し、多くの名高い山水詩を残した。",
+            "es": "Wang Wei (701-761), apodado Mojie y también conocido como Mojie Jushi, fue un destacado poeta y pintor de la dinastía Tang, a menudo llamado el 'Buda Poético'. Su poesía a menudo describía paisajes y escenas campestres, con un estilo fresco y distante, rico en filosofía Zen. Wang Wei destacó en poesía, caligrafía, pintura y música, representando a los literatos versátiles de la próspera era Tang. En sus últimos años, se retiró a las montañas Zhongnan, donde creó muchas poesías de paisajes aclamadas.",
+            "ar": "وانغ وي (701-761)، المعروف بلقبه مو جييه، وكذلك بـ مو جييه جوشي، كان شاعرًا ورسامًا بارزًا في عهد سلالة تانغ، وغالبًا ما يُعرف بـ \"بوذا الشعري\". قصائده غالبًا ما تصف المناظر الطبيعية والمناظر الريفية، بأسلوب جديد وجذاب، مليء بفلسفة الزن. كان وانغ وي بارعًا في الشعر، والكتابة، والرسم، والموسيقى، ويمثل الأدباء الموهوبين في عصر تانغ المزدهر. في سنواته الأخيرة، اعتزل في جبال تشونغنان، حيث أنتج العديد من قصائد المناظر الطبيعية الشهيرة."
+        }
+    },
+    "annotations": {
+        "zh": "中岁颇好道：中年时特别喜好道家思想。晚家南山陲：晚年时居住在终南山脚下。兴来每独往：兴致来时常常独自前往。胜事空自知：美好的事情只有自己知道。行到水穷处：走到水的尽头。坐看云起时：坐下来观看云的升起。偶然值林叟：偶然遇到山中的老人。谈笑无还期：谈笑间忘记了归期。\n语法说明：无特殊句式。\n典故解释：无特定典故。\n意象分析：水穷处、云起时，象征人生的尽头与自然的变化，表达诗人超脱世俗的心境。\n历史背景：唐代，道家思想盛行，诗人隐居山林，追求内心的宁静。",
+        "en": "Middle-aged, I quite liked the Tao; in my later years, I settled at the southern foot of the mountain. When inspired, I often go alone; the wonderful things are known only to myself. Walking to where the water ends; sitting to watch the clouds rise. Occasionally meeting an old man in the forest; chatting and laughing with no thought of returning.\nGrammar: No special sentence structures.\nAllusions: No specific allusions.\nImagery Analysis: 'Where the water ends' and 'when the clouds rise' symbolize the end of life and the changes of nature, expressing the poet's transcendent state of mind.\nHistorical Background: During the Tang Dynasty, Taoist thought was prevalent, and poets often retreated to the mountains to seek inner peace.",
+        "ja": "中年になると道を好むようになった；晩年には南山のふもとに住んだ。興が来るとよく一人で出かけた；素晴らしいことは自分だけが知っている。水の尽きるところまで行った；雲が上がるのを見ながら座った。偶然林の中の老人に会った；笑いながら話し、帰ることを忘れた。\n文法説明：特殊な文法はない。\n典故説明：特定の典故はない。\n意象分析：「水の尽きるところ」と「雲が上がる時」は、人生の終わりと自然の変化を象徴し、詩人が世俗を超えた心境を表している。\n歴史背景：唐代には道教思想が盛んで、詩人は山に隠れ、心の平穏を求めた。",
+        "es": "A mediados de la vida me gustaba mucho el Tao; en mis años posteriores, me establecí en el pie sur de la montaña. Cuando me inspiraba, solía ir solo; las cosas maravillosas solo las conocía yo. Caminando hasta donde se acaba el agua; sentado viendo cómo se levantan las nubes. ocasionalmente encontrando a un anciano en el bosque; charlando y riendo sin pensar en regresar.\nGramática: No hay estructuras gramaticales especiales.\nReferencias: No hay referencias específicas.\nAnálisis de Imágenes: 'Donde se acaba el agua' y 'cuando se levantan las nubes' simbolizan el fin de la vida y los cambios de la naturaleza, expresando el estado de ánimo trascendental del poeta.\nContexto Histórico: Durante la dinastía Tang, el pensamiento taoísta era predominante, y los poetas a menudo se retiraban a las montañas en busca de paz interior.",
+        "ar": "في منتصف العمر أحببت الطريق كثيراً؛ وفي سنواتي الأخيرة استقررت عند سفح الجبل الجنوبي. عندما أشعر بالإلهام، أذهب وحدي غالباً؛ الأمور الرائعة يعرفها فقط أنا. أمشي حتى حيث تنتهي المياه؛ أجلس وأراقب ارتفاع السحب. أحياناً ألتقي ب старац في الغابة؛ أتحدث وأضحك دون التفكير في العودة.\nالنحو: لا توجد بنى نحوية خاصة.\nالإشارات: لا توجد إشارات محددة.\nتحليل الصور: 'حيث تنتهي المياه' و 'عندما ترتفع السحب' ترمز إلى نهاية الحياة وتغيرات الطبيعة، تعبر عن حالة الشاعر المتعالية.\nالخلفية التاريخية: خلال عهد التانغ، كان الفكر الطاوي سائداً، وكان الشعراء ينسحبون إلى الجبال بحثاً عن السلام الداخلي."
+    },
+    "appreciations": {
+        "zh": "《终南别业》是王维晚年隐居生活的写照。主题思想在于表达诗人对自然山水的热爱和对隐居生活的向往。写作特色上，诗人运用简洁自然的语言，通过具体的行踪描写，展现了内心的宁静与超脱。艺术成就方面，诗中‘行到水穷处，坐看云起时’一句，意境深远，成为千古名句。情感分析上，诗人在山水间找到了心灵的寄托，抒发了淡泊名利、悠然自得的情感。影响意义上，此诗是唐代山水田园诗的代表作，对后世文人隐逸思想产生了深远影响。",
+        "en": "Titled 'Retreat in Zhongnan Mountain', this poem by Wang Wei reflects his later years of reclusive life. The theme centers on the poet's love for natural landscapes and his longing for a secluded life. In terms of writing style, the poet uses simple and natural language, depicting his journey to reveal inner tranquility and detachment. Artistically, the line 'When I reach the end of the water, I sit and watch the clouds rise' is profoundly evocative, becoming a timeless verse. Emotionally, the poet finds solace in nature, expressing a serene and contented mood free from worldly desires. Historically, this poem stands as a representative work of Tang Dynasty landscape and pastoral poetry, profoundly influencing later generations' reclusive ideologies.",
+        "ja": "《終南別業》は王維の晩年における隠遁生活を描いた詩です。主題思想は、詩人が自然山水への愛と隠居生活への憧れを表現しています。表現手法としては、簡潔で自然な言葉遣いを用い、具体的な行動描写を通じて心の静寂と超脱を示しています。芸術的成就としては、「行到水窮処、坐看雲起時」という一句が深遠な境地を呈し、不朽の名句となっています。感情分析では、詩人は山水の中に心の寄託を見出し、名利を淡泊にし、悠然自得な感情を抒発しています。影響意義としては、唐代山水田園詩の代表作であり、後世の文人隠逸思想に大きな影響を与えました。",
+        "es": "Titulado 'Retiro en la Montaña Zhongnan', este poema de Wang Wei refleja su vida reclusa en sus últimos años. El tema principal es el amor del poeta por los paisajes naturales y su anhelo por una vida apartada. En cuanto al estilo de escritura, el poeta utiliza un lenguaje sencillo y natural, describiendo su recorrido para revelar una tranquilidad y desapego internos. Artísticamente, la línea 'Cuando llego al fin del agua, me siento a ver cómo se levantan las nubes' es profundamente evocadora, convirtiéndose en un verso atemporal. En el análisis emocional, el poeta encuentra consuelo en la naturaleza, expresando una serenidad y satisfacción libres de deseos mundanos. En términos de impacto, este poema es una obra representativa de la poesía paisajística y pastoral de la dinastía Tang, influyendo profundamente en las ideologías reclusivas de las generaciones posteriores.",
+        "ar": "تحمل قصيدة 'الاستقرار في جبال تشونغنان' للشاعر وانغ وي صورة لحياته المنعزلة في سنواته الأخيرة. يركز الموضوع الرئيسي على حب الشاعر للمناظر الطبيعية وعلى رغبته في العيش بعيداً عن العالم. من حيث الأسلوب الأدبي، يستخدم الشاعر لغة بسيطة وطبيعية، يصف من خلالها رحلته ليبرز الهدوء والابتعاد الداخلي. فنياً، البيت 'عندما أصل إلى نهاية الماء، أجلس وأراقب ارتفاع السحب' يبعث على تأمل عميق، ليصبح بيتاً خالداً. في تحليل العواطف، يجد الشاعر راحته في الطبيعة، يعبر عن شعوره بالهدوء والرضا بعيداً عن شهوات الدنيا. من حيث الأهمية التاريخية، تعد هذه القصيدة عملاً مميزاً للشعر الريفي والمناظري في عهد التانغ، أثرت بشكل كبير في فكر العزلة لدى الأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "中年时特别喜好道学，晚年定居在终南山边。兴致来时常常独自前往，美好的景致只有自己知道。走到水的尽头，坐下来看云起云落。偶然遇到山林中的老人，谈笑间忘记了归期。",
+            "en": "In middle age, I grew fond of the Tao,\nIn old age, I settled by the southern mountain's edge.\nWhen inspiration strikes, I go alone,\nJoyful scenes, known only to myself.\nWalking to where the water ends,\nSitting to watch the clouds arise.\nBy chance, meeting an old man in the woods,\nChatting and laughing, with no thought of returning.",
+            "ja": "中年になると道を好むようになり、\n老後は南山のほとりに住む。\n興が来ればいつも独りで行き、\n素晴らしいことだけ自分が知る。\n水の尽きるところまで行き、\n座って雲が湧き立つのを見る。\n偶然、林の中の老人に会い、\n笑い話して帰る気配がない。",
+            "es": "En la mediana edad, me encantaba el Tao,\nEn la vejez, me establecí en el borde de la montaña del sur.\nCuando me llega la inspiración, voy solo,\nLos bellos eventos, solo los conozco yo.\nCaminando hasta donde se acaba el agua,\nMe siento a ver cómo se levantan las nubes.\nAl azar, encuentro un anciano en el bosque,\nRiendo y charlando, sin pensar en regresar.",
+            "ar": "في منتصف العمر أحببت الطريق،\nفي الكبر استقررت على حافة الجبل الجنوبي.\nعندما تأتي الرغبة، أذهب وحدي،\nالأحداث الجميلة أعلمها وحدي.\nأمشي حتى ينتهي الماء،\nأجلس لأرى السحب تتصاعد.\nبصدفة، ألتقي بشيخ في الغابة،\nنتحدث ونضحك، بلا تفكير في العودة."
+        },
+        "title_translation": {
+            "zh": "终南别业",
+            "en": "Retreat in the Southern Mountains",
+            "ja": "終南別業",
+            "es": "Retiro en las Montañas del Sur",
+            "ar": "مستقر في الجبال الجنوبية"
+        }
+    },
+    "genre": {
+        "name": "五言律诗",
+        "code": "wu_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "中岁颇好道，晚家南山陲。\n兴来每独往，胜事空自知。\n行到水穷处，坐看云起时。\n偶然值林叟，谈笑无还期。",
+    "title_pinyin": "zhōng nán bié yè",
+    "pinyin": "zhōng suì pǒ hǎo dào，wǎn jiā nán shān chuí。\nxīng lái měi dú wǎng，shèng shì kōng zì zhī。\nxíng dào shuǐ qióng chù，zuò kàn yún qǐ shí。\nǒu rán zhí lín sǒu，tán xiào wú hái qī。"
+}

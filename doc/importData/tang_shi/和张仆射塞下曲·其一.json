@@ -1,0 +1,57 @@
+{
+    "title": "和张仆射塞下曲·其一",
+    "difficulty": 2,
+    "author": {
+        "name": "卢纶",
+        "name_pinyin": "lú lún",
+        "image": "卢纶.jpg",
+        "introduction": {
+            "zh": "卢纶，唐代著名诗人，字允言，河中蒲州（今山西永济）人。他是大历十才子之一，擅长写边塞诗和送别诗，风格雄浑，情感真挚。其诗多描写边塞风光和军旅生活，反映了唐代边防将士的豪情壮志。代表作有《塞下曲》等。",
+            "en": "Lu Lun, a renowned poet of the Tang Dynasty, styled Yunyan, was from Pu Prefecture in Hezhong (present-day Yongji, Shanxi). He was one of the Ten Talents of the Dali era, excelling in writing frontier poems and farewell poems, characterized by their grandeur and sincere emotions. His works often depict the scenery of the frontier and the life of soldiers, reflecting the valor and aspirations of the Tang Dynasty's border guards. His representative works include 'Songs of the Frontier' and others.",
+            "ja": "卢纶（ル・ルン）は、唐代の著名な詩人で、字は允言、河中蒲州（現在の山西省永済市）出身。大暦十才子の一人であり、辺塞詩や送別詩に長け、雄渾なスタイルと真摯な感情表現が特徴。詩は多くが辺塞の風景や軍隊生活を描き、唐代の辺防将兵の豪情壮志を反映している。代表作に『塞下曲』などがある。",
+            "es": "Lu Lun, famoso poeta de la dinastía Tang, conocido por su nombre de cortesía Yunyan, nació en Pu Prefectura de Hezhong (actual Yongji, Shanxi). Fue uno de los Diez Talentos del período Dali, destacando en la escritura de poesía fronteriza y de despedida, con un estilo grandioso y emociones sinceras. Sus obras a menudo describen paisajes fronterizos y la vida militar, reflejando el valor y las aspiraciones de los soldados de la frontera durante la dinastía Tang. Entre sus obras representativas se encuentra 'Canciones de la Frontera'.",
+            "ar": "لولون، شاعر مشهور في عهد التانغ، كان يعرف بلقبه \"يونيان\"، وهو من مقاطعة بوزهونغ في هيزونغ (اليوم يونغجي، شانشى). كان واحدًا من عشرة مواهب في فترة دالي، متخصص في كتابة الشعر الحدودي والشعر الوداعي، يتميز بأسلوبه العظيم وعواطفه الصادقة. أعماله غالبًا ما تصف مناظر الحدود وحياة الجنود، تعكس الشجاعة والتطلعات لأفراد الحرس الحدودي في عهد التانغ. من بين أعماله البارزة \"أغاني الحدود\"."
+        }
+    },
+    "annotations": {
+        "zh": "鹫翎：鹫鸟的羽毛，这里指箭羽。金仆姑：古代一种箭的名称。燕尾：像燕子尾巴的形状，这里指旗子的一部分。绣蝥弧：绣有蝥弧图案的旗帜，蝥弧是一种类似弓的兵器。独立：独自站立。扬新令：发布新的命令。千营：指众多军营。共一呼：共同呼喊。本诗描绘了一位将领发布新令，全军响应的壮观场面。",
+        "en": "Jiu ling: Feathers of a vulture, referring to arrow feathers. Jin Pugu: An ancient name for a type of arrow. Yan wei: Resembling the tail of a swallow, here referring to a part of a flag. Xiu Mao hu: A banner embroidered with the pattern of Mao hu, a weapon resembling a bow. Duli: Standing alone. Yang xin ling: Issuing new orders. Qian ying: Referring to numerous military camps. Gong yi hu: Shouting in unison. This poem depicts a magnificent scene of a general issuing new orders and the entire army responding.",
+        "ja": "鹫翎：鷲の羽根、ここでは矢の羽根を指す。金仆姑：古代の矢の一種の名前。燕尾：燕の尾のような形、ここでは旗の一部を指す。绣蝥弧：蝥弧の模様が刺繍された旗、蝥弧は弓に似た武器である。独立：一人で立っている。扬新令：新しい命令を発する。千営：多くの軍営を指す。共一呼：一斉に呼ぶ。この詩は、将軍が新しい命令を発し、全軍が応える壮大な場面を描いている。",
+        "es": "Jiu ling: Plumas de un buitre, refiriéndose a las plumas de las flechas. Jin Pugu: Un nombre antiguo para un tipo de flecha. Yan wei: Parecido a la cola de una golondrina, aquí refiriéndose a una parte de una bandera. Xiu Mao hu: Una bandera bordada con el patrón de Mao hu, un arma similar a un arco. Duli: De pie solo. Yang xin ling: Emitir nuevas órdenes. Qian ying: Refiriéndose a numerosos campamentos militares. Gong yi hu: Gritar en conjunto. Este poema describe una escena magnífica de un general emitiendo nuevas órdenes y todo el ejército respondiendo.",
+        "ar": "Jiu ling: ريش النسر، يشير إلى ريش السهام. Jin Pugu: اسم قديم لنوع من السهام. Yan wei: يشبه ذيل الحمامة، هنا يشير إلى جزء من علم. Xiu Mao hu: علم مزين بنمط Mao hu، وهو سلاح يشبه القوس. Duli: الوقوف بمفرده. Yang xin ling: إصدار أوامر جديدة. Qian ying: يشير إلى العديد من المعسكرات العسكرية. Gong yi hu: الهتاف معًا. هذا الشعر يصور مشهدًا رائعًا لقائد يصدر أوامر جديدة وجميع الجيش يستجيب."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘边塞军营的壮丽场景，展现了军令如山、士气高昂的主题。诗中运用了细腻的描写手法，如‘鹫翎金仆姑’和‘燕尾绣蝥弧’形象生动地描绘了军械的精美。‘独立扬新令，千营共一呼’则通过对比手法，突显了将领的威严和士兵的团结。艺术上，诗歌简洁有力，节奏明快，具有很高的艺术价值。情感上，诗人抒发了对边塞将士的崇敬和对国家强盛的赞美。在文学史上，此诗作为边塞诗的代表，对后世有着深远的影响。",
+        "en": "This poem vividly depicts the grandeur of a frontier military camp, highlighting the theme of strict military discipline and high morale. The use of detailed descriptions, such as 'eagle-feathered golden arrows' and 'swallow-tailed embroidered banners,' brings the weaponry to life. The contrast in 'standing alone to issue new orders, a thousand camps respond in unison' emphasizes the commander's authority and the soldiers' unity. Artistically, the poem is concise and powerful with a brisk rhythm, holding high artistic value. Emotionally, it expresses admiration for the frontier soldiers and praise for the nation's strength. In literary history, this poem stands as a representative of frontier poetry, exerting a profound influence on later generations.",
+        "ja": "この詩は、辺境の軍営の壮大な情景を描き出し、軍令の厳しさと士気の高揚を主題としています。「鷲の羽根の金の矢」と「燕の尻尾の刺繍された旗」などの詳細な描写が、武器の美しさを生き生きと描いています。「一人で新しい命令を発し、千の営が一斉に呼応する」という対比が、将軍の威厳と兵士の団結を強調しています。芸術的には、詩は簡潔で力強く、リズムが明快で高い芸術的価値を持っています。感情面では、辺境の兵士への尊敬と国家の強さへの賛美が表れています。文学史上、この詩は辺塞詩の代表として、後世に深い影響を与えています。",
+        "es": "Este poema retrata vívidamente la grandiosidad de un campamento militar en la frontera, resaltando el tema de la estricta disciplina militar y el alto espíritu de combate. El uso de descripciones detalladas, como 'flechas de plumas de águila doradas' y 'estandartes bordados con colas de golondrina', da vida a las armas. El contraste en 'de pie solo para emitir nuevas órdenes, mil campamentos responden en unísono' enfatiza la autoridad del comandante y la unidad de los soldados. Artísticamente, el poema es conciso y poderoso con un ritmo ágil, poseyendo un alto valor artístico. Emocionalmente, expresa admiración por los soldados de la frontera y alabanza por la fortaleza de la nación. En la historia de la literatura, este poema se erige como un representante de la poesía de la frontera, ejerciendo una profunda influencia en las generaciones posteriores.",
+        "ar": "يصور هذا الشعر بوضوح عظمة مخيم عسكري في الحدود، مع التأكيد على موضوع الانضباط العسكري الصارم والروح المعنوية العالية. استخدام الوصف التفصيلي مثل 'السهام الذهبيه ذات الريش الصقري' و 'الأعلام المطرزة ذات الذيل الذهبي' يعطي الحياة للأسلحة. التباين في 'стоя одной для издачи новых приказов، ألف مخيم يستجيب بصوت واحد' يبرز سلطة القائد ووحدة الجنود. فنياً، الشعر مختصر وقوي بنبرة سريعة، يمتلك قيمة فنية عالية. عاطفياً، يعبر عن الإعجاب بالجنود في الحدود والثناء على قوة الوطن. في تاريخ الأدب، يعتبر هذا الشعر ممثلاً للشعر الحدودي، له تأثير عميق على الأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "鹫翎装饰的金仆姑箭，燕尾形状的绣蝥弧旗。独立发布新命令，千营将士齐声呼应。",
+            "en": "Eagle feathers adorn the golden PuGu arrows, swallow-tailed banners embroidered with蝥弧. Standing alone, he issues a new command, a thousand camps respond in unison.",
+            "ja": "鷲の羽で飾られた金の朴骨の矢、燕の尻尾のような刺繍された蝥弧の旗。独立して新たな命令を発し、千の営みが一斉に呼応する。",
+            "es": "Plumas de águila adornan las flechas de oro PuGu, banderas con colas de golondrina bordadas con蝥弧. De pie solo, emite una nueva orden, mil campamentos responden al unísono.",
+            "ar": "ريش النسور يزين سهام الذهبية بوجو، أعلام على شكل ذيول الحمام مفروشة بفوغو. واقفاً منفرداً، ينشر أمراً جديداً، آلاف المعسكرات تردد بصوت واحد."
+        },
+        "title_translation": {
+            "zh": "和张仆射塞下曲·其一",
+            "en": "To Zhang PuShe: Frontier Songs, Part One",
+            "ja": "張朴射に和する塞下曲・其一",
+            "es": "A Zhang PuShe: Canciones de la Frontera, Parte Uno",
+            "ar": "إلى تشانغ بوشيه: أغاني الحدود، الجزء الأول"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "鹫翎金仆姑，燕尾绣蝥弧。\n独立扬新令，千营共一呼。",
+    "title_pinyin": "hé zhāng pū shè sāi xià qū·qí yī",
+    "pinyin": "jiù líng jīn pū gū，yàn wěi xiù máo hú。\ndú lì yáng xīn lìng，qiān yíng gòng yī hū。"
+}

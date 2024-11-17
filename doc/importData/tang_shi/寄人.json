@@ -1,0 +1,57 @@
+{
+    "title": "寄人",
+    "difficulty": 2,
+    "author": {
+        "name": "张泌",
+        "name_pinyin": "zhāng mì",
+        "image": "张泌.jpg",
+        "introduction": {
+            "zh": "张泌，唐代著名诗人，生卒年不详，主要活动于晚唐时期。他的诗作以清丽婉约著称，多描写离别、思乡等情感，语言优美，意境深远。代表作有《寄人》、《洞庭湖》等，其诗风对后世有一定影响。",
+            "en": "Zhang Mi was a renowned poet of the Tang Dynasty, with uncertain birth and death years, primarily active during the late Tang period. His poetry is known for its clarity and elegance, often depicting emotions such as separation and homesickness. His language is beautiful and his imagery profound. Representative works include 'To a Friend' and 'Lake Dongting', and his poetic style has had a certain influence on later generations.",
+            "ja": "張泌は唐代の著名な詩人で、生没年不詳、主に晚唐期に活動しました。彼の詩作は清麗婉約で知られ、別離や故郷への思慕などを多く描いています。言葉は美しく、意境は深遠です。代表作に「寄人」、「洞庭湖」などがあり、その詩風は後世に一定の影響を与えました。",
+            "es": "Zhang Mi fue un poeta famoso de la dinastía Tang, con años de nacimiento y muerte desconocidos, principalmente activo durante el período tardío de Tang. Su poesía es conocida por su claridad y elegancia, a menudo describiendo emociones como la separación y la nostalgia. Su lenguaje es hermoso y su imaginación profunda. Sus obras representativas incluyen 'A un amigo' y 'Lago Dongting', y su estilo poético ha tenido una cierta influencia en las generaciones posteriores.",
+            "ar": "كان تشانغ مي شاعرًا مشهورًا في عهد التانغ، غير معروف تاريخ ميلاده ووفاته، نشط بشكل رئيسي في فترة التانغ المتأخرة. اشتهرت قصائده بوضوحها وجمالها، غالبًا ما تصف مشاعر مثل الانفصال والحنين إلى الوطن. لغته جميلة وظلاله عميقة. من بين أعماله البارزة 'إلى صديق' و 'بحيرة دونغتينغ'، وقد أثر أسلوبه الشعري على الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "别梦依依到谢家：离别后的梦境中，我依依不舍地来到谢家。别梦，离别后的梦境；依依，形容依恋不舍的样子；谢家，指所思念之人的家。小廊回合曲阑斜：小廊曲折回环，栏杆斜斜地延伸。回合，曲折回环；曲阑，曲折的栏杆。多情只有春庭月：只有那春庭院中的月亮是多情的。春庭月，春天的庭院中的月亮。犹为离人照落花：还依旧为离别的人照着飘落的鲜花。离人，离别的人；落花，飘落的鲜花。\n此诗表达了诗人对离别之人的深切思念，通过梦境和月光的描写，营造出一种凄美的意境。",
+        "en": "Don't dream of lingering to Xie's house: After parting, in my dream, I linger reluctantly to Xie's house. Don't dream, dreams after parting; Linger, describing the appearance of reluctance; Xie's house, refers to the home of the person I miss. The small corridor is winding and the railing is slanted: the small corridor is winding, and the railing extends obliquely. Winding, winding; Curved railing, winding railing. Only the spring court moon is affectionate: only the moon in the spring court is affectionate. Spring court moon, the moon in the spring court. It still shines on the falling flowers for the departing person: it still shines on the falling flowers for the departing person. Separated person, separated person; Falling flowers, falling flowers. \nThis poem expresses the poet's deep longing for the separated person, creating a sad and beautiful artistic conception through the description of dreams and moonlight.",
+        "ja": "別夢依依到謝家：別れ後の夢の中で、私はしきりに謝家に訪れる。別夢、別れ後の夢；依依、依恋するさま；謝家、思い慕う人の家。小廊回合曲欄斜：小さな廊下は曲がりくねり、欄干は斜めに延びる。回合、曲がりくねる；曲欄、曲がった欄干。多情只有春庭月：春の庭の月だけが多情である。春庭月、春の庭の月。猶為離人照落花：まだ別れた人に落ち花を照らす。離人、別れた人；落花、落ちた花。\nこの詩は、詩人が別れた人への深い思いを表現し、夢と月光の描写を通じて、悲しみ美しい境地を作り出しています。",
+        "es": "No sueñes con quedarte en la casa de Xie: Después de la despedida, en mi sueño, me quedo reluctante en la casa de Xie. No sueñes, sueños después de la despedida; Quedarte, describiendo la apariencia de la reluctancia; Casa de Xie, se refiere a la casa de la persona que extraño. El pequeño corredor es tortuoso y la barandilla está inclinada: el pequeño corredor es tortuoso y la barandilla se extiende oblicuamente. Tortuoso, tortuoso; Barandilla curva, barandilla tortuosa. Solo la luna del patio de primavera es afectuosa: solo la luna en el patio de primavera es afectuosa. Luna del patio de primavera, la luna en el patio de primavera. Todavía brilla sobre las flores caídas por la persona que se va: todavía brilla sobre las flores caídas por la persona que se va. Persona que se va, persona que se va; Flores caídas, flores caídas. \nEste poema expresa el profundo anhelo del poeta por la persona que se ha ido, creando una atmósfera triste y hermosa a través de la descripción de los sueños y la luz de la luna.",
+        "ar": "لا تحلم بالبقاء في بيت شيا: بعد الوداع، في حلمي، أبقى متردداً في بيت شيا. لا تحلم، الأحلام بعد الوداع؛ البقاء، وصف مظهر التردد؛ بيت شيا، يشير إلى بيت الشخص الذي أفتقده. الزقاق الصغير متعرج والدرابزين مائل: الزقاق الصغير متعرج والدرابزين يمتد بشكل مائل. متعرج، متعرج؛ درابزين متعرج، درابزين متعرج. فقط قمر الحديقة في الربيع هو عاطفي: فقط قمر الحديقة في الربيع هو عاطفي. قمر الحديقة في الربيع، قمر الحديقة في الربيع. لا يزال يضيء على الزهور المتساقطة للشخص المنصرف: لا يزال يضيء على الزهور المتساقطة للشخص المنصرف. الشخص المنصرف، الشخص المنصرف؛ الزهور المتساقطة، الزهور المتساقطة. \nهذا الشعر يعبر عن شوق الشاعر العميق للشخص المنصرف، ويخلق جواً حزيناً وجميلاً من خلال وصف الأحلام وضوء القمر."
+    },
+    "appreciations": {
+        "zh": "《寄人》这首诗以梦境为线索，表达了诗人对友人的深切思念。主题思想在于通过梦境和月光的描写，传达出离别的哀愁和对友情的珍视。写作特色上，诗人运用虚实结合的手法，将梦境与现实交织，增强了诗境的朦胧美。艺术成就方面，诗中‘多情只有春庭月’一句，以月拟人，赋予自然景物以情感，极具艺术感染力。情感分析上，诗人通过‘别梦依依’和‘照落花’等意象，抒发了对离别的无奈和对友人的牵挂。影响意义上，此诗在唐代抒情诗中占有一席之地，对后世诗歌创作产生了深远影响。",
+        "en": "The poem 'To a Friend' uses a dream as a线索 to express the poet's deep longing for a friend. The theme centers on conveying the sorrow of separation and the value of friendship through descriptions of dreams and moonlight. In terms of writing style, the poet skillfully blends reality with illusion, enhancing the poem's ethereal beauty. Artistically, the line 'Only the spring courtyard moon is affectionate' personifies the moon, imbuing the natural scene with emotion, demonstrating high artistic achievement. Emotionally, the poet expresses the helplessness of separation and the longing for a friend through images like 'lingering dream' and 'illuminating fallen flowers'. Historically, this poem holds a significant place in Tang Dynasty lyric poetry and has had a profound influence on later poetic compositions.",
+        "ja": "「寄人」という詩は夢を手がかりに、詩人が友人への深い思いを表現しています。主題思想は、夢と月光の描写を通じて、別れの哀しみと友情の大切さを伝えることにあります。表現手法としては、実と虚を結びつける技法を用い、夢と現実を交錯させ、詩境の朧げな美しさを強化しています。芸術的成果としては、「多情なるは春庭の月のみ」の一句で、月を擬人化し、自然景物に感情を与えることで、高い芸術的感染力を示しています。感情分析では、「別夢依依」や「落花を照らす」などのイメージを通じて、別れの無念さと友人への思いやりを抒発しています。影響の意味では、この詩は唐代の抒情詩において重要な位置を占め、後世の詩作に深い影響を与えました。",
+        "es": "El poema 'A un Amigo' utiliza un sueño como hilo conductor para expresar el profundo anhelo del poeta por un amigo. El tema principal se centra en transmitir la tristeza de la separación y el valor de la amistad a través de las descripciones de sueños y luz de luna. En cuanto al estilo de escritura, el poeta combina hábilmente la realidad con la ilusión, realzando la belleza etérea del poema. Artísticamente, la línea 'Solo la luna del patio de primavera es afectuosa' personifica a la luna, otorgando emociones a la escena natural, lo que demuestra un alto logro artístico. Emocionalmente, el poeta expresa la impotencia de la separación y el anhelo por el amigo a través de imágenes como 'sueño persistente' e 'iluminar las flores caídas'. En términos de influencia, este poema ocupa un lugar significativo en la poesía lírica de la dinastía Tang y ha tenido una profunda influencia en las composiciones poéticas posteriores.",
+        "ar": "القصيدة 'إلى صديق' تستخدم الحلم كوسيلة ليعبر الشاعر عن اشتياقه العميق لأصدقائه. الفكرة الرئيسية تتمثل في نقل حزن الانفصال وقيمة الصداقة من خلال وصف الأحلام والضوء القمري. من حيث الأسلوب الكتابي، يجمع الشاعر ببراعة بين الواقع والوهم، مما يعزز جمال القصيدة الورقي. فنياً، البيت 'فقط قمر الحديقة الربيعية هو العاطفي' يعطي للقمر صفة بشرية، مما يمنح المشهد الطبيعي عواطف، مما يظهر تحقيق فني عالي. عاطفياً، يعبر الشاعر عن عجزه عن الانفصال وتوقه للأصدقاء من خلال صور مثل 'الحلم المستمر' و'إضاءة الأزهار المتساقطة'. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في الشعر العاطفي لعهد التانغ ولها تأثير عميق على كتابات الشعر اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "离别后的梦境中我依依不舍地来到谢家，小廊回合，曲阑斜倚。只有那多情的春庭月，还依旧为离人照着落花。",
+            "en": "In the dream after parting, I linger at the Xie's home, where the small corridor winds and the curved railing tilts. Only the affectionate moon in the spring courtyard still shines upon the fallen flowers for the one who has left.",
+            "ja": "別れの夢に縋りついて謝家へ、小さな回廊は曲がり、欄干は斜めに。春の庭にただ情深い月のみ、離れ人に落花を照らしてやる。",
+            "es": "En el sueño tras la despedida, me detengo tiernamente en la casa de los Xie, donde el pequeño corredor se curva y la barandilla se inclina. Solo la luna afectuosa del patio de primavera sigue iluminando las flores caídas por el que se ha ido.",
+            "ar": "في الحلم بعد الوداع، أتعلق بالبيت عائلة شيه، حيث يتلوى الرواق الصغير وتميل الأعمدة المنحنية. فقط القمر العاطفي في فناء الربيع يظل يضيء على الأزهار المتساقطة لمن فارق."
+        },
+        "title_translation": {
+            "zh": "寄人",
+            "en": "To a Friend",
+            "ja": "友人に",
+            "es": "A un Amigo",
+            "ar": "إلى صديق"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "别梦依依到谢家，小廊回合曲阑斜。\n多情只有春庭月，犹为离人照落花。",
+    "title_pinyin": "jì rén",
+    "pinyin": "bié mèng yī yī dào xiè jiā，xiǎo láng huí hé qū lán xié。\nduō qíng zhǐ yǒu chūn tíng yuè，yóu wèi lí rén zhào luò huā。"
+}

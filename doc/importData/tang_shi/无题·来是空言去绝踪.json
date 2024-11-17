@@ -1,0 +1,57 @@
+{
+    "title": "无题·来是空言去绝踪",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐（约813年-约858年），字义山，号玉溪生，唐代著名诗人，与杜牧合称“小李杜”。他的诗歌风格独特，擅长运用象征、隐喻等手法，内容多涉及爱情、政治和个人感慨，情感深沉，意境朦胧，尤其以《无题》诗最为著名。李商隐的诗歌在唐代乃至整个中国文学史上都占有重要地位，对后世影响深远。",
+            "en": "Li Shangyin (approx. 813-858), styled Yishan and also known as Yuxi Sheng, was a renowned poet of the Tang Dynasty, often mentioned alongside Du Mu as the 'Little Du'. His poetic style is unique, skillfully employing symbols and metaphors, with themes frequently revolving around love, politics, and personal reflections. His works are known for their deep emotions and ambiguous imagery, particularly his 'Untitled' poems. Li Shangyin's poetry holds a significant place in the literary history of the Tang Dynasty and has had a profound influence on later generations.",
+            "ja": "李商隐（約813年-約858年）、字は義山、号は玉谿生、唐代の著名な詩人であり、杜牧と共に「小李杜」と称される。彼の詩風は独特で、象徴や隠喩などの手法を巧みに使い、内容は愛情、政治、個人的な感慨など多岐にわたる。感情が深く、意境が朧げであり、特に「無題」詩が有名である。李商隐の詩は唐代乃至中国文学史全体において重要な地位を占め、後世に大きな影響を与えた。",
+            "es": "Li Shangyin (aprox. 813-858), también conocido como Yishan y Yuxi Sheng, fue un destacado poeta de la dinastía Tang, a menudo mencionado junto a Du Mu como el 'Pequeño Du'. Su estilo poético es único, utilizando hábilmente símbolos y metáforas, con temas que a menudo giran en torno al amor, la política y las reflexiones personales. Sus obras son conocidas por sus profundas emociones e imágenes ambiguas, especialmente sus poemas 'Sin título'. La poesía de Li Shangyin ocupa un lugar significativo en la historia literaria de la dinastía Tang y ha tenido una profunda influencia en las generaciones posteriores.",
+            "ar": "لي شانغ ين (حوالي 813-858)، المعروف أيضاً باسم يي شان ويو شي شنغ، كان شاعرًا مشهورًا في عهد التانغ، وغالبًا ما يُذكر جنبًا إلى جنب مع دو مو كـ'الدو الصغير'. يتميز أسلوبه الشعري بالتفرد، حيث يستخدم الرموز والاستعارات ببراعة، وتدور مواضيعه غالبًا حول الحب والسياسة والتأملات الشخصية. تُعرف أعماله بعمق العواطف والصور الغامضة، خاصة قصائده 'بدون عنوان'. تحتل شعرية لي شانغ ين مكانة مهمة في تاريخ الأدب لعهد التانغ وأثرت بشكل عميق على الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "来是空言去绝踪：来时只是空话，离去后便无踪迹。月斜楼上五更钟：月亮斜挂楼上，已是五更时分。梦为远别啼难唤：梦中因远别而哭泣，难以唤醒。书被催成墨未浓：急切写成书信，墨汁尚未浓稠。蜡照半笼金翡翠：蜡烛光照半隐半现地笼罩着金翡翠装饰的屏风。麝熏微度绣芙蓉：麝香熏气微微透过绣有芙蓉花的帷幕。刘郎已恨蓬山远：刘郎（指刘晨）已怨恨蓬山（仙境）遥远。更隔蓬山一万重：更何况还隔着比蓬山更远一万重的距离。",
+        "en": "Come with empty words, leave without a trace; the moon slants over the tower at the fifth watch. Dreams of distant parting, weeping hard to wake; letters hurriedly written, ink not yet thick. Candlelight half-encloses the golden kingfisher; musk fragrance faintly permeates the embroidered hibiscus. Liu Lang already hates the distant Pengshan; even more, it is separated by ten thousand layers of Pengshan.",
+        "ja": "来は空言、去りは絶踪：来た時は空しい言葉、去った後は跡形もない。月は楼上に斜めに、五更の鐘：月が楼上に斜めに掛かり、五更の時間である。夢は遠別に啼き難く唤ぶ：夢の中で遠い別れに泣き、呼び起こすのが難しい。書は催され成り、墨は未だ濃くない：急がされて書かれた手紙、墨がまだ濃くない。蝋燭の光は半分金の翡翠を籠もる：蝋燭の光が半分金の翡翠で飾られた屏風を照らす。麝香の熏きは微かに繍の芙蓉を度る：麝香の香りが微かに繍られた芙蓉の幕を通過する。劉郎は既に蓬山の遠きを恨む：劉郎（劉晨）は既に蓬山（仙境）の遠さを恨んでいる。更に蓬山の一万里を隔てる：更に蓬山よりも一万里も隔たっている。",
+        "es": "Venir con palabras vacías, ir sin dejar rastro; la luna inclinada sobre la torre a la quinta vigilia. Soñar con una lejana despedida, llorar sin poder despertar; cartas apresuradas, tinta aún no densa. La luz de las velas medio envuelve al jade dorado; el aroma de almizcle pasa ligeramente por el loto bordado. Liu Lang ya odia la lejanía de la Montaña Penglai; aún más, está separado por diez mil capas de la Montaña Penglai.",
+        "ar": "القدوم بكلام فارغ، والذهاب بلا أثر؛ القمر مائل فوق البرج في وقت الخامسة من الليل. الأحلام بسبب الابتعاد البعيد، البكاء يصعب الاستيقاظ منه؛ الكتابة المسرعة، الحبر لم يكن كثيفًا بعد. ضوء الشمعة يحيط نصفًا بالزبرجد الذهبي؛ رائحة المسك تمر بخفة عبر زهرة الكركديه المطرزة. ليو لانغ يكره الآن بعد جبل بينغشان البعيد؛ والأكثر من ذلك، أنه منفصل عن جبل بينغشان بعشرة آلاف طبقة."
+    },
+    "appreciations": {
+        "zh": "这首《无题·来是空言去绝踪》是李商隐的代表作之一，主题思想围绕爱情与离别的痛苦。诗中通过梦境与现实的对立，表达了对远方所爱之人的深切思念和无尽的哀愁。写作特色上，诗人巧妙运用对比和象征手法，如'月斜楼上五更钟'与'梦为远别啼难唤'，将时间与空间、梦境与现实交织，增强了情感的表达。艺术成就方面，诗歌意境深远，语言精炼，情感细腻，具有很高的艺术价值。情感分析上，诗中流露出对爱情的执着与无奈，以及对远方所爱之人的深切怀念。影响意义上，这首诗在文学史上具有重要地位，被视为唐代无题诗的典范，对后世诗歌创作产生了深远影响。",
+        "en": "This poem 'Untitled: Coming is an Empty Promise, Leaving Leaves No Trace' is one of Li Shangyin's masterpieces, with a central theme revolving around the pain of love and separation. The poem expresses deep longing and endless sorrow for a loved one far away, through the contrast between dreams and reality. In terms of writing style, the poet skillfully uses contrasts and symbolism, such as 'The moon slants over the tower at the fifth watch' and 'Dreaming of distant parting, crying yet unable to wake', intertwining time and space, dreams and reality, to enhance emotional expression. In terms of artistic achievement, the poem has a profound artistic conception, refined language, and delicate emotions, possessing high artistic value. Emotionally, the poem reveals a persistent yet helpless love, and a deep longing for the distant loved one. In terms of influence and significance, this poem holds an important place in literary history, regarded as a model of Tang Dynasty untitled poetry, and has had a profound impact on later poetic creation.",
+        "ja": "この詩「無題・来は空言去絶踪」は李商隠の代表作の一つで、主題は愛情と別離の苦悩に绕っている。詩は夢と現実の対立を通じて、遠くにいる愛する人への深い思いやりと尽きることのない悲哀を表現している。執筆の特色としては、詩人は対比と象徴手法を巧みに使い、「月斜楼上五更鐘」と「夢為遠別啼難唤」のように、時間と空間、夢と現実を交錯させ、感情の表現を強化している。芸術的成就としては、詩の意境は深遠で、言語は精緻で、感情は繊細であり、高い芸術価値を持っている。感情分析としては、詩には愛情への執着と無奈、遠くにいる愛する人への深い懐かしさが流れている。影響と意味としては、この詩は文学史上重要な地位を占めており、唐代の無題詩の典型とされ、後世の詩作に大きな影響を与えている。",
+        "es": "Este poema 'Sin título: Venir es una promesa vacía, irse no deja rastro' es una de las obras más destacadas de Li Shangyin, con un tema central que gira en torno al dolor del amor y la separación. El poema expresa un profundo anhelo y una pena interminable por un ser amado que está lejos, a través del contraste entre los sueños y la realidad. En cuanto a la técnica de escritura, el poeta utiliza hábilmente contrastes y simbolismos, como 'La luna inclinada sobre la torre a la quinta vigilia' y 'Soñando con una partida lejana, llorando sin poder despertar', entrelazando tiempo y espacio, sueños y realidad, para potenciar la expresión emocional. En términos de logro artístico, el poema tiene una concepción artística profunda, un lenguaje refinado y emociones delicadas, poseyendo un alto valor artístico. En el análisis emocional, el poema revela un amor persistente pero impotente, y un profundo recuerdo por el ser amado lejano. En cuanto a su influencia y significado, este poema ocupa un lugar importante en la historia de la literatura, considerado un modelo de la poesía sin título de la dinastía Tang, y ha tenido un impacto profundo en la creación poética posterior.",
+        "ar": "هذا الشعر 'غير معنون: القدوم كلام فارغ، والذهاب لا يترك أثراً' هو واحد من أشهر أعمال لي شانغيين، ويتناول موضوعه الرئيسي حول ألم الحب والفراق. يعبر الشعر عن الرغبة العميقة والأسى الذي لا ينتهي تجاه الحبيب البعيد، من خلال مقارنة الأحلام بالواقع. فيما يتعلق بطريقة الكتابة، يستخدم الشاعر ببراعة المقارنات والتعبيرات الرمزية، مثل 'القمر المائل فوق البرج في وقت الساعة الخامسة' و'الحلم بالفراق البعيد، البكاء دون القدرة على الاستيقاظ'، يتداخل الزمان والمكان، الأحلام والواقع، لتعزيز التعبير العاطفي. من حيث الإنجاز الفني، يتميز الشعر بعمق في التصور الفني، ودقة في اللغة، ورقة في المشاعر، ويمتلك قيمة فنية عالية. في تحليل المشاعر، يكشف الشعر عن حب لا يتزعزع ولكنه عاجز، وحنين عميق للحبيب البعيد. من حيث التأثير والمعنى، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب، ويُعتبر نموذجاً للشعر غير المعنون في عهد التانغ، ولديه تأثير عميق على الكتابة الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "你来时只是一句空话，去后便无影无踪，月光斜照在楼上，已是五更时分。梦中因远别而哭泣，难以唤醒，急切间写成书信，墨汁还未浓。烛光照亮了半边金翡翠的帷幕，麝香微微飘过绣有芙蓉的床帐。刘郎已恨蓬山遥远，更何况现在又隔了一万重蓬山！",
+            "en": "You came with empty words and left without a trace, the moon slants over the tower at the fifth watch's bell. In dreams, weeping for distant parting, hard to awake, the letter hurriedly written with ink not yet dark. Candlelight half-illuminates the golden kingfisher curtains, musk faintly drifts through the embroidered hibiscus bed. Liu Lang already laments the faraway Pengshan, now separated by ten thousand layers of Pengshan!",
+            "ja": "来た時は空虚な言葉、去った後は跡形もなく、月光は楼に斜めに射し、五更の鐘が鳴る。夢の中で遠く別れて泣き、呼び覚ますこと難く、急いで書いた手紙は墨がまだ濃くない。ろうそくの光が金の翡翠のカーテンを半分照らし、麝香が微かに刺繍された芙蓉のベッドを通過する。劉郎は蓬山の遠さを既に恨み、更に蓬山を一万重も隔てている！",
+            "es": "Viniste con palabras vacías y te fuiste sin dejar rastro, la luna inclinada sobre la torre al quinto toque de la campana. En sueños, llorando por la lejana despedida, difícil de despertar, la carta apresurada con tinta aún no densa. La luz de la vela ilumina a medias las cortinas de jade dorado, el almizcle fluye levemente por el lecho bordado de loto. Liu Lang ya lamenta la lejanía de la Montaña Peng, ¡y ahora hay mil capas más de Montaña Peng!",
+            "ar": "جئت بكلام فارغ وذهبت دون أثر، والقمر مائل على البرج عند رنات الساعة الخامسة. في الأحلام، أبكي بسبب الابتعاد، وصعب إيقاظي، والرسالة كتبت بسرعة والحبر لم يكن كثيفًا بعد. ضوء الشمعة يضيء نصف ستائر الذهب والزمردي، وعطر المسك ينتشر بخفة عبر السرير المطرز بالлотس. يائسًا، يلعن ليو لانغ بعدائية جبل بينغ، الآن يفصلنا عشرات آلاف طبقات من جبل بينغ!"
+        },
+        "title_translation": {
+            "zh": "无题·来是空言去绝踪",
+            "en": "Untitled: Empty Words Come, Vanish Without Trace",
+            "ja": "無題・来は空言去は絶踪",
+            "es": "Sin título: Vienen palabras vacías, se van sin rastro",
+            "ar": "بدون عنوان: تأتي الكلمات الفارغة، تذهب بدون أثر"
+        }
+    },
+    "genre": {
+        "name": "七言律诗",
+        "code": "qi_yan_lv_shi"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "来是空言去绝踪，月斜楼上五更钟。\n梦为远别啼难唤，书被催成墨未浓。\n蜡照半笼金翡翠，麝熏微度绣芙蓉。\n刘郎已恨蓬山远，更隔蓬山一万重！",
+    "title_pinyin": "wú tí·lái shì kōng yán qù jué zōng",
+    "pinyin": "lái shì kōng yán qù jué zōng，yuè xié lóu shàng wǔ gèng zhōng。\nmèng wèi yuǎn bié tí nán huàn，shū bèi cuī chéng mò wèi nóng。\nlà zhào bàn lóng jīn fěi cuì，shè xūn wēi dù xiù fú róng。\nliú láng yǐ hèn péng shān yuǎn，gèng gé péng shān yī wàn zhòng！"
+}

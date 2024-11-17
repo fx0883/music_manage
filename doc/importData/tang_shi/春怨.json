@@ -1,0 +1,57 @@
+{
+    "title": "春怨",
+    "difficulty": 2,
+    "author": {
+        "name": "刘方平",
+        "name_pinyin": "liú fāng píng",
+        "image": "刘方平.jpg",
+        "introduction": {
+            "zh": "刘方平，唐代诗人，生卒年不详，活动于唐玄宗、肃宗时期。其诗多写闺情、边塞，风格清新细腻，善于通过景物描写抒发情感。《春怨》是其代表作之一，通过描写黄昏时分空寂庭院中的落花，表达了深闺女子的孤独与哀愁。",
+            "en": "Liu Fangping was a poet of the Tang Dynasty, with unknown birth and death years, active during the reigns of Emperor Xuanzong and Suzong. His poems often depict boudoir emotions and frontier scenes, characterized by a fresh and delicate style, adept at expressing emotions through scenery descriptions. 'Spring Complaint' is one of his representative works, portraying the loneliness and sorrow of a woman in a secluded chamber through the depiction of fallen flowers in a desolate courtyard at dusk.",
+            "ja": "劉方平は唐代の詩人で、生没年不詳、玄宗・肅宗の時期に活動した。詩は多く閨情や辺塞を題材とし、清新で繊細なスタイルが特徴で、風景描写を通じて感情を表現するのが得意だった。《春怨》はその代表作の一つで、黄昏時の空寂た庭園の落花を描き、深閨の女性の孤独と哀愁を表現している。",
+            "es": "Liu Fangping fue un poeta de la dinastía Tang, con años de nacimiento y muerte desconocidos, activo durante los reinados de los emperadores Xuanzong y Suzong. Sus poemas a menudo describen emociones de cámara y escenas fronterizas, con un estilo fresco y delicado, experto en expresar emociones a través de descripciones del paisaje. 'Lamento de Primavera' es una de sus obras representativas, que expresa la soledad y la tristeza de una mujer en un camerino apartado mediante la descripción de flores caídas en un patio desierto al anochecer.",
+            "ar": "ليو فانغ بينغ كان شاعرًا في عهد أسرة تانغ، لم تُعرف تواريخ ميلاده ووفاته، وكان نشطًا خلال فترات حكم الإمبراطورين شوانزونغ وسوزونغ. قصائده غالبًا ما تصف مشاعر الغرف الخاصة والأجواء الحدودية، بأسلوب جديد ورقيق، ماهر في التعبير عن المشاعر من خلال وصف المناظر الطبيعية. 'الشكوى الربيعية' هي واحدة من أعماله الرائدة، حيث يعبر عن الوحدة والأسى لامرأة في غرفة معزولة من خلال وصف الأزهار المتساقطة في فناء مهجور عند الغسق."
+        }
+    },
+    "annotations": {
+        "zh": "纱窗：用纱做成的窗户。日落：太阳落山。渐黄昏：逐渐进入黄昏时分。金屋：指华丽的房屋，暗指宫中。无人：没有人。见泪痕：看到泪水的痕迹。寂寞：孤独冷清。空庭：空旷的庭院。春欲晚：春天即将结束。梨花：梨树的花。满地：遍布地面。不开门：不打开门。\n词语解释：纱窗（用纱做的窗户）、金屋（华丽的房屋）、泪痕（泪水的痕迹）、空庭（空旷的庭院）、梨花（梨树的花）。\n语法说明：无特殊句式。\n典故解释：金屋无人见泪痕，暗用汉武帝金屋藏娇的典故，表达宫中女子的孤独和哀怨。\n意象分析：纱窗、日落、黄昏、空庭、梨花等意象共同营造了一种孤独、凄凉的氛围。\n历史背景：唐代宫中女子的生活状态，反映了她们内心的孤独和无奈。",
+        "en": "Gauze window: a window made of gauze. Sunset: the sun setting. Gradually dusk: slowly entering dusk. Golden house: refers to a magnificent house, implying the palace. No one: nobody. See tear marks: see traces of tears. Lonely: solitary and desolate. Empty courtyard: an empty courtyard. Spring is about to end: spring is approaching its end. Pear blossoms: the flowers of a pear tree. All over the ground: spread across the ground. Do not open the door: do not open the door.\nWord explanation: Gauze window (window made of gauze), Golden house (magnificent house), Tear marks (traces of tears), Empty courtyard (empty courtyard), Pear blossoms (flowers of a pear tree).\nGrammar explanation: No special sentence structure.\nAllusion explanation: 'No one sees tear marks in the golden house' subtly uses the Han Dynasty Emperor Wu's allusion of hiding a beauty in a golden house, expressing the loneliness and resentment of palace women.\nImage analysis: The images of gauze window, sunset, dusk, empty courtyard, and pear blossoms collectively create an atmosphere of solitude and desolation.\nHistorical background: The life state of palace women during the Tang Dynasty, reflecting their inner loneliness and helplessness.",
+        "ja": "紗窓：紗で作られた窓。日没：太陽が沈むこと。次第に黄昏：だんだんと夕暮れ時になること。金屋：豪華な家、宮中を暗示する。誰もいない：誰もいないこと。涙の跡を見る：涙の跡を見ること。寂しい：孤独で淋しい。空き庭：空っぽの庭。春が終わりに近づく：春が終わりに近づくこと。梨の花：梨の木の花。地面一面に：地面一面に広がる。扉を開けない：扉を開けないこと。\n語彙説明：紗窓（紗で作られた窓）、金屋（豪華な家）、涙の跡（涙の跡）、空き庭（空っぽの庭）、梨の花（梨の木の花）。\n文法説明：特別な文法はない。\n典拠説明：「金屋に誰も涙の跡を見ない」は、漢の武帝が美女を金屋に隠した故事をかけており、宮中の女性の孤独と恨みを表している。\nイメージ分析：紗窓、日没、黄昏、空き庭、梨の花などのイメージが、孤独で寂しい雰囲気を作り出している。\n歴史的背景：唐代の宮中の女性の生活状態を反映し、彼女たちの内面の孤独と無念さを示している。",
+        "es": "Ventana de encaje: ventana hecha de encaje. Puesta de sol: el sol se pone. Poco a poco se hace de noche: gradualmente se convierte en la hora del atardecer. Casa de oro: se refiere a una casa magnífica, implícitamente el palacio. Nadie: nadie. Ver marcas de lágrimas: ver rastros de lágrimas. Solitario: solo y desolado. Patio vacío: un patio vacío. La primavera está a punto de terminar: la primavera está llegando a su fin. Flores de pera: las flores del árbol de pera. Suelo lleno: esparcidas por el suelo. No abrir la puerta: no abrir la puerta.\nExplicación de palabras: Ventana de encaje (ventana hecha de encaje), Casa de oro (casa magnífica), Marcas de lágrimas (rastros de lágrimas), Patio vacío (patio vacío), Flores de pera (flores del árbol de pera).\nExplicación gramatical: No hay estructuras gramaticales especiales.\nExplicación de alusiones: 'Nadie ve marcas de lágrimas en la casa de oro' utiliza sutilmente la alusión del Emperador Wu de la Dinastía Han que escondía una belleza en una casa de oro, expresando la soledad y el resentimiento de las mujeres del palacio.\nAnálisis de imágenes: Las imágenes de la ventana de encaje, la puesta de sol, el atardecer, el patio vacío y las flores de pera crean colectivamente una atmósfera de soledad y desolación.\nContexto histórico: El estado de vida de las mujeres en el palacio durante la Dinastía Tang, reflejando su soledad interna y su impotencia.",
+        "ar": "نافذة من القماش الرقيق: نافذة مصنوعة من القماش الرقيق. غروب الشمس: شروق الشمس. تدريجياً يتحول إلى الظلام: يتحول تدريجياً إلى وقت الغسق. بيت الذهب: يشير إلى بيت فاخر، مما يلمح إلى القصر. لا أحد: لا أحد. يرى آثار الدموع: يرى آثار الدموع.وحيد: منعزل ومقفر. فناء فارغ: فناء خالٍ. الربيع على وشك الانتهاء: الربيع يقترب من نهايته. زهور الكمثرى: زهور شجرة الكمثرى. ممتدة على الأرض: منتشرة على الأرض. لا يفتح الباب: لا يفتح الباب.\nشرح الكلمات: نافذة من القماش الرقيق (نافذة مصنوعة من القماش الرقيق)، بيت الذهب (بيت فاخر)، آثار الدموع (آثار الدموع)، فناء فارغ (فناء خالٍ)، زهور الكمثرى (زهور شجرة الكمثرى).\nشرح النحو: لا توجد بنية نحوية خاصة.\nشرح الإشارات: 'لا أحد يرى آثار الدموع في بيت الذهب' يستخدم بشكل غير مباشر إشارة إلى قصة الإمبراطور وو من_dynastie Han الذي أخفى جمالاً في بيت من الذهب، يعبر عن الوحدة والحنق للنساء في القصر.\nتحليل الصور: صور النافذة من القماش الرقيق، غروب الشمس، الغسق، الفناء الفارغ وزهور الكمثرى تخلق معاً جواً من الوحدة والقفر.\nالخلفية التاريخية: حالة حياة النساء في القصر خلال عهد التانغ، تعكس وحدتهن الداخلية وعدم قدرتهن على فعل شيء."
+    },
+    "appreciations": {
+        "zh": "《春怨》这首诗以细腻的笔触描绘了一位深宫女子的孤独与哀愁。主题思想是表达了对宫廷生活的无奈和对青春流逝的感伤。写作特色上，诗人通过'纱窗日落渐黄昏'、'金屋无人见泪痕'等意象，营造出一种凄凉的氛围，运用借景抒情的手法，将女子的内心世界与外界环境巧妙融合。艺术成就方面，诗歌语言简练而意境深远，情感真挚，给人以强烈的艺术感染力。情感分析上，诗中抒发了女子对寂寞生活的无奈和对美好时光逝去的悲叹。影响意义上，这首诗在文学史上具有重要地位，对后世宫怨诗的创作产生了深远影响。",
+        "en": "The poem 'Spring Sorrow' delicately portrays the loneliness and melancholy of a woman in the palace. The theme reflects the helplessness of palace life and the sorrow over the passing of youth. In terms of writing style, the poet creates a desolate atmosphere through images like 'sunset through the gauze window' and 'tear stains unseen in the golden chamber', skillfully blending the inner world of the woman with the external environment. Artistically, the poem is concise in language yet profound in meaning, conveying genuine emotions and strong artistic appeal. Emotionally, it expresses the woman's helplessness in her lonely life and her lament over the loss of beautiful times. Historically, this poem holds a significant place in literary history, profoundly influencing the creation of later palace lament poems.",
+        "ja": "「春怨」という詩は、繊細な筆致で宮廷の女性の孤独と悲しみを描いています。主題思想は、宮廷生活の無念さと青春の流れ去ることへの感傷を表現しています。表現手法としては、「紗窓に日没し黄昏となり」、「金の屋に人なく涙の跡」などのイメージを用いて、寂しい雰囲気を作り出し、情景を借りて感情を表す技法を巧みに使っています。芸術的成果としては、詩の言語は簡潔でありながら意境は深遠で、真挚な感情を伝え、強い芸術的感動を与えます。感情分析としては、女性の寂しい生活への無念さと美しい時間の喪失への嘆きが抒発されています。影響の意味では、この詩は文学史上重要な地位を占め、後世の宮怨詩の創作に深い影響を与えました。",
+        "es": "El poema 'Lamento de Primavera' retrata con delicadeza la soledad y la melancolía de una mujer en el palacio. El tema principal refleja la impotencia de la vida en el palacio y la tristeza por el paso de la juventud. En cuanto a la técnica de escritura, el poeta crea una atmósfera melancólica a través de imágenes como 'puesta de sol a través de la ventana de encaje' y 'lágrimas sin ver en el aposento dorado', fusionando hábilmente el mundo interior de la mujer con el entorno externo. Artísticamente, el poema es conciso en su lenguaje pero profundo en su significado, transmitiendo emociones genuinas y un fuerte atractivo artístico. En el análisis emocional, se expresa la impotencia de la mujer ante su vida solitaria y su lamento por la pérdida de los buenos tiempos. En términos de influencia, este poema ocupa un lugar importante en la historia de la literatura, influyendo profundamente en la creación de poemas de lamento palaciego posteriores.",
+        "ar": "القصيدة 'حنين الربيع' تصور بلطف شديد الوحدة والحزن لدى امرأة في القصر. الفكرة الرئيسية تعبر عن العجز في حياة القصر والحسرة على مرور الشباب. من حيث أسلوب الكتابة، يخلق الشاعر جواً حزيناً من خلال صور مثل 'غروب الشمس من خلال النافذة الستان' و 'دموع غير مرئية في الغرفة الذهبية'، يمزج ببراعة العالم الداخلي للمرأة مع البيئة الخارجية. فنياً، القصيدة موجزة في لغتها ولكن عميقة في معناها، تنقل مشاعر صادقة وجاذبية فنية قوية. في التحليل العاطفي، تعبر عن عجز المرأة في حياتها المنعزلة وحسرتها على فقدان الأوقات الجميلة. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، مؤثرة بعمق في إنشاء قصائد الشكوى القصرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "纱窗日落渐黄昏，金屋无人见泪痕。寂寞空庭春欲晚，梨花满地不开门。",
+            "en": "The gauze window darkens as the sun sets, \nIn the golden chamber, no one sees the tear stains. \nLonely, the empty courtyard as spring wanes, \nPear blossoms scatter on the ground, the door remains closed.",
+            "ja": "紗の窓に日が沈み黄昏れゆく、\n金の屋に人なく涙の跡見ゆ。\n寂しく空き庭に春も終わりに、\n梨の花散り敷き戸を開けず。",
+            "es": "La ventana de encaje se oscurece al caer el sol, \nEn el palacio de oro, nadie ve las lágrimas. \nSolitario, el patio vacío mientras la primavera se acaba, \nFlores de peral cubren el suelo, la puerta permanece cerrada.",
+            "ar": "تظلم نافذة القماش عند غروب الشمس، \nفي القصر الذهبي، لا أحد يرى آثار الدموع. \nوحيداً، الساحة الفارغة مع اقتراب نهاية الربيع، \nزهور الخوخ تملأ الأرض، الباب لا يفتح."
+        },
+        "title_translation": {
+            "zh": "春怨",
+            "en": "Spring Grievance",
+            "ja": "春の恨み",
+            "es": "Queja de Primavera",
+            "ar": "شكوى الربيع"
+        }
+    },
+    "genre": {
+        "name": "乐府",
+        "code": "yue_fu"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "纱窗日落渐黄昏，金屋无人见泪痕。\n寂寞空庭春欲晚，梨花满地不开门。",
+    "title_pinyin": "chūn yuàn",
+    "pinyin": "shā chuāng rì luò jiàn huáng hūn，jīn wū wú rén jiàn lèi hén。\njì mò kōng tíng chūn yù wǎn，lí huā mǎn dì bù kāi mén。"
+}

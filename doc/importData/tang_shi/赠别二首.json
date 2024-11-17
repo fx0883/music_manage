@@ -1,0 +1,57 @@
+{
+    "title": "赠别二首",
+    "difficulty": 2,
+    "author": {
+        "name": "杜牧",
+        "name_pinyin": "dù mù",
+        "image": "杜牧.jpg",
+        "introduction": {
+            "zh": "杜牧（803年－852年），字牧之，号樊川居士，唐代著名诗人，京兆万年（今陕西西安）人。他的诗歌以豪放、清新著称，尤其擅长写景抒情，风格多样，既有豪放之作，也有婉约之篇。杜牧的诗歌内容广泛，涉及政治、历史、爱情等多个领域，代表作品有《泊秦淮》、《赤壁》、《秋夕》等。他的文学成就对后世影响深远，被誉为“小李杜”之一。",
+            "en": "Du Mu (803–852), styled Muzhi and known as the Hermit of Fanchuan, was a renowned poet of the Tang Dynasty, born in Jingzhao Wannian (present-day Xi'an, Shaanxi). His poetry is celebrated for its boldness and freshness, particularly in landscape and emotional expression, showcasing a diverse range of styles from grandeur to delicacy. Du Mu's poems cover a wide array of topics including politics, history, and love, with famous works like 'Mooring on the Qinhuai River,' 'The Red Cliff,' and 'Autumn Night.' His literary achievements have had a profound influence on later generations, earning him the title of one of the 'Little Li Du' poets.",
+            "ja": "杜牧（803年－852年）、字は牧之、号は樊川居士、唐代の著名な詩人で、京兆万年（現在の陝西省西安市）出身。彼の詩は豪放で清新なことで知られ、特に風景描写と感情表現に長けており、豪放から婉約まで多様なスタイルを持つ。杜牧の詩は政治、歴史、恋愛など多岐にわたるテーマを扱っており、「泊秦淮」「赤壁」「秋夕」などの代表作がある。彼の文学的業績は後世に大きな影響を与え、「小李杜」と称賛される。",
+            "es": "Du Mu (803-852), apodado Muzhi y conocido como el Ermitaño de Fanchuan, fue un destacado poeta de la dinastía Tang, nacido en Jingzhao Wannian (actual Xi'an, Shaanxi). Su poesía es famosa por su audacia y frescura, especialmente en la descripción de paisajes y la expresión emocional, presentando una variedad de estilos que van desde la grandiosidad hasta la delicadeza. Los poemas de Du Mu abarcan una amplia gama de temas, incluyendo política, historia y amor, con obras famosas como 'Anclado en el Río Qinhuai', 'La Roca Roja' y 'Noche de Otoño'. Sus logros literarios han tenido una profunda influencia en las generaciones posteriores, siendo conocido como uno de los 'Pequeños Li Du'.",
+            "ar": "دو مو (803-852)، المعروف بلقبه موزي واسمه المستعار راهب فانشوان، كان شاعرًا مشهورًا في عهد أسرة تانغ، وُلد في جينغتشاو وانيان (الآن شيان، شانشي). اشتهرت أشعاره بجرأتها وحداثتها، خاصة في وصف المناظر الطبيعية والتعبير العاطفي، وتبدي تنوعًا في الأساليب من العظمة إلى الرقة. تتناول قصائده مجموعة واسعة من المواضيع تشمل السياسة، التاريخ، والحب، ومن أشهر أعماله 'الرسو على نهر تشينهواي'، 'الصخرة الحمراء'، و'ليل الخريف'. أثرت إنجازاته الأدبية تأثيرًا عميقًا على الأجيال اللاحقة، وهو معروف كواحد من 'الصغار لي دو'."
+        }
+    },
+    "annotations": {
+        "zh": "娉娉袅袅：形容女子姿态轻盈柔美。十三余：指十三四岁。豆蔻：植物名，常用来比喻少女。梢头：枝头。二月初：指农历二月。春风十里扬州路：指扬州繁华的街道。卷上珠帘：指掀开窗帘。总不如：都不如她美丽。多情却似总无情：多情的人表面上看起来无情。樽前：酒杯前。笑不成：无法笑出来。蜡烛有心：蜡烛有芯，比喻人心。替人垂泪：替人伤心流泪。",
+        "en": "Pingpingniaoniao: Describes a woman's graceful and delicate posture. ShisanYu: Refers to being thirteen or fourteen years old. Doukou: A plant name, often used to比喻 young girls. Shaotou: The tip of a branch. Er Yue Chu: Early February in the lunar calendar. Chunfeng Shi Li Yangzhou Lu: Refers to the bustling streets of Yangzhou. Juan Shang Zhulian: Means lifting the curtain. Zong Bu Ru: None can compare to her beauty. Duoqing Qiesi Zong Wuqing: A person who is affectionate seems unfeeling on the surface. Zun Qian: In front of the wine cup. Xiao Bu Cheng: Unable to smile. Lazhu You Xin: The candle has a wick, metaphorically referring to the human heart. Ti Ren Chui Lei: Crying for someone else.",
+        "ja": "娉娉袅袅：女性の優雅で繊細な姿を形容する。十三余：13、4歳を指す。豆蔻：植物名、しばしば少女に例える。梢頭：枝の先。二月初：旧暦の2月初め。春风十里扬州路：揚州の繁華な通りを指す。卷上珠帘：カーテンを上げる。総不如：彼女の美しさには及ばない。多情却似総无情：情が深い人でも表面上は無情に見える。樽前：酒杯の前。笑不成：笑えない。蜡烛有心：ろうそくには芯があり、人の心に例える。替人垂泪：他人のために涙を流す。",
+        "es": "Pingpingniaoniao: Describe la postura grácil y delicada de una mujer. ShisanYu: Se refiere a tener trece o catorce años. Doukou: Nombre de una planta, a menudo usada para comparar con jovencitas. Shaotou: La punta de una rama. Er Yue Chu: Principios de febrero en el calendario lunar. Chunfeng Shi Li Yangzhou Lu: Se refiere a las calles bulliciosas de Yangzhou. Juan Shang Zhulian: Levantar la cortina. Zong Bu Ru: Ninguna puede compararse con su belleza. Duoqing Qiesi Zong Wuqing: Una persona afectuosa parece insensible en la superficie. Zun Qian: Frente a la copa de vino. Xiao Bu Cheng: Incapaz de reír. Lazhu You Xin: La vela tiene un mecha, metafóricamente refiriéndose al corazón humano. Ti Ren Chui Lei: Llorar por alguien más.",
+        "ar": "娉娉袅袅: يصف جمال ونعومة حركة المرأة. 十三余: يشير إلى عمر 13 أو 14 سنة. 豆蔻: اسم نبات، غالباً ما يستخدم للإشارة إلى الفتيات الصغيرات. 梢头: قمة الفرع. 二月初: أوائل شهر فبراير حسب التقويم القمري. 春风十里扬州路: يشير إلى الشوارع المزدحمة في يانغتشو. 卷上珠帘: رفع الستارة. 总不如: لا يمكن مقارنتها بجمالها. 多情却似总无情: الشخص العاطفي يبدو بلا عاطفة على السطح. 樽前: أمام كأس الخمر. 笑不成: غير قادر على الضحك. 蜡烛有心: الشمعة لها فتيل، مجازاً يشير إلى القلب البشري. 替人垂泪: البكاء لأجل شخص آخر."
+    },
+    "appreciations": {
+        "zh": "这首诗以赠别为主题，表达了对年轻女子的赞美和离别时的深情。诗人通过细腻的描写，将女子的青春美貌与春天的生机勃勃相映成趣，突显其独特的魅力。诗中运用了比喻、拟人等手法，如将女子比作初春的豆蔻，将蜡烛拟人化为有情的存在，增强了情感的表达。艺术上，诗歌语言优美，意境深远，情感真挚，具有较高的艺术价值。情感上，既有对美好事物的赞美，也有对离别的无奈和伤感。在文学史上，这首诗以其独特的艺术表现和深刻的情感内涵，成为唐代赠别诗中的佳作，对后世文学创作产生了深远影响。",
+        "en": "This poem, themed on farewell, expresses admiration for a young woman and the deep emotions of parting. The poet skillfully contrasts the woman's youthful beauty with the vibrant vitality of spring, highlighting her unique charm. Employing metaphors and personification, such as comparing the woman to a cardamom bud in early spring and personifying the candle as a sentient being, enhances the emotional expression. Artistically, the poem boasts exquisite language, profound imagery, and sincere emotions, making it highly valuable. Emotionally, it赞美s the beauty of the subject while conveying the inevitability and sadness of farewell. In literary history, this poem stands out for its unique artistic expression and profound emotional depth, making it a masterpiece among Tang Dynasty farewell poems and exerting a lasting influence on later literary works.",
+        "ja": "この詩は別れをテーマに、若い女性への賞賛と別れの時の深い感情を表現しています。詩人は繊細な描写を通じて、女性の青春の美しさと春の生き生きとした雰囲気を対比させ、その独特の魅力を強調しています。比喩や擬人化などの手法を用い、女性を初春の豆蔻に例え、ろうそくを感情を持つ存在として擬人化することで、感情の表現を強化しています。芸術的には、詩の言語は美しく、意境は深遠で、感情は真挚であり、高い芸術価値を有しています。感情面では、美しいものへの賞賛と別れの無奈と悲しみが込められています。文学史上、この詩はその独特の芸術表現と深い感情の内容で、唐代の別れの詩の中の傑作となり、後世の文学創作に深い影響を与えました。",
+        "es": "Este poema, con el tema del adiós, expresa la admiración por una joven mujer y los profundos sentimientos de la despedida. El poeta contrasta hábilmente la belleza juvenil de la mujer con la vitalidad vibrante de la primavera, resaltando su encanto único. Utiliza metáforas y personificaciones, como comparar a la mujer con un brote de cardamomo a principios de primavera y personificar la vela como un ser sensible, lo que refuerza la expresión emocional. Artísticamente, el poema posee un lenguaje exquisito, una imaginería profunda y emociones sinceras, lo que le otorga un alto valor artístico. Emocionalmente, alaba la belleza de la joven mientras transmite la inevitabilidad y tristeza del adiós. En la historia de la literatura, este poema se destaca por su expresión artística única y su profunda profundidad emocional, convirtiéndose en una obra maestra entre los poemas de despedida de la dinastía Tang y ejerciendo una influencia duradera en las obras literarias posteriores.",
+        "ar": "هذه القصيدة تتناول موضوع الوداع، وتعبر عن الإعجاب بالفتاة الصغيرة وعن العواطف العميقة عند الافتراق. يبرز الشاعر ببراعة جمال الشباب لدى الفتاة مقارنة بالنشاط والحيوية التي تتميز بها فصل الربيع، مما يعزز من سحرها الفريد. يستخدم التشبيه والت personnification، مثل مقارنة الفتاة بنبات الهيل في بداية الربيع وت personnification الشمعة ككيان يمتلك المشاعر، مما يعزز من التعبير العاطفي. فنيًا، تتميز القصيدة بلغة رائعة، وصور عميقة، وعواطف صادقة، مما يمنحها قيمة فنية عالية. عاطفيًا، تحمل القصيدة إعجابًا بالجمال وتعبر عن الحتمية والحزن في الوداع. في تاريخ الأدب، تبرز هذه القصيدة بفضل تعبيرها الفني الفريد وعمقها العاطفي، لتصبح تحفة بين قصائد الوداع في العصر التانغ، ولها تأثير طويل الأمد على الأعمال الأدبية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "娇柔轻盈的女子年方十三余，宛如二月豆蔻初绽的梢头。扬州十里长街的春风中，卷起珠帘也难寻如此佳丽。\n多情之人却似无情，只觉酒杯前欢笑难成。蜡烛若有心也懂得惜别，替人流泪直到天明。",
+            "en": "Delicate and graceful, she is just over thirteen, like a cardamom bud in early February. Along the ten-mile streets of Yangzhou in the spring breeze, no beauty can match her even with the pearl curtains rolled up.\nLovers seem heartless, yet I feel I cannot smile before the wine. The candle, if it had a heart, would also grieve at parting, shedding tears for us until dawn.",
+            "ja": "やわらかな十三歳の娘、二月の初めのトウボクの梢のよう。揚州の十里の春風の道、珠簾を卷いても彼女には及ばぬ。\n情深き者は無情にも見える、酒の前に笑顔は成り得ず。蝋燭が心を持ってさえ別れを惜しむ、人に代わって涙を流し明け方まで。",
+            "es": "Delicada y esbelta, tiene poco más de trece años, como un brote de cardamomo a principios de febrero. En las diez millas de calles de Yangzhou con la brisa de primavera, ninguna belleza puede compararse a ella aunque se enrollen las cortinas de perlas.\nEl que es tierno parece siempre indiferente, solo siento que no puedo reírme ante el vino. La vela, si tuviera corazón, también lamentaría la despedida, derramando lágrimas por nosotros hasta el amanecer.",
+            "ar": "رقيقة وخفيفة، عمرها يزيد قليلاً عن الثالثة عشرة، كزهرة الهيل في بداية فبراير. في شوارع يانغتشو التي تمتد لعشرين ميلًا مع نسيم الربيع، لا يمكن لأية جمال أن تقارنها حتى لو تم رفع ستائر اللآلئ.\nالمحبوب يبدو دائمًا بلا عاطفة، لكني أشعر أنني لا أستطيع الضحك أمام الكأس. الشمعة، لو كانت تمتلك قلبًا، ستشعر بالحزن على الوداع، تذرف الدموع من أجـلنا حتى الفجر."
+        },
+        "title_translation": {
+            "zh": "赠别二首",
+            "en": "Two Poems of Farewell",
+            "ja": "贈別二首",
+            "es": "Dos Poemas de Despedida",
+            "ar": "قصيدتان في الوداع"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "娉娉袅袅十三余，豆蔻梢头二月初。\n春风十里扬州路，卷上珠帘总不如。\n\n多情却似总无情，唯觉樽前笑不成。\n蜡烛有心还惜别，替人垂泪到天明。",
+    "title_pinyin": "zèng bié èr shǒu",
+    "pinyin": "pīng pīng niǎo niǎo shí sān yú，dòu kòu shāo tóu èr yuè chū。\nchūn fēng shí lǐ yáng zhōu lù，juǎn shàng zhū lián zǒng bù rú。\n\nduō qíng què shì zǒng wú qíng，wéi jué zūn qián xiào bù chéng。\nlà zhú yǒu xīn hái xī bié，tì rén chuí lèi dào tiān míng。"
+}

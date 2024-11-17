@@ -1,0 +1,57 @@
+{
+    "title": "行宫",
+    "difficulty": 2,
+    "author": {
+        "name": "元稹",
+        "name_pinyin": "yuán zhěn",
+        "image": "元稹.jpg",
+        "introduction": {
+            "zh": "元稹，唐代著名诗人，字微之，河南洛阳人。他是新乐府运动的倡导者之一，与白居易并称“元白”。其诗作内容广泛，风格清新，语言通俗易懂，尤其擅长写讽喻诗和爱情诗。代表作有《遣悲怀三首》、《离思五首》等。《行宫》一诗通过描绘废弃的行宫和宫女的寂寞生活，抒发了对往昔盛世的怀念和对现实的感慨。",
+            "en": "Yuan Zhen, a renowned poet of the Tang Dynasty, styled Weizhi, was born in Luoyang, Henan. He was one of the advocates of the New Yuefu Movement, often mentioned alongside Bai Juyi as 'Yuan Bai'. His poetry covers a wide range of topics, characterized by a fresh style and accessible language, excelling in satirical and love poems. His notable works include 'Three Poems of Sorrow' and 'Five Poems of Separation'. The poem 'Xing Gong' (The Imperial Palace) depicts the desolation of an abandoned palace and the lonely life of the palace maidens, expressing nostalgia for the past glories and reflections on the present.",
+            "ja": "元稹は唐代の著名な詩人で、字は微之、河南省洛陽市出身。新楽府運動の提唱者の一人であり、白居易と並んで「元白」と称される。詩作は内容が広範で、スタイルが清新、言葉遣いが分かりやすく、特に諷刺詩や恋愛詩に優れていた。代表作に「遣悲懐三首」「離思五首」などがある。「行宮」は廃墟となった行宮と宮女の寂しい生活を描き、過去の盛世への懐かしみと現実への感慨を表現している。",
+            "es": "Yuan Zhen fue un destacado poeta de la dinastía Tang, conocido por su estilo Weizhi y originario de Luoyang, Henan. Fue uno de los promotores del Movimiento Nuevo Yuefu, mencionado frecuentemente junto a Bai Juyi como 'Yuan Bai'. Su poesía abarca una amplia gama de temas, destacando por su estilo fresco y lenguaje accesible, sobresaliendo en poemas satíricos y de amor. Entre sus obras más conocidas se encuentran 'Tres Poemas de Tristeza' y 'Cinco Poemas de Separación'. El poema 'Xing Gong' (El Palacio Imperial) describe la desolación de un palacio abandonado y la vida solitaria de las doncellas de la corte, expresando nostalgia por las glorias pasadas y reflexiones sobre la realidad actual.",
+            "ar": "يوان تشين هو شاعر شهير من عهد التانغ، كان يعرف بأسلوبه المسمى وي زي، وولد في لويانغ، خنان. كان أحد دعاة حركة يويه فو الجديدة، وغالباً ما يذكر جنبًا إلى جنب مع باي جويي كـ 'يوان باي'. تغطي أشعاره مجموعة واسعة من المواضيع، وتتميز بأسلوبها العصري واللغة القابلة للفهم، وتبرع في كتابة الشعر الساخر والأشعار الرومانسية. من أشهر أعماله 'ثلاثة قصائد للحزن' و 'خمس قصائد للفراق'. يتناول قصيدته 'القصر' (القصر الإمبراطوري) وصفه للحزن في قصر مهجور وحياة الخادمات الإمبراطورية البائسة، معرباً عن الشوق للأيام المجيدة الماضية والتفكير في الواقع الحالي."
+        }
+    },
+    "annotations": {
+        "zh": "寥落：冷落、荒凉。古行宫：古代皇帝出行时暂住的宫殿。宫花：宫中的花。寂寞红：形容花虽然红艳，却无人欣赏，显得寂寞。白头宫女：年老的宫女。闲坐：无事闲坐。说玄宗：谈论唐玄宗李隆基。此诗通过描写行宫的荒凉和宫女的寂寞，反映了唐玄宗时代的繁华已成过去，表达了作者对盛衰变迁的感慨。",
+        "en": "Liaoluo: desolate, deserted. Gu xinggong: ancient temporary palace for emperors on their travels. Gonghua: flowers in the palace. Jimohong: although the flowers are bright red, they are unappreciated and appear lonely. Bai tou gongnu: elderly palace maid. Xianzuo: sitting idly. Shuo Xuanzong: talking about Emperor Xuanzong, Li Longji. This poem depicts the desolation of the palace and the loneliness of the palace maids, reflecting the passing of the prosperous era of Emperor Xuanzong, and expressing the author's sentiments on the changes of prosperity and decline.",
+        "ja": "寥落：寂しい、荒涼とした。古行宮：古代の皇帝が旅行中に一時的に滞在する宮殿。宮花：宮中の花。寂寞紅：花は鮮やかに赤いが、誰も見ていないので寂しい。白頭宮女：年をとった宮女。閑坐：何もせずに座っている。說玄宗：唐の玄宗皇帝李隆基について話す。この詩は、行宮の荒涼と宮女の寂しさを描写し、玄宗時代の繁栄が過ぎ去ったことを反映し、作者の盛衰変遷に対する感慨を表現している。",
+        "es": "Liaoluo: desolado, abandonado. Gu xinggong: palacio temporal antiguo para los emperadores en sus viajes. Gonghua: flores en el palacio. Jimohong: aunque las flores son rojas brillantes, no son apreciadas y parecen solitarias. Bai tou gongnu: anciana doncella del palacio. Xianzuo: sentarse sin hacer nada. Shuo Xuanzong: hablar sobre el Emperador Xuanzong, Li Longji. Este poema describe la desolación del palacio y la soledad de las doncellas del palacio, reflejando el paso de la era próspera del Emperador Xuanzong, y expresando los sentimientos del autor sobre los cambios de prosperidad y decadencia.",
+        "ar": "寥落: مهجور، قديم. جو شينغونغ: قصر مؤقت للإمبراطور في رحلاته القديمة. غونغهوا: الزهور في القصر. جيموغونغ: على الرغم من أن الزهور حمراء زاهية، إلا أنها غير معروفة وتظهر بمفردها. باي توي غونغنيو: خادمة قديمة في القصر. شيانزو: الجلوس بلا عمل. شوي شوانزونغ: التحدث عن الإمبراطور شوانزونغ، لي لونغجي. يصف هذا الشعر إهمال القصر ووحده الخادمات، مما يعكس مرور عصر الإمبراطور شوانزونغ المزدهر، ويعبر عن مشاعر المؤلف تجاه تغيرات الازدهار والانحسار."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘荒凉的古行宫和寂寞的宫花，以及白头宫女闲坐谈论玄宗的情景，表达了作者对往昔盛世的怀念和对现实的感慨。主题思想是反思历史的兴衰和人世的变迁。写作特色上，诗人运用简洁的白描手法，以小见大，通过细节描写引发读者深思。艺术成就方面，诗歌言简意赅，意境深远，具有高度的艺术概括力。情感分析上，诗中流露出淡淡的哀愁和对过往辉煌的追忆。影响意义上，这首诗在文学史上具有重要地位，被视为唐代宫怨诗的代表作之一。",
+        "en": "This poem depicts the desolate ancient palace, the lonely red palace flowers, and the scene of white-haired palace maidens sitting idly talking about Emperor Xuanzong, expressing the author's nostalgia for the past prosperity and reflections on the present. The theme centers on the decline of history and the changes of human life. In terms of writing style, the poet uses simple and straightforward descriptions, highlighting the significance through minor details. Artistically, the poem is concise yet profound, possessing high artistic summarization. Emotionally, it conveys a faint melancholy and reminiscence of past glories. In terms of impact, this poem holds a significant place in literary history, being regarded as one of the representative works of Tang Dynasty palace抱怨 poetry.",
+        "ja": "この詩は、荒涼とした古い行宮と寂しい宮花、そして白髪の宮女が暇をもてあまして玄宗について語る情景を描き、作者が過去の繁栄に対する懐かしさと現実に対する感慨を表現しています。主題思想は、歴史の興亡と人間の変遷を省みることです。表現手法としては、簡潔な白描手法を用い、小さなことから大きなことを見せます。芸術的成就としては、詩は簡潔でありながら深遠な意境を持ち、高い芸術的概括力を備えています。感情分析では、詩には淡い悲哀と過去の輝きに対する追憶が流れています。影響の意味では、この詩は文学史上重要な地位を占め、唐代宮怨詩の代表作の一つとされています。",
+        "es": "Este poema retrata el palacio antiguo desolado, las flores del palacio solitarias y rojas, y la escena de las doncellas del palacio con cabello blanco sentadas sin hacer nada hablando sobre el Emperador Xuanzong, expresando la nostalgia del autor por la prosperidad pasada y sus reflexiones sobre la realidad. El tema principal es la reflexión sobre el declive de la historia y los cambios de la vida humana. En cuanto a la técnica de escritura, el poeta utiliza descripciones sencillas y directas, resaltando la importancia a través de pequeños detalles. Artísticamente, el poema es conciso pero profundo, con una alta capacidad de resumen artístico. En el análisis emocional, el poema transmite una melancolía leve y el recuerdo de glorias pasadas. En términos de impacto, este poema ocupa un lugar significativo en la historia de la literatura, siendo considerado una de las obras representativas de la poesía de quejas de palacio de la dinastía Tang.",
+        "ar": "هذه القصيدة تصور القصر القديم المهجور، وأزهار القصر المنعزلة والحمراء، و مشهد الخادمات البيضاء الشعر الجالسات بلا عمل يتحدثن عن الإمبراطور شوانزونغ، تعبر عن حنين الشاعر إلى ازدهار الماضي وتأملاته في الواقع. الفكرة الرئيسية هي التفكير في تدهور التاريخ وتغيرات الحياة البشرية. من حيث أسلوب الكتابة، يستخدم الشاعر وصفًا بسيطًا وواضحًا، يبرز الأهمية من خلال التفاصيل الصغيرة. فنيًا، القصيدة موجزة لكنها عميقة، تمتلك قدرة عالية على التلخيص الفني. في التحليل العاطفي، تعبر القصيدة عن حزن خفيف وذكرى المجد القديم. من حيث التأثير، تحتل هذه القصيدة مكانًا مهمًا في تاريخ الأدب، وتعتبر واحدة من الأعمال الممثلة لشعر الشكوى من القصر في عهد التانغ."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "空荡冷落的古老行宫，宫中的花儿孤独地红艳。白发苍苍的宫女还在，闲坐无事谈论着玄宗。",
+            "en": "Desolate lies the ancient palace, its flowers blooming in lonely red. White-haired maidens still remain, idly chatting about Emperor Xuanzong.",
+            "ja": "寂しい古い行宮に、宮の花は淋しく紅い。白髪の宮女がいる、暇に坐して玄宗を語る。",
+            "es": "Desolado se halla el antiguo palacio, sus flores rojas en soledad. Ancianas doncellas aún están, sentadas hablando de Xuánzōng.",
+            "ar": "قديم المهجور القصر، زهوره حمراء في وحدة. خادمات شابات ذات شعر أبيض باقيات، جالسات يتحدثن عن الأمير شوانزونغ."
+        },
+        "title_translation": {
+            "zh": "行宫",
+            "en": "The Imperial Palace",
+            "ja": "行宮",
+            "es": "El Palacio Imperial",
+            "ar": "القصر الإمبراطوري"
+        }
+    },
+    "genre": {
+        "name": "乐府",
+        "code": "yue_fu"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "寥落古行宫，宫花寂寞红。\n白头宫女在，闲坐说玄宗。",
+    "title_pinyin": "xíng gōng",
+    "pinyin": "liáo luò gǔ xíng gōng，gōng huā jì mò hóng。\nbái tóu gōng nǚ zài，xián zuò shuō xuán zōng。"
+}

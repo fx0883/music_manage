@@ -1,0 +1,57 @@
+{
+    "title": "为有",
+    "difficulty": 2,
+    "author": {
+        "name": "李商隐",
+        "name_pinyin": "lǐ shāng yǐn",
+        "image": "李商隐.jpg",
+        "introduction": {
+            "zh": "李商隐，唐代著名诗人，字义山，号玉谿生，怀州河内（今河南沁阳）人。他擅长诗歌创作，尤其以无题诗著称，风格婉约，情感深沉，语言精炼，意象朦胧，被后人誉为“诗魂”。李商隐的诗作多反映社会现实和个人情感，具有很高的艺术成就和历史价值。",
+            "en": "Li Shangyin was a renowned poet of the Tang Dynasty, styled Yishan and also known as Yuxi Sheng. He was born in Huai Prefecture, Henan (present-day Qinyang, Henan). Known for his intricate and emotive style, particularly in his untitled poems, Li's work is characterized by its subtlety, depth of feeling, refined language, and ambiguous imagery. He is often revered as the 'Soul of Poetry' by later generations. His poems often reflect social realities and personal emotions, holding significant artistic and historical value.",
+            "ja": "李商隐は唐代の著名な詩人で、字は義山、号は玉谿生。懐州河内（現在の河南省沁陽市）出身。詩作に優れ、特に無題詩で知られる。彼の詩は婉約で情感が深く、言語が精緻でイメージが朧げであり、「詩魂」と称賛される。李商隐の詩は社会現実や個人的な感情を反映しており、高い芸術的・歴史的価値を持つ。",
+            "es": "Li Shangyin fue un destacado poeta de la dinastía Tang, conocido por su nombre de estilo Yishan y su seudónimo Yuxi Sheng. Nació en Huai Prefecture, Henan (actualmente Qinyang, Henan). Es famoso por su estilo intrincado y emotivo, especialmente en sus poemas sin título, caracterizados por su sutileza, profundidad emocional, lenguaje refinado e imágenes ambiguas. Es reverenciado como el 'Alma de la Poesía' por las generaciones posteriores. Sus poemas a menudo reflejan realidades sociales y emociones personales, poseyendo un gran valor artístico e histórico.",
+            "ar": "لي شانغ ين كان شاعرًا مشهورًا في عهد التانغ، يعرف بلقبه يي شان ويُدعى أيضًا يو شي شينغ. وُلد في مقاطعة هواي، خنان (حاليًا قينيانغ، خنان). اشتهر بأسلوبه المعقد والمثير للعواطف، خاصة في قصائده بدون عنوان، التي تتميز بلطفها، وعمق مشاعرها، ونقاء لغتها، وظلال صورها. يُعتبر من قبل الأجيال اللاحقة بـ \"روح الشعر\". قصائده غالبًا ما تعكس الوقائع الاجتماعية والعواطف الشخصية، ولها قيمة فنية وتاريخية كبيرة."
+        }
+    },
+    "annotations": {
+        "zh": "为有：因为拥有。云屏：绘有云彩的屏风，指富贵人家的陈设。无限娇：极其娇美。凤城：指京城。寒尽：寒冬结束。怕春宵：害怕春天的夜晚，因春宵短暂而珍贵。无端：无缘无故。金龟婿：指做官的丈夫，唐代官员佩戴金龟袋作为身份象征。辜负：浪费。香衾：温暖的被褥。事早朝：指丈夫早起上朝。\n语法说明：无特殊句式。\n典故解释：金龟婿典故出自唐代官员佩戴的金龟袋。\n意象分析：云屏、凤城、春宵、金龟婿、香衾等意象描绘了富贵生活与夫妻情感。\n历史背景：唐代官员佩戴金龟袋，诗中反映了当时官宦家庭的日常生活。",
+        "en": "For having: because of having. Cloud screen: a screen painted with clouds, referring to the furnishings of a wealthy family. Unlimited charm: extremely beautiful. Phoenix City: refers to the capital city. End of cold: the end of the cold winter. Fear of spring night: afraid of the spring night, because it is short and precious. Without reason: for no reason. Gold turtle son-in-law: refers to a husband who is an official, as Tang dynasty officials wore gold turtle bags as a status symbol. Waste: waste. Fragrant quilt: warm bedding. Early morning court: referring to the husband getting up early to go to court.\nGrammar notes: No special sentence structures.\nAllusion explanation: The gold turtle son-in-law alludes to the gold turtle bags worn by Tang dynasty officials.\nImagery analysis: Cloud screen, Phoenix City, spring night, gold turtle son-in-law, fragrant quilt, etc., depict the life of wealth and marital emotions.\nHistorical background: Tang dynasty officials wore gold turtle bags, reflecting the daily life of official families at that time.",
+        "ja": "為有：持っているために。雲屏：雲模様の屏風、富裕な家庭の装飾品を指す。無限嬌：非常に美しい。鳳城：都城を指す。寒尽：寒冬の終わり。怕春宵：春の夜を恐れる、春宵は短く貴重だから。無端：理由なく。金龜婿：官職を持つ夫、唐代の官吏は金龜袋を身に着けていた。辜負：無駄にする。香衾：暖かい布団。事早朝：夫が早朝に朝廷に参内すること。\n文法説明：特殊な文法はない。\n典拠説明：金龜婿は唐代の官吏が身に着けていた金龜袋に由来する。\nイメージ分析：雲屏、鳳城、春宵、金龜婿、香衾などのイメージが富裕生活と夫婦の感情を描く。\n歴史背景：唐代の官吏は金龜袋を身に着けており、詩は当時の官僚家庭の日常生活を反映している。",
+        "es": "Por tener: debido a tener. Pantalla de nubes: una pantalla pintada con nubes, refiriéndose a los enseres de una familia adinerada. Encanto ilimitado: extremadamente hermoso. Ciudad Fénix: se refiere a la ciudad capital. Fin del frío: el final del invierno frío. Miedo a la noche de primavera: miedo a la noche de primavera, porque es corta y preciosa. Sin razón: sin motivo. Yerno de la tortuga de oro: se refiere al marido que es un funcionario, ya que los funcionarios de la dinastía Tang llevaban bolsas de tortuga de oro como símbolo de estatus. Perder: desperdiciar. Edredón fragante: ropa de cama caliente. Asuntos de la mañana: refiriéndose al marido que se levanta temprano para ir a la corte.\nNotas gramaticales: No hay estructuras gramaticales especiales.\nExplicación de la alusión: El yerno de la tortuga de oro alude a las bolsas de tortuga de oro que llevaban los funcionarios de la dinastía Tang.\nAnálisis de imágenes: La pantalla de nubes, la Ciudad Fénix, la noche de primavera, el yerno de la tortuga de oro, el edredón fragante, etc., representan la vida de riqueza y los sentimientos maritales.\nContexto histórico: Los funcionarios de la dinastía Tang llevaban bolsas de tortuga de oro, reflejando la vida cotidiana de las familias oficiales en ese momento.",
+        "ar": "لأنه يمتلك: بسبب امتلاكه. شاشة السحاب: شاشة مرسومة بالسحب، تشير إلى ديكورات العائلة الغنية. الجمال غير المحدود: جميل للغاية. مدينة العنقاء: تشير إلى المدينة العاصمة. نهاية البرد: نهاية الشتاء البارد. الخوف من ليلة الربيع: الخوف من ليلة الربيع، لأنها قصيرة وثمينة. بدون سبب: بدون سبب. زوج السلحفاة الذهبية: يشير إلى الزوج الذي يشغل منصبًا رسميًا، حيث كان المسؤولون في عهد التانغ يرتدون أكياس السلحفاة الذهبية كرمز للمكانة. التفريط: إهدار. لحاف عطري: بطانيات دافئة. شؤون الصباح: يشير إلى الزوج الذي يستيقظ مبكرًا للذهاب إلى المحكمة.\nملاحظات نحوية: لا توجد بنى نحوية خاصة.\nشرح الإستعارة: زوج السلحفاة الذهبية يستعير من أكياس السلحفاة الذهبية التي كان يرتديها المسؤولون في عهد التانغ.\nتحليل الصور: شاشة السحاب، مدينة العنقاء، ليلة الربيع، زوج السلحفاة الذهبية، لحاف عطري، إلخ، ترسم حياة الثراء والعواطف الزوجية.\nالخلفية التاريخية: كان المسؤولون في عهد التانغ يرتدون أكياس السلحفاة الذهبية، تعكس الحياة اليومية لعائلات المسؤولين في ذلك الوقت."
+    },
+    "appreciations": {
+        "zh": "《为有》这首诗通过描写一位贵妇人对丈夫早朝的抱怨，表达了作者对封建社会婚姻生活的深刻反思。主题思想在于揭示封建婚姻中女性的无奈与悲哀。写作特色上，诗人运用细腻的心理描写和对比手法，将云屏的娇美与春宵的寒意相对照，突显主人公内心的矛盾。艺术成就方面，诗歌语言精炼，意境深远，给人以强烈的情感共鸣。情感分析上，诗中流露出贵妇人对丈夫早朝的无奈和对美好时光的留恋。影响意义上，此诗在文学史上具有重要地位，对后世描写女性心理的诗歌产生了深远影响。",
+        "en": "The poem 'For Having' depicts a noblewoman's抱怨 about her husband's early morning court duties, reflecting the author's deep reflection on marital life in feudal society. The theme centers on revealing the helplessness and sorrow of women in feudal marriages. In terms of writing techniques, the poet uses delicate psychological descriptions and contrasts, juxtaposing the beauty of the cloud screen with the coldness of the spring night, highlighting the protagonist's inner conflict. Artistically, the poem is laconic in language and profound in meaning, evoking strong emotional resonance. Emotionally, it conveys the noblewoman's helplessness towards her husband's early duties and her longing for beautiful times. Historically, this poem holds a significant place in literary history, profoundly influencing later poems that depict female psychology.",
+        "ja": "《為有》は、貴婦人が夫の早朝の朝廷勤めに対する不満を描き、封建社会の婚姻生活に対する作者の深い反省を表現しています。主題は、封建的な婚姻における女性の無奈と悲哀を明らかにすることにあります。表現手法としては、詩人は繊細な心理描写と対比手法を用い、雲屏の美しさと春宵の寒さを対照的に描き、主人公の内面の矛盾を強調しています。芸術的成果としては、詩の言語は簡潔で、意境は深遠であり、強い感情の共鳴を呼び起こします。感情分析では、貴婦人が夫の早朝勤めに対する無奈と美しい時間への留恋が表れています。影響の意味では、この詩は文学史上重要な地位を占め、後世の女性心理を描く詩に対して深い影響を与えました。",
+        "es": "El poema 'Por Tener' describe la queja de una noble mujer sobre las tempranas obligaciones cortesanas de su esposo, reflejando la profunda reflexión del autor sobre la vida marital en la sociedad feudal. El tema principal es revelar la impotencia y la tristeza de las mujeres en los matrimonios feudales. En cuanto a las técnicas de escritura, el poeta utiliza descripciones psicológicas delicadas y contrastes, enfrentando la belleza de la pantalla de nubes con el frío de la noche de primavera, resaltando el conflicto interno del protagonista. Artísticamente, el poema es conciso en su lenguaje y profundo en su significado, evocando una fuerte resonancia emocional. En el análisis emocional, se expresa la impotencia de la noble mujer hacia las obligaciones matutinas de su esposo y su añoranza por los bellos momentos. En términos de impacto, este poema ocupa un lugar importante en la historia de la literatura, influyendo profundamente en los poemas posteriores que describen la psicología femenina.",
+        "ar": "القصيدة 'لأنه' تصف شكوى امرأة نبيلة من واجبات زوجها الصباحية في المحكمة، مما يعكس التفكير العميق للكاتب حول الحياة الزوجية في المجتمع الإقطاعي. يركز الموضوع على كشف العجز والحزن الذي تعانيه النساء في الزيجات الإقطاعية. من حيث تقنيات الكتابة، يستخدم الشاعر وصفًا نفسانيًا دقيقًا والتباين، محاولاً مقارنة جمال شاشة السحاب ببرودة ليلة الربيع، مما يبرز الصراع الداخلي للبطل. من الناحية الفنية، القصيدة موجزة في لغتها وعميقة في معناها، مما يثير ردود فعل عاطفية قوية. في التحليل العاطفي، يعبر عن عجز المرأة النبيلة تجاه واجبات زوجها الصباحية وتعلقها بالأوقات الجميلة. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، حيث أثرت بشكل كبير على القصائد اللاحقة التي تصف نفسية المرأة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "因为有云屏遮挡的无限娇美，凤城寒冷已尽却怕春夜漫长。无缘无故嫁得金龟婿，辜负了温暖的香衾，只为早朝忙碌。",
+            "en": "With a cloud-like screen hiding boundless charm, in Phoenix City, cold ends but fears the long spring night. Unwittingly marrying a nobleman with a golden tortoise emblem, she forsakes the warm quilt for early court duties.",
+            "ja": "雲のような屏風が無限の嬌美を隠し、鳳凰城の寒さも尽きるが春の夜を恐れる。無理やり金の亀の婿に嫁いで、暖かい香り高い敷き布団を裏切り、早朝の朝廷に仕える。",
+            "es": "Con una pantalla como nubes que esconde encantos sin fin, en la Ciudad del Fénix, el frío se acaba pero teme la larga noche de primavera. Sin razón se casa con un marido de estatus, traicionando el edredón perfumado por las mañanas tempranas en la corte.",
+            "ar": "بوجود شاشة كالسحاب تخفي جمالاً لا حدود له، في مدينة العنقاء، ينتهي البرد ولكن يخشى طول ليلة الربيع. تزوجت بلا سبب من رجل ذو مكانة عالية، وخانت الفراش العطري من أجل صباحات الحضور في البلاط."
+        },
+        "title_translation": {
+            "zh": "为有",
+            "en": "For Possessing",
+            "ja": "為有",
+            "es": "Por Tener",
+            "ar": "للمملكة"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "为有云屏无限娇，凤城寒尽怕春宵。\n无端嫁得金龟婿，辜负香衾事早朝。",
+    "title_pinyin": "wèi yǒu",
+    "pinyin": "wèi yǒu yún píng wú xiàn jiāo，fèng chéng hán jǐn pà chūn xiāo。\nwú duān jià dé jīn guī xù，gū fù xiāng qīn shì zǎo cháo。"
+}

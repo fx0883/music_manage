@@ -1,0 +1,57 @@
+{
+    "title": "清平调·其二",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，是唐代著名的浪漫主义诗人，被后人尊称为“诗仙”。他的诗作以豪放、奔放、想象丰富著称，广泛涉及自然、历史、神话等多个领域。代表作有《将进酒》、《庐山谣》、《望庐山瀑布》等。李白的诗歌对后世影响深远，是中国文学史上不可或缺的重要人物。",
+            "en": "Li Bai (701-762), styled Taibai and known as the 'Jade Ladle' or 'Hermit of the Green Lotus', was a renowned romantic poet of the Tang Dynasty, revered as the 'Poet Immortal' by later generations. His poetry is celebrated for its exuberance, boldness, and rich imagination, covering themes such as nature, history, and mythology. His famous works include 'To the Wine', 'Song of the Lushan', and 'Viewing the Lushan Waterfall'. Li Bai's poetry has had a profound impact on later generations and is an indispensable figure in the history of Chinese literature.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐代の著名な浪漫主義詩人であり、後世「詩仙」と尊称される。彼の詩は豪放、奔放、豊かな想像力で知られ、自然、歴史、神話など多岐にわたるテーマを扱う。代表作には『将進酒』、『廬山謡』、『望廬山瀑布』などがある。李白の詩は後世に大きな影響を与え、中国文学史上欠かせない重要人物である。",
+            "es": "Li Bai (701-762), conocido por su nombre de estilo Taibai y su apodo 'Ermitaño del Loto Verde', fue un destacado poeta romántico de la dinastía Tang, venerado como el 'Poeta Inmortal' por las generaciones posteriores. Su poesía es famosa por su exuberancia, audacia e imaginación rica, abordando temas como la naturaleza, la historia y la mitología. Entre sus obras más famosas se encuentran 'Jin Jiu' (Al Vino), 'Lushan Yao' (Canción de Lushan) y 'Wang Lushan Pubu' (Viendo la Catarata de Lushan). La poesía de Li Bai ha tenido un impacto profundo en las generaciones posteriores y es una figura indispensable en la historia de la literatura china.",
+            "ar": "لي بائي (701-762)، المعروف بلقبه تايباي واسمه الشهير ' Eremita del Loto Verde'، كان شاعرًا رومانسيًا بارزًا في عهد التانغ، وأُعطي لقب 'الشاعر الخالد' من قبل الأجيال اللاحقة. اشتهرت قصائده بوفرة، جرأة، وتخيل غني، وتناولت مواضيع مثل الطبيعة، التاريخ، والأساطير. من أشهر أعماله 'الآن للخمر'، 'أغنية لوشان'، و'مشاهدة شلال لوشان'. أثرت شعر لي بائي بشكل عميق على الأجيال اللاحقة وهي شخصية لا غنى عنها في تاريخ الأدب الصيني."
+        }
+    },
+    "annotations": {
+        "zh": "一枝红艳露凝香：一支鲜艳的红花上凝聚着露水的香气。红艳，指花朵鲜艳；凝香，指香气凝聚。云雨巫山枉断肠：巫山云雨，指古代神话中巫山神女与楚王欢会的典故，枉断肠，指白白地让人伤心。借问汉宫谁得似：请问汉宫中谁能与她相比。汉宫，指汉朝的宫殿，代指古代宫廷。可怜飞燕倚新妆：可怜的赵飞燕也要依靠新妆才能相比。飞燕，指汉成帝的皇后赵飞燕，以美貌著称；倚新妆，依靠新妆打扮。此诗赞美杨贵妃的美貌，用赵飞燕作对比，突出杨贵妃的天生丽质。",
+        "en": "A branch of bright red with fragrant dew: A branch of bright red flower with the fragrance of condensed dew. Bright red, refers to the vivid color of the flower; fragrant dew, refers to the concentrated scent. The clouds and rain of Wu Mountain in vain break the heart: Wu Mountain clouds and rain, refers to the ancient myth of the goddess of Wu Mountain meeting with the King of Chu, in vain break the heart, means causing unnecessary sorrow. I ask who in the Han palace can compare: I ask who in the Han palace can be compared to her. Han palace, refers to the palace of the Han Dynasty, symbolizing ancient courts. Poor Flying Swallow relies on new makeup: The poor Zhao Feiyan also needs to rely on new makeup to compare. Flying Swallow, refers to Empress Zhao Feiyan of Emperor Cheng of Han, known for her beauty; relies on new makeup, depends on new attire. This poem praises the beauty of Yang Guifei, using Zhao Feiyan as a contrast to highlight Yang's natural beauty.",
+        "ja": "一枝の紅い艶やかな露の香り：一本の鮮やかな赤い花に露の香りが凝縮している。紅い艶やか，花の鮮やかな色を指す；露の香り，香りが凝縮していることを指す。巫山の雲雨は無駄に断腸：巫山の雲雨，古代神話で巫山の女神が楚の王と逢瀬を重ねた故事を指す，無駄に断腸，無駄に悲しむことを意味する。漢宮の誰が似るか問う：漢宮で誰が彼女に似るか尋ねる。漢宮，漢時代の宮殿を指し、古代宮廷を象徴する。哀れな飛燕は新たな粧いに頼る：哀れな趙飛燕も新たな粧いに頼らなければならない。飛燕，漢の成帝の皇后趙飛燕を指し、美貌で知られる；新たな粧いに頼る，新しい化粧に頼ることを意味する。この詩は楊貴妃の美しさを賛美し、趙飛燕と対比して楊貴妃の天成の美しさを強調している。",
+        "es": "Un ramo de rojo brillante con fragancia de rocío: Un ramo de flor roja brillante con la fragancia del rocío condensado. Rojo brillante, se refiere al color vívido de la flor; fragancia de rocío, se refiere al aroma concentrado. Las nubes y la lluvia de la Montaña Wu en vano rompen el corazón: Las nubes y la lluvia de la Montaña Wu, se refiere al mito antiguo de la diosa de la Montaña Wu encontrándose con el Rey de Chu, en vano rompen el corazón, significa causar tristeza innecesaria. Pregunto quién en el palacio Han puede compararse: Pregunto quién en el palacio Han puede compararse con ella. Palacio Han, se refiere al palacio de la dinastía Han, simbolizando cortes antiguas. Pobre Feng Feiyan depende del nuevo maquillaje: La pobre Zhao Feiyan también necesita depender del nuevo maquillaje para compararse. Feng Feiyan, se refiere a la emperatriz Zhao Feiyan del emperador Cheng de Han, conocida por su belleza; depende del nuevo maquillaje, depende del nuevo atuendo. Este poema alaba la belleza de Yang Guifei, usando a Zhao Feiyan como contraste para resaltar la belleza natural de Yang.",
+        "ar": "فرع من الأحمر الناصع مع عطر الندى: فرع من الزهرة الحمراء الناصعة مع عطر الندى المتكاثف. الأحمر الناصع، يشير إلى لون الزهرة الزاهي؛ عطر الندى، يشير إلى الرائحة المتكاثفة. سحاب وجبال وو يقطعون الأحشاء عبثاً: سحاب وجبال وو، يشير إلى الأسطورة القديمة للإلهة في جبال وو التي تلتقي مع ملك تشو، يقطعون الأحشاء عبثاً، يعني إحداث حزن غير ضروري. أسأل من في قصر هان يمكنه المقارنة: أسأل من في قصر هان يمكنه المقارنة بها. قصر هان، يشير إلى قصر دولة هان، يمثل المحاكم القديمة. الحزينة فينيان تعتمد على المكياج الجديد: الحزينة تشاو فينيان تحتاج أيضاً إلى الاعتماد على المكياج الجديد للمقارنة. فينيان، تشير إلى الإمبراطورة تشاو فينيان لإمبراطور تشينغ من هان، معروفة بجمالها؛ تعتمد على المكياج الجديد، تعتمد على الزي الجديد. هذا الشعر يمتدح جمال يانغ غويفي، باستخدام تشاو فينيان كنقيض لتحديد جمال يانغ الطبيعي."
+    },
+    "appreciations": {
+        "zh": "这首诗以一枝红艳的牡丹花为引，暗喻杨贵妃的美貌与香气。\"云雨巫山\"一句借用楚襄王与巫山神女的典故，反衬出杨贵妃的绝世容颜，使得巫山神女也显得黯然失色。\"借问汉宫谁得似\"一句将杨贵妃与汉宫美人相比，进一步突出其无与伦比的美。最后一句以赵飞燕倚新妆来衬托杨贵妃的天生丽质，表达了对杨贵妃的极高赞美。整首诗通过细腻的描写和巧妙的对比，展现了诗人对美的极致追求和对杨贵妃的深深倾慕。",
+        "en": "This poem uses a single branch of bright red peony as a metaphor for Yang Guifei's beauty and fragrance. The line 'Clouds and rain in the Wu Mountains' references the legend of King Xiang of Chu and the goddess of Wu Mountain, highlighting Yang Guifei's unparalleled beauty, making the goddess seem dim in comparison. The line 'I ask, who in the Han palace can compare' further emphasizes her unique beauty by comparing her to the beauties of the Han dynasty. The final line uses Zhao Feiyan in her new attire to contrast Yang Guifei's natural beauty, expressing the highest praise for her. Through delicate descriptions and skillful comparisons, the poem showcases the poet's ultimate pursuit of beauty and deep admiration for Yang Guifei.",
+        "ja": "この詩は、一輪の鮮やかな赤い牡丹を杨貴妃の美しさと香りに例えています。「雲雨巫山」の一句は、楚の襄王と巫山の神女の故事を借りて、杨貴妃の絶世の美貌を強調し、巫山の神女をも見劣りさせるように描いています。「借問漢宮誰得似」の一句は、杨貴妃を漢宮の美人と比較し、その比類なき美しさをさらに突出させています。最後の一句は、新たな装いの趙飛燕を引き合いに出して、杨貴妃の天生的な美しさを際立たせ、彼女への高き賛辞を表しています。細やかな描写と巧みな対比を通じて、詩人は美への極致の追求と杨貴妃への深い傾倒を示しています。",
+        "es": "Este poema utiliza una rama de peonía roja brillante como metáfora de la belleza y el aroma de Yang Guifei. La línea 'Nubes y lluvia en las montañas Wu' hace referencia a la leyenda del Rey Xiang de Chu y la diosa de las montañas Wu, resaltando la belleza sin parangón de Yang Guifei, haciendo que la diosa parezca opaca en comparación. La línea 'Pregunto, ¿quién en el palacio Han puede compararse' enfatiza aún más su belleza única comparándola con las bellezas de la dinastía Han. La última línea usa a Zhao Feiyan en su nuevo atuendo para contrastar la belleza natural de Yang Guifei, expresando el más alto elogio para ella. A través de descripciones delicadas y comparaciones hábiles, el poema muestra la búsqueda ultimate del poeta por la belleza y su profunda admiración por Yang Guifei.",
+        "ar": "يستخدم هذا الشعر فرعًا واحدًا من زهرة البпион الحمراء اللامعة كإشارة إلى جمال ويانغ غوييفي وعطرها. السطر 'السحب والمطر في جبال وو' يستشهد بالأسطورة الملك شيانغ من تشو والربة في جبال وو، مما يبرز جمال يانغ غوييفي الفريد، مما يجعل الربة تبدو باهتة بالمقارنة. السطر 'أسأل، من في قصر هان يمكنه المقارنة' يزيد من التأكيد على جمالها الفريد بمقارنتها بجماليات دولة هان. السطر الأخير يستخدم تشاو فييان في زينتها الجديدة للإشارة إلى جمال يانغ غوييفي الطبيعي، معربًا عن أعلى الثناء لها. من خلال الوصف الدقيق والمقارنات الحاذقة، يظهر الشعر رغبة الشاعر في السعي وراء الجمال والإعجاب العميق بيويانغ غوييفي."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "一枝红艳的花朵上凝聚着露珠和香气，巫山云雨的梦幻只让人徒然断肠。借问汉宫中有谁能与之相比，可怜那赵飞燕也要依赖新妆才能相仿。",
+            "en": "A branch of bright red blooms with dew and fragrance, the dreams of Wushan's clouds and rain only break hearts in vain. Who in the Han palace could ever compare? Pitiful Feiyan relies on fresh makeup to match.",
+            "ja": "一枝の鮮やかな紅花に露と香りが凝り、巫山の雲雨は空しく腸を断つ。漢宮の誰がこれに似るや、哀れ飛燕も新たな化粧に頼らん。",
+            "es": "Una rama de rojo brillante con rocío y fragancia, las nubes y lluvias de Wushan solo rompen el corazón en vano. ¿Quién en el palacio Han podría compararse? Pobre Feiyan depende de su nuevo maquillaje.",
+            "ar": "فرع من الزهور الحمراء الزاهية يتجمع عليها الندى والرائحة، أحلام ووشان السحاب والمطر تقطع القلوب عبثًا. من في قصر الهان يمكنه المقارنة؟ يا للأسف، فييان تعتمد على المكياج الجديد."
+        },
+        "title_translation": {
+            "zh": "清平调·其二",
+            "en": "Qingping Diao II",
+            "ja": "清平調·其二",
+            "es": "Qingping Diao II",
+            "ar": "النغمة الهادئة· الجزء الثاني"
+        }
+    },
+    "genre": {
+        "name": "乐府",
+        "code": "yue_fu"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "一枝红艳露凝香，云雨巫山枉断肠。\n借问汉宫谁得似，可怜飞燕倚新妆。",
+    "title_pinyin": "qīng píng diào·qí èr",
+    "pinyin": "yī zhī hóng yàn lù níng xiāng，yún yǔ wū shān wǎng duàn cháng。\njiè wèn hàn gōng shuí dé shì，kě lián fēi yàn yǐ xīn zhuāng。"
+}

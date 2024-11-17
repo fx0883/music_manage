@@ -1,0 +1,57 @@
+{
+    "title": "孤雁二首·其二",
+    "difficulty": 2,
+    "author": {
+        "name": "崔涂",
+        "name_pinyin": "cuī tú",
+        "image": "崔涂.jpg",
+        "introduction": {
+            "zh": "崔涂，唐代诗人，生卒年不详，字号亦不可考。其诗多写景抒情，风格沉郁，尤以《孤雁二首》最为著名，借孤雁抒发自己的孤独与无奈，情感真挚，意境深远。他的作品在唐代诗坛上有一定的影响，被后人传颂。",
+            "en": "Cui Tu was a poet of the Tang Dynasty, with unknown birth and death years and no recorded style name or title. His poetry often focuses on landscapes and emotions, characterized by a melancholic style. He is best known for his 'Two Poems on a Lone Wild Goose', which express his own loneliness and helplessness through the metaphor of a solitary goose, with sincere emotions and profound imagery. His works had a certain influence in the Tang Dynasty poetry scene and have been passed down by later generations.",
+            "ja": "崔涂は唐代の詩人で、生没年不詳、号も不明です。彼の詩は風景描写と感情表現が多く、_styleは沈鬱です。特に『孤雁二首』が有名で、孤雁を通じて自身の孤独と無力感を表現し、感情が真摯で意境が深遠です。彼の作品は唐代の詩壇に一定の影響を与え、後世に伝えられています。",
+            "es": "Cui Tu fue un poeta de la dinastía Tang, cuyos años de nacimiento y muerte son desconocidos, al igual que su seudónimo. Su poesía a menudo se centra en la descripción de paisajes y la expresión de emociones, con un estilo melancólico. Es especialmente conocido por sus 'Dos Poemas sobre un Ganso Solitario', en los que expresa su propia soledad e impotencia a través de la metáfora de un ganso solitario, con emociones sinceras y una imaginería profunda. Sus obras tuvieron una cierta influencia en la escena poética de la dinastía Tang y han sido transmitidas por generaciones posteriores.",
+            "ar": "كان تسوي تو شاعرًا من عهد التانغ، غير معروف تاريخ ميلاده ووفاته، وكذلك لا يوجد له اسم مستعار مسجل. تتناول أشعاره غالبًا وصف المناظر الطبيعية والتعبير عن المشاعر، وتمتاز بأسلوب حزين. اشتهر بشكل خاص بقصيدتيه 'الغOOSE الوحيد'، حيث يعبر عن وحدته وعجزه من خلال استعارة الغOOSE الوحيد، مع مشاعر صادقة وتصور عميق. أثرت أعماله في مشهد الشعر في عهد التانغ وتم تداولها من قبل الأجيال اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "几行归塞尽：几行大雁飞回边塞，渐渐消失。念尔独何之：挂念你独自飞向何方。暮雨相呼失：在暮雨中相互呼唤，却迷失了方向。寒塘欲下迟：想在寒塘降落，却又迟疑不决。渚云低暗度：从低矮的沙洲云层中暗暗飞过。关月冷相随：冷冷的月光在关隘上伴随。未必逢矰缴：未必会遭遇猎人的箭矢。孤飞自可疑：孤独飞行本就令人疑虑。\n特殊句式：无特殊句式。\n典故解释：无明确典故。\n意象分析：孤雁象征孤独与无助，暮雨、寒塘、渚云、关月等意象营造了凄冷、孤寂的氛围。\n历史背景：唐代边塞诗常反映边关将士的孤独与辛劳，此诗可能借此表达诗人自身的孤独感。",
+        "en": "Several lines return to the border and disappear: Several lines of wild geese fly back to the border and gradually disappear. Thinking of you alone, where are you going: Worried about where you are flying alone. Calling each other in the evening rain, lost: In the evening rain, they call each other but get lost. Hesitant to land in the cold pond: Wanting to land in the cold pond but hesitating. Flying low through the dark clouds over the shoal: Flying low through the dark clouds over the shoal. The cold moon follows at the pass: The cold moonlight accompanies at the pass. Not necessarily encountering a bow: Not necessarily encountering a hunter's arrow. Lonely flight is inherently suspicious: Lonely flight is inherently suspicious.\nSpecial sentence structure: No special sentence structure.\nAllusion explanation: No clear allusion.\nImage analysis: The lone goose symbolizes loneliness and helplessness, and images such as evening rain, cold pond, shoal clouds, and pass moon create a desolate and lonely atmosphere.\nHistorical background: Tang Dynasty border poems often reflect the loneliness and hard work of border soldiers, and this poem may express the poet's own sense of loneliness.",
+        "ja": "数行、塞に帰り尽くす：数行の雁が塞に帰り、次第に見えなくなる。念じて尔、独り何処へ行く：あなたが独りでどこへ行くのか心配する。夕雨に呼び合い失う：夕雨の中で呼び合いながら、道に迷う。寒塘に降りようと遅れ：寒い塘に降りようとするが、躊躇する。洲の雲低く暗く渡る：洲の低い雲を暗く渡る。関の月冷たく付き添う：冷たい月が関で付き添う。必ずしも矰缴に逢わず：必ずしも猟師の矢に逢うとは限らない。孤飛は自ら疑わしい：孤飛は自ら疑わしい。\n特殊な文法：特殊な文法はない。\n典故の説明：明確な典故はない。\n意象の分析：孤雁は孤独と無助を象徴し、夕雨、寒塘、洲の雲、関の月などの意象が寂寥とした雰囲気を作り出す。\n歴史的背景：唐代の辺塞詩は辺境の兵士の孤独と労苦を反映することが多く、この詩は詩人自身の孤独感を表現している可能性がある。",
+        "es": "Varias filas regresan a la frontera y desaparecen: Varias filas de gansos vuelven a la frontera y desaparecen gradualmente. Pensando en ti, ¿adónde vas solo?: Preocupado por adónde vuelas solo. Perdiéndose al llamarse en la lluvia de la tarde: En la lluvia de la tarde, se llaman entre sí pero se pierden. Tardando en descender al estanque frío: Queriendo aterrizar en el estanque frío pero dudando. Pasando bajo nubes bajas y oscuras en la isla: Pasando bajo nubes bajas y oscuras en la isla. La luna fría lo acompaña en el paso: La luz fría de la luna lo acompaña en el paso. No necesariamente encontrando una flecha: No necesariamente encontrando una flecha del cazador. El vuelo solitario es inherentemente sospechoso: El vuelo solitario es inherentemente sospechoso.\nEstructura de oración especial: No hay estructura de oración especial.\nExplicación de la alusión: No hay alusión clara.\nAnálisis de imágenes: El ganso solitario simboliza la soledad y la desesperanza, y las imágenes como la lluvia de la tarde, el estanque frío, las nubes de la isla y la luna del paso crean una atmósfera melancólica y solitaria.\nContexto histórico: La poesía de la frontera en la dinastía Tang a menudo refleja la soledad y el trabajo duro de los soldados de la frontera, y este poema puede expresar la sensación de soledad del propio poeta.",
+        "ar": "عدة صفوف تعود للحدود وتختفي: عدة صفوف من البجع تعود للحدود وتختفي تدريجيًا. أفكر فيك، إلى أين تذهب وحدك؟: قلق بشأن إلى أين تطير وحدك. يفقد بعضهما البعض عند الاتصال في المطر المسائي: في المطر المسائي، يتصلون ببعضهم البعض لكنهم يفقدون الاتجاه. يتردد في الهبوط في البركة الباردة: يريد الهبوط في البركة الباردة لكنه يتردد. يمر تحت السحب المنخفضة والداكنة في الشط: يمر تحت السحب المنخفضة والداكنة في الشط. القمر البارد يتبعه في المعبر: ضوء القمر البارد يتبعه في المعبر. ليس بالضرورة أن يواجه سهمًا: ليس بالضرورة أن يواجه سهم الصياد. الطيران الفردي مشكوك فيه بشكل طبيعي: الطيران الفردي مشكوك فيه بشكل طبيعي.\nبنية جملة خاصة: لا توجد بنية جملة خاصة.\nشرح الأمثال: لا توجد أمثال واضحة.\nتحليل الصور: البجعة الوحيدة ترمز إلى الوحدة واليأس، وأشكال مثل المطر المسائي، البركة الباردة، سحب الشط، وقمر المعبر تخلق جوًا حزينًا وموحشًا.\nالخلفية التاريخية: قصائد الحدود في العصر التانغ غالبًا ما تعكس وحدة وعناء الجنود الحدوديين، وقد يعبر هذا الشعر عن شعور الشاعر بالوحدة."
+    },
+    "appreciations": {
+        "zh": "这首诗以孤雁为主题，表达了诗人对孤独和困境的深刻感悟。主题思想是通过对孤雁的描写，映射出诗人自身的孤独与无奈。写作特色上，诗人运用了细腻的描写手法，如‘暮雨相呼失’、‘寒塘欲下迟’，生动刻画了孤雁的孤独与迷茫。艺术成就方面，诗歌意象鲜明，情感深沉，具有很高的艺术价值。情感分析上，诗人抒发了对孤独的感伤和对未来的忧虑。影响意义上，这首诗在文学史上具有重要地位，对后世诗歌创作产生了深远影响。",
+        "en": "This poem, themed around a lone wild goose, conveys the poet's profound insights into solitude and adversity. The central theme reflects the poet's own loneliness and helplessness through the depiction of the goose. In terms of writing style, the poet employs detailed descriptions, such as 'calling in the evening rain, lost' and 'hesitating to land in the cold pond', vividly portraying the goose's isolation and confusion. Artistically, the poem is notable for its clear imagery and deep emotions, holding significant artistic value. Emotionally, it expresses the poet's sorrow over solitude and anxiety about the future. Historically, this poem holds an important place in literary history, exerting a profound influence on later poetic works.",
+        "ja": "この詩は孤雁をテーマに、詩人が孤独と困難に対する深い感慨を表現しています。主題思想は、孤雁の描写を通じて詩人自身の孤独と無力感を反映しています。執筆の特色としては、「夕雨に呼び交わして失う」、「寒い塘に降りるのをためらう」といった繊細な描写手法を用い、孤雁の孤独と迷いを生き生きと描いています。芸術的成就としては、詩のイメージが鮮明で、感情が深く、高い芸術的価値を持っています。感情分析では、詩人が孤独に対する感傷と未来に対する不安を抒発しています。影響の意味では、この詩は文学史上重要な地位を占め、後世の詩作に深い影響を与えました。",
+        "es": "Este poema, cuyo tema central es un ganso solitario, expresa las profundas reflexiones del poeta sobre la soledad y las adversidades. La idea principal refleja la soledad y la impotencia del poeta a través de la descripción del ganso. En cuanto a la técnica literaria, el poeta utiliza descripciones detalladas, como 'llamando en la lluvia de la tarde, perdido' y 'tardando en descender en el estanque frío', retratando vívidamente la soledad y la confusión del ganso. Artísticamente, el poema destaca por su clara imaginería y emociones profundas, poseyendo un gran valor artístico. En el análisis emocional, el poeta expresa su tristeza por la soledad y su ansiedad por el futuro. En términos de influencia, este poema ocupa un lugar importante en la historia de la literatura, ejerciendo una profunda influencia en la creación poética posterior.",
+        "ar": "هذه القصيدة تتناول موضوع الغOOSE المنفردة، وتعبر عن تأملات الشاعر العميقة حول الوحدة والصعوبات. الفكرة الرئيسية تعكس وحدة وعجز الشاعر من خلال وصف الغOOSE. فيما يتعلق بالأسلوب الأدبي، يستخدم الشاعر وصفًا دقيقًا، مثل 'ينادي في المطر المسائي، مفقود' و 'يتردد في الهبوط في البركة الباردة'، مبتكارًا صورة حية للغOOSE المنفرد والمحير. من الناحية الفنية، تتميز القصيدة بصورها الواضحة وعواطفها العميقة، ولها قيمة فنية كبيرة. في تحليل العواطف، يعبر الشاعر عن حزنه على الوحدة وتأمله في المستقبل. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في تاريخ الأدب، ولها تأثير عميق على الأعمال الشعرية اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "几行归塞尽，念尔独何之。\n暮雨相呼失，寒塘欲下迟。\n渚云低暗度，关月冷相随。\n未必逢矰缴，孤飞自可疑。",
+            "en": "Several lines return to the border, wondering where you alone go.\nIn the evening rain, calling each other but lost, hesitant to land in the cold pond.\nLow clouds over the islet dimly pass, the moon at the pass coldly follows.\nNot necessarily encountering a snare, but flying alone is still suspicious.",
+            "ja": "数行、塞に帰り尽き、汝の独り行く処を思う。\n夕雨に呼び交わり失い、寒い塘に下り遅れんとする。\n洲の雲低く暗く過ぎ、関の月冷たく伴う。\n必ずしも矰缴に逢わずとも、孤飛は自ら疑わしい。",
+            "es": "Varias filas regresan al borde, pensando en dónde vas tú solo.\nEn la lluvia de la tarde, llamándose pero perdidos, reacios a descender en el estanque frío.\nNubes bajas sobre el islote pasan oscuramente, la luna en la frontera fríamente sigue.\nNo necesariamente encontrar una trampa, pero volar solo es aún sospechoso.",
+            "ar": "عدة صفوف تعود للحدود، أفكر في أين تذهب وحدك.\nفي المطر المسائي، ينادون بعضهم البعض لكنهم تائهون، مترددين في الهبوط في البحيرة الباردة.\nسحب منخفضة فوق الجرف تعبر بظلام، والقمر عند الحد يتبع ببرود.\nليس بالضرورة أن يواجهوا فخاخ، لكن الطيران وحده يثير الريبة."
+        },
+        "title_translation": {
+            "zh": "孤雁二首·其二",
+            "en": "Lone Wild Goose, Part Two",
+            "ja": "孤雁二首·其二",
+            "es": "Ganso Solitario, Segunda Parte",
+            "ar": "الوزة الوحيدة، الجزء الثاني"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "几行归塞尽，念尔独何之。\n暮雨相呼失，寒塘欲下迟。\n渚云低暗度，关月冷相随。\n未必逢矰缴，孤飞自可疑。",
+    "title_pinyin": "gū yàn èr shǒu·qí èr",
+    "pinyin": "jǐ xíng guī sāi jǐn，niàn ěr dú hé zhī。\nmù yǔ xiāng hū shī，hán táng yù xià chí。\nzhǔ yún dī àn dù，guān yuè lěng xiāng suí。\nwèi bì féng zēng jiǎo，gū fēi zì kě yí。"
+}

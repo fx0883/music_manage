@@ -1,0 +1,57 @@
+{
+    "title": "题金陵渡",
+    "difficulty": 2,
+    "author": {
+        "name": "张祜",
+        "name_pinyin": "zhāng hù",
+        "image": "张祜.jpg",
+        "introduction": {
+            "zh": "张祜，唐代著名诗人，字承吉，南阳（今属河南）人。他的诗作以清新脱俗、意境深远著称，尤其擅长写景抒情。张祜一生仕途坎坷，未能大展宏图，但其诗歌成就斐然，深受后世推崇。代表作有《题金陵渡》、《宫词》等。",
+            "en": "Zhang Hu, a renowned poet of the Tang Dynasty, styled Chengji, was from Nanyang (now part of Henan Province). His poems are known for their fresh and refined style and profound artistic conception, particularly excel in landscape and emotional expressions. Despite a bumpy official career that did not allow him to fully realize his ambitions, Zhang Hu's poetic achievements were remarkable and highly esteemed by later generations. His representative works include 'On Jinling Ferry' and 'Palace Poems'.",
+            "ja": "張祜は唐代の著名な詩人で、字は承吉、南陽（現在の河南省に属する）出身。彼の詩は清新で俗離れしており、特に風景描写と抒情に優れている。張祜は生涯官途が不遇で、大成することができなかったが、詩の業績は顕著で、後世にも高く評価されている。代表作には「題金陵渡」「宮詞」などがある。",
+            "es": "Zhang Hu, un poeta famoso de la dinastía Tang, cuyo nombre de cortesía era Chengji, era de Nanyang (actualmente parte de la provincia de Henan). Sus poemas se caracterizan por su estilo fresco y elegante y su profunda concepción artística, destacando especialmente en la descripción de paisajes y la expresión de emociones. A pesar de una carrera oficial difícil que no le permitió alcanzar grandes logros, los logros poéticos de Zhang Hu fueron notables y muy apreciados por las generaciones posteriores. Sus obras representativas incluyen 'Sobre el Puente de Jinling' y 'Poemas de la Corte'.",
+            "ar": "زhang Hu، شاعر مشهور من عهد التانغ، وكان اسمه الشرفي تشنغجي، وهو من نانيانغ (تقع الآن في مقاطعة خنان). اشتهرت قصائده بنمطها العصري والراقي وتصورها الفني العميق، خاصة في وصف المناظر الطبيعية والتعبير عن المشاعر. على الرغم من أن مسيرته الرسمية كانت صعبة ولم يتمكن من تحقيق إنجازات كبيرة، إلا أن إنجازاته الشعرية كانت ملحوظة ومحترمة بشدة من قبل الأجيال اللاحقة. من بين أعماله البارزة 'عن جسر جينلينغ' و 'قصائد القصر'."
+        }
+    },
+    "annotations": {
+        "zh": "金陵津渡小山楼，一宿行人自可愁。\\n金陵：指今天的南京，古称金陵。\\n津渡：渡口。\\n小山楼：小山上的楼阁。\\n一宿：一夜。\\n行人：过客。\\n自可愁：自然会觉得忧愁。\\n潮落夜江斜月里，两三星火是瓜州。\\n潮落：潮水退去。\\n夜江：夜晚的江面。\\n斜月：倾斜的月亮。\\n两三星火：零星几点灯火。\\n瓜州：地名，位于长江北岸，今属江苏扬州。\\n\\n语法说明：\\n无特殊句式。\\n\\n典故解释：\\n无特定典故。\\n\\n意象分析：\\n小山楼、夜江、斜月、星火等意象营造出一种孤寂、冷清的氛围，表达了行人旅途中的愁绪。\\n\\n历史背景：\\n唐代金陵（南京）是江南重镇，瓜州则是长江北岸的重要渡口，诗中反映了当时行旅的艰辛和孤独。",
+        "en": "Jinling Jin Du Xiao Shan Lou, Yi Su Xing Ren Zi Ke Chou.\\nJinling: Refers to today's Nanjing, anciently known as Jinling.\\nJin Du: Ferry crossing.\\nXiao Shan Lou: A small pavilion on a hill.\\nYi Su: One night.\\nXing Ren: Traveler.\\nZi Ke Chou: Naturally feels sorrowful.\\nChao Luo Ye Jiang Xie Yue Li, Liang San Xing Huo Shi Gua Zhou.\\nChao Luo: The tide recedes.\\nYe Jiang: The river at night.\\nXie Yue: Slanting moon.\\nLiang San Xing Huo: A few scattered lights.\\nGua Zhou: A place on the north bank of the Yangtze River, now part of Yangzhou, Jiangsu.\\n\\nGrammar Explanation: \\nNo special sentence structures.\\n\\nAllusion Explanation: \\nNo specific allusions.\\n\\nImagery Analysis: \\nImagery such as Xiao Shan Lou, Ye Jiang, Xie Yue, and Xing Huo create a lonely and desolate atmosphere, expressing the traveler's sorrow on the journey.\\n\\nHistorical Background: \\nDuring the Tang Dynasty, Jinling (Nanjing) was a major city in the south, and Gua Zhou was an important ferry crossing on the north bank of the Yangtze River. The poem reflects the hardships and loneliness of travelers at that time.",
+        "ja": "金陵津渡小山楼、一宿行人自可愁。\\n金陵：現在の南京の古称。\\n津渡：渡し場。\\n小山楼：小さな山の上の楼閣。\\n一宿：一晩。\\n行人：旅人。\\n自可愁：自然に憂鬱になる。\\n潮落夜江斜月里、兩三星火是瓜州。\\n潮落：潮が引く。\\n夜江：夜の川面。\\n斜月：斜めに傾いた月。\\n兩三星火：数えるほどの灯火。\\n瓜州：揚子江の北岸に位置する地名、現在の江蘇省揚州市に属する。\\n\\n文法説明：\\n特異な文法はない。\\n\\n典故説明：\\n特定の典故はない。\\n\\n意象分析：\\n小山楼、夜江、斜月、星火などの意象が孤独で冷たい雰囲気を作り出し、旅人の旅の憂鬱を表現している。\\n\\n歴史背景：\\n唐代の金陵（南京）は江南の重鎮であり、瓜州は揚子江の北岸の重要な渡し場であった。詩は当時の旅の困難と孤独を反映している。",
+        "es": "Jinling Jin Du Xiao Shan Lou, Yi Su Xing Ren Zi Ke Chou.\\nJinling: Se refiere a la actual Nanjing, antiguamente conocida como Jinling.\\nJin Du: Paso de ferry.\\nXiao Shan Lou: Una pequeña pagoda en una colina.\\nYi Su: Una noche.\\nXing Ren: Viajero.\\nZi Ke Chou: Naturalmente se siente triste.\\nChao Luo Ye Jiang Xie Yue Li, Liang San Xing Huo Shi Gua Zhou.\\nChao Luo: La marea baja.\\nYe Jiang: El río durante la noche.\\nXie Yue: Luna inclinada.\\nLiang San Xing Huo: Unas pocas luces dispersas.\\nGua Zhou: Un lugar en la orilla norte del río Yangtsé, ahora parte de Yangzhou, Jiangsu.\\n\\nExplicación Gramatical: \\nNo hay estructuras gramaticales especiales.\\n\\nExplicación de la Alusión: \\nNo hay alusiones específicas.\\n\\nAnálisis de Imágenes: \\nImágenes como Xiao Shan Lou, Ye Jiang, Xie Yue y Xing Huo crean una atmósfera solitaria y desolada, expresando la tristeza del viajero en su viaje.\\n\\nContexto Histórico: \\nDurante la dinastía Tang, Jinling (Nanjing) era una ciudad importante en el sur, y Gua Zhou era un importante paso de ferry en la orilla norte del río Yangtsé. El poema refleja las dificultades y la soledad de los viajeros en esa época.",
+        "ar": "金陵津渡小山楼،一宿行人自可愁。\\n金陵: تشير إلى نانجينغ اليوم، وكانت تعرف قديماً باسم金陵.\\n津渡: مكان العبور.\\n小山楼: قصر صغير على تل.\\n一宿: ليلة واحدة.\\n行人: المسافر.\\n自可愁: يشعر بالحزن بشكل طبيعي.\\n潮落夜江斜月里،两三星火是瓜州。\\n潮落: انحسار المد.\\n夜江: النهر في الليل.\\n斜月: القمر المائل.\\n两三星火: بعض الأنوار المبعثرة.\\n瓜州: مكان على الضفة الشمالية لنهر اليانغتسي، يقع الآن ضمن يانغتشو، جيانغسو.\\n\\nشرح النحو: \\nلا توجد بنى نحوية خاصة.\\n\\nشرح الإستعارة: \\nلا توجد إستعارات محددة.\\n\\nتحليل الصور: \\nصور مثل Xiao Shan Lou، Ye Jiang، Xie Yue، و Xing Huo تخلق جواً من الوحدة والبرودة، تعبر عن حزن المسافر في رحلته.\\n\\nالخلفية التاريخية: \\nفي عهد أسرة تانغ، كانت金陵 (نانجينغ) مدينة مهمة في الجنوب، وكانت جوازhou مكان عبور مهم على الضفة الشمالية لنهر اليانغتسي. يعكس الشعر صعوبة ووحده المسافرين في ذلك الوقت."
+    },
+    "appreciations": {
+        "zh": "这首诗通过描绘金陵渡口的夜景，表达了诗人旅途中的孤独与愁绪。主题思想在于抒发行旅之愁。写作特色上，诗人运用简洁的白描手法，通过潮落、斜月、星火等意象，营造出一种清冷、孤寂的氛围。艺术成就方面，诗歌以小见大，通过对细节的精妙刻画，展现了深邃的意境。情感分析上，诗人通过景物的描写，间接传达出内心的孤寂与无奈。影响意义上，这首诗在唐代山水诗中占有一席之地，对后世文人描写行旅情感有一定影响。",
+        "en": "This poem depicts the night scene at the Jinling ferry, expressing the poet's loneliness and sorrow during his journey. The main theme revolves around the melancholy of travel. In terms of writing style, the poet uses simple and straightforward descriptions, employing imagery such as the ebbing tide, the slanting moon, and scattered lights to create a cold and solitary atmosphere. Artistically, the poem is notable for its ability to convey profound emotions through subtle details. Emotionally, the poet indirectly conveys his inner solitude and helplessness through the description of the scenery. In terms of impact, this poem holds a significant place in Tang Dynasty landscape poetry and has influenced later poets in their depiction of travel-related emotions.",
+        "ja": "この詩は、金陵の渡りの夜景を描き、詩人が旅の中で感じる孤独と愁緒を表現しています。主題思想は行旅の愁を抒発することにあります。表現手法としては、簡潔な白描的手法を用い、潮の引くこと、斜めに掛かる月、星火などのイメージを通じて、清冷で寂しい雰囲気を作り出しています。芸術的成就としては、小さなことから大きなことを見せ、細部の精妙な描写を 통해深い境地を示しています。感情分析としては、詩人は景物の描写を通じて、内面の孤独と無念さを間接的に伝えています。影響の意味では、この詩は唐代の山水詩の中で一定の地位を占め、後世の文人が行旅の感情を描く際に一定の影響を与えました。",
+        "es": "Este poema describe la escena nocturna en el puerto de Jinling, expresando la soledad y la tristeza del poeta durante su viaje. El tema principal gira en torno a la melancolía del viaje. En cuanto al estilo de escritura, el poeta utiliza descripciones simples y directas, empleando imágenes como la marea baja, la luna inclinada y las luces dispersas para crear una atmósfera fría y solitaria. Artísticamente, el poema destaca por su capacidad para transmitir emociones profundas a través de detalles sutiles. En el análisis emocional, el poeta transmite indirectamente su soledad y desesperanza a través de la descripción del paisaje. En términos de impacto, este poema ocupa un lugar importante en la poesía paisajística de la dinastía Tang y ha influido en poetas posteriores en su descripción de emociones relacionadas con el viaje.",
+        "ar": "يصف هذا الشعر مشهد الليل في ميناء جينلينغ، معربًا عن شعور الشاعر بالوحدة والحزن خلال رحلته. يركز الموضوع الرئيسي على حزن السفر. من حيث أسلوب الكتابة، يستخدم الشاعر وصفًا بسيطًا ومباشرًا، مستخدمًا صورًا مثل انحسار المد، والقمر المائل، وأضواء متفرقة لإنشاء جو بارد ومنعزل. من الناحية الفنية، يتميز الشعر بقدرته على نقل مشاعر عميقة من خلال التفاصيل الدقيقة. في تحليل العواطف، يعبر الشاعر بشكل غير مباشر عن وحدته ويأسه من خلال وصف المناظر الطبيعية. من حيث التأثير، يحتل هذا الشعر مكانة مهمة في شعر المناظر الطبيعية في عهد التانغ وأثر في الشعراء اللاحقين في وصف مشاعر تتعلق بالسفر."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "在金陵渡口的小山楼上，过客住了一夜，心中不禁生起愁绪。夜幕降临，潮水退去，斜月映照在江面上，远处两三点星火，那便是瓜州。",
+            "en": "At the small mountain pavilion of Jinling Ferry, a traveler spends a night, naturally feeling sorrow. As the tide recedes under the slanting moon in the night river, two or three flickering lights in the distance mark the Guazhou.",
+            "ja": "金陵の渡しの小山の楼で、一夜を過ごす旅人は自然と愁いを感じる。夜の江で潮が引くと、斜めに照らす月の下、遠くに二、三の星火が見える、それが瓜州である。",
+            "es": "En la pequeña torre de la orilla de Jinling, un viajero pasa una noche, sintiendo naturalmente tristeza. Con la marea baja en el río nocturno bajo la luna inclinada, dos o tres fuegos destellantes en la distancia señalan Guazhou.",
+            "ar": "في البرج الصغير عند معبر جينلينغ، يمكث المسافر ليلة، ويشعر بالحزن تلقائيًا. مع انحسار المد في النهر الليلي تحت القمر المائل، تلمع نيران قليلة في البعيد، تلك هي جوازو."
+        },
+        "title_translation": {
+            "zh": "题金陵渡",
+            "en": "Inscription on Jinling Ferry",
+            "ja": "金陵渡に題す",
+            "es": "Inscripción en el Ferry de Jinling",
+            "ar": "كتابة على معبر جينلينغ"
+        }
+    },
+    "genre": {
+        "name": "七言绝句",
+        "code": "qi_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "金陵津渡小山楼，一宿行人自可愁。\n潮落夜江斜月里，两三星火是瓜州。",
+    "title_pinyin": "tí jīn líng dù",
+    "pinyin": "jīn líng jīn dù xiǎo shān lóu，yī sù xíng rén zì kě chóu。\ncháo luò yè jiāng xié yuè lǐ，liǎng sān xīng huǒ shì guā zhōu。"
+}

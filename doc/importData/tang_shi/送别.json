@@ -1,0 +1,57 @@
+{
+    "title": "送别",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（701年－761年），字摩诘，号摩诘居士，唐朝著名诗人、画家，与孟浩然并称“王孟”，有“诗佛”之称。他的诗风清新淡远，善于描绘山水田园，代表作有《相思》、《山居秋暝》等。王维不仅在文学上有极高成就，还在绘画上有卓越贡献，被后人誉为“诗中有画，画中有诗”。",
+            "en": "Wang Wei (701-761), styled Mojie, also known as Mojie居士, was a renowned poet and painter of the Tang Dynasty. He was often mentioned alongside Meng Haoran as 'Wang Meng' and was honored as the 'Poetic Buddha'. His poetry is characterized by a fresh and serene style, excelling in depicting landscapes and rural scenes. His notable works include 'Xiangsi' (Longing) and 'Shanju Qiuming' (Autumn Evening in a Mountain Abode). Wang Wei made significant contributions not only in literature but also in painting, earning the praise that 'there is painting in his poetry, and poetry in his painting'.",
+            "ja": "王維（701年－761年）、字は摩詰、号は摩詰居士、唐時代の著名な詩人・画家で、孟浩然と並び「王孟」と称され、「詩仏」とも呼ばれる。彼の詩風は清新で淡遠、山水田園を描くことに長け、代表作に「相思」、「山居秋暝」などがある。王維は文学のみならず絵画においても卓越した貢献をし、「詩中有画、画中有詩」と后人に讃えられている。",
+            "es": "Wang Wei (701-761), apodado Mojie, también conocido como Mojie居士, fue un destacado poeta y pintor de la dinastía Tang. Se le menciona a menudo junto a Meng Haoran como 'Wang Meng' y se le honra como el 'Buda Poético'. Su poesía se caracteriza por un estilo fresco y sereno, destacando en la descripción de paisajes y escenas rurales. Sus obras notables incluyen 'Xiangsi' (Anhelo) y 'Shanju Qiuming' (Atardecer de otoño en una cabaña de montaña). Wang Wei hizo contribuciones significativas no solo en literatura sino también en pintura, ganando el elogio de que 'hay pintura en su poesía y poesía en su pintura'.",
+            "ar": "وانغ وي (701-761)، يُعرف بلقبه مو جي، ويُعرف أيضًا بـ مو جي居士، كان شاعرًا ورسامًا مشهورًا في عهد التانغ. غالبًا ما يُذكر جنبًا إلى جنب مع مينغ هواوران كـ 'وانغ مينغ' ويُكرم بلقب 'بوذا الشعر'. يتميز شعره بأسلوبه العذب والهادئ، متفوقًا في تصوير المناظر الطبيعية والمناظر الريفية. من أعماله البارزة 'سانجي تشويومينج' و 'شيانجسي'. قدم وانغ وي مساهمات كبيرة ليس فقط في الأدب ولكن أيضًا في الرسم، مما كسبه الثناء على أن 'في شعره لوحة، وفي لوحته شعر'."
+        }
+    },
+    "annotations": {
+        "zh": "下马饮君酒：下马与朋友共饮。饮君酒，敬你一杯酒。问君何所之：询问朋友要去哪里。君言不得意：朋友说心情不畅。归卧南山陲：回到南山脚下隐居。但去莫复问：只管去吧，不必再问。白云无尽时：白云悠悠，无穷无尽，象征隐居生活的悠闲。\n语法说明：何所之，宾语前置句，正常语序为“之何所”。\n典故解释：南山，指终南山，古代隐士常隐居之地。\n意象分析：白云，象征隐居生活的自由与宁静。\n历史背景：唐代士人失意时常选择隐居，反映了当时的社会风气。",
+        "en": "Xia ma yin jun jiu: Dismounting to drink with you. Yin jun jiu, offering you a cup of wine. Wen jun he suo zhi: Asking where you are going. Jun yan bu de yi: You say you are not satisfied. Gui wo Nan shan cui: Returning to live at the foot of the Southern Mountain. Dan qu mo fu wen: Just go, don't ask anymore. Bai yun wu jin shi: The white clouds are endless, symbolizing the leisure of a hermit's life.\nGrammar: He suo zhi is an object前置 sentence, normally structured as 'zhi he suo'.\nAllusion: Nan shan refers to the Zhongnan Mountain, a common retreat for hermits in ancient times.\nImagery: Bai yun (white clouds) symbolizes the freedom and tranquility of hermit life.\nHistorical background: During the Tang Dynasty, scholars often chose to retire to the mountains when they felt frustrated, reflecting the social ethos of the time.",
+        "ja": "下馬飲君酒：馬を降りて君と酒を飲む。飲君酒、君に一杯の酒を捧げる。問君何所之：君がどこに行くのかを尋ねる。君言不得意：君が気分が悪いと言う。歸臥南山陲：南山のふもとに帰って隠居する。但去莫復問：ただ行って、もう尋ねないで。白雲無盡時：白雲は尽きることがなく、隠居生活の悠然を象徴する。\n文法説明：何所之は目的語前置の文で、通常の語順は「之何所」。\n典故説明：南山は終南山を指し、古代の隠士がよく隠棲した場所。\n意象分析：白雲は隠居生活の自由と静寂を象徴する。\n歴史背景：唐代の士人が失意するときはよく隠居を選び、当時の社会風潮を反映している。",
+        "es": "Bajar del caballo y beber tu vino: Descender del caballo para beber contigo. Beber tu vino, ofrecerte una copa de vino. Preguntarte a dónde vas: Preguntarte adónde te diriges. Dices que no estás satisfecho: Tú dices que te sientes insatisfecho. Regresar a dormir en el pie de la Montaña del Sur: Regresar a vivir en la base de la Montaña del Sur. Solo ve y no preguntes más: Simplemente ve, no preguntes de nuevo. Las nubes blancas no tienen fin: Las nubes blancas son interminables, simbolizando la tranquilidad de la vida ermitaña.\nGramática: '¿A dónde vas?' es una oración con el objeto anticipado, normalmente sería '¿vas a dónde?'.\nReferencias: La Montaña del Sur se refiere a la Montaña Zhongnan, un lugar común para ermitaños en la antigüedad.\nAnálisis de imágenes: Las nubes blancas simbolizan la libertad y la tranquilidad de la vida ermitaña.\nContexto histórico: Durante la dinastía Tang, los académicos a menudo elegían retirarse a las montañas cuando se sentían frustrados, reflejando la mentalidad social de la época.",
+        "ar": "النزول عن الحصان والشرب معك: النزول عن الحصان للشرب معك. شرب معك، تقديم كأس من الخمر لك. السؤال عن وجهتك: السؤال عن إلى أين تذهب. تقول أنك غير راضٍ: تقول أنك غير راضٍ عن حالك. العودة للنوم عند سفح جبل الجنوب: العودة للعيش عند سفح جبل الجنوب. اذهب ولا تسأل مجددًا: اذهب فقط، لا تسأل مرة أخرى. السحب البيضاء لا تنتهي أبدًا: السحب البيضاء لا تنتهي، ترمز إلى الهدوء في حياة الزهد.\nالنحو: 'إلى أين تذهب؟' جملة فيها تقديم للمفعول به، الطريقة الطبيعية ستكون 'تذهب إلى أين؟'.\nالإشارات: جبل الجنوب يشير إلى جبل تشونغنان، مكان شائع للزهاد في العصور القديمة.\nتحليل الصور: السحب البيضاء ترمز إلى الحرية والهدوء في حياة الزهد.\nالخلفية التاريخية: خلال فترة سلالة تانغ، كان العلماء غالبًا ما يختارون العزلة في الجبال عندما يشعرون بالإحباط، مما يعكس الروح الاجتماعية للépoque."
+    },
+    "appreciations": {
+        "zh": "《送别》这首诗以简洁明快的语言，表达了诗人对友人失意归隐的深切理解和宽慰。主题思想在于劝慰友人放下世俗烦恼，回归自然，追求内心的宁静。写作特色上，诗人通过问答的形式，层层推进，情感真挚而不失含蓄。艺术成就方面，诗歌以简洁的意象（如白云）传达了深远的意境，展现了高超的艺术表现力。情感分析上，诗人既表达了对友人遭遇的同情，又流露出对隐逸生活的向往。影响意义上，这首诗在文学史上具有重要地位，成为送别诗的经典之作，影响了后世许多诗人。",
+        "en": "The poem 'Farewell' uses concise and clear language to express the poet's deep understanding and comfort for his friend's disappointment and retreat into seclusion. The main theme is to console the friend to let go of worldly troubles and return to nature, seeking inner peace. In terms of writing style, the poet uses a question-and-answer format, gradually advancing the narrative with sincere yet reserved emotions. Artistically, the poem conveys profound imagery through simple images like 'white clouds', demonstrating remarkable artistic expression. Emotionally, the poet expresses sympathy for his friend's plight while revealing a longing for a reclusive life. Historically, this poem holds a significant place in literary history, becoming a classic farewell poem that has influenced many poets in later generations.",
+        "ja": "「送別」の詩は、簡潔明瞭な言葉で、詩人が友人の不遇と隠遁に対する深い理解と慰めを表現しています。主題思想は、友人に世俗の煩悩を捨てて自然に帰り、心の平穏を求めるよう勧めることです。表現手法としては、質問応答の形式を取り、情感を真摯かつ控えめに進行させています。芸術的成果としては、簡潔なイメージ（例えば白雲）で深遠な意境を伝え、高い芸術表現力を示しています。感情分析では、友人の境遇に対する同情と隠逸生活への憧れが表れています。影響の意味では、この詩は文学史上重要な地位を占め、送別詩の古典的名作として後世の多くの詩人に影響を与えました。",
+        "es": "El poema 'Despedida' utiliza un lenguaje conciso y claro para expresar la comprensión profunda y el consuelo del poeta hacia la desilusión y el retiro de su amigo. El tema principal es consolar al amigo para que deje atrás las preocupaciones mundanas y regrese a la naturaleza, buscando la paz interior. En cuanto al estilo de escritura, el poeta emplea un formato de preguntas y respuestas, avanzando gradualmente con emociones sinceras pero reservadas. Artísticamente, el poema transmite una imaginería profunda a través de imágenes simples como 'nubes blancas', mostrando una destacada capacidad de expresión artística. En el análisis emocional, el poeta expresa simpatía por la situación de su amigo y revela un deseo por la vida ermitaña. En términos de influencia, este poema ocupa un lugar significativo en la historia literaria, convirtiéndose en una obra clásica de despedida que ha influido en muchos poetas de generaciones posteriores.",
+        "ar": "القصيدة 'الوداع' تستخدم لغة موجزة وواضحة للتعبير عن فهم الشاعر العميق وتعاطفه مع إحباط صديقه واعتزاله. الفكرة الرئيسية هي تهدئة الصديق ليترك وراءه متاعب الدنيا ويعود إلى الطبيعة، باحثًا عن السلام الداخلي. فيما يتعلق بالأسلوب الكتابي، يستخدم الشاعر صيغة السؤال والجواب، متقدمًا تدريجيًا بمشاعر صادقة ولكن متحفظة. من الناحية الفنية، ت truyền القصيدة صورًا عميقة من خلال صور بسيطة مثل 'السحب البيضاء'، مما يدل على قدرة فنية متميزة. في التحليل العاطفي، يعبر الشاعر عن تعاطفه مع وضع صديقه ويفضح رغبة في الحياة الزاهدة. من حيث التأثير، تحتل هذه القصيدة مكانة هامة في تاريخ الأدب، لتصبح عملًا كلاسيكيًا في قصائد الوداع أثرت في العديد من الشعراء في الأجيال اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "下马与你共饮一杯酒，问你将要前往何方？你说心中不得意，打算归隐南山旁。只管离去不必再问，白云飘荡永无尽头。",
+            "en": "Dismounting, I drink with you, asking where you will go. You say you are disheartened, returning to rest by the Southern Mountain. Just go, and do not ask again, for the white clouds are endless.",
+            "ja": "馬を降りて君と酒を飲み、君がどこへ行くのかを尋ねる。君は不得意だと言い、南山のほとりに帰って寝るという。ただ行けばよい、もはや問うなかれ、白雲は尽きることがない。",
+            "es": "Desmontando, bebo contigo, preguntándote a dónde irás. Dices que estás desanimado, volviendo a descansar al pie de la Montaña del Sur. Solo ve, no preguntes más, las nubes blancas son interminables.",
+            "ar": "أترجل وأشرب معك، أسألك إلى أين تذهب؟ تقول أنك غير راضٍ، تعود للنوم عند سفح الجبل الجنوبي. اذهب فقط ولا تسأل مجددًا، فالسحب البيضاء لا تنتهي أبدًا."
+        },
+        "title_translation": {
+            "zh": "送别",
+            "en": "Farewell",
+            "ja": "送別",
+            "es": "Despedida",
+            "ar": "الوداع"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "下马饮君酒，问君何所之？\n君言不得意，归卧南山陲。\n但去莫复问，白云无尽时。",
+    "title_pinyin": "sòng bié",
+    "pinyin": "xià mǎ yǐn jūn jiǔ，wèn jūn hé suǒ zhī？\njūn yán bù dé yì，guī wò nán shān chuí。\ndàn qù mò fù wèn，bái yún wú jǐn shí。"
+}

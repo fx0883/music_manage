@@ -1,0 +1,57 @@
+{
+    "title": "塞下曲",
+    "difficulty": 2,
+    "author": {
+        "name": "王昌龄",
+        "name_pinyin": "wáng chāng líng",
+        "image": "王昌龄.jpg",
+        "introduction": {
+            "zh": "王昌龄（约698年—757年），字少伯，唐朝著名边塞诗人，与高适、岑参、王之涣合称“边塞四杰”。其诗多描写边塞风光和军旅生活，风格雄浑豪放，意境深远。代表作有《出塞》、《从军行》等。此诗《塞下曲》描绘了边塞秋景的萧瑟与战争的残酷，表达了诗人对战争的深刻反思。",
+            "en": "Wang Changling (approximately 698-757), styled Shaobo, was a renowned Tang Dynasty poet known for his frontier-themed poetry. Alongside Gao Shi, Cen Shen, and Wang Zhihuan, he was one of the 'Four Great Frontier Poets'. His works often depicted the landscapes of the border regions and the life of soldiers, characterized by a grand and heroic style with profound imagery. His famous works include 'Out of the Frontier' and 'Marching Song'. The poem 'Frontier Song' vividly portrays the desolate autumn scenery of the border and the brutality of war, reflecting the poet's deep contemplation on war.",
+            "ja": "王昌齢（おう しょうれい、約698年－757年）、字は少伯、唐代の著名な辺塞詩人であり、高適、岑参、王之渙と共に「辺塞四傑」と称される。彼の詩は多くが辺塞の風景や軍隊生活を描き、雄渾豪放なスタイルと深遠な意境を持つ。代表作には「出塞」、「従軍行」などがある。この詩「塞下曲」は、辺塞の秋景色の寂寥と戦争の残酷さを描き、詩人が戦争に対する深い省察を表している。",
+            "es": "Wang Changling (aproximadamente 698-757), conocido por su estilo Shaobo, fue un destacado poeta de la dinastía Tang especializado en poesía de temas fronterizos. Junto con Gao Shi, Cen Shen y Wang Zhihuan, formó parte de los 'Cuatro Grandes Poetas de la Frontera'. Sus obras a menudo describían los paisajes de las regiones fronterizas y la vida militar, caracterizándose por un estilo grandioso y heroico con imágenes profundas. Entre sus obras más famosas se encuentran 'Fuera de la Frontera' y 'Canción del Marchar'. El poema 'Canción de la Frontera' pinta vívidamente el desolado paisaje otoñal de la frontera y la brutalidad de la guerra, reflejando la profunda reflexión del poeta sobre la guerra.",
+            "ar": "وانغ تشانغلينغ (حوالي 698-757)، المعروف بلقب شاوبو، كان شاعرًا مشهورًا في عهد التانغ متخصصًا في الشعر الحدودي. إلى جانب غاو شي، تسين شين، وانغ زهيهوان، كان واحدًا من 'أربعة شعراء عظام للحدود'. غالبًا ما تصف أعماله مناظر المناطق الحدودية وحياة الجنود، وتتميز بأسلوبها العظيم والبطل، وصورها العميقة. من أشهر أعماله 'خارج الحدود' و'أغنية المسير'. يصور الشعر 'أغنية تحت الحصار' بشكل حيّ الخريف القاحل في الحدود والوحشية الحرب، معبرًا عن تأملات الشاعر العميقة حول الحرب."
+        }
+    },
+    "annotations": {
+        "zh": "饮马渡秋水：给马饮水，渡过秋天的河水。水寒风似刀：河水寒冷，秋风如同刀割。平沙日未没：平坦的沙地上，太阳尚未落山。黯黯见临洮：昏暗之中隐约看到临洮。昔日长城战：过去在长城发生的战斗。咸言意气高：都说当时士气高昂。黄尘足今古：黄沙弥漫，从古至今。白骨乱蓬蒿：白骨散落在蓬蒿之间。\n\n词语解释：\n饮马：给马饮水。秋水：秋天的河水。临洮：古地名，今甘肃岷县。咸言：都说。意气：士气。蓬蒿：一种草本植物。\n\n语法说明：\n无特殊句式。\n\n典故解释：\n长城战：指历史上在长城一带发生的战斗，多指抵御外敌的战役。\n\n意象分析：\n秋水、寒风、平沙、白骨等意象营造出边塞的荒凉和战争的残酷。\n\n历史背景：\n唐代边塞诗多描写边疆戍卒的生活和战争场景，反映了当时边疆的紧张局势和士兵的艰辛。",
+        "en": "Drinking horses cross the autumn water; the water is cold and the wind is like a knife. On the flat sand, the sun has not yet set; dimly, one sees Lintao. In the past, battles were fought at the Great Wall; all say the morale was high. Yellow dust fills ancient and modern times; white bones are scattered among the wormwood.\n\nWord Explanation:\nDrinking horses: giving horses water to drink. Autumn water: the water of autumn. Lintao: an ancient place name, now Min County in Gansu Province. All say: everyone says. Morale: spirit, enthusiasm. Wormwood: a type of herb.\n\nGrammar Explanation:\nNo special sentence structures.\n\nAllusion Explanation:\nGreat Wall battles: refers to historical battles fought near the Great Wall, often involving defense against external enemies.\n\nImagery Analysis:\nImagery such as autumn water, cold wind, flat sand, and white bones create a desolate atmosphere and highlight the cruelty of war.\n\nHistorical Background:\nTang Dynasty frontier poems often depict the life of border soldiers and war scenes, reflecting the tense situation at the borders and the hardships faced by soldiers.",
+        "ja": "飲馬渡秋水：馬に水を飲ませて秋の川を渡る。水寒風似刀：水が冷たく、風が刀のように鋭い。平沙日未没：平らな砂地で、太陽はまだ沈まない。黯黯見臨洮：薄暗くて臨洮が見える。昔日長城戦：昔、長城での戦い。咸言意気高：皆、士気が高かったと言う。黄塵足今古：黄砂は古い時代から今に至るまである。白骨乱蓬蒿：白骨が蓬蒿の間に散らばっている。\n\n語詞解釈：\n飲馬：馬に水を飲ませる。秋水：秋の川の水。臨洮：古代の地名、現在の甘粛省岷県。咸言：皆言う。意気：士気。蓬蒿：一种の草本植物。\n\n文法説明：\n特殊な文法はない。\n\n典故解釈：\n長城戦：歴史上、長城付近で行われた戦いを指し、多くは外敵に対する防衛戦を意味する。\n\n意象分析：\n秋水、寒風、平沙、白骨などの意象が辺塞の荒涼と戦争の残酷さを表現している。\n\n歴史背景：\n唐代の辺塞詩は多くが辺境の兵士の生活や戦争の情景を描き、当時の辺境の緊張状態と兵士の困難を反映している。",
+        "es": "Beben caballos cruzan el agua de otoño; el agua está fría y el viento es como una navaja. En la arena plana, el sol no se ha puesto aún; oscuramente, se ve Lintao. En el pasado, se libraban batallas en la Gran Muralla; todos dicen que el ánimo era alto. El polvo amarillo llena tiempos antiguos y modernos; huesos blancos están esparcidos entre el ajenjo.\n\nExplicación de palabras:\nBeben caballos: dar agua a los caballos para beber. Agua de otoño: el agua del otoño. Lintao: un nombre de lugar antiguo, ahora el condado de Min en la provincia de Gansu. Todos dicen: todos dicen. Ánimo: moral, entusiasmo. Ajenjo: una hierba.\n\nExplicación gramatical:\nNo hay estructuras gramaticales especiales.\n\nExplicación de alusiones:\nBatallas de la Gran Muralla: se refiere a las batallas históricas libradas cerca de la Gran Muralla, a menudo involucrando la defensa contra enemigos externos.\n\nAnálisis de imágenes:\nImágenes como el agua de otoño, el viento frío, la arena plana y los huesos blancos crean una atmósfera desolada y resaltan la crueldad de la guerra.\n\nContexto histórico:\nLos poemas de la frontera de la dinastía Tang a menudo describen la vida de los soldados fronterizos y las escenas de guerra, reflejando la situación tensa en las fronteras y las dificultades enfrentadas por los soldados.",
+        "ar": "يسقي الخيول يعبرون ماء الخريف؛ الماء بارد والرياح كالسكين. على الرمل المسطح، لم يغب الشمس بعد؛ في الظلام، يرى لينتاو. في الماضي، كانت هناك معارك عند الجدار العظيم؛ يقول الجميع أن الروح المعنوية كانت عالية. الغبار الأصفر يملأ الزمن القديم والحديث؛ العظام البيضاء متناثرة بين الأفسنتين.\n\nشرح الكلمات:\nيسقي الخيول: إعطاء الخيول الماء للشرب. ماء الخريف: ماء فصل الخريف. لينتاو: اسم مكان قديم، الآن مقاطعة مين في مقاطعة قانسو. يقول الجميع: جميعهم يقولون. الروح المعنوية: المعنويات، الحماس. الأفسنتين: نوع من الأعشاب.\n\nشرح النحوي:\nلا توجد بنى نحوية خاصة.\n\nشرح الأمثال:\nمعارك الجدار العظيم: تشير إلى المعارك التاريخية التي دارت بالقرب من الجدار العظيم، غالباً ما تتعلق بالدفاع ضد الأعداء الخارجيين.\n\nتحليل الصور:\nصور مثل ماء الخريف، الرياح الباردة، الرمل المسطح والعظام البيضاء تخلق جواً قاحل وتبرز وحشية الحرب.\n\nالخلفية التاريخية:\nقصائد الحدود في العصر التانغ غالباً ما تصف حياة الجنود على الحدود وأساليب الحرب، مما يعكس التوتر على الحدود وصعوبة الجنود."
+    },
+    "appreciations": {
+        "zh": "《塞下曲》通过描绘边塞秋景和战争的残酷，表达了作者对战争的反思和对士兵的同情。主题思想是战争的残酷与历史的沉重。写作特色上，运用了对比和象征手法，如水寒风似刀、黄尘白骨，增强了作品的感染力。艺术成就方面，诗歌通过简洁的语言和生动的意象，深刻揭示了战争的悲剧性，具有较高的艺术价值。情感分析上，诗中流露出对战争的厌恶和对士兵的哀怜。影响意义上，这首诗在唐代边塞诗中具有重要地位，对后世战争题材的文学创作产生了深远影响。",
+        "en": "The poem 'Jade Terrace' depicts the autumn scenery of the frontier and the cruelty of war, expressing the author's reflection on war and sympathy for soldiers. The main theme is the cruelty of war and the weight of history. In terms of writing features, it employs contrast and symbolism, such as the cold water and wind like a knife, and the yellow dust and white bones, enhancing the poem's impact. Artistically, the poem reveals the tragic nature of war through concise language and vivid imagery, possessing high artistic value. Emotionally, it conveys a disgust for war and pity for soldiers. In terms of influence, this poem holds a significant place in Tang Dynasty frontier poetry and has had a profound impact on later literary works on the theme of war.",
+        "ja": "《塞下曲》は辺塞の秋景色と戦争の残酷さを描き、作者の戦争に対する反省と兵士への同情を表現している。主題思想は戦争の残酷さと歴史の重さである。表現手法としては、対比や象徴を用いており、水の寒さや風の刃のようさ、黄塵や白骨が作品の感染力を高めている。芸術的成就としては、簡潔な言語と生き生きとしたイメージを通じて、戦争の悲劇性を深く示しており、高い芸術価値を持つ。感情分析では、戦争への嫌悪感と兵士への哀れみが感じられる。影響の意味では、唐代辺塞詩において重要な地位を占め、後世の戦争題材の文学創作に深い影響を与えた。",
+        "es": "El poema 'Canción de la frontera' retrata el paisaje otoñal de la frontera y la crueldad de la guerra, expresando la reflexión del autor sobre la guerra y la compasión por los soldados. El tema principal es la crueldad de la guerra y el peso de la historia. En cuanto a las características de escritura, utiliza el contraste y la simbología, como el agua fría y el viento cortante, y el polvo amarillo y los huesos blancos, lo que refuerza el impacto de la obra. Artísticamente, el poema revela la naturaleza trágica de la guerra a través de un lenguaje conciso y una imaginería vívida, poseyendo un alto valor artístico. En el análisis emocional, se desprende un desprecio por la guerra y una lástima por los soldados. En términos de influencia, este poema ocupa un lugar importante en la poesía fronteriza de la dinastía Tang y ha tenido un profundo impacto en la creación literaria posterior sobre el tema de la guerra.",
+        "ar": "القصيدة 'أغنية الحدود' تصور مناظر الخريف على الحدود والقسوة الحرب، تعبيراً عن تفكير الشاعر في الحرب وشفقة على الجنود. الفكرة الرئيسية هي قسوة الحرب وثقل التاريخ. من حيث خصائص الكتابة، تستخدم المقارنة والرمزية، مثل الماء البارد والرياح كالسكين، والغبار الأصفر والعظام البيضاء، مما يعزز تأثير العمل. فنياً، تكشف القصيدة الطبيعة المأساوية للحرب من خلال لغة موجزة وتصورات حية، مما تتمتع بقيمة فنية عالية. في التحليل العاطفي، تتضح نفور من الحرب وشفقة على الجنود. من حيث التأثير، تحتل هذه القصيدة مكانة مهمة في الشعر الحدودي في عهد التانغ وأثرت بشكل عميق في الأعمال الأدبية اللاحقة حول موضوع الحرب."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "饮马渡秋水，水寒风似刀。\n平沙日未没，黯黯见临洮。\n昔日长城战，咸言意气高。\n黄尘足今古，白骨乱蓬蒿。",
+            "en": "Watering horses at the autumn river, the water cold, the wind like a knife.\nOn the flat sands, the sun has not yet set, dimly I see Lintao.\nIn days of old, battles at the Great Wall, all spoke of high spirits.\nYellow dust covers ancient and modern times, white bones scattered among the thistles.",
+            "ja": "秋の川で馬を飲ませ、水は冷たく風は刀のよう。\n平らな砂漠に日が沈まず、かすかに臨洮が見える。\n昔日の長城の戦い、皆気概が高かったと語る。\n黄塵は古今を覆い、白骨は蓬蒿の中に散らばる。",
+            "es": "Abrevando caballos en el río de otoño, el agua fría, el viento como una daga.\nEn la arena plana el sol no se ha puesto, oscuramente veo Lintao.\nEn tiempos antiguos, batallas en la Gran Muralla, todos hablan de gran entusiasmo.\nPolvo amarillo cubre tiempos antiguos y modernos, huesos blancos entre la hierba.",
+            "ar": "سقى الخيل في ماء الخريف، الماء بارد والرياح كالسكين.\nفي الرمال المسطحة، الشمس لم تغرب بعد، أرى لينتاو بشكل غامق.\nفي الأيام الخوالي، معارك عند الجدار العظيم، كلهم يتحدثون عن الروح العالية.\nالغبار الأصفر يغطي الزمن القديم والحديث، العظام البيضاء متناثرة بين الأعشاب."
+        },
+        "title_translation": {
+            "zh": "塞下曲",
+            "en": "Frontier Song",
+            "ja": "塞下曲",
+            "es": "Canción de la Frontera",
+            "ar": "قصيدة الحدود"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "饮马渡秋水，水寒风似刀。\n平沙日未没，黯黯见临洮。\n昔日长城战，咸言意气高。\n黄尘足今古，白骨乱蓬蒿。",
+    "title_pinyin": "sāi xià qū",
+    "pinyin": "yǐn mǎ dù qiū shuǐ，shuǐ hán fēng shì dāo。\npíng shā rì wèi méi，àn àn jiàn lín táo。\nxī rì zhǎng chéng zhàn，xián yán yì qì gāo。\nhuáng chén zú jīn gǔ，bái gǔ luàn péng hāo。"
+}

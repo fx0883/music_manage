@@ -1,0 +1,57 @@
+{
+    "title": "鹿柴",
+    "difficulty": 2,
+    "author": {
+        "name": "王维",
+        "name_pinyin": "wáng wéi",
+        "image": "王维.jpg",
+        "introduction": {
+            "zh": "王维（693年或694年或701年—761年），字摩诘，号摩诘居士。河东蒲州（今山西永济）人，祖籍山西祁县。唐朝诗人、画家。他精通诗、书、画、音乐等，以诗名盛于开元、天宝间，尤长五言，多咏山水田园，与孟浩然合称“王孟”，有“诗佛”之称。苏轼评价其：“味摩诘之诗，诗中有画；观摩诘之画，画中有诗。”其诗风清新淡远，自然脱俗，是唐代山水田园诗派的代表人物。",
+            "en": "Wang Wei (693 or 694 or 701–761), styled Mojie, also known as Mojie居士. He was from Hedong Puzhou (present-day Yongji, Shanxi), with ancestral roots in Qixian, Shanxi. A poet and painter of the Tang Dynasty, he excelled in poetry, calligraphy, painting, and music. His poetic fame flourished during the Kaiyuan and Tianbao periods, particularly in five-character verses, often depicting landscapes and pastoral scenes. He is often paired with Meng Haoran as 'Wang Meng' and is known as the 'Poetic Buddha'. Su Shi praised him: 'In tasting Mojie's poems, there are paintings within; in viewing Mojie's paintings, there are poems within.' His poetic style is fresh and distant, natural and unworldly, making him a representative figure of the Tang Dynasty's landscape and pastoral poetry.",
+            "ja": "王維（693年または694年または701年～761年）、字は摩詰、号は摩詰居士。河東蒲州（現在の山西省永済市）出身、祖先の籍は山西省祁県。唐時代の詩人、画家。詩、書、画、音楽などに精通し、開元・天宝期に詩名を高め、特に五言詩に長け、山水田園を多く詠んだ。孟浩然と共に「王孟」と称され、「詩仏」とも呼ばれる。蘇軾は彼を評して、「摩詰の詩を読むと、詩の中に画がある。摩詰の画を見ると、画の中に詩がある」と言った。彼の詩風は清新で遠く、自然で俗世離れしており、唐代山水田園詩派の代表的人物である。",
+            "es": "Wang Wei (693 o 694 o 701-761), apodado Mojie, también conocido como Mojie居士. Nació en Hedong Puzhou (actual Yongji, Shanxi), con raíces ancestrales en Qixian, Shanxi. Fue un poeta y pintor de la dinastía Tang, destacando en poesía, caligrafía, pintura y música. Su fama poética floreció durante los períodos Kaiyuan y Tianbao, especialmente en versos de cinco caracteres, a menudo describiendo paisajes y escenas pastorales. Es conocido junto con Meng Haoran como 'Wang Meng' y se le llama el 'Buda Poético'. Su Shi lo elogió: 'Al saborear los poemas de Mojie, hay pinturas dentro; al observar las pinturas de Mojie, hay poemas dentro'. Su estilo poético es fresco y distante, natural y desapegado del mundo, siendo una figura representativa de la poesía paisajística y pastoral de la dinastía Tang.",
+            "ar": "وانغ وي (693 أو 694 أو 701-761)، يُعرف بلقب موجي، ويعرف أيضًا بموجي居士. وُلد في هيدونغ بوتشو (اليوم يونغجي، شانьсяي)، وينحدر أصوله من تشيكسيان، شانьсяي. كان شاعرًا ورسامًا في عهد أسرة تانغ، برع في الشعر، والخط، والرسم، والموسيقى. اشتهر بشعره خلال فترات كاييوان وتيانباو، خاصة في الأشعار ذات الخمسة حروف، والتي غالبًا ما تصف المناظر الطبيعية والمناظر الريفية. يُعرف جنبًا إلى جنب مع مينغ هواوران بـ 'وانغ مينغ' ويُلقب بـ 'بوذا الشعر'. أشاد به سو شوي قائلًا: 'عند تذوق أشعار موجي، توجد اللوحات داخله؛ وعند مشاهدة لوحات موجي، توجد الأشعار داخله'. يتميز أسلوبه الشعري بالحداثة والبعد، الطبيعية والابتعاد عن العالم، مما يجعله شخصية مميزة في مدرسة الشعر الطبيعي والريفية لعهد أسرة تانغ."
+        }
+    },
+    "annotations": {
+        "zh": "空山：指幽静的山林。不见人：看不到人影。但闻：只听到。人语响：人的说话声。返景：夕阳的余晖。深林：茂密的树林。复照：再次照射。青苔：生长在阴湿地方的绿色苔藓。\n特殊句式：无特殊句式。\n典故解释：无特定典故。\n意象分析：空山、人语、返景、青苔，营造出一种幽静、空灵的自然景象。\n历史背景：此诗为王维晚年隐居辋川时所写，反映了唐代文人隐逸生活的情趣。",
+        "en": "Empty mountains: refers to a quiet forest. No one seen: no human figures are visible. But hear: only hear. Human voices: sounds of people talking. Returning light: the glow of the setting sun. Deep forest: dense woods. Again shines: shines again. Green moss: moss growing in damp, shaded places.\nGrammar notes: No special sentence structures.\nAllusion explanation: No specific allusions.\nImage analysis: Empty mountains, human voices, returning light, green moss, create a serene and ethereal natural scene.\nHistorical background: This poem was written by Wang Wei during his later years when he lived in seclusion at Wangchuan, reflecting the interests of Tang dynasty literati in reclusive life.",
+        "ja": "空山：静かな山林を指す。不见人：人影が見えない。但聞：しかし聞く。人語響：人の話し声。返景：夕日の残光。深林：濃密な森林。復照：再び照らす。青苔：湿った暗い場所に生える緑色の苔。\n特殊文法：特殊な文法はない。\n典故解説：特定の典故はない。\n意象分析：空山、人語、返景、青苔が、静かで幽玄な自然の風景を作り出している。\n歴史背景：この詩は王維が晩年、輞川に隠棲していた時に書かれ、唐代の文人の隠逸生活の趣味を反映している。",
+        "es": "Montañas vacías: se refiere a un bosque tranquilo. No se ve gente: no se ven figuras humanas. Pero se oye: solo se escucha. Voces humanas: sonidos de personas hablando. Luz que regresa: el resplandor del sol setting. Bosque profundo: bosque denso. Vuelve a iluminar: ilumina nuevamente. Musgo verde: musgo que crece en lugares húmedos y sombríos.\nNotas gramaticales: No hay estructuras gramaticales especiales.\nExplicación de alusiones: No hay alusiones específicas.\nAnálisis de imágenes: Montañas vacías, voces humanas, luz que regresa, musgo verde, crean una escena natural serena y etérea.\nContexto histórico: Este poema fue escrito por Wang Wei durante sus últimos años cuando vivía en reclusión en Wangchuan, reflejando los intereses de los literatos de la dinastía Tang en la vida ermitaña.",
+        "ar": "الجبال الفارغة: تشير إلى غابة هادئة. لا يرى الناس: لا توجد أ silhouettes بشرية مرئية. لكن يسمع: فقط يسمع. أصوات البشر: أصوات الناس يتحدثون. الضوء العائد: بريق الشمس المpuesta. الغابة العميقة: غابة كثيفة. يعيد الإضاءة: يضيء مرة أخرى. الطحلب الأخضر: الطحلب الذي ينمو في الأماكن الرطبة والمظللة.\nملاحظات نحوية: لا توجد بنى نحوية خاصة.\nشرح الإستعارات: لا توجد إستعارات محددة.\nتحليل الصور: الجبال الفارغة، أصوات البشر، الضوء العائد، الطحلب الأخضر، يخلق مشهداً طبيعياً هادئاً وغير مادي.\nالخلفية التاريخية: كتب هذا الشعر بواسطة وانغ وي خلال سنواته الأخيرة عندما كان يعيش في عزلة في وانغشوان، مما يعكس اهتمامات أدباء عصر التانغ بالحياة Eremitaña."
+    },
+    "appreciations": {
+        "zh": "《鹿柴》是唐代诗人王维的代表作之一，主题思想在于描绘大自然的宁静与深远，表达人与自然和谐共处的意境。写作特色上，诗人运用简洁的语言和细腻的笔触，通过听觉和视觉的结合，营造出一种空灵幽静的氛围。艺术成就方面，这首诗以简驭繁，以小见大，展现了王维‘诗中有画，画中有诗’的艺术风格。情感分析上，诗人通过对自然景物的描写，抒发了对隐逸生活的向往和对世俗纷扰的超然态度。影响意义上，这首诗在文学史上具有重要地位，是山水田园诗的典范，对后世诗歌创作产生了深远影响。",
+        "en": "Luzhai by Wang Wei, a representative work of the Tang Dynasty, centers on depicting the tranquility and depth of nature, conveying the harmony between man and nature. In terms of writing characteristics, the poet uses concise language and delicate touches, combining auditory and visual elements to create an ethereal and serene atmosphere. Artistically, the poem exemplifies simplicity controlling complexity, showcasing Wang Wei's style of 'poetry within painting, painting within poetry'. Emotionally, the poet expresses a longing for a reclusive life and a detached attitude towards worldly troubles through the depiction of natural scenery. Historically, this poem holds a significant place in literary history, serving as a model for landscape and pastoral poetry, profoundly influencing later poetic creations.",
+        "ja": "《鹿柴》は唐代の詩人王維の代表作の一つで、主題思想は自然の静寂と奥深さを描き、人と自然の調和を表現している。執筆の特色としては、詩人は簡潔な言葉と繊細な筆致を用い、聴覚と視覚の結合により空灵で幽静な雰囲気を作り出している。芸術的成果としては、簡に繁を制し、小さな中に大きなものを見せ、王維の「詩の中に画あり、画の中に詩あり」の芸術スタイルを示している。感情分析では、自然景物の描写を通じて、隠逸生活への向往と世俗の煩わしさに対する超然とした態度を抒発している。影響の意味では、この詩は文学史上重要な地位を占め、山水田園詩の典型として後世の詩作に深い影響を与えている。",
+        "es": "Luzhai de Wang Wei, una obra representativa de la dinastía Tang, se centra en la descripción de la tranquilidad y profundidad de la naturaleza, expresando la armonía entre el hombre y la naturaleza. En cuanto a las características de escritura, el poeta utiliza un lenguaje conciso y toques delicados, combinando elementos auditivos y visuales para crear una atmósfera etérea y serena. Artísticamente, el poema muestra cómo la simplicidad controla la complejidad, reflejando el estilo de Wang Wei de 'poesía dentro de la pintura, pintura dentro de la poesía'. En el análisis emocional, el poeta expresa un anhelo por la vida retirada y una actitud desapegada hacia las preocupaciones mundanas a través de la descripción del paisaje natural. En términos de significado e influencia, este poema ocupa un lugar importante en la historia de la literatura, sirviendo como un modelo de poesía paisajística y campestre, y teniendo una profunda influencia en la creación poética posterior.",
+        "ar": "Luzhai للشاعر وانغ وي، وهي عمل مميز من عهد التانغ، يركز على وصف هدوء الطبيعة وعمقها، معبرًا عن التآلف بين الإنسان والطبيعة. فيما يتعلق بميزات الكتابة، يستخدم الشاعر لغة موجزة ولمسات دقيقة، يجمع بين العناصر السمعية والبصرية لخلق جو روحاني وهادئ. من الناحية الفنية، يظهر الشعر كيف تتحكم البساطة في التعقيد، معكسًا أسلوب وانغ وي 'الشعر داخل اللوحة، اللوحة داخل الشعر'. في التحليل العاطفي، يعبر الشاعر عن رغبة في الحياة المنعزلة واتجاه متباعد عن هموم الدنيا من خلال وصف المناظر الطبيعية. من حيث المعنى والتأثير، يحتل هذا الشعر مكانة مهمة في تاريخ الأدب، حيث يعتبر نموذجًا للشعر الريفي والمناظري، ولديه تأثير عميق على الإنتاج الشعري اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "空寂的山中不见人影，只听到人声回荡。夕阳的余晖射入深林，又照在青苔之上。",
+            "en": "In the empty mountains, no one is seen, but echoes of human voices are heard. The setting sun's rays penetrate the deep forest, and again light up the green moss.",
+            "ja": "虚空の山には人影なく、人の声だけが響く。夕日が深い林に入り、再び青苔に光を当てる。",
+            "es": "En la montaña vacía, no se ve a nadie, pero se escucha el eco de voces humanas. Los rayos del sol poniente penetran en el bosque profundo, y vuelven a iluminar el musgo verde.",
+            "ar": "في الجبال الخاوية لا يرى أحد، لكن يسمع صدى أصوات الناس. أشعة заход الشمس تتسلل إلى الغابة العميقة، وتعيد الإضاءة على الطحالب الخضراء."
+        },
+        "title_translation": {
+            "zh": "鹿柴",
+            "en": "Deer Fence",
+            "ja": "鹿柵",
+            "es": "Valla de Ciervos",
+            "ar": "سياج الغزلان"
+        }
+    },
+    "genre": {
+        "name": "五言绝句",
+        "code": "wu_yan_jue_ju"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "空山不见人，但闻人语响。\n返景入深林，复照青苔上。",
+    "title_pinyin": "lù chái",
+    "pinyin": "kōng shān bù jiàn rén，dàn wén rén yǔ xiǎng。\nfǎn jǐng rù shēn lín，fù zhào qīng tái shàng。"
+}

@@ -1,0 +1,57 @@
+{
+    "title": "已凉",
+    "difficulty": 2,
+    "author": {
+        "name": "韩偓",
+        "name_pinyin": "hán wò",
+        "image": "韩偓.jpg",
+        "introduction": {
+            "zh": "韩偓，唐代著名诗人，字致光，号致尧，京兆万年（今陕西西安）人。他是唐末重要的政治人物和文学家，曾任翰林学士、中书舍人等职。韩偓的诗作以清丽婉约著称，尤其擅长写景抒情，其诗多反映晚唐社会的动荡和个人情感的细腻。代表作有《香奁集》等。",
+            "en": "Han Wo, a renowned poet of the Tang Dynasty, styled Zhi Guang and also known as Zhi Yao, was from Jingzhao Wannian (present-day Xi'an, Shaanxi). He was a significant political figure and litterateur in the late Tang Dynasty, serving as Hanlin Academician and Zhongshu Sheren among other positions. Han Wo's poetry is celebrated for its clarity and grace, particularly excelling in landscape depiction and emotional expression. His works often reflect the turmoil of late Tang society and the subtleties of personal feelings. His representative works include 'Xiang Lian Ji' and others.",
+            "ja": "韓偓は唐代の著名な詩人で、字は致光、号は致堯、京兆万年（現在の陝西省西安市）の人。唐末の重要な政治家であり文学者でもあり、翰林学士、中書舎人などを歴任した。韓偓の詩は清麗婉約で知られ、特に風景描写と抒情に優れており、多くの作品は晚唐社会の動乱と個人の繊細な感情を反映している。代表作に『香奁集』などがある。",
+            "es": "Han Wo es un poeta famoso de la dinastía Tang, cuyo nombre de cortesía es Zhi Guang y también se le conoce como Zhi Yao, oriundo de Jingzhao Wannian (actual Xi'an, Shaanxi). Fue una figura política y literaria importante en el final de la dinastía Tang, ocupando cargos como académico de Hanlin y secretario de Zhongshu. La poesía de Han Wo es conocida por su claridad y elegancia, destacando en la descripción de paisajes y la expresión emocional. Sus obras a menudo reflejan la agitación de la sociedad del final de la dinastía Tang y las sutilezas de los sentimientos personales. Entre sus obras representativas se encuentra 'Xiang Lian Ji'.",
+            "ar": "هان وو هو شاعر مشهور من عهد التانغ، ويُعرف بلقبه \"zhi guang\" و \"zhi yao\"، وهو من جينغتشاو وانيان (الآن شيان، شانشي). كان شخصية سياسية وأدبية هامة في نهاية عهد التانغ، شغل مناصب مثل أكاديمي هانلين ووكيل وزارة الشؤون الخارجية. اشتهرت شعرات هان وو بوضوحها وجمالها، وخاصة في وصف المناظر الطبيعية والتعبير العاطفي. تعكس أعماله غالبًا اضطرابات المجتمع في نهاية عهد التانغ ودقة المشاعر الشخصية. من بين أعماله البارزة \"Xiang Lian Ji\"."
+        }
+    },
+    "annotations": {
+        "zh": "碧阑干：指用碧玉或涂成碧绿色的栏杆。绣帘：用彩线绣成的帘子。猩血屏风：用猩红色绘制的屏风。画折枝：画有折枝花卉的图案。八尺龙须：指用龙须草编织的八尺长地毯。方锦褥：用方形锦缎制成的褥子。已凉天气未寒时：指天气已经转凉但尚未到寒冷的时候。此诗描绘了一幅秋日室内景象，通过对碧阑干、绣帘、猩血屏风等细节的描写，营造出一种温馨而略带凄凉的氛围。",
+        "en": "Green railing: refers to the railing made of green jade or painted green. Embroidered curtain: a curtain embroidered with colored threads. Scarlet screen: a screen painted in scarlet color. Painted broken branches: patterns depicting broken branches of flowers. Eight-foot dragon's beard: an eight-foot long carpet made of dragon's beard grass. Square brocade cushion: a cushion made of square brocade. The weather is cool but not yet cold: refers to the time when the weather has turned cool but is not yet cold. This poem depicts an autumn indoor scene, creating a warm yet slightly melancholic atmosphere through the detailed descriptions of the green railing, embroidered curtain, and scarlet screen.",
+        "ja": "碧阑干：碧玉または緑色に塗られた欄干を指す。繍帘：色糸で繍られたカーテン。猩血屏風：猩紅色で描かれた屏風。画折枝：折れた枝の花の模様。八尺龍須：龍の髭草で編まれた八尺の長さのカーペット。方錦褥：方形の錦で作られた敷物。已凉天气未寒时：天気はすでに涼しくなったが、まだ寒くない時期を指す。この詩は秋の室内の情景を描いており、碧阑干、繍帘、猩血屏風などの細かい描写を通じて、温かく少し寂しい雰囲気を作り出している。",
+        "es": "Baranda verde: se refiere a la barandilla hecha de jade verde o pintada de verde. Cortina bordada: una cortina bordada con hilos de colores. Pantalla de sangre de mono: una pantalla pintada de color escarlata. Ramas pintadas: patrones que representan ramas rotas de flores. Alfombra de ocho pies de barba de dragón: una alfombra de ocho pies de largo hecha de hierba de barba de dragón. Almohadón de brocado cuadrado: un cojín hecho de brocado cuadrado. El tiempo está fresco pero no frío: se refiere al momento en que el clima se ha enfriado pero aún no es frío. Este poema describe una escena interior de otoño, creando una atmósfera cálida pero ligeramente melancólica a través de las detalladas descripciones de la baranda verde, la cortina bordada y la pantalla de sangre de mono.",
+        "ar": "السور الأخضر: يشير إلى السور المصنوع من اليشم الأخضر أو المطلوب باللون الأخضر. الستارة المطرزة: ستارة مطرزة بخيوط ملونة. شاشة دم القرد: شاشة مطلية باللون الأحمر القرمزي. فروع مرسومة: أنماط تصور الفروع المكسورة من الزهور. سجادة بطول ثمانية أقدام من شعر التنين: سجادة بطول ثمانية أقدام مصنوعة من عشب شعر التنين. وسادة من البروكار المربع: وسادة مصنوعة من البروكار المربع. الجو بات باردًا لكنه ليس باردًا بعد: يشير إلى الوقت الذي يصبح فيه الجو باردًا لكنه ليس باردًا بعد. هذا الشعر يصور مشهدًا داخليًا خريفيًا، وينشئ جوًا دافئًا لكنه يحمل нотًا من الحزن من خلال التفاصيل الدقيقة لوصف السور الأخضر، الستارة المطرزة وشاشة دم القرد."
+    },
+    "appreciations": {
+        "zh": "《已凉》一诗以细腻的笔触描绘了一个秋日居室的景象，表达了诗人对季节更迭的敏感和对生活细节的品味。主题思想在于通过居室的静谧与舒适，反映出诗人内心的宁静与淡然。写作特色上，诗人运用了丰富的意象和色彩对比，如‘碧阑干’、‘猩血屏风’等，营造出一种视觉上的美感。艺术成就方面，诗歌以简洁的语言勾勒出丰富的画面，展现了唐代文人雅致的生活情趣。情感分析上，诗人在秋日已凉未寒之际，流露出对时光流逝的感慨和对当下片刻宁静的珍惜。影响意义上，这首诗作为唐代小品诗的代表，体现了唐代诗歌对生活细节的关注，对后世文人诗风有一定的影响。",
+        "en": "The poem 'Yi Liang' (Already Cool) delicately portrays the scene of an autumn room, reflecting the poet's sensitivity to seasonal changes and appreciation for life's details. The main theme is the inner tranquility and indifference mirrored by the quiet and comfortable room. In terms of writing style, the poet employs rich imagery and color contrasts, such as 'green railings' and 'crimson screen with broken branches,' creating a visual aesthetic. Artistically, the poem uses concise language to sketch a rich scene, showcasing the refined lifestyle of Tang dynasty literati. Emotionally, the poet expresses a sense of time passing and cherishes the moment of tranquility in the cool but not yet cold autumn. Historically, this poem, as a representative of Tang dynasty's short poems, reflects the attention to life's details in Tang poetry, influencing later literary styles.",
+        "ja": "「已凉」という詩は、繊細な筆致で秋の居室の情景を描き、詩人が季節の移り変わりに対する感受性と生活の細部に対する味わいを表現しています。主題思想は、居室内の静寂と快適さを通じて、詩人の内面の静けさと淡白さを反映しています。表現手法としては、「碧い欄干」、「猩血の屏風」などの豊かなイメージと色彩対比を用い、視覚的な美を創出しています。芸術的成就としては、簡潔な言葉で豊かな情景を描き出し、唐代文人の雅緻な生活情趣を示しています。感情分析では、秋の涼しさが感じられるが寒さはまだ来ていない時期に、時の流れに対する感慨と現在の一時の静けさを大切にする心情がにじみ出ています。影響の意味では、唐代の小品詩の代表として、生活の細部に対する注目を示し、後世の文人詩風に一定の影響を与えました。",
+        "es": "El poema 'Yi Liang' (Ya Frío) retrata con delicadeza la escena de una habitación en otoño, reflejando la sensibilidad del poeta hacia los cambios de estaciones y su aprecio por los detalles de la vida. El tema principal es la tranquilidad y la indiferencia interior reflejadas por la habitación tranquila y cómoda. En cuanto al estilo de escritura, el poeta utiliza una rica imaginería y contrastes de color, como 'barandas verdes' y 'pantalla de sangre de mono con ramas rotas', creando una estética visual. Artísticamente, el poema utiliza un lenguaje conciso para esbozar una escena rica, mostrando el refinado interés por la vida de los literatos de la dinastía Tang. En el análisis emocional, el poeta expresa una sensación de paso del tiempo y aprecia el momento de tranquilidad en el otoño fresco pero aún no frío. En términos de influencia, este poema, como representante de los poemas cortos de la dinastía Tang, refleja la atención a los detalles de la vida en la poesía Tang, influyendo en los estilos literarios posteriores.",
+        "ar": "القصيدة 'Yi Liang' (بالفعل بارد) تصور بلطف مشهد غرفة في الخريف، تعكس حساسية الشاعر للتغيرات الموسمية وتقديره لأدق تفاصيل الحياة. الفكرة الرئيسية هي السكون الداخلي واللامبالاة المعكسة من خلال الغرفة الهادئة والراحة. من حيث الأسلوب الكتابي، يستخدم الشاعر صورًا غنية وتناقضات الألوان، مثل 'السور الأخضر' و'الشاشة ذات الأغصان المكسورة بلون دم القرد'، مما يخلق جمالًا بصريًا. فنيًا، تستخدم القصيدة لغة موجزة لتصور مشهد غني، تظهر اهتمام الأدباء في عهد التانغ بالحياة الفاخرة. في تحليل العواطف، يعبر الشاعر عن شعوره بمرور الزمن ويقدر لحظة السكون في الخريف البارد ولكنه ليس باردًا بعد. من حيث التأثير، هذه القصيدة، كنموذج للقصائد القصيرة في عهد التانغ، تعكس الاهتمام بأدق تفاصيل الحياة في شعر التانغ، مؤثرة في أنماط الأدب اللاحقة."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "碧色的栏杆外，绣帘低垂，猩红色的屏风上画着折枝的花。八尺长的龙须草织成的方锦褥，天气已凉却还未到寒冷的时候。",
+            "en": "Beyond the green balustrade, the embroidered curtains hang low, on the scarlet screen painted with broken branches. An eight-foot square brocade mattress of dragon's beard grass, in the cool weather before the cold sets in.",
+            "ja": "碧い欄干の外に、刺繍の窗帘が垂れ、猩紅色の屏風には折れた枝が描かれている。八尺の龍の髭草で織られた方形の錦敷物、すでに涼しくなったが寒さは来ていない時。",
+            "es": "Fuera de la barandilla verde, las cortinas bordadas cuelgan, en la pantalla escarlata pintada con ramas rotas. Un colchón de brocado cuadrado de ocho pies de largo hecho de hierba de barba de dragón, en el clima fresco antes de que llegue el frío.",
+            "ar": "خلف السياج الأزرق، تتدلى الستائر المطرزة، وعلى الشاشة الحمراء مرسوم فروع مكسورة. وسادة حريرية مربعة بطول ثمانية أقدام مصنوعة من عشب شعر التنين، في الطقس البارد قبل حلول البرد."
+        },
+        "title_translation": {
+            "zh": "已凉",
+            "en": "Already Cool",
+            "ja": "既に涼しい",
+            "es": "Ya Frío",
+            "ar": "قديم البرد"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "碧阑干外绣帘垂，猩血屏风画折枝。\n八尺龙须方锦褥，已凉天气未寒时。",
+    "title_pinyin": "yǐ liáng",
+    "pinyin": "bì lán gàn wài xiù lián chuí，xīng xuè píng fēng huà zhé zhī。\nbā chǐ lóng xū fāng jǐn rù，yǐ liáng tiān qì wèi hán shí。"
+}

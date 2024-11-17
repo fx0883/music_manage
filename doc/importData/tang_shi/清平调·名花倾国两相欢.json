@@ -1,0 +1,57 @@
+{
+    "title": "清平调·名花倾国两相欢",
+    "difficulty": 2,
+    "author": {
+        "name": "李白",
+        "name_pinyin": "lǐ bái",
+        "image": "李白.jpg",
+        "introduction": {
+            "zh": "李白（701年－762年），字太白，号青莲居士，唐朝著名诗人，被后人尊称为“诗仙”。他的诗作以豪放、奔放著称，语言优美，想象丰富，具有强烈的个性色彩。李白的诗歌广泛涉及自然、人生、历史等多个领域，代表作有《将进酒》、《庐山谣》、《望庐山瀑布》等。他的诗歌对后世文学产生了深远的影响。",
+            "en": "Li Bai (701–762), styled Tai Bai and also known as the Hermit of Qinglian, was a renowned poet of the Tang Dynasty, revered as the 'Poet Immortal' by later generations. His poetry is celebrated for its boldness and exuberance, with exquisite language and rich imagination, reflecting a strong personal style. Li Bai's poems cover a wide range of themes including nature, life, and history, with famous works such as 'To the Wine', 'Song of Lushan', and 'Viewing the Waterfall at Lushan'. His poetry has had a profound influence on subsequent literary developments.",
+            "ja": "李白（701年－762年）、字は太白、号は青蓮居士、唐代の著名な詩人であり、後世の人々によって「詩仙」と敬称されている。彼の詩は豪放で奔放であり、言葉遣いが美しく、想像力が豊かで、強い個性を持っている。李白の詩は自然、人生、歴史など多岐にわたるテーマを扱っており、「将進酒」、「廬山謡」、「望廬山瀑布」などの代表作がある。彼の詩は後世の文学に深い影響を与えた。",
+            "es": "Li Bai (701-762), también conocido como Tai Bai y el Ermitaño de Qinglian, fue un destacado poeta de la dinastía Tang, venerado como el 'Poeta Inmortal' por las generaciones posteriores. Su poesía es famosa por su audacia y exuberancia, con un lenguaje exquisito y una imaginación rica, reflejando un estilo personal fuerte. Las obras de Li Bai abarcan una amplia gama de temas, incluyendo la naturaleza, la vida y la historia, con obras famosas como 'A la Vino', 'Canción de Lushan' y 'Viendo la Catarata de Lushan'. Su poesía ha tenido una influencia profunda en el desarrollo literario posterior.",
+            "ar": "لي بائي (701-762)، المعروف أيضًا بـ تاي باي و راهب تشينغليان، كان شاعرًا بارزًا في عهد التانغ، وأُعطي لقب 'الشاعر الخالد' من قبل الأجيال اللاحقة. أشعاره معروفة بجرأتها وحيويتها، ولغتها الراقية وتخيلها الثر، مما يعكس أسلوبًا شخصيًا قويًا. قصائده تغطي مجموعة واسعة من المواضيع تشمل الطبيعة، الحياة، والتاريخ، ومن أشهر أعماله 'للخمر'، 'أغنية لوشان'، و 'مشاهدة شلال لوشان'. تأثير أشعاره كان عميقًا في التطورات الأدبية اللاحقة."
+        }
+    },
+    "annotations": {
+        "zh": "名花倾国两相欢：名花指牡丹，倾国指绝色美女，这里指杨贵妃，两相欢指名花与美人相得益彰。常得君王带笑看：常能得到君王带着笑容观看。解释春风无限恨：春风指唐玄宗的恩宠，无限恨指宫中其他妃子的嫉妒与不满。沉香亭北倚栏杆：沉香亭是唐玄宗与杨贵妃游乐之地，倚栏杆指杨贵妃的姿态。\\n语法说明：此诗为七言绝句，句式工整，无特殊句式。\\n典故解释：名花倾国出自汉李延年歌'北方有佳人，绝世而独立，一顾倾人城，再顾倾人国'。\\n意象分析：名花与倾国相映成趣，春风与恨形成对比，沉香亭与栏杆构成具体场景。\\n历史背景：此诗为李白奉唐玄宗之命所作，描绘杨贵妃的美貌与受宠。",
+        "en": "Famous flowers and the beauty that captivates the country both delight each other, often seen by the emperor with a smiling face. The spring breeze explains boundless resentment, leaning on the railing north of the Aloes Pavilion.\\nGrammar Explanation: This poem is a seven-character quatrain with regular sentence structure, no special syntax.\\nAllusion Explanation: 'Famous flowers and the beauty' is derived from Li Yannian's song in the Han Dynasty, 'In the north there is a beauty, unique in the world, one glance captivates a city, another glance captivates a country.'\\nImagery Analysis: The contrast between famous flowers and the captivating beauty, the spring breeze and resentment, and the specific scene of the Aloes Pavilion and the railing.\\nHistorical Background: This poem was composed by Li Bai on the order of Emperor Xuanzong of the Tang Dynasty, depicting the beauty and favor of Yang Guifei.",
+        "ja": "名花と国を傾ける美女が互いに喜び合う、常に皇帝が笑顔で見守る。春風は限りない恨みを説明する、沈香亭の北で欄干にもたれる。\\n文法説明：この詩は七言絶句で、句構造が整っており、特殊な文法はない。\\n典故説明：「名花と国を傾ける美女」は漢の李延年之歌「北方に佳人あり、絶世して独立し、一顧して人を城に傾け、再顧して国に傾く」に由来する。\\n意象分析：名花と美女の相乗効果、春風と恨みの対比、沈香亭と欄干の具体的な情景。\\n歴史背景：この詩は李白が唐の玄宗の命を受けて作ったもので、楊貴妃の美貌と寵愛を描いている。",
+        "es": "Las flores famosas y la belleza que conquista el país se deleitan mutuamente, a menudo vistas por el emperador con una sonrisa. El viento de primavera explica el resentimiento sin límites, apoyándose en la barandilla al norte del Pabellón de Ámbar.\\nExplicación Gramatical: Este poema es un cuarteto de siete caracteres con una estructura de oración regular, sin sintaxis especial.\\nExplicación de la Alusión: 'Flores famosas y la belleza' se deriva de la canción de Li Yannian de la dinastía Han, 'En el norte hay una belleza, única en el mundo, una mirada conquista una ciudad, otra mirada conquista un país.'\\nAnálisis de Imágenes: El contraste entre las flores famosas y la belleza cautivadora, el viento de primavera y el resentimiento, y la escena específica del Pabellón de Ámbar y la barandilla.\\nContexto Histórico: Este poema fue compuesto por Li Bai por orden del Emperador Xuanzong de la dinastía Tang, describiendo la belleza y el favor de Yang Guifei.",
+        "ar": "الزهور الشهيرة والجمال الذي يغري البلاد يسران لبعضهما البعض، غالبًا ما يراه الإمبراطور بابتسامة. رياح الربيع تشرح الكراهية بلا حدود، تعتمد على القضيب شمال معبد العنبر.\\nشرح النحو: هذا الشعر هو قصيدة من سبعة حروف مع بنية جملة منتظمة، بدون نحو خاص.\\nشرح الإستعارة: 'الزهور الشهيرة والجمال' مستوحاة من أغنية لي ياننيان من عهد الهان، 'في الشمال هناك جمال، فريد في العالم، نظرة واحدة تغري المدينة، نظرة أخرى تغري البلاد.'\\nتحليل الصور: التباين بين الزهور الشهيرة والجمال المغري، رياح الربيع والكراهية، والمنظر المحدد لمعبد العنبر والقضيب.\\nالخلفية التاريخية: هذا الشعر كتبه لي باي بأمر من الإمبراطور شوانزونج من عهد التانغ، يصف جمال ويانغ غويفيي وحظوته."
+    },
+    "appreciations": {
+        "zh": "这首诗以名花和倾国美人相映成趣，表达了君王对美人和名花的宠爱与欣赏。主题思想在于赞美美人与名花，同时暗喻君王的愉悦心情。写作特色上，诗人运用了借景抒情的手法，将名花与美人并提，营造出一种和谐美好的氛围。艺术成就方面，诗句简洁而意境深远，色彩鲜明，形象生动，具有很高的艺术价值。情感分析上，诗人抒发了对美好事物的热爱和对君王愉悦心情的描绘。影响意义上，此诗作为唐代宫廷诗的代表作之一，展现了李白高超的艺术才华，对后世文学创作产生了深远影响。",
+        "en": "This poem juxtaposes the famous flower and the captivating beauty, expressing the king's affection and admiration for both. The central theme is to praise the beauty and the flower, subtly implying the king's joyful mood. In terms of writing style, the poet employs the technique of using scenery to express emotions, creating a harmonious and beautiful atmosphere by mentioning the flower and the beauty together. In terms of artistic achievement, the verses are concise yet profound, vivid in color and imagery, possessing high artistic value. Emotionally, the poet expresses his love for beautiful things and depicts the king's joyful mood. In terms of influence, this poem, as one of the representative works of Tang dynasty court poetry, showcases Li Bai's exceptional artistic talent and has had a profound impact on later literary creation.",
+        "ja": "この詩は名花と傾国の美女を対に置き、君主の美と花に対する愛情と賞賛を表現しています。主題思想は美と花を讃えることにあり、君主の喜びの気持ちを暗示しています。表現手法としては、情景を借りて感情を表す技法を用い、花と美女を併せて取り上げることで和やかで美しい雰囲気を作り出しています。芸術的成果としては、詩句は簡潔でありながら深遠な意境を持ち、色彩鮮やかで形象が生き生きとしており、高い芸術的価値を有しています。感情分析としては、詩人は美しいものへの愛情と君主の喜びの気持ちを描いています。影響の意味では、唐代の宮廷詩の代表作の一つとして、李白の高い芸術的才能を示し、後世の文学創作に深い影響を与えました。",
+        "es": "Este poema coloca la flor famosa y la belleza cautivadora en un contexto de mutuo deleite, expresando el afecto y la admiración del rey por ambas. El tema central es alabar la belleza y la flor, insinuando sutilmente el estado de ánimo alegre del rey. En cuanto a la técnica de escritura, el poeta utiliza el recurso de expresar emociones a través del paisaje, creando una atmósfera armoniosa y hermosa al mencionar la flor y la belleza juntas. En términos de logro artístico, los versos son concisos pero profundos, vívidos en color e imagen, poseyendo un alto valor artístico. En el análisis emocional, el poeta expresa su amor por las cosas bellas y describe el estado de ánimo alegre del rey. En cuanto a su significado e influencia, este poema, como una de las obras representativas de la poesía cortesana de la dinastía Tang, muestra el excepcional talento artístico de Li Bai y ha tenido un profundo impacto en la creación literaria posterior.",
+        "ar": "يتناول هذا الشعر وضعه الزهرة الشهيرة والجمال الفاتن في سياق متبادل اللذة، معربًا عن حب وإعجاب الملك بكل منهما. يركز الموضوع الرئيسي على مدح الجمال والزهرة، مشيرًا بشكل غير مباشر إلى مزاج الملك المبهج. فيما يتعلق بطريقة الكتابة، يستخدم الشاعر تقنية التعبير عن المشاعر من خلال المنظر، مما يخلق جوًا متناغمًا وجميلًا من خلال ذكر الزهرة والجمال معًا. من حيث الإنجاز الفني، تكون الأبيات موجزة ومع ذلك عميقة، وواضحة في الألوان والصور، وتتمتع بقيمة فنية عالية. في تحليل المشاعر، يعبر الشاعر عن حبه للأشياء الجميلة ويصف مزاج الملك المبهج. من حيث المعنى والتأثير، يعد هذا الشعر واحدًا من أعمال الشعر البلاطي للعهد التانغي، ويعرض موهبة لي باي الفنية الاستثنائية، ولديه تأثير عميق على الإبداع الأدبي اللاحق."
+    },
+    "interpretations": {
+        "content": {
+            "zh": "名花倾国两相欢，常得君王带笑看。\n解释春风无限恨，沉香亭北倚栏杆。",
+            "en": "The famous flower and the enchanting beauty delight in each other,\nOften seen by the sovereign with a smiling gaze.\nThey dispel the endless sorrows of the spring breeze,\nLeaning on the railing north of the Aloeswood Pavilion.",
+            "ja": "名花と傾国の美女、互いに喜び合う。\n常に君主が笑顔で見守る。\n春風の限りない恨みを解き明かす、\n沈香亭の北に凭れる。",
+            "es": "La flor famosa y la belleza que conquista países se deleitan mutuamente,\nA menudo observadas por el rey con una sonrisa.\nExplican los odios infinitos del viento de primavera,\nApoyándose en la barandilla al norte del Pabellón de Agarwood.",
+            "ar": "الزهور الشهيرة والجمال الذي يغري الأمم يسران معًا،\nغالبًا ما ينظر إليهما الملك بابتسامة.\nيشرحان الحزن اللانهائي لنسمة الربيع،\nمستندين إلى القضبان في شمال جناح العود."
+        },
+        "title_translation": {
+            "zh": "清平调·名花倾国两相欢",
+            "en": "Pure and Peaceful Melody: The Famous Flower and the Enchanting Beauty Delight in Each Other",
+            "ja": "清平調·名花傾国両相歓",
+            "es": "Melodía Serena: La Flor Famosa y la Belleza que Conquista Países se Deleitan Mutuamente",
+            "ar": "اللحن الهادئ: الزهرة الشهيرة والجمال الذي يغري الأمم يسران معًا"
+        }
+    },
+    "genre": {
+        "name": "其它",
+        "code": "qi_ta"
+    },
+    "type": {
+        "name": "唐诗",
+        "code": "tang_shi"
+    },
+    "content": "名花倾国两相欢，常得君王带笑看。\n解释春风无限恨，沉香亭北倚栏杆。",
+    "title_pinyin": "qīng píng diào·míng huā qīng guó liǎng xiāng huān",
+    "pinyin": "míng huā qīng guó liǎng xiāng huān，cháng dé jūn wáng dài xiào kàn。\njiě shì chūn fēng wú xiàn hèn，chén xiāng tíng běi yǐ lán gān。"
+}
