@@ -6,7 +6,7 @@ class Command(BaseCommand):
     help = '从JSON文件导入诗词类型数据'
 
     def add_arguments(self, parser):
-        parser.add_argument('--file', type=str, default='doc/importData/poem_types.json', help='JSON文件路径')
+        parser.add_argument('--file', type=str, default='doc/importData/poem_type.json', help='JSON文件路径')
 
     def handle(self, *args, **options):
         try:

@@ -1,6 +1,6 @@
 from .poem import Poem
 from .poem_type import PoemType
-from .author import Author
+from .author import Author, AuthorIntroduction
 from .language import Language
 from .interpretation import Interpretation
 from .appreciation import Appreciation
@@ -12,6 +12,7 @@ __all__ = [
     'Poem',
     'PoemType',
     'Author',
+    'AuthorIntroduction',
     'Language',
     'Interpretation',
     'Appreciation',
