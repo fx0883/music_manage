@@ -20,7 +20,8 @@ from django.contrib.auth.models import User
 from drf_spectacular.views import SpectacularAPIView, SpectacularSwaggerView, SpectacularRedocView
 from rest_framework import routers, serializers, viewsets, permissions
 from rest_framework_simplejwt.views import TokenRefreshView
-
+from django.conf import settings
+from django.conf.urls.static import static
 
 
 # Serializers define the API representation.
@@ -67,10 +68,15 @@ urlpatterns = [
     path('api/redoc/', SpectacularRedocView.as_view(url_name='schema'), name='redoc'),
 
 
-]
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+# 开发环境下添加静态文件服务
+# if settings.DEBUG:
+#     urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
 
 
+urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
 
 

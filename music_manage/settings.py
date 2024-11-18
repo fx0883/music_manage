@@ -218,12 +218,12 @@ USE_TZ = True
 
 
 STATIC_URL = "/static/"
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')  # 用于生产环境收集静态文件
 
-# STATIC_ROOT = os.path.join(BASE_DIR, "static")
-#
-# STATICFILES_DIRS = [
-#     os.path.join(BASE_DIR, "staticfiles"),
-# ]
+# 额外的静态文件目录
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static'),
+]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
@@ -285,7 +285,7 @@ SPECTACULAR_SETTINGS = {
 #
 #     # 配置认证方式
 #     'SECURITY': [
-#         {'jwtAuth': []},  # JWT 或其���自定义认证类型
+#         {'jwtAuth': []},  # JWT 或其自定义认证类型
 #     ],
 #
 #     # 其他设置
@@ -301,3 +301,7 @@ SPECTACULAR_SETTINGS = {
 #
 #
 # }
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
