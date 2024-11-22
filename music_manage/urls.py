@@ -40,41 +40,21 @@ router = routers.DefaultRouter()
 router.register(r'users', UserViewSet)
 
 
-
-
 urlpatterns = [
-    # path('api/token/', jwt_views.TokenObtainPairView.as_view(), name='token_obtain_pair'),
-    # path('api/token/refresh/', jwt_views.TokenRefreshView.as_view(), name='token_refresh'),
-    # path('api/token/verify/', jwt_views.TokenVerifyView.as_view(), name='token_verify'),
-    # dj-rest-auth 提供的登录、注销、注册等API
-    # path('auth/', include('dj_rest_auth.urls')),
-    #
-    # # JWT token 的刷新和验证
-    # path('auth/token/refresh/', jwt_views.TokenRefreshView.as_view(), name='token_refresh'),
-    # path('auth/token/verify/', jwt_views.TokenVerifyView.as_view(), name='token_verify'),
-
     path("api/v1/auth/", include("dj_rest_auth.urls")),
     path('admin/', admin.site.urls),
     path('api-auth/', include('rest_framework.urls')),
     path("music/", include("music.urls")),
+    # 添加 chinese 应用的 URLs
+    path("chinese/", include("chinese.urls")),
 
     # 用于生成 schema 的端点
     path('api/schema/', SpectacularAPIView.as_view(), name='schema'),
-
     # Swagger 文档的 UI 视图
     path('api/docs/', SpectacularSwaggerView.as_view(url_name='schema'), name='swagger-ui'),
-
     # Redoc 文档的 UI 视图
     path('api/redoc/', SpectacularRedocView.as_view(url_name='schema'), name='redoc'),
-
-
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
-
-# 开发环境下添加静态文件服务
-# if settings.DEBUG:
-#     urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
-
-
 
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 

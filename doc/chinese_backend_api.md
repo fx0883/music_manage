@@ -28,10 +28,41 @@
 3 在serializers 文件夹中实现所有api接口的数据序列化
 4 在models 文件夹中已经实现所有api接口需要用到的数据库模型
 5 在tests.py中实现所有api接口的测试用例
+6 所有的api需要有openapi文档, 请参考music/views/permalink_view.py中的写法
+
+类似这样的
+class PermalinkToOfficialURLAPIView(APIView):
+    """
+    API to return the official URL given a permalink_url.
+    """
+
+    @extend_schema(
+        operation_id='Permalink to Official URL API',
+        summary='Retrieve official URL from permalink',
+        description='This API accepts a permalink URL and returns the corresponding official URL.',
+        request={
+            'application/json': OpenApiTypes.OBJECT
+        },
+        examples=[
+            OpenApiExample(
+                'Permalink Request Example',
+                value={
+                    'permalink_url': 'https://soundcloud.com/nguyengocnhuynhxd/nhu-uoc-nguyen-vuong-phi',
+                },
+            )
+        ],
+        responses={
+            200: OpenApiTypes.OBJECT,  # Define the structure of the 200 response
+            400: OpenApiTypes.OBJECT,
+            500: OpenApiTypes.OBJECT,
+        }
+    )
+    def post(self, request):
+            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
 
 
 
 
-
+7 所有的api都要定义在chinese/urls.py中
