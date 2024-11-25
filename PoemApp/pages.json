@@ -1,0 +1,67 @@
+{
+	"pages": [
+		{
+			"path": "pages/poems/index",
+			"style": {
+				"navigationBarTitleText": "诗词摘录",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/recommend/index",
+			"style": {
+				"navigationBarTitleText": "每日推荐"
+			}
+		},
+		{
+			"path": "pages/game/index",
+			"style": {
+				"navigationBarTitleText": "诗词游戏"
+			}
+		},
+		{
+			"path": "pages/user/index",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/poems/index",
+				"iconPath": "static/tabbar/poem.png",
+				"selectedIconPath": "static/tabbar/poem-active.png",
+				"text": "诗词"
+			},
+			{
+				"pagePath": "pages/recommend/index",
+				"iconPath": "static/tabbar/recommend.png",
+				"selectedIconPath": "static/tabbar/recommend-active.png",
+				"text": "推荐"
+			},
+			{
+				"pagePath": "pages/game/index",
+				"iconPath": "static/tabbar/game.png",
+				"selectedIconPath": "static/tabbar/game-active.png",
+				"text": "游戏"
+			},
+			{
+				"pagePath": "pages/user/index",
+				"iconPath": "static/tabbar/user.png",
+				"selectedIconPath": "static/tabbar/user-active.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "诗词学习",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

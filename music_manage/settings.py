@@ -52,10 +52,12 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'rest_framework_simplejwt',
-    'dj_rest_auth'
+    'dj_rest_auth',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -63,7 +65,6 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    # 'music.middleware.AccessTokenMiddleware',
 ]
 
 ROOT_URLCONF = 'music_manage.urls'
@@ -312,4 +313,38 @@ SPECTACULAR_SETTINGS = {
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+# CORS配置
+CORS_ALLOW_ALL_ORIGINS = True
+
+# 允许的HTTP方法
+CORS_ALLOWED_METHODS = [
+    'GET',
+    'POST',
+    'PUT',
+    'PATCH',
+    'DELETE',
+    'OPTIONS'
+]
+
+# 允许的请求头
+CORS_ALLOWED_HEADERS = [
+    'accept',
+    'accept-encoding',
+    'authorization',
+    'content-type',
+    'dnt',
+    'origin',
+    'user-agent',
+    'x-requested-with',
+]
+
+# 允许暴露的响应头
+CORS_EXPOSE_HEADERS = []
+
+# 预检请求的有效期，单位秒
+CORS_PREFLIGHT_MAX_AGE = 86400
+
+# 是否允许cookie
+CORS_ALLOW_CREDENTIALS = False  # 改为False，因为我们不需要发送认证信息
 

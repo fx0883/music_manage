@@ -7,6 +7,8 @@ from chinese.serializers.poem import PoemListSerializer, PoemDetailSerializer
 from drf_spectacular.utils import extend_schema, OpenApiParameter, OpenApiExample
 import random
 from django.core.paginator import Paginator
+from datetime import datetime
+import hashlib
 
 class PoemViewSet(viewsets.ReadOnlyModelViewSet):
     """
@@ -39,6 +41,9 @@ class PoemViewSet(viewsets.ReadOnlyModelViewSet):
         except Language.DoesNotExist:
             # 如果找不到指定语言，使用中文
             context['language'] = Language.objects.get(code='zh')
+        
+        # 确保request对象在上下文中
+        context['request'] = self.request
         return context
 
     def get_queryset(self):
@@ -157,7 +162,7 @@ class PoemViewSet(viewsets.ReadOnlyModelViewSet):
         # 序列化数据
         serializer = self.get_serializer(current_page.object_list, many=True)
         
-        # 构建分页信息
+        # 构分页信息
         has_next = current_page.has_next()
         has_previous = current_page.has_previous()
         
@@ -190,7 +195,7 @@ class PoemViewSet(viewsets.ReadOnlyModelViewSet):
 
     @extend_schema(
         summary="获取随机背诵题目",
-        description="随机选择一首诗的一句，并随机遮盖部分字词作为背诵题目",
+        description="随机选择一首诗的一句，并随机遮部分字词作为背诵题目",
         responses={200: {
             "type": "object",
             "properties": {
@@ -236,4 +241,46 @@ class PoemViewSet(viewsets.ReadOnlyModelViewSet):
             'poem_title': poem.title,
             'quiz_line': quiz_line,
             'answer': answer
+        })
+
+    @extend_schema(
+        summary="获取每日推荐诗歌",
+        description="返回20首推荐诗歌。同一天返回的内容相同，每天更新推荐列表。",
+        parameters=[
+            OpenApiParameter(
+                name='language',
+                type=str,
+                description='语言代码 (例如: en, zh, ja)',
+                required=False,
+                default='zh'
+            )
+        ],
+        responses={200: PoemListSerializer(many=True)}
+    )
+    @action(detail=False, methods=['get'])
+    def daily_recommendations(self, request):
+        """获取每日推荐诗歌"""
+        # 获取当前日期作为种子
+        today = datetime.now().strftime('%Y-%m-%d')
+        
+        # 使用日期生成固定的随机种子
+        seed = int(hashlib.md5(today.encode()).hexdigest(), 16)
+        random.seed(seed)
+        
+        # 获取所有诗歌并随机选择20首
+        all_poems = list(Poem.objects.all())
+        recommended_count = min(20, len(all_poems))
+        recommended_poems = random.sample(all_poems, recommended_count)
+        
+        # 重置随机种子
+        random.seed()
+        
+        # 序列化数据
+        context = self.get_serializer_context()
+        serializer = PoemListSerializer(recommended_poems, many=True, context=context)
+        
+        return Response({
+            'date': today,
+            'count': recommended_count,
+            'results': serializer.data
         }) 

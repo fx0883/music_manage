@@ -11,14 +11,23 @@ class PoemListSerializer(serializers.ModelSerializer):
     author_pinyin = serializers.CharField(source='author.name_pinyin')
     author_image = serializers.ImageField(source='author.image')
     poem_type_name = serializers.CharField(source='poem_type.name')
+    image_url = serializers.SerializerMethodField()
     
     class Meta:
         model = Poem
         fields = [
-            'id', 'title', 'title_pinyin', 
+            'id', 'title', 'title_pinyin', 'content', 
             'author_id', 'author_name', 'author_pinyin', 'author_image',
-            'poem_type_name', 'difficulty'
+            'poem_type_name', 'difficulty', 'image_url'
         ]
+    
+    def get_image_url(self, obj):
+        if obj.image:
+            request = self.context.get('request')
+            if request:
+                return request.build_absolute_uri(obj.image.url)
+            return obj.image.url
+        return None
 
 class AuthorSerializer(serializers.ModelSerializer):
     """作者信息序列化器"""
@@ -43,13 +52,15 @@ class PoemDetailSerializer(serializers.ModelSerializer):
     interpretations = serializers.SerializerMethodField()
     genre = serializers.SerializerMethodField()
     type = serializers.SerializerMethodField()
+    image_url = serializers.SerializerMethodField()
 
     class Meta:
         model = Poem
         fields = [
             'title', 'difficulty', 'author',
             'annotations', 'appreciations', 'interpretations',
-            'genre', 'type', 'content', 'title_pinyin', 'pinyin'
+            'genre', 'type', 'content', 'title_pinyin', 'pinyin',
+            'image_url'
         ]
 
     def get_content_by_language(self, content_dict, current_language):
@@ -128,13 +139,22 @@ class PoemDetailSerializer(serializers.ModelSerializer):
             }
         return None
 
+    def get_image_url(self, obj):
+        if obj.image:
+            request = self.context.get('request')
+            if request:
+                return request.build_absolute_uri(obj.image.url)
+            return obj.image.url
+        return None
+
     def to_representation(self, instance):
         result = super().to_representation(instance)
         
         ordered_fields = [
             'title', 'difficulty', 'author',
             'annotations', 'appreciations', 'interpretations',
-            'genre', 'type', 'content', 'title_pinyin', 'pinyin'
+            'genre', 'type', 'content', 'title_pinyin', 'pinyin',
+            'image_url'
         ]
         
         return {

@@ -2,6 +2,30 @@ from django.db import models
 from .author import Author
 from .poem_type import PoemType
 from pypinyin import pinyin, Style
+from django.utils.html import mark_safe
+import time
+import random
+import string
+import os
+
+def poem_image_path(instance, filename):
+    # 获取文件扩展名
+    ext = filename.split('.')[-1]
+    
+    # 生成时间戳
+    timestamp = time.strftime('%Y%m%d%H%M%S')
+    
+    # 生成6位随机字符串
+    random_str = ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
+    
+    # 获取拼音名称
+    py_list = pinyin(instance.title, style=Style.NORMAL)
+    pinyin_name = '_'.join([''.join(p) for p in py_list])
+    
+    # 构建新的文件名
+    new_filename = f"{pinyin_name}_{timestamp}_{random_str}.{ext}"
+    
+    return os.path.join('poems/images', new_filename)
 
 class Poem(models.Model):
     """古诗词模型"""
@@ -17,6 +41,7 @@ class Poem(models.Model):
         (2, 'medium'),
         (3, 'hard')
     ])
+    image = models.ImageField('诗词配图', upload_to=poem_image_path, blank=True, null=True)
 
     class Meta:
         verbose_name = '古诗词'
@@ -29,4 +54,12 @@ class Poem(models.Model):
         super().save(*args, **kwargs)
 
     def __str__(self):
-        return self.title 
+        return self.title
+
+    def image_preview(self):
+        """用于在管理界面显示图片预览"""
+        if self.image:
+            # 使用16:9的比例，设置宽度为320，高度为180
+            return mark_safe(f'<img src="{self.image.url}" width="320" height="180" style="object-fit: cover;" />')
+        return '无图片'
+    image_preview.short_description = '图片预览'
