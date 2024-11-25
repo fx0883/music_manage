@@ -1,19 +1,26 @@
-import { ref } from 'vue'
 import { defineStore } from 'pinia'
+import { ref } from 'vue'
 
 export const useLanguageStore = defineStore('language', () => {
   const currentLanguage = ref('zh')
   
   function setLanguage(lang: string) {
     currentLanguage.value = lang
-    // 可以在这里保存到本地存储
-    uni.setStorageSync('language', lang)
+    try {
+      uni.setStorageSync('language', lang)
+    } catch (e) {
+      console.error('保存语言设置失败:', e)
+    }
   }
   
   function initLanguage() {
-    const savedLang = uni.getStorageSync('language')
-    if (savedLang) {
-      currentLanguage.value = savedLang
+    try {
+      const savedLang = uni.getStorageSync('language')
+      if (savedLang) {
+        currentLanguage.value = savedLang
+      }
+    } catch (e) {
+      console.error('获取语言设置失败:', e)
     }
   }
   

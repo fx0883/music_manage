@@ -1,79 +1,53 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
-import { useRequest } from '@/utils/request'
+import { ref, onMounted, computed } from 'vue'
+import { poemApi } from '@/api/poem'
 import PoemSwipeCard from '@/components/PoemSwipeCard.vue'
+import LoadingState from '@/components/LoadingState.vue'
+import EmptyState from '@/components/EmptyState.vue'
 import type { Poem } from '@/api/types'
+import { storeToRefs } from 'pinia'
+import { useLanguageStore } from '@/stores/useLanguageStore'
 
-const { request, loading } = useRequest()
 const poems = ref<Poem[]>([])
 const currentIndex = ref(0)
-const touchStartX = ref(0)
-const slideOffset = ref(0)
-const isAnimating = ref(false)
+const loading = ref(false)
+let languageStore: ReturnType<typeof useLanguageStore>
+
+// 计算下一张卡片的索引
+const nextIndex = computed(() => {
+  if (currentIndex.value < poems.value.length - 1) {
+    return currentIndex.value + 1
+  }
+  return null
+})
 
 // 获取推荐诗词
-const fetchRecommendations = async () => {
+const fetchRecommendations = async (language: string = 'zh') => {
+  loading.value = true
   try {
-    const res = await request({
-      url: '/chinese/api/poems/daily_recommendations/',
-      params: { language: 'zh' }
-    })
-    poems.value = res.results
+    const res = await poemApi.getDailyRecommendations(language)
+    if (res && res.results) {
+      poems.value = res.results
+    }
   } catch (error) {
     console.error('获取推荐列表失败:', error)
+  } finally {
+    loading.value = false
   }
 }
 
-// 处理滑动
-const handleTouchStart = (event: any) => {
-  if (isAnimating.value) return
-  touchStartX.value = event.touches[0].clientX
-}
-
-const handleTouchMove = (event: any) => {
-  if (isAnimating.value) return
-  const deltaX = event.touches[0].clientX - touchStartX.value
-  
-  // 限制滑动方向
-  if ((currentIndex.value === 0 && deltaX > 0) || 
-      (currentIndex.value === poems.value.length - 1 && deltaX < 0)) {
-    slideOffset.value = deltaX * 0.2
-  } else {
-    slideOffset.value = deltaX
-  }
-}
-
-const handleTouchEnd = () => {
-  if (isAnimating.value) return
-  
-  const threshold = 80 // 降低滑动阈值使动画更容易触发
-  const screenWidth = uni.getSystemInfoSync().windowWidth
-  
-  if (Math.abs(slideOffset.value) > threshold) {
-    // 滑动距离足够，触发切换动画
-    isAnimating.value = true
-    const direction = slideOffset.value > 0 ? 1 : -1
-    
-    // 设置飞出动画的终点位置
-    slideOffset.value = direction * screenWidth * 1.5 // 增加飞出距离
-    
-    // 等待动画完成后重置状态
-    setTimeout(() => {
-      currentIndex.value -= direction
-      slideOffset.value = 0
-      isAnimating.value = false
-    }, 500) // 匹配动画持续时间
-  } else {
-    // 回弹动画
-    isAnimating.value = true
-    slideOffset.value = 0
-    setTimeout(() => {
-      isAnimating.value = false
-    }, 500)
+// 处理滑动事件
+const handleSwipe = (direction: 'left' | 'right') => {
+  if (direction === 'left' && currentIndex.value < poems.value.length - 1) {
+    currentIndex.value++
+  } else if (direction === 'right' && currentIndex.value > 0) {
+    currentIndex.value--
   }
 }
 
 onMounted(() => {
+  // languageStore = useLanguageStore()
+  // languageStore.initLanguage()
   fetchRecommendations()
 })
 </script>
@@ -93,25 +67,29 @@ onMounted(() => {
     </view>
     
     <!-- 卡片区域 -->
-    <view 
-      class="poems__content"
-      @touchstart="handleTouchStart"
-      @touchmove="handleTouchMove"
-      @touchend="handleTouchEnd"
-    >
+    <view class="poems__content">
       <template v-if="loading">
-        <view class="poems__loading">
-          <uni-icons type="spinner-cycle" size="24" color="#999" />
-          <text>加载中...</text>
-        </view>
+        <LoadingState />
       </template>
       
-      <template v-else>
+      <template v-else-if="!poems.length">
+        <EmptyState text="暂无诗词" />
+      </template>
+      
+      <template v-else >
+        <!-- 下一张卡片（如果存在） -->
         <PoemSwipeCard
-          v-if="poems.length > 0"
+          v-if="nextIndex !== null"
+          :poem="poems[nextIndex]"
+          class="poems__next-card"
+        />
+        
+        <!-- 当前卡片 -->
+        <PoemSwipeCard
+          v-if="poems[currentIndex]"
           :poem="poems[currentIndex]"
-          :slide-offset="slideOffset"
-          :is-animating="isAnimating"
+          @swipe="handleSwipe"
+          class="poems__current-card"
         />
       </template>
     </view>
@@ -147,24 +125,16 @@ onMounted(() => {
   &__content {
     flex: 1;
     position: relative;
-    background-color: #fff;
+    background-color: #f8f8f8;
     overflow: hidden;
   }
   
-  &__loading {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    
-    text {
-      margin-top: 20rpx;
-      font-size: 28rpx;
-      color: #999;
-    }
+  &__next-card {
+    z-index: 1;  // 确保在当前卡片下方
+  }
+  
+  &__current-card {
+    z-index: 2;  // 确保在最上层
   }
 }
 </style> 
