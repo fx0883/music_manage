@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue'
+import { computed, ref, onMounted } from 'vue'
 
 // 定义组件接收的属性类型
 interface Props {
@@ -45,6 +45,65 @@ const offsetX = ref(0)           // X轴偏移量
 const offsetY = ref(0)           // Y轴偏移量
 const isAnimating = ref(false)   // 是否正在执行动画
 
+// 字体加载状态
+const fontLoaded = ref(false)
+const currentFont = ref('')
+
+// 加载字体
+const loadFont = async (fontName: string) => {
+  try {
+    // 先通过 fetch 获取字体文件
+    const response = await fetch(`http://127.0.0.1:8000/media/fonts/${fontName}.TTF`)
+    if (!response.ok) {
+      throw new Error(`Font file not found: ${response.statusText}`)
+    }
+    
+    // 将响应转换为 blob
+    const blob = await response.blob()
+    if (!blob) {
+      throw new Error('Failed to convert response to blob')
+    }
+    
+    // 创建 blob URL
+    const fontUrl = URL.createObjectURL(blob)
+    
+    // 创建 FontFace 对象
+    const font = new FontFace(fontName, `url(${fontUrl})`)
+    
+    try {
+      // 等待字体加载
+      await font.load()
+      
+      // 将字体添加到 document.fonts
+      document.fonts.add(font)
+      
+      // 更新状态
+      fontLoaded.value = true
+      currentFont.value = fontName
+      
+      // 清理 blob URL
+      URL.revokeObjectURL(fontUrl)
+    } catch (loadError) {
+      console.error('Font loading failed:', loadError)
+      URL.revokeObjectURL(fontUrl)  // 确保在出错时也清理 blob URL
+      throw loadError
+    }
+  } catch (error) {
+    console.error('Font loading failed:', error)
+    fontLoaded.value = false
+    currentFont.value = ''
+  }
+}
+
+// 组件挂载时加载字体
+onMounted(async () => {
+  try {
+    await loadFont('FZSTK')
+  } catch (error) {
+    console.error('Failed to load font on mount:', error)
+  }
+})
+
 // 计算卡片的样式，包括位移、旋转和缩放
 const cardStyle = computed(() => {
   // 如果没有拖动也没有动画，返回空对象
@@ -55,15 +114,25 @@ const cardStyle = computed(() => {
   // 根据偏移量计算缩放比例，最小为0.8
   const scale = Math.max(0.8, 1 - Math.abs(offsetX.value) * 0.001)
   
-  return {
+  // 定义样式对象的类型
+  const style: {
+    transform: string;
+    transition: string;
+    fontFamily?: string;  // 添加可选的fontFamily属性
+  } = {
     transform: `
       translate(${offsetX.value}px, ${offsetY.value}px)
       rotate(${rotate}deg)
       scale(${scale})
     `,
-    // 动画执行时使用贝塞尔曲线，否则不使用过渡效果
     transition: isAnimating.value ? 'all 0.5s cubic-bezier(0.23, 1, 0.32, 1)' : 'none'
   }
+  
+  if (fontLoaded.value) {
+    style.fontFamily = currentFont.value
+  }
+  
+  return style
 })
 
 // 触摸开始事件处理
@@ -183,73 +252,76 @@ const containerStyle = computed(() => {
 
 <style lang="scss">
 .poem-card {
-  background: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  will-change: transform;
-  transform-origin: center center;
-  touch-action: none;
-
+  width: 100%;  // 宽度占满容器
+  height: 100%;  // 高度占满容器
+  background: #fff;  // 白色背景
+  display: flex;  // 使用弹性布局
+  justify-content: center;  // 水平居中
+  align-items: center;  // 垂直居中
+  position: absolute;  // 绝对定位
+  left: 0;  // 左边距离为0
+  top: 0;  // 顶部距离为0
+  will-change: transform;  // 优化transform动画性能
+  transform-origin: center center;  // 变换原点居中
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.1);  // 添加阴影效果
+  touch-action: none;  // 禁用默认触摸行为
+  
   &__content {
-    width: 100%;  // 修改为100%以适应新的容器大小
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 60rpx 40rpx;
-
+    width: 80%;  // 内容区域宽度为容器的80%
+    height: 80%;  // 内容区域高度为容器的80%
+    display: flex;  // 使用弹性布局
+    flex-direction: column;  // 垂直排列
+    justify-content: space-between;  // 两端对齐
+    padding: 60rpx 40rpx;  // 上下60rpx，左右40rpx的内边距
   }
   
-  // 诗句区域
   &__lines {
-    display: flex;
+    display: flex;  // 使用弹性布局
     flex-direction: row-reverse;  // 从右向左排列
-    justify-content: center;      // 居中显示
-    align-items: flex-start;      // 顶部对齐
-    flex: 1;
-    gap: 1rpx;                  // 将分段之间的间距从60rpx改为15rpx
+    justify-content: flex-start;  // 靠右对齐
+    flex: 1;  // 占据剩余空间
+	
   }
   
-  // 单行诗句
   &__line {
-    display: flex;
-    flex-direction: column;
-    gap: 10rpx;                  // 字符之间的间距
+    display: flex;  // 使用弹性布局
+    flex-direction: column;  // 垂直排列
+    margin-right: 15rpx;  // 右边距60rpx
+    
+    &:first-child {
+      margin-right: 0;  // 第一个段落不需要右边距
+    }
   }
   
-  // 单个汉字
   &__character {
-    font-size: 48rpx;
+    font-size: 36rpx;
     line-height: 1.8;
     color: #333;
     font-weight: 300;
     writing-mode: vertical-rl;    // 竖排显示
+    font-family: "FZSTK", "SimSun", serif;  // 直接使用字体名称，添加备选字体
   }
   
-  // 作者区域
   &__author {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-top: 60rpx;
+    display: flex;  // 使用弹性布局
+    flex-direction: column;  // 垂直排列
+    align-items: flex-start;  // 左对齐
+    margin-top: 60rpx;  // 上边距60rpx
   }
   
-  // 作者名
   &__author-name {
-    font-size: 32rpx;
-    color: #666;
-    margin-bottom: 20rpx;
+    font-size: 32rpx;  // 字体大小32rpx
+    color: #666;  // 中灰色文字
+    margin-bottom: 20rpx;  // 下边距20rpx
     writing-mode: vertical-rl;  // 竖排显示
+    font-family: "FZSTK", "SimSun", serif;  // 添加相同的字体设置
   }
   
-  // 印章
   &__seal {
-    width: 60rpx;
-    height: 60rpx;
-    background-color: #f00;
-    border-radius: 4rpx;
+    width: 60rpx;  // 印章宽度60rpx
+    height: 60rpx;  // 印章高度60rpx
+    background-color: #f00;  // 红色背景
+    border-radius: 4rpx;  // 圆角4rpx
   }
 }
 </style> 

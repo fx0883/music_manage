@@ -7,6 +7,7 @@ interface RequestOptions {
   method?: 'GET' | 'POST' | 'PUT' | 'DELETE'
   data?: any
   params?: Record<string, any>
+  responseType?: 'text' | 'arraybuffer' | 'blob'
 }
 
 export function useRequest() {
@@ -14,7 +15,7 @@ export function useRequest() {
   const error = ref<Error | null>(null)
 
   const request = async <T>(options: RequestOptions): Promise<T> => {
-    const { url, method = 'GET', data, params } = options
+    const { url, method = 'GET', data, params, responseType } = options
     loading.value = true
     error.value = null
 
@@ -31,6 +32,7 @@ export function useRequest() {
         url: fullUrl,
         method,
         data,
+        responseType,
         header: {
           'Content-Type': 'application/json'
         }

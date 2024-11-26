@@ -348,3 +348,6 @@ CORS_PREFLIGHT_MAX_AGE = 86400
 # 是否允许cookie
 CORS_ALLOW_CREDENTIALS = False  # 改为False，因为我们不需要发送认证信息
 
+# 字体文件存储路径
+FONT_ROOT = os.path.join(MEDIA_ROOT, 'fonts')
+

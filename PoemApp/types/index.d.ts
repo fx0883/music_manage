@@ -25,7 +25,9 @@ declare namespace UniApp {
     url: string
     method?: 'GET' | 'POST' | 'PUT' | 'DELETE'
     data?: any
+    params?: Record<string, any>
     header?: Record<string, string>
+    responseType?: 'text' | 'arraybuffer' | 'blob'
   }
 
   interface RequestResponse {
