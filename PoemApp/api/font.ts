@@ -6,7 +6,7 @@ export const fontApi = {
   // 获取字体文件
   getFont(fontName: string): Promise<Blob> {
     return request({
-      url: `/chinese/api/fonts/${fontName}`,
+      url: `/media/fonts/${fontName}.ttf`,
       responseType: 'blob'  // 指定响应类型为 blob
     })
   }

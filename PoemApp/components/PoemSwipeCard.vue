@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, ref, onMounted } from 'vue'
+import { fontApi } from '@/api/font'
 
 // 定义组件接收的属性类型
 interface Props {
@@ -52,44 +53,27 @@ const currentFont = ref('')
 // 加载字体
 const loadFont = async (fontName: string) => {
   try {
-    // 先通过 fetch 获取字体文件
-    const response = await fetch(`http://127.0.0.1:8000/media/fonts/${fontName}.TTF`)
-    if (!response.ok) {
-      throw new Error(`Font file not found: ${response.statusText}`)
-    }
+    // 创建 style 元素
+    const style = document.createElement('style')
+    style.textContent = `
+      @font-face {
+        font-family: "${fontName}";
+        src: url("http://127.0.0.1:8000/media/fonts/${fontName}.ttf") format("truetype");
+      }
+    `
+    // 添加样式到 head
+    document.head.appendChild(style)
     
-    // 将响应转换为 blob
-    const blob = await response.blob()
-    if (!blob) {
-      throw new Error('Failed to convert response to blob')
-    }
+    // 创建 FontFace 对象并加载
+    const font = new FontFace(fontName, `url(http://127.0.0.1:8000/media/fonts/${fontName}.ttf)`)
+    await font.load()
+    document.fonts.add(font)
     
-    // 创建 blob URL
-    const fontUrl = URL.createObjectURL(blob)
-    
-    // 创建 FontFace 对象
-    const font = new FontFace(fontName, `url(${fontUrl})`)
-    
-    try {
-      // 等待字体加载
-      await font.load()
-      
-      // 将字体添加到 document.fonts
-      document.fonts.add(font)
-      
-      // 更新状态
-      fontLoaded.value = true
-      currentFont.value = fontName
-      
-      // 清理 blob URL
-      URL.revokeObjectURL(fontUrl)
-    } catch (loadError) {
-      console.error('Font loading failed:', loadError)
-      URL.revokeObjectURL(fontUrl)  // 确保在出错时也清理 blob URL
-      throw loadError
-    }
+    // 更新状态
+    fontLoaded.value = true
+    currentFont.value = fontName
   } catch (error) {
-    console.error('Font loading failed:', error)
+    console.error('字体加载失败:', error)
     fontLoaded.value = false
     currentFont.value = ''
   }
@@ -98,7 +82,7 @@ const loadFont = async (fontName: string) => {
 // 组件挂载时加载字体
 onMounted(async () => {
   try {
-    await loadFont('FZSTK')
+    await loadFont('13')  // 加载 1.ttf 字体
   } catch (error) {
     console.error('Failed to load font on mount:', error)
   }
@@ -106,32 +90,29 @@ onMounted(async () => {
 
 // 计算卡片的样式，包括位移、旋转和缩放
 const cardStyle = computed(() => {
-  // 如果没有拖动也没有动画，返回空对象
-  if (!isDragging.value && !isAnimating.value) return {}
-  
-  // 根据X轴偏移量计算旋转角度
-  const rotate = offsetX.value * 0.1
-  // 根据偏移量计算缩放比例，最小为0.8
-  const scale = Math.max(0.8, 1 - Math.abs(offsetX.value) * 0.001)
-  
-  // 定义样式对象的类型
   const style: {
-    transform: string;
-    transition: string;
-    fontFamily?: string;  // 添加可选的fontFamily属性
-  } = {
-    transform: `
+    transform?: string;
+    transition?: string;
+    fontFamily?: string;
+  } = {}
+
+  if (isDragging.value || isAnimating.value) {
+    const rotate = offsetX.value * 0.1
+    const scale = Math.max(0.8, 1 - Math.abs(offsetX.value) * 0.001)
+    
+    style.transform = `
       translate(${offsetX.value}px, ${offsetY.value}px)
       rotate(${rotate}deg)
       scale(${scale})
-    `,
-    transition: isAnimating.value ? 'all 0.5s cubic-bezier(0.23, 1, 0.32, 1)' : 'none'
+    `
+    style.transition = isAnimating.value ? 'all 0.5s cubic-bezier(0.23, 1, 0.32, 1)' : 'none'
   }
-  
-  if (fontLoaded.value) {
-    style.fontFamily = currentFont.value
+
+  // 添加字体样式
+  if (fontLoaded.value && currentFont.value) {
+    style.fontFamily = `"${currentFont.value}", "SimSun", serif`
   }
-  
+
   return style
 })
 
@@ -286,7 +267,7 @@ const containerStyle = computed(() => {
   &__line {
     display: flex;  // 使用弹性布局
     flex-direction: column;  // 垂直排列
-    margin-right: 15rpx;  // 右边距60rpx
+    margin-right: 5rpx;  // 右边距60rpx
     
     &:first-child {
       margin-right: 0;  // 第一个段落不需要右边距
@@ -294,12 +275,11 @@ const containerStyle = computed(() => {
   }
   
   &__character {
-    font-size: 36rpx;
+    font-size: 42rpx;
     line-height: 1.8;
     color: #333;
     font-weight: 300;
     writing-mode: vertical-rl;    // 竖排显示
-    font-family: "FZSTK", "SimSun", serif;  // 直接使用字体名称，添加备选字体
   }
   
   &__author {
@@ -310,11 +290,10 @@ const containerStyle = computed(() => {
   }
   
   &__author-name {
-    font-size: 32rpx;  // 字体大小32rpx
-    color: #666;  // 中灰色文字
-    margin-bottom: 20rpx;  // 下边距20rpx
-    writing-mode: vertical-rl;  // 竖排显示
-    font-family: "FZSTK", "SimSun", serif;  // 添加相同的字体设置
+    font-size: 32rpx;
+    color: #666;
+    margin-bottom: 20rpx;
+    writing-mode: vertical-rl;
   }
   
   &__seal {
