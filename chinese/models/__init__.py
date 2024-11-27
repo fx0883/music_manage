@@ -7,6 +7,8 @@ from .appreciation import Appreciation
 from .annotation import Annotation
 from .poem_genre import PoemGenre
 from .poem_genre_relation import PoemGenreRelation
+from .font_category import FontCategory
+from .font_info import FontInfo
 
 __all__ = [
     'Poem',
@@ -18,5 +20,7 @@ __all__ = [
     'Appreciation',
     'Annotation',
     'PoemGenre',
-    'PoemGenreRelation'
+    'PoemGenreRelation',
+    'FontCategory',
+    'FontInfo'
 ] 

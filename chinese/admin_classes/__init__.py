@@ -12,6 +12,8 @@ from .interpretation_admin import InterpretationAdmin
 from .appreciation_admin import AppreciationAdmin
 from .poem_genre_admin import PoemGenreAdmin
 from .poem_genre_relation_admin import PoemGenreRelationAdmin
+from .font_category_admin import FontCategoryAdmin
+from .font_info_admin import FontInfoAdmin
 
 
 # 注册所有模型和对应的管理类
@@ -34,5 +36,7 @@ __all__ = [
     'AppreciationAdmin',
     'AnnotationAdmin',
     'PoemGenreAdmin',
-    'PoemGenreRelationAdmin'
+    'PoemGenreRelationAdmin',
+    'FontCategoryAdmin',
+    'FontInfoAdmin'
 ]
