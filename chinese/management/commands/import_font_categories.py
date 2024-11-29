@@ -16,7 +16,10 @@ class Command(BaseCommand):
             'kaiti': '楷体',
             'songti': '宋体',
             'fangsong': '仿宋',
-            'tongqu': '童趣'
+            'tongqu': '童趣',
+            'shouxie': '手写体',
+            'yuanti': '圆体',
+            'xiangsu': '像素体'
         }
 
         # 记录导入结果

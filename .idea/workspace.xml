@@ -5,235 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/admin_classes/font_category_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/management/commands/import_font_categories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/migrations/0009_fontcategory_fontinfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/models/font_category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/models/font_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/serializers/font_category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/utils/font_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinese/views/font_category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/caoshu/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/create_font_folders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/fangsong/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/kaishu/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/kaiti/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/lishu/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/maobi/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/maobi/previews/su_xin_shi_mao_cao_ti_jian__mei_shi_hui__preview_20241127212818_g81fw1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/maobi/previews/ye_gen_you_xing_shu_fan_preview_20241127212721_9snei0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/maobi/previews/yu_wei_shu_fa_xing_shu_jian_ti__hui_se_gui_ji__preview_202411272125_JnSTWha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/maobi/su_xin_shi_mao_cao_ti_jian__mei_shi_hui__20241127212818_yq3v94.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/maobi/ye_gen_you_xing_shu_fan_20241127212721_hb3tx6.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/maobi/yu_wei_shu_fa_xing_shu_jian_ti__hui_se_gui_ji__20241127212542_34xdho.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/songti/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/temp/temp_tmp4wpl7c21.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/tongqu/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/tongqu/previews/zi_ti_guan_jia_duo_la_A_meng_preview_20241127214248_jzy36v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/tongqu/zi_ti_guan_jia_duo_la_A_meng_20241127214248_bmk198.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/xingshu/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/xingshu/li_xu_ke_mao_bi_xing_shu_20241127213535_xfs6mi.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/xingshu/previews/li_xu_ke_mao_bi_xing_shu_preview_20241127213535_uxa1st.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fonts/zhuanshu/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/font_info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/DRF进阶与实战.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/autocomplete.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/changelists.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/dark_mode.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/nav_sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/responsive_rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/unusable_password_field.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/css/widgets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/fonts/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/fonts/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/calendar-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_off.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_on.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-addlink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-alert.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-changelink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-deletelink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-hidelink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-no.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-viewlink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/icon-yes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/inline-delete.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/selector-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/sorting-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-add.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-arrowright.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/SelectBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/SelectFilter2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/actions.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/autocomplete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/cancel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/change_form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/collapse.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/filters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/font_info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/inlines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/inlines.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/jquery.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/nav_sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/popup_response.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate_init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/unusable_password_field.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/urlify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/af.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/dsb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hsb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/is.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/km.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/mk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ne.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt-BR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-TW.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/authorImg300/libai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/css/django_json_widget.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/dist/img/jsoneditor-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/dist/jsoneditor.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/dist/jsoneditor.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/drf-tutorial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/js/font_info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/css/bootstrap-tweaks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/css/font-awesome-4.0.3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/css/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/docs/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/docs/css/highlight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/docs/css/jquery.json-view.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/docs/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/docs/img/grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/docs/js/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/docs/js/highlight.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/docs/js/jquery.json-view.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/img/glyphicons-halflings-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/img/glyphicons-halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/img/grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/ajax-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/coreapi-0.1.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/csrf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/jquery-3.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/load-ajax-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticfiles/rest_framework/js/prettify-min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/music_manage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/music_manage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese/admin_classes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/admin_classes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/media/fonts/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/api/font.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/font.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/api/poem.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/poem.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/api/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/unpackage/dist/cache/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/unpackage/dist/cache/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/utils/request.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/utils/request.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/management/commands/import_font_categories.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/management/commands/import_font_categories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/FZSTK.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/previews/su_xin_shi_mao_cao_ti_jian__mei_shi_hui__preview_20241127212818_g81fw1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/previews/ye_gen_you_xing_shu_fan_preview_20241127212721_9snei0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/previews/yu_wei_shu_fa_xing_shu_jian_ti__hui_se_gui_ji__preview_202411272125_JnSTWha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/su_xin_shi_mao_cao_ti_jian__mei_shi_hui__20241127212818_yq3v94.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/ye_gen_you_xing_shu_fan_20241127212721_hb3tx6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/yu_wei_shu_fa_xing_shu_jian_ti__hui_se_gui_ji__20241127212542_34xdho.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/temp/temp_tmp4wpl7c21.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/tongqu/previews/zi_ti_guan_jia_duo_la_A_meng_preview_20241127214248_jzy36v.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/tongqu/zi_ti_guan_jia_duo_la_A_meng_20241127214248_bmk198.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/xingshu/li_xu_ke_mao_bi_xing_shu_20241127213535_xfs6mi.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fonts/xingshu/previews/li_xu_ke_mao_bi_xing_shu_preview_20241127213535_uxa1st.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,21 +57,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Django Server.music_manage.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.music_manage.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/script&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="music_manage" type="Python.DjangoServer" factoryName="Django server">
       <module name="music_manage" />
@@ -290,13 +90,14 @@
         <env name="DJANGO_SETTINGS_MODULE" value="music_manage.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (music_manage)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
-      <option name="host" value="localhost" />
+      <option name="host" value="192.168.31.143" />
       <option name="additionalOptions" value="" />
       <option name="browserUrl" value="" />
       <option name="runTestServer" value="false" />
@@ -325,6 +126,12 @@
       <workItem from="1732692734673" duration="81000" />
       <workItem from="1732692831751" duration="3002000" />
       <workItem from="1732704992489" duration="7404000" />
+      <workItem from="1732764020770" duration="1249000" />
+      <workItem from="1732781983149" duration="987000" />
+      <workItem from="1732846339781" duration="1000" />
+      <workItem from="1732851510354" duration="3701000" />
+      <workItem from="1732865009766" duration="1609000" />
+      <workItem from="1732881215767" duration="2926000" />
     </task>
     <servers />
   </component>
@@ -341,17 +148,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/chinese/utils/font_utils.py</url>
-          <line>26</line>
+          <line>27</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
-          <line>74</line>
+          <line>73</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
-          <line>116</line>
+          <line>103</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -361,7 +168,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
-          <line>71</line>
+          <line>70</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -376,7 +183,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
-          <line>82</line>
+          <line>79</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
