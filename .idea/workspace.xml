@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/api/font.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/font.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/api/poem.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/poem.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/api/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/unpackage/dist/cache/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/unpackage/dist/cache/.vite/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/utils/request.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/utils/request.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese/management/commands/import_font_categories.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/management/commands/import_font_categories.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/FZSTK.TTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/previews/su_xin_shi_mao_cao_ti_jian__mei_shi_hui__preview_20241127212818_g81fw1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/previews/ye_gen_you_xing_shu_fan_preview_20241127212721_9snei0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/previews/yu_wei_shu_fa_xing_shu_jian_ti__hui_se_gui_ji__preview_202411272125_JnSTWha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/su_xin_shi_mao_cao_ti_jian__mei_shi_hui__20241127212818_yq3v94.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/ye_gen_you_xing_shu_fan_20241127212721_hb3tx6.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/maobi/yu_wei_shu_fa_xing_shu_jian_ti__hui_se_gui_ji__20241127212542_34xdho.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/temp/temp_tmp4wpl7c21.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/tongqu/previews/zi_ti_guan_jia_duo_la_A_meng_preview_20241127214248_jzy36v.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/tongqu/zi_ti_guan_jia_duo_la_A_meng_20241127214248_bmk198.TTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/xingshu/li_xu_ke_mao_bi_xing_shu_20241127213535_xfs6mi.TTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fonts/xingshu/previews/li_xu_ke_mao_bi_xing_shu_preview_20241127213535_uxa1st.png" beforeDir="false" />
-    </list>
+    <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +108,7 @@
       <workItem from="1732846339781" duration="1000" />
       <workItem from="1732851510354" duration="3701000" />
       <workItem from="1732865009766" duration="1609000" />
-      <workItem from="1732881215767" duration="2926000" />
+      <workItem from="1732881215767" duration="3525000" />
     </task>
     <servers />
   </component>
