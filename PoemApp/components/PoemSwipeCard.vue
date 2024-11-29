@@ -9,11 +9,14 @@ interface Props {
     content: string    // 诗词内容
     author_name: string // 作者名
   }
+  isTop?: boolean
 }
 
-// 定义组件的属性和事件
-const props = defineProps<Props>()
-const emit = defineEmits(['swipe']) // 定义滑动事件
+// 设置默认值
+const props = withDefaults(defineProps<Props>(), {
+  isTop: false
+})
+const emit = defineEmits(['swipe', 'animationComplete']) // 定义滑动事件
 
 // 处理诗词内容：获取前两句，按标点分段，去除标点
 const poemSegments = computed(() => {
@@ -91,10 +94,16 @@ onMounted(async () => {
 // 计算卡片的样式，包括位移、旋转和缩放
 const cardStyle = computed(() => {
   const style: {
-    transform?: string;
-    transition?: string;
-    fontFamily?: string;
+    transform?: string
+    transition?: string
+    fontFamily?: string
+    pointerEvents?: 'none' | 'auto'  // 明确类型
   } = {}
+
+  // 在动画或非顶层时禁用交互
+  if (isAnimating.value || !props.isTop) {
+    style.pointerEvents = 'none'
+  }
 
   if (isDragging.value || isAnimating.value) {
     const rotate = offsetX.value * 0.1
@@ -105,7 +114,14 @@ const cardStyle = computed(() => {
       rotate(${rotate}deg)
       scale(${scale})
     `
-    style.transition = isAnimating.value ? 'all 0.5s cubic-bezier(0.23, 1, 0.32, 1)' : 'none'
+    
+    // 根据状态设置不同的过渡效果
+    if (isAnimating.value) {
+      const duration = isDragging.value ? '0.3s' : '0.5s'
+      style.transition = `all ${duration} cubic-bezier(0.23, 1, 0.32, 1)`
+    } else {
+      style.transition = 'none'
+    }
   }
 
   // 添加字体样式
@@ -118,62 +134,74 @@ const cardStyle = computed(() => {
 
 // 触摸开始事件处理
 const handleTouchStart = (event: TouchEvent) => {
-  if (isAnimating.value) return  // 如果正在执行动画，忽略触摸
+  if (!props.isTop || isAnimating.value) return
+  
+  // 阻止事件冒泡和默认行为
+  event.stopPropagation()
+  event.preventDefault()
   
   isDragging.value = true
-  // 记录触摸起始位置
   startX.value = event.touches[0].clientX
   startY.value = event.touches[0].clientY
-  // 重置偏移量
   offsetX.value = 0
   offsetY.value = 0
 }
 
 // 触摸移动事件处理
 const handleTouchMove = (event: TouchEvent) => {
-  if (!isDragging.value || isAnimating.value) return
+  if (!props.isTop || !isDragging.value || isAnimating.value) return
   
-  // 计算当前触摸点位置
+  // 阻止事件冒泡和默认行为
+  event.stopPropagation()
+  event.preventDefault()
+  
   const currentX = event.touches[0].clientX
   const currentY = event.touches[0].clientY
   
-  // 计算偏移量
   offsetX.value = currentX - startX.value
   offsetY.value = currentY - startY.value
 }
 
 // 触摸结束事件处理
-const handleTouchEnd = () => {
-  if (!isDragging.value || isAnimating.value) return
+const handleTouchEnd = (event: TouchEvent) => {
+  if (!props.isTop || !isDragging.value || isAnimating.value) return
+  
+  // 阻止事件冒泡和默认行为
+  event.stopPropagation()
+  event.preventDefault()
   
   isDragging.value = false
-  const swipeThreshold = 100 // 滑动阈值，超过这个距离触发滑出效果
+  const swipeThreshold = 100 // 滑动阈值
+  const velocity = Math.abs(offsetX.value) // 滑动速度
+  const direction = offsetX.value > 0 ? 1 : -1
+  const screenWidth = uni.getSystemInfoSync().windowWidth
   
-  if (Math.abs(offsetX.value) > swipeThreshold) {
-    // 超过阈值，触发滑出动画
+  // 如果滑动距离超过阈值或滑动速度足够快
+  if (Math.abs(offsetX.value) > swipeThreshold || velocity > 50) {
+    // 触发滑出动画
     isAnimating.value = true
-    const direction = offsetX.value > 0 ? 1 : -1  // 确定滑动方向
-    const screenWidth = uni.getSystemInfoSync().windowWidth
     
-    // 设置滑出距离为屏幕宽度的1.5倍
+    // 设置滑出距离
     offsetX.value = direction * screenWidth * 1.5
     offsetY.value = offsetY.value * 1.5
     
-    // 动画结束后触发事件
+    // 动画结束后再触发事件
     setTimeout(() => {
       emit('swipe', direction > 0 ? 'right' : 'left')
       isAnimating.value = false
       offsetX.value = 0
       offsetY.value = 0
+      emit('animationComplete')
     }, 500)
   } else {
-    // 未超过阈值，返回原位
+    // 返回原位的动画
     isAnimating.value = true
     offsetX.value = 0
     offsetY.value = 0
     
     setTimeout(() => {
       isAnimating.value = false
+      emit('animationComplete')
     }, 500)
   }
 }
@@ -201,6 +229,10 @@ const containerStyle = computed(() => {
   <!-- 诗词卡片容器 -->
   <view 
     class="poem-card" 
+    :class="{
+      'poem-card--top': isTop,
+      'poem-card--animating': isAnimating
+    }"
     :style="[cardStyle, containerStyle]"
     @touchstart="handleTouchStart"
     @touchmove="handleTouchMove"
@@ -301,6 +333,14 @@ const containerStyle = computed(() => {
     height: 60rpx;  // 印章高度60rpx
     background-color: #f00;  // 红色背景
     border-radius: 4rpx;  // 圆角4rpx
+  }
+  
+  &--top {
+    z-index: 2;  // 顶层卡片使用更高的 z-index
+  }
+  
+  &--animating {
+    pointer-events: none;  // 动画过程中禁用交互
   }
 }
 </style> 

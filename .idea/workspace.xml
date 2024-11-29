@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="" />
+    <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/components/PoemSwipeCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/PoemSwipeCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +112,7 @@
       <workItem from="1732846339781" duration="1000" />
       <workItem from="1732851510354" duration="3701000" />
       <workItem from="1732865009766" duration="1609000" />
-      <workItem from="1732881215767" duration="3525000" />
+      <workItem from="1732881215767" duration="4585000" />
     </task>
     <servers />
   </component>

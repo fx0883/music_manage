@@ -37,8 +37,19 @@ const fetchRecommendations = async (language: string = 'zh') => {
   }
 }
 
-// 处理滑动事件
+// 添加动画状态控制
+const isAnimating = ref(false)
+
+// 处理动画完成事件
+const handleAnimationComplete = () => {
+  isAnimating.value = false
+}
+
+// 修改滑动处理函数
 const handleSwipe = (direction: 'left' | 'right') => {
+  if (isAnimating.value) return
+  
+  isAnimating.value = true
   if (direction === 'left' && currentIndex.value < poems.value.length - 1) {
     currentIndex.value++
   } else if (direction === 'right' && currentIndex.value > 0) {
@@ -135,7 +146,10 @@ onMounted(() => {
 </script>
 
 <template>
-  <view class="poems">
+  <view 
+    class="poems"
+    @touchmove.stop
+  >
     <!-- 顶工具栏 -->
     <view class="poems__header">
       <text class="poems__all">全部</text>
@@ -164,10 +178,11 @@ onMounted(() => {
       </template>
       
       <template v-else >
-        <!-- 下一张卡片（如果存在） -->
+        <!-- 下一张卡片 -->
         <PoemSwipeCard
           v-if="nextIndex !== null"
           :poem="poems[nextIndex]"
+          :is-top="false"
           class="poems__next-card"
         />
         
@@ -175,7 +190,9 @@ onMounted(() => {
         <PoemSwipeCard
           v-if="poems[currentIndex]"
           :poem="poems[currentIndex]"
+          :is-top="true"
           @swipe="handleSwipe"
+          @animation-complete="handleAnimationComplete"
           class="poems__current-card"
         />
       </template>
@@ -225,10 +242,11 @@ onMounted(() => {
       :safe-area="true"
       @change="handlePopupChange"
     >
-      <view class="font-popup">
+      <view class="font-popup" @touchmove.stop>
         <scroll-view 
           scroll-y 
           class="font-popup__scroll"
+          @touchmove.stop
         >
           <FontSelector
             v-model="currentFont"
@@ -247,6 +265,11 @@ onMounted(() => {
   background-color: #f8f8f8;
   display: flex;
   flex-direction: column;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  touch-action: none;
   
   &__header {
     padding: 20rpx 40rpx;
@@ -275,11 +298,11 @@ onMounted(() => {
   }
   
   &__next-card {
-    z-index: 1;  // 确保在当前卡片下方
+    z-index: 1;
   }
   
   &__current-card {
-    z-index: 2;  // 确保在最上层
+    z-index: 2;
   }
 }
 
@@ -337,6 +360,7 @@ onMounted(() => {
     height: 100%;
     touch-action: pan-y;
     -webkit-overflow-scrolling: touch;
+    overflow-y: auto;
   }
   
   &__safe-area {
@@ -360,5 +384,11 @@ onMounted(() => {
 :deep(.uni-tabbar) {
   /* 确保 tabbar 始终可见 */
   z-index: 997 !important;
+}
+
+/* 确保弹出层内容可以滚动 */
+:deep(.uni-popup__wrapper) {
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch !important;
 }
 </style> 
