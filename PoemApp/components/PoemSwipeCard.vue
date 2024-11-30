@@ -1,6 +1,6 @@
 <script setup>
 import { computed, ref, onMounted } from 'vue'
-import { fontApi } from '@/api/font'
+import { fontManager } from '@/utils/font'
 
 const props = defineProps({
   poem: {
@@ -26,6 +26,10 @@ const props = defineProps({
   rightMargin: {
     type: [Number, String],
     default: 40
+  },
+  fontFamily: {
+    type: String,
+    default: 'SimSun'
   }
 })
 
@@ -60,27 +64,9 @@ const currentFont = ref('')
 
 // 加载字体
 const loadFont = async (fontName) => {
-  try {
-    const style = document.createElement('style')
-    style.textContent = `
-      @font-face {
-        font-family: "${fontName}";
-        src: url("http://127.0.0.1:8000/media/fonts/${fontName}.ttf") format("truetype");
-      }
-    `
-    document.head.appendChild(style)
-    
-    const font = new FontFace(fontName, `url(http://127.0.0.1:8000/media/fonts/${fontName}.ttf)`)
-    await font.load()
-    document.fonts.add(font)
-    
-    fontLoaded.value = true
-    currentFont.value = fontName
-  } catch (error) {
-    console.error('字体加载失败:', error)
-    fontLoaded.value = false
-    currentFont.value = ''
-  }
+  const success = await fontManager.loadFont(fontName)
+  fontLoaded.value = success
+  currentFont.value = success ? fontName : ''
 }
 
 // 触摸事件处理
@@ -151,7 +137,7 @@ const cardStyle = computed(() => {
     pointerEvents: 'auto',
     transform: '',
     transition: '',
-    fontFamily: ''
+    fontFamily: props.fontFamily
   }
 
   if (isAnimating.value || !props.isTop) {
@@ -183,11 +169,7 @@ const cardStyle = computed(() => {
 
 // 初始化
 onMounted(async () => {
-  try {
-    await loadFont('13')
-  } catch (error) {
-    console.error('Failed to load font on mount:', error)
-  }
+  // 移除默认字体加载,使用传入的 fontFamily
 })
 </script>
 

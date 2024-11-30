@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="to js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/components/FontSelector.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/FontSelector.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/components/PoemSwipeCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/PoemSwipeCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +116,7 @@
       <workItem from="1732881215767" duration="4623000" />
       <workItem from="1732889186363" duration="197000" />
       <workItem from="1732934967987" duration="3344000" />
-      <workItem from="1732944150842" duration="4441000" />
+      <workItem from="1732944150842" duration="6176000" />
     </task>
     <task id="LOCAL-00001" summary="to js">
       <option name="closed" value="true" />

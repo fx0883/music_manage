@@ -49,7 +49,10 @@ const handleAnimationComplete = () => {
 
 // 弹出层控制
 const showSettings = ref(false)
-const currentFont = ref('文悦古体仿宋')
+const currentFont = ref({
+  name: '默认字体',
+  fontFamily: 'SimSun' // 默认使用宋体
+})
 const fontSize = ref(16)
 const showFontSelector = ref(false)
 
@@ -94,8 +97,14 @@ const handleSettingClick = (type) => {
 
 // 处理字体选择
 const handleFontSelect = (font) => {
-  currentFont.value = font.name
+  currentFont.value = font
   fontPopup.value?.close()
+  
+  // 可以保存字体设置到本地存储
+  uni.setStorageSync('poem-font', {
+    name: font.name,
+    fontFamily: font.fontFamily
+  })
 }
 
 // 处理更多按钮点击
@@ -154,6 +163,16 @@ const handlePopupChange = (e) => {
 onMounted(async () => {
   languageStore.initLanguage()
   await poemStore.fetchRecommendations(languageStore.currentLanguage)
+  
+  // 从本地存储恢复字体设置
+  try {
+    const savedFont = uni.getStorageSync('poem-font')
+    if (savedFont) {
+      currentFont.value = savedFont
+    }
+  } catch (error) {
+    console.error('Failed to restore font settings:', error)
+  }
 })
 </script>
 
@@ -209,6 +228,7 @@ onMounted(async () => {
           :bottom-margin="300"
           :left-margin="80"
           :right-margin="80"
+          :font-family="currentFont.fontFamily"
           class="poems__next-card"
         />
         
@@ -221,6 +241,7 @@ onMounted(async () => {
           :bottom-margin="300"
           :left-margin="80"
           :right-margin="80"
+          :font-family="currentFont.fontFamily"
           @swipe="handleSwipe"
           @animation-complete="handleAnimationComplete"
           class="poems__current-card"
@@ -233,6 +254,8 @@ onMounted(async () => {
       ref="popup" 
       type="bottom"
       :show="showSettings"
+      :mask-click="true"
+      :safe-area="true"
       @change="handlePopupChange"
     >
       <view class="settings">
@@ -244,8 +267,16 @@ onMounted(async () => {
         >
           <text class="settings__title">{{ item.title }}</text>
           <view class="settings__right">
-            <text v-if="item.value" class="settings__value">{{ item.value }}</text>
-            <uni-icons v-if="item.showArrow" type="right" size="16" color="#999" />
+            <text 
+              v-if="item.type === 'font'" 
+              class="settings__value"
+            >{{ currentFont.name }}</text>
+            <uni-icons 
+              v-if="item.showArrow" 
+              type="right" 
+              size="16" 
+              color="#999" 
+            />
           </view>
         </view>
 
@@ -261,6 +292,7 @@ onMounted(async () => {
             class="settings__slider"
           />
         </view>
+        <view class="settings__safe-area"></view>
       </view>
     </uni-popup>
 
@@ -272,14 +304,14 @@ onMounted(async () => {
       :safe-area="true"
       @change="handlePopupChange"
     >
-      <view class="font-popup" @touchmove.stop>
+      <view class="font-popup">
         <scroll-view 
           scroll-y 
           class="font-popup__scroll"
           @touchmove.stop
         >
           <FontSelector
-            v-model="currentFont"
+            v-model="currentFont.name"
             @select="handleFontSelect"
           />
         </scroll-view>
@@ -370,10 +402,11 @@ onMounted(async () => {
 
 .settings {
   width: 100%;
-  height: 45vh;
   background-color: #fff;
   padding: 30rpx;
   box-sizing: border-box;
+  position: relative;
+  z-index: 999;
   
   &__item {
     display: flex;
@@ -407,6 +440,12 @@ onMounted(async () => {
     flex: 1;
     margin: 0 20rpx;
   }
+  
+  &__safe-area {
+    height: constant(safe-area-inset-bottom);
+    height: env(safe-area-inset-bottom);
+    width: 100%;
+  }
 }
 
 .font-popup {
@@ -414,53 +453,73 @@ onMounted(async () => {
   height: 60vh;
   background-color: #fff;
   position: relative;
-  z-index: 100;
-  padding-bottom: constant(safe-area-inset-bottom);
-  padding-bottom: env(safe-area-inset-bottom);
-  animation: slideUp 0.3s ease-out;
+  z-index: 999;
+  display: flex;
+  flex-direction: column;
   
   &__scroll {
-    height: 100%;
+    flex: 1;
+    height: 0;
     touch-action: pan-y;
     -webkit-overflow-scrolling: touch;
     overflow-y: auto;
     overscroll-behavior: contain;
-    
-    &::-webkit-scrollbar {
-      display: none;
-    }
   }
   
   &__safe-area {
-    height: 50px;
+    height: constant(safe-area-inset-bottom);
+    height: env(safe-area-inset-bottom);
     width: 100%;
-  }
-}
-
-@keyframes slideUp {
-  from {
-    transform: translateY(100%);
-  }
-  to {
-    transform: translateY(0);
+    background-color: #fff;
   }
 }
 
 /* 修改 uni-popup 的样式 */
 :deep(.uni-popup) {
-  z-index: 999 !important;
+  z-index: 99999 !important;
 }
 
 :deep(.uni-popup__mask) {
-  z-index: 998 !important;
-}
-
-:deep(.uni-tabbar) {
-  z-index: 997 !important;
+  z-index: 99998 !important;
+  background-color: rgba(0, 0, 0, 0.6) !important;
 }
 
 :deep(.uni-popup__wrapper) {
-  overflow-y: auto !important;
-  -webkit-overflow-scrolling: touch !important;
+  z-index: 99999 !important;
+  
+  &.bottom {
+    bottom: 0 !important;
+  }
+}
+
+/* 确保 tabbar 被遮住 */
+:deep(.uni-tabbar) {
+  z-index: 99 !important;
+}
+
+/* 修复滚动问题 */
+:deep(.uni-popup__wrapper) {
+  max-height: 90vh !important;
+  overflow: hidden !important;
+}
+
+:deep(.uni-popup__wrapper.bottom) {
+  bottom: 0 !important;
+  padding-bottom: constant(safe-area-inset-bottom) !important;
+  padding-bottom: env(safe-area-inset-bottom) !important;
+}
+
+/* 动画优化 */
+@keyframes popup-bottom {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+:deep(.uni-popup__wrapper.bottom) {
+  animation: popup-bottom 0.2s ease-out;
 }
 </style> 

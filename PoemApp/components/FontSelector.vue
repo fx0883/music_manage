@@ -1,6 +1,7 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue'
 import { fontApi } from '@/api/font'
+import { fontManager } from '@/utils/font'
 
 const props = defineProps({
   modelValue: {
@@ -15,6 +16,7 @@ const categories = ref([])
 const loading = ref(false)
 const activeCategory = ref('全部')
 const selectedFont = ref(props.modelValue)
+const loadingFont = ref(false)
 
 // 获取字体分类数据
 const fetchFontCategories = async () => {
@@ -24,16 +26,47 @@ const fetchFontCategories = async () => {
     categories.value = data
   } catch (error) {
     console.error('获取字体分类失败:', error)
+    uni.showToast({
+      title: '获取字体分类失败',
+      icon: 'none'
+    })
   } finally {
     loading.value = false
   }
 }
 
 // 处理字体选择
-const handleFontSelect = (font) => {
-  selectedFont.value = font.name
-  emit('update:modelValue', font.name)
-  emit('select', font)
+const handleFontSelect = async (font) => {
+  if (loadingFont.value) return
+  
+  loadingFont.value = true
+  try {
+    // 加载字体文件
+    const success = await fontManager.loadFont(font.code, font.file_url)
+    if (success) {
+      selectedFont.value = font.name
+      emit('update:modelValue', font.name)
+      emit('select', {
+        ...font,
+        fontFamily: font.code // 使用字体代码作为 font-family
+      })
+      
+      uni.showToast({
+        title: '字体切换成功',
+        icon: 'success'
+      })
+    } else {
+      throw new Error('字体加载失败')
+    }
+  } catch (error) {
+    console.error('字体切换失败:', error)
+    uni.showToast({
+      title: '字体切换失败',
+      icon: 'none'
+    })
+  } finally {
+    loadingFont.value = false
+  }
 }
 
 // 处理分类选择
@@ -85,30 +118,51 @@ onMounted(() => {
     </scroll-view>
 
     <!-- 字体列表 -->
-    <uni-list class="font-selector__fonts">
-      <uni-list-item
-        v-for="font in allFonts"
-        :key="font.code"
-        :class="{ 'font-selector__font--active': selectedFont === font.name }"
-        @click="handleFontSelect(font)"
-        :show-arrow="false"
-        :clickable="true"
-      >
-        <template #body>
-          <view class="font-selector__font-content">
-            <image 
-              :src="font.preview_url" 
-              mode="aspectFit"
-              class="font-selector__preview"
-            />
-            <text class="font-selector__name">{{ font.name }}</text>
-          </view>
-        </template>
-        <template #footer>
-          <text v-if="selectedFont === font.name" class="font-selector__check">✓</text>
-        </template>
-      </uni-list-item>
-    </uni-list>
+    <template v-if="loading">
+      <LoadingState text="加载字体分类中..." />
+    </template>
+    
+    <template v-else>
+      <uni-list class="font-selector__fonts">
+        <uni-list-item
+          v-for="font in allFonts"
+          :key="font.code"
+          :class="{ 
+            'font-selector__font--active': selectedFont === font.name,
+            'font-selector__font--loading': loadingFont && selectedFont === font.name
+          }"
+          @click="handleFontSelect(font)"
+          :show-arrow="false"
+          :clickable="true"
+        >
+          <template #body>
+            <view class="font-selector__font-content">
+              <image 
+                :src="font.preview_url" 
+                mode="aspectFit"
+                class="font-selector__preview"
+              />
+              <text class="font-selector__name">{{ font.name }}</text>
+            </view>
+          </template>
+          <template #footer>
+            <view class="font-selector__status">
+              <uni-icons 
+                v-if="loadingFont && selectedFont === font.name"
+                type="spinner-cycle"
+                size="18"
+                color="#3cc51f"
+                class="font-selector__loading-icon"
+              />
+              <text 
+                v-else-if="selectedFont === font.name" 
+                class="font-selector__check"
+              >✓</text>
+            </view>
+          </template>
+        </uni-list-item>
+      </uni-list>
+    </template>
   </view>
 </template>
 
@@ -178,6 +232,27 @@ onMounted(() => {
   
   &__font--active {
     background-color: #f8f8f8;
+  }
+  
+  &__font--loading {
+    opacity: 0.7;
+    pointer-events: none;
+  }
+  
+  &__status {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40rpx;
+  }
+  
+  &__loading-icon {
+    animation: rotate 1s linear infinite;
+  }
+  
+  @keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
   }
 }
 
