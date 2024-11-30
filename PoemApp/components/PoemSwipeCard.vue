@@ -114,8 +114,9 @@ const handleTouchEnd = (event) => {
   event.preventDefault()
   
   isDragging.value = false
-  const swipeThreshold = 150
+  const swipeThreshold = 180
   const velocity = Math.abs(offsetX.value)
+  const animationDuration = Math.max(300, 600 - velocity)
   const direction = offsetX.value > 0 ? 1 : -1
   const totalOffset = Math.sqrt(offsetX.value * offsetX.value + offsetY.value * offsetY.value)
   const screenWidth = uni.getSystemInfoSync().windowWidth
@@ -125,14 +126,13 @@ const handleTouchEnd = (event) => {
     offsetX.value = direction * screenWidth * 1.5
     offsetY.value = offsetY.value * 1.5
     
-    emit('swipe', direction > 0 ? 'right' : 'left')
-    
     setTimeout(() => {
+      emit('swipe', direction > 0 ? 'right' : 'left')
       isAnimating.value = false
       offsetX.value = 0
       offsetY.value = 0
       emit('animation-complete')
-    }, 500)
+    }, animationDuration)
   } else {
     isAnimating.value = true
     offsetX.value = 0
@@ -141,7 +141,7 @@ const handleTouchEnd = (event) => {
     setTimeout(() => {
       isAnimating.value = false
       emit('animation-complete')
-    }, 500)
+    }, animationDuration)
   }
 }
 
@@ -166,7 +166,9 @@ const cardStyle = computed(() => {
     `
     
     if (isAnimating.value) {
-      style.transition = `all ${isDragging.value ? '0.3s' : '0.5s'} cubic-bezier(0.23, 1, 0.32, 1)`
+      const velocity = Math.abs(offsetX.value)
+      const duration = Math.max(0.3, 0.6 - velocity / 1000)
+      style.transition = `all ${duration}s cubic-bezier(0.23, 1, 0.32, 1)`
     } else {
       style.transition = 'none'
     }
