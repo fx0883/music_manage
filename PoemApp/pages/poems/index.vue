@@ -9,6 +9,11 @@ import { storeToRefs } from 'pinia'
 import { useLanguageStore } from '@/stores/useLanguageStore'
 import FontSelector from '@/components/FontSelector.vue'
 
+// 添加错误处理相关的状态
+const error = ref<string | null>(null)
+const retryCount = ref(0)
+const maxRetries = 3
+
 const poems = ref<Poem[]>([])
 const currentIndex = ref(0)
 const loading = ref(false)
@@ -22,19 +27,60 @@ const nextIndex = computed(() => {
   return null
 })
 
-// 获取推荐诗词
+// 优化的获取推荐诗词函数
 const fetchRecommendations = async (language: string = 'zh') => {
   loading.value = true
+  error.value = null
+  
   try {
     const res = await poemApi.getDailyRecommendations(language)
     if (res && res.results) {
       poems.value = res.results
+      retryCount.value = 0 // 成功后重置重试次数
+    } else {
+      throw new Error('返回数据格式错误')
     }
-  } catch (error) {
-    console.error('获取推荐列表失败:', error)
+  } catch (err) {
+    const errorMessage = err instanceof Error ? err.message : '未知错误'
+    error.value = `获取推荐列表失败: ${errorMessage}`
+    console.error(error.value, err)
+    
+    // 自动重试机制
+    if (retryCount.value < maxRetries) {
+      retryCount.value++
+      const retryDelay = 1000 * retryCount.value // 递增延迟时间
+      
+      uni.showToast({
+        title: `加载失败，${retryCount.value}秒后重试...`,
+        icon: 'none',
+        duration: retryDelay
+      })
+      
+      setTimeout(() => {
+        fetchRecommendations(language)
+      }, retryDelay)
+    } else {
+      // 达到最大重试次数
+      uni.showModal({
+        title: '提示',
+        content: '加载失败，是否重试？',
+        success: (res) => {
+          if (res.confirm) {
+            retryCount.value = 0 // 重置重试次数
+            fetchRecommendations(language)
+          }
+        }
+      })
+    }
   } finally {
     loading.value = false
   }
+}
+
+// 添加错误重试按钮的处理函数
+const handleRetry = () => {
+  retryCount.value = 0
+  fetchRecommendations()
 }
 
 // 添加动画状态控制
@@ -123,18 +169,54 @@ const handleMoreClick = () => {
   popup.value?.open()
 }
 
-// 处理弹出层状态变化
+// 优化的滚动锁定函数
+const lockScroll = (lock: boolean) => {
+  // #ifdef H5
+  const body = document.querySelector('body')
+  if (!body) return
+  
+  if (lock) {
+    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop
+    body.style.cssText = `
+      position: fixed;
+      width: 100%;
+      top: -${scrollTop}px;
+      overflow: hidden;
+      touch-action: none;
+    `
+    body.dataset.scrollTop = String(scrollTop)
+  } else {
+    const scrollTop = Number(body.dataset.scrollTop) || 0
+    body.style.cssText = ''
+    document.documentElement.scrollTop = document.body.scrollTop = scrollTop
+  }
+  // #endif
+  
+  // #ifdef MP
+  if (lock) {
+    uni.pageScrollTo({
+      scrollTop: 0,
+      duration: 0
+    })
+  }
+  // #endif
+}
+
+// 优化的弹出层状态管理
 const handlePopupChange = (e: { show: boolean }) => {
   showFontSelector.value = e.show
-  // 当弹出层显示时，禁止底部页面滚动
+  lockScroll(e.show)
+  
+  // 处理弹出层显示/隐藏的过渡效果
   if (e.show) {
-    document.body.style.overflow = 'hidden'
-    document.body.style.position = 'fixed'
-    document.body.style.width = '100%'
+    // 显示弹出层时的处理
+    uni.vibrateShort() // 添加触感反馈
   } else {
-    document.body.style.overflow = ''
-    document.body.style.position = ''
-    document.body.style.width = ''
+    // 隐藏弹出层时的处理
+    setTimeout(() => {
+      // 确保过渡动画完成后再解锁滚动
+      lockScroll(false)
+    }, 300)
   }
 }
 
@@ -173,6 +255,19 @@ onMounted(() => {
         <LoadingState />
       </template>
       
+      <template v-else-if="error">
+        <view class="poems__error">
+          <uni-icons type="error" size="64" color="#ff5a5f" />
+          <text class="poems__error-text">{{ error }}</text>
+          <button 
+            class="poems__retry-btn"
+            @click="handleRetry"
+          >
+            重试
+          </button>
+        </view>
+      </template>
+      
       <template v-else-if="!poems.length">
         <EmptyState text="暂无诗词" />
       </template>
@@ -203,7 +298,7 @@ onMounted(() => {
       ref="popup" 
       type="bottom"
       :show="showSettings"
-      @change="(e) => showSettings = e.show"
+      @change="handlePopupChange"
     >
       <view class="settings">
         <view 
@@ -304,6 +399,37 @@ onMounted(() => {
   &__current-card {
     z-index: 2;
   }
+
+  &__error {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40rpx;
+    
+    &-text {
+      margin: 20rpx 0;
+      font-size: 28rpx;
+      color: #666;
+      text-align: center;
+    }
+  }
+  
+  &__retry-btn {
+    margin-top: 20rpx;
+    padding: 20rpx 60rpx;
+    background-color: #3cc51f;
+    color: #fff;
+    border-radius: 8rpx;
+    font-size: 28rpx;
+    
+    &:active {
+      opacity: 0.8;
+    }
+  }
 }
 
 .settings {
@@ -353,40 +479,50 @@ onMounted(() => {
   background-color: #fff;
   position: relative;
   z-index: 100;
-  padding-bottom: constant(safe-area-inset-bottom); /* iOS 11.2+ */
-  padding-bottom: env(safe-area-inset-bottom); /* iOS 11.2+ */
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+  animation: slideUp 0.3s ease-out;
   
   &__scroll {
     height: 100%;
     touch-action: pan-y;
     -webkit-overflow-scrolling: touch;
     overflow-y: auto;
+    overscroll-behavior: contain;
+    
+    &::-webkit-scrollbar {
+      display: none;
+    }
   }
   
   &__safe-area {
-    height: 50px; /* tabbar 的高度 */
+    height: 50px;
     width: 100%;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
   }
 }
 
 /* 修改 uni-popup 的样式 */
 :deep(.uni-popup) {
-  /* 确保弹出层在 tabbar 上方 */
   z-index: 999 !important;
 }
 
 :deep(.uni-popup__mask) {
-  /* 确保遮罩在 tabbar 上方 */
   z-index: 998 !important;
 }
 
-/* 修改 tabbar 的样式 */
 :deep(.uni-tabbar) {
-  /* 确保 tabbar 始终可见 */
   z-index: 997 !important;
 }
 
-/* 确保弹出层内容可以滚动 */
 :deep(.uni-popup__wrapper) {
   overflow-y: auto !important;
   -webkit-overflow-scrolling: touch !important;
