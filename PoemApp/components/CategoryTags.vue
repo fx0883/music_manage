@@ -1,17 +1,18 @@
-<script setup lang="ts">
-interface Category {
-  code: string
-  name: string
-}
-
-const props = defineProps<{
-  categories: Category[]
-  modelValue: string
-}>()
+<script setup>
+const props = defineProps({
+  categories: {
+    type: Array,
+    required: true
+  },
+  modelValue: {
+    type: String,
+    required: true
+  }
+})
 
 const emit = defineEmits(['update:modelValue'])
 
-const handleSelect = (code: string) => {
+const handleSelect = (code) => {
   emit('update:modelValue', code)
 }
 </script>

@@ -3,7 +3,7 @@ import type { Poem, DailyRecommendations } from './types'
 
 export const poemApi = {
   // 获取每日推荐
-  getDailyRecommendations(language: string = 'zh'): Promise<DailyRecommendations> {
+	getDailyRecommendations(language : string = 'zh') : Promise<DailyRecommendations> {
     return request<DailyRecommendations>({
       url: '/poems/daily_recommendations/',
       method: 'GET',

@@ -1,22 +1,20 @@
-<script setup lang="ts">
+<script setup>
 import { ref, onMounted } from 'vue'
 import PoemCard from '@/components/PoemCard.vue'
-import { useRequest } from '@/utils/request'
+import { poemApi } from '@/api/poem'
 
-const { request, loading } = useRequest()
 const recommendations = ref([])
+const loading = ref(false)
 
 const fetchRecommendations = async () => {
+  loading.value = true
   try {
-    const res = await request({
-      url: '/chinese/api/poems/daily_recommendations/',
-      params: {
-        language: 'zh'
-      }
-    })
+    const res = await poemApi.getDailyRecommendations('zh')
     recommendations.value = res.results
   } catch (error) {
     console.error('获取推荐列表失败:', error)
+  } finally {
+    loading.value = false
   }
 }
 

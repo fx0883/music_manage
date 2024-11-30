@@ -1,9 +1,9 @@
-<script setup lang="ts">
+<script setup>
 import { ref } from 'vue'
 
-const props = defineProps<{
-  placeholder?: string
-}>()
+const props = defineProps({
+  placeholder: String
+})
 
 const emit = defineEmits(['search'])
 const searchText = ref('')

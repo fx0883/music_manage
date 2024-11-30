@@ -1,8 +1,15 @@
 {
-  "hash": "0391af59",
+  "hash": "382afee9",
   "configHash": "7140a673",
-  "lockfileHash": "9daf6079",
-  "browserHash": "a5118600",
-  "optimized": {},
+  "lockfileHash": "fe91ce36",
+  "browserHash": "282b48b2",
+  "optimized": {
+    "pinia-plugin-persist-uni": {
+      "src": "../../../../../node_modules/pinia-plugin-persist-uni/dist/pinia-persist-uni.es.js",
+      "file": "pinia-plugin-persist-uni.js",
+      "fileHash": "a0c22175",
+      "needsInterop": false
+    }
+  },
   "chunks": {}
 }

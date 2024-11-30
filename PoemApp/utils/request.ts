@@ -2,122 +2,87 @@ import config from '@/config'
 
 // 请求配置选项接口
 interface RequestOptions extends UniApp.RequestOptions {
-  url: string
-  method?: 'GET' | 'POST' | 'PUT' | 'DELETE'
-  data?: any
+  retryTimes?: number
+  retryDelay?: number
+  loading?: boolean
   custom?: {
-    showSuccess?: boolean
-    successMsg?: string
-    showError?: boolean
-    errorMsg?: string
     showLoading?: boolean
     loadingMsg?: string
-    auth?: boolean
   }
 }
 
-// Loading全局实例
-let LoadingInstance = {
-  count: 0
-}
+class Request {
+  private loading = false
+  private queue: UniApp.RequestTask[] = []
 
-/**
- * 关闭loading
- */
-function closeLoading() {
-  if (LoadingInstance.count > 0) LoadingInstance.count--
-  if (LoadingInstance.count === 0) uni.hideLoading()
-}
+  async request<T>(options: RequestOptions): Promise<T> {
+    const { 
+      retryTimes = 3,
+      retryDelay = 1000,
+      loading = true,
+      custom,
+      ...requestOptions 
+    } = options
 
-// 默认配置
-const defaultOptions = {
-  showSuccess: false,
-  successMsg: '',
-  showError: true,
-  errorMsg: '',
-  showLoading: true,
-  loadingMsg: '加载中',
-  auth: false
-}
+    let currentRetry = 0
 
-/**
- * 请求函数
- */
-const request = <T>(options: RequestOptions): Promise<T> => {
-  // 合并配置
-  const custom = { ...defaultOptions, ...options.custom }
-  
-  // 处理 URL
-  const url = options.url.startsWith('http') 
-    ? options.url  // 如果是完整的 URL，直接使用
-    : `${config.baseUrl}${options.url}` // 否则拼接 baseUrl
-
-  return new Promise((resolve, reject) => {
-    // 显示loading
-    if (custom.showLoading) {
-      LoadingInstance.count++
-      if (LoadingInstance.count === 1) {
-        uni.showLoading({
-          title: custom.loadingMsg,
-          mask: true
+    const execute = async (): Promise<T> => {
+      if (loading && !this.loading && custom?.showLoading) {
+        this.loading = true
+        uni.showLoading({ 
+          title: custom?.loadingMsg || '加载中...',
+          mask: true 
         })
+      }
+
+      try {
+        const response = await this._request(requestOptions)
+        return response as T
+      } catch (error) {
+        if (currentRetry < retryTimes) {
+          currentRetry++
+          await new Promise(resolve => setTimeout(resolve, retryDelay * currentRetry))
+          return execute()
+        }
+        throw error
+      } finally {
+        if (loading && this.loading && custom?.showLoading) {
+          this.loading = false
+          uni.hideLoading()
+        }
       }
     }
 
-    // 发起请求
-    uni.request({
-      url,  // 使用处理后的 URL
-      method: options.method || 'GET',
-      data: options.data,
-      header: {
-        'Content-Type': 'application/json;charset=UTF-8',
-      },
-      success: (res: any) => {
-        // 关闭loading
-        custom.showLoading && closeLoading()
+    return execute()
+  }
 
-        // 处理响应
-        if (res.statusCode >= 200 && res.statusCode < 300) {
-          // 成功提示
-          if (custom.showSuccess && custom.successMsg) {
-            uni.showToast({
-              title: custom.successMsg,
-              icon: 'none'
-            })
+  private _request(options: UniApp.RequestOptions): Promise<any> {
+    return new Promise((resolve, reject) => {
+      const requestTask = uni.request({
+        ...options,
+        success: (res) => {
+          if (res.statusCode >= 200 && res.statusCode < 300) {
+            resolve(res.data)
+          } else {
+            reject(new Error(res.data.message || '请求失败'))
           }
-          resolve(res.data)
-        } else {
-          // 错误提示
-          if (custom.showError) {
-            uni.showToast({
-              title: custom.errorMsg || res.data?.msg || '请求失败',
-              icon: 'none'
-            })
+        },
+        fail: reject,
+        complete: () => {
+          const index = this.queue.indexOf(requestTask)
+          if (index > -1) {
+            this.queue.splice(index, 1)
           }
-          reject(res)
         }
-      },
-      fail: (err) => {
-        // 关闭loading
-        custom.showLoading && closeLoading()
-
-        // 错误提示
-        if (custom.showError) {
-          uni.showToast({
-            title: '网络请求失败',
-            icon: 'none'
-          })
-        }
-        reject(err)
-      }
+      })
+      this.queue.push(requestTask)
     })
-  })
-}
+  }
 
-export const useRequest = () => {
-  return {
-    request
+  cancelAll() {
+    this.queue.forEach(task => task.abort())
+    this.queue = []
   }
 }
 
-export { request }
+export const request = new Request()

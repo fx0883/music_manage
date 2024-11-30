@@ -1,13 +1,12 @@
-<script setup lang="ts">
-interface Props {
-  title: string
-  author: string
-  content: string
-  imageUrl?: string
-  difficulty?: number
-}
+<script setup>
+const props = defineProps({
+  title: String,
+  author: String,
+  content: String,
+  imageUrl: String,
+  difficulty: Number
+})
 
-defineProps<Props>()
 defineEmits(['click'])
 </script>
 

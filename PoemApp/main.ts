@@ -1,23 +1,25 @@
 import { createSSRApp } from 'vue'
 import * as Pinia from 'pinia'
 import App from './App.vue'
-import { 
-  UniIcons, 
-  UniPopup, 
-  UniList,
-  UniListItem 
-} from '@dcloudio/uni-ui'
+import { setupPinia } from '@/stores'
+
+// 修改导入方式
+import UniIcons from '@dcloudio/uni-ui/lib/uni-icons/uni-icons.vue'
+import UniPopup from '@dcloudio/uni-ui/lib/uni-popup/uni-popup.vue'
+import UniList from '@dcloudio/uni-ui/lib/uni-list/uni-list.vue'
+import UniListItem from '@dcloudio/uni-ui/lib/uni-list-item/uni-list-item.vue'
 
 export function createApp() {
   const app = createSSRApp(App)
-  const store = Pinia.createPinia()
   
+  // 设置 Pinia
+  setupPinia(app)
+  
+  // 注册组件
   app.component('uni-icons', UniIcons)
   app.component('uni-popup', UniPopup)
   app.component('uni-list', UniList)
   app.component('uni-list-item', UniListItem)
-  
-  app.use(store)
   
   return {
     app,

@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import { ref } from 'vue'
 
 const activeGame = ref('quiz') // 当前选中的游戏类型

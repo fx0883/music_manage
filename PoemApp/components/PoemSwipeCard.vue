@@ -1,62 +1,50 @@
-<script setup lang="ts">
+<script setup>
 import { computed, ref, onMounted } from 'vue'
 import { fontApi } from '@/api/font'
 
-// 定义组件接收的属性类型
-interface Props {
+const props = defineProps({
   poem: {
-    title: string      // 诗词标题
-    content: string    // 诗词内容
-    author_name: string // 作者名
+    type: Object,
+    required: true
+  },
+  isTop: {
+    type: Boolean,
+    default: false
   }
-  isTop?: boolean
-}
-
-// 设置默认值
-const props = withDefaults(defineProps<Props>(), {
-  isTop: false
 })
-const emit = defineEmits(['swipe', 'animationComplete']) // 定义滑动事件
+
+const emit = defineEmits(['swipe', 'animationComplete'])
 
 // 处理诗词内容：获取前两句，按标点分段，去除标点
 const poemSegments = computed(() => {
-  // 获取前两句
   const lines = props.poem.content.split('\n').slice(0, 2)
   
-  // 将两句合并，按标点符号分段
   const segments = lines.join('')
-    // 在标点符号后添加分隔符
     .replace(/[，。、；：？！,.;:?!]/g, '$&|')
-    // 按分隔符分割
     .split('|')
-    // 过滤空字符串
     .filter(segment => segment)
-    // 去除标点符号
     .map(segment => segment.replace(/[，。、；：？！,.;:?!]/g, ''))
-    // 过滤空字符串
     .filter(segment => segment)
-    // 将每个段落转为字符数组
     .map(segment => segment.split(''))
 
   return segments
 })
 
 // 拖动状态管理
-const isDragging = ref(false)    // 是否正在拖动
-const startX = ref(0)            // 触摸起始点X坐标
-const startY = ref(0)            // 触摸起始点Y坐标
-const offsetX = ref(0)           // X轴偏移量
-const offsetY = ref(0)           // Y轴偏移量
-const isAnimating = ref(false)   // 是否正在执行动画
+const isDragging = ref(false)
+const startX = ref(0)
+const startY = ref(0)
+const offsetX = ref(0)
+const offsetY = ref(0)
+const isAnimating = ref(false)
 
 // 字体加载状态
 const fontLoaded = ref(false)
 const currentFont = ref('')
 
 // 加载字体
-const loadFont = async (fontName: string) => {
+const loadFont = async (fontName) => {
   try {
-    // 创建 style 元素
     const style = document.createElement('style')
     style.textContent = `
       @font-face {
@@ -64,15 +52,12 @@ const loadFont = async (fontName: string) => {
         src: url("http://127.0.0.1:8000/media/fonts/${fontName}.ttf") format("truetype");
       }
     `
-    // 添加样式到 head
     document.head.appendChild(style)
     
-    // 创建 FontFace 对象并加载
     const font = new FontFace(fontName, `url(http://127.0.0.1:8000/media/fonts/${fontName}.ttf)`)
     await font.load()
     document.fonts.add(font)
     
-    // 更新状态
     fontLoaded.value = true
     currentFont.value = fontName
   } catch (error) {
@@ -82,25 +67,75 @@ const loadFont = async (fontName: string) => {
   }
 }
 
-// 组件挂载时加载字体
-onMounted(async () => {
-  try {
-    await loadFont('13')  // 加载 1.ttf 字体
-  } catch (error) {
-    console.error('Failed to load font on mount:', error)
+// 触摸事件处理
+const handleTouchStart = (event) => {
+  if (!props.isTop || isAnimating.value) return
+  
+  event.stopPropagation()
+  event.preventDefault()
+  
+  isDragging.value = true
+  startX.value = event.touches[0].clientX
+  startY.value = event.touches[0].clientY
+  offsetX.value = 0
+  offsetY.value = 0
+}
+
+const handleTouchMove = (event) => {
+  if (!props.isTop || !isDragging.value || isAnimating.value) return
+  
+  event.stopPropagation()
+  event.preventDefault()
+  
+  offsetX.value = event.touches[0].clientX - startX.value
+  offsetY.value = event.touches[0].clientY - startY.value
+}
+
+const handleTouchEnd = (event) => {
+  if (!props.isTop || !isDragging.value || isAnimating.value) return
+  
+  event.stopPropagation()
+  event.preventDefault()
+  
+  isDragging.value = false
+  const swipeThreshold = 100
+  const velocity = Math.abs(offsetX.value)
+  const direction = offsetX.value > 0 ? 1 : -1
+  const screenWidth = uni.getSystemInfoSync().windowWidth
+  
+  if (Math.abs(offsetX.value) > swipeThreshold || velocity > 50) {
+    isAnimating.value = true
+    offsetX.value = direction * screenWidth * 1.5
+    offsetY.value = offsetY.value * 1.5
+    
+    setTimeout(() => {
+      emit('swipe', direction > 0 ? 'right' : 'left')
+      isAnimating.value = false
+      offsetX.value = 0
+      offsetY.value = 0
+      emit('animationComplete')
+    }, 500)
+  } else {
+    isAnimating.value = true
+    offsetX.value = 0
+    offsetY.value = 0
+    
+    setTimeout(() => {
+      isAnimating.value = false
+      emit('animationComplete')
+    }, 500)
   }
-})
+}
 
-// 计算卡片的样式，包括位移、旋转和缩放
+// 计算样式
 const cardStyle = computed(() => {
-  const style: {
-    transform?: string
-    transition?: string
-    fontFamily?: string
-    pointerEvents?: 'none' | 'auto'  // 明确类型
-  } = {}
+  const style = {
+    pointerEvents: 'auto',
+    transform: '',
+    transition: '',
+    fontFamily: ''
+  }
 
-  // 在动画或非顶层时禁用交互
   if (isAnimating.value || !props.isTop) {
     style.pointerEvents = 'none'
   }
@@ -115,16 +150,13 @@ const cardStyle = computed(() => {
       scale(${scale})
     `
     
-    // 根据状态设置不同的过渡效果
     if (isAnimating.value) {
-      const duration = isDragging.value ? '0.3s' : '0.5s'
-      style.transition = `all ${duration} cubic-bezier(0.23, 1, 0.32, 1)`
+      style.transition = `all ${isDragging.value ? '0.3s' : '0.5s'} cubic-bezier(0.23, 1, 0.32, 1)`
     } else {
       style.transition = 'none'
     }
   }
 
-  // 添加字体样式
   if (fontLoaded.value && currentFont.value) {
     style.fontFamily = `"${currentFont.value}", "SimSun", serif`
   }
@@ -132,114 +164,30 @@ const cardStyle = computed(() => {
   return style
 })
 
-// 触摸开始事件处理
-const handleTouchStart = (event: TouchEvent) => {
-  if (!props.isTop || isAnimating.value) return
-  
-  // 阻止事件冒泡和默认行为
-  event.stopPropagation()
-  event.preventDefault()
-  
-  isDragging.value = true
-  startX.value = event.touches[0].clientX
-  startY.value = event.touches[0].clientY
-  offsetX.value = 0
-  offsetY.value = 0
-}
-
-// 触摸移动事件处理
-const handleTouchMove = (event: TouchEvent) => {
-  if (!props.isTop || !isDragging.value || isAnimating.value) return
-  
-  // 阻止事件冒泡和默认行为
-  event.stopPropagation()
-  event.preventDefault()
-  
-  const currentX = event.touches[0].clientX
-  const currentY = event.touches[0].clientY
-  
-  offsetX.value = currentX - startX.value
-  offsetY.value = currentY - startY.value
-}
-
-// 触摸结束事件处理
-const handleTouchEnd = (event: TouchEvent) => {
-  if (!props.isTop || !isDragging.value || isAnimating.value) return
-  
-  // 阻止事件冒泡和默认行为
-  event.stopPropagation()
-  event.preventDefault()
-  
-  isDragging.value = false
-  const swipeThreshold = 100 // 滑动阈值
-  const velocity = Math.abs(offsetX.value) // 滑动速度
-  const direction = offsetX.value > 0 ? 1 : -1
-  const screenWidth = uni.getSystemInfoSync().windowWidth
-  
-  // 如果滑动距离超过阈值或滑动速度足够快
-  if (Math.abs(offsetX.value) > swipeThreshold || velocity > 50) {
-    // 触发滑出动画
-    isAnimating.value = true
-    
-    // 设置滑出距离
-    offsetX.value = direction * screenWidth * 1.5
-    offsetY.value = offsetY.value * 1.5
-    
-    // 动画结束后再触发事件
-    setTimeout(() => {
-      emit('swipe', direction > 0 ? 'right' : 'left')
-      isAnimating.value = false
-      offsetX.value = 0
-      offsetY.value = 0
-      emit('animationComplete')
-    }, 500)
-  } else {
-    // 返回原位的动画
-    isAnimating.value = true
-    offsetX.value = 0
-    offsetY.value = 0
-    
-    setTimeout(() => {
-      isAnimating.value = false
-      emit('animationComplete')
-    }, 500)
-  }
-}
-
-// 计算可用高度，上下都留出100px的空间
-const containerHeight = computed(() => {
-  const systemInfo = uni.getSystemInfoSync()
-  const topBottomSpace = 100  // 上下各留出100px
-  return systemInfo.windowHeight - (topBottomSpace * 2) + 'px'
-})
-
-// 计算容器的上边距
-const containerStyle = computed(() => {
-  return {
-    height: containerHeight.value,
-    top: '50px',  // 上边距50px
-    left: '50px',  // 左边距50px
-    right: '50px', // 右边距50px
-    width: 'auto'  // 宽度自适应
+// 初始化
+onMounted(async () => {
+  try {
+    await loadFont('13')
+  } catch (error) {
+    console.error('Failed to load font on mount:', error)
   }
 })
 </script>
 
 <template>
-  <!-- 诗词卡片容器 -->
   <view 
     class="poem-card" 
     :class="{
       'poem-card--top': isTop,
       'poem-card--animating': isAnimating
     }"
-    :style="[cardStyle, containerStyle]"
+    :style="cardStyle"
     @touchstart="handleTouchStart"
     @touchmove="handleTouchMove"
     @touchend="handleTouchEnd"
   >
     <view class="poem-card__content">
-      <!-- 诗句区域：每个竖行显示一个分段 -->
+      <!-- 诗句区域 -->
       <view class="poem-card__lines">
         <view 
           v-for="(segment, segmentIndex) in poemSegments"

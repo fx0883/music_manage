@@ -1,15 +1,17 @@
-<script setup lang="ts">
+<script setup>
 import { ref, onMounted, computed } from 'vue'
 import { fontApi } from '@/api/font'
-import type { Font, FontCategory } from '@/types/font'
 
-const props = defineProps<{
-  modelValue: string  // 当前选中的字体
-}>()
+const props = defineProps({
+  modelValue: {
+    type: String,
+    required: true
+  }
+})
 
 const emit = defineEmits(['update:modelValue', 'select'])
 
-const categories = ref<FontCategory[]>([])
+const categories = ref([])
 const loading = ref(false)
 const activeCategory = ref('全部')
 const selectedFont = ref(props.modelValue)
@@ -28,14 +30,14 @@ const fetchFontCategories = async () => {
 }
 
 // 处理字体选择
-const handleFontSelect = (font: Font) => {
+const handleFontSelect = (font) => {
   selectedFont.value = font.name
   emit('update:modelValue', font.name)
   emit('select', font)
 }
 
 // 处理分类选择
-const handleCategorySelect = (category: string) => {
+const handleCategorySelect = (category) => {
   activeCategory.value = category
 }
 
@@ -82,7 +84,7 @@ onMounted(() => {
       </view>
     </scroll-view>
 
-    <!-- 使用 uni-list 替换原来的 scroll-view -->
+    <!-- 字体列表 -->
     <uni-list class="font-selector__fonts">
       <uni-list-item
         v-for="font in allFonts"
@@ -116,13 +118,13 @@ onMounted(() => {
   display: flex;
   flex-direction: column;
   background-color: #fff;
-  touch-action: pan-y;  // 允许垂直滚动
+  touch-action: pan-y;
   
   &__categories {
     background-color: #f5f5f5;
     white-space: nowrap;
     flex-shrink: 0;
-    touch-action: pan-x;  // 允许水平滚动
+    touch-action: pan-x;
   }
   
   &__tabs {
@@ -146,9 +148,9 @@ onMounted(() => {
   
   &__fonts {
     flex: 1;
-    height: 0;  // 确保可以滚动
+    height: 0;
     overflow-y: auto;
-    -webkit-overflow-scrolling: touch;  // iOS 滚动优化
+    -webkit-overflow-scrolling: touch;
   }
   
   &__font-content {
@@ -174,13 +176,11 @@ onMounted(() => {
     margin-left: 20rpx;
   }
   
-  // 激活状态样式
   &__font--active {
     background-color: #f8f8f8;
   }
 }
 
-// 覆盖 uni-list 的默认样式
 :deep(.uni-list) {
   height: 100%;
   overflow-y: auto;
