@@ -5,43 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/api/author.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/api/font.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/api/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/api/poem.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/api/poem.js" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/poem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/api/poem.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/poem.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/api/types.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/components/CategoryTags.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/CategoryTags.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/components/EmptyState.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/EmptyState.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/components/FontSelector.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/FontSelector.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/components/LoadingState.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/LoadingState.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/components/PoemCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/PoemCard.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/components/PoemSwipeCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/PoemSwipeCard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/components/SearchBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/SearchBar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.cjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.esm-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.esm-browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.iife.js" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.iife.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.iife.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.iife.prod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.prod.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/pinia/dist/pinia.prod.cjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/node_modules/pinia/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/node_modules/pinia/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/pages/game/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/game/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/config/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/main.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/pages/recommend/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/recommend/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/pages/user/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/user/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/stores/usePoemStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/stores/usePoemStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/stores/index.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/types/font.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/types/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/unpackage/dist/cache/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/unpackage/dist/cache/.vite/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/utils/request.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/utils/request.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +127,7 @@
       <workItem from="1732881215767" duration="4623000" />
       <workItem from="1732889186363" duration="197000" />
       <workItem from="1732934967987" duration="3344000" />
-      <workItem from="1732944150842" duration="832000" />
+      <workItem from="1732944150842" duration="3736000" />
     </task>
     <servers />
   </component>
@@ -157,14 +135,22 @@
     <option name="version" value="3" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/PoemApp/main.js" />
-        <option value="$PROJECT_DIR$/PoemApp/stores/index.js" />
         <option value="$PROJECT_DIR$/PoemApp/stores/usePoemStore.js" />
-        <option value="$PROJECT_DIR$/PoemApp/api/poem.js" />
         <option value="$PROJECT_DIR$/PoemApp/utils/request.js" />
-        <option value="$PROJECT_DIR$/PoemApp/config/index.js" />
         <option value="$PROJECT_DIR$/PoemApp/stores/useLanguageStore.js" />
-        <option value="$PROJECT_DIR$/PoemApp/api/font.js" />
+        <option value="$PROJECT_DIR$/PoemApp/vite.config.js" />
+        <option value="$PROJECT_DIR$/PoemApp/api/poem.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
       </list>
     </option>
   </component>

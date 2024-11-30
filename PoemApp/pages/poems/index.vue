@@ -25,20 +25,25 @@ const nextIndex = computed(() => {
 // 动画状态控制
 const isAnimating = ref(false)
 
-// 处理动画完成事件
-const handleAnimationComplete = () => {
-  isAnimating.value = false
-}
-
 // 处理滑动
 const handleSwipe = (direction) => {
   if (isAnimating.value) return
   
-  isAnimating.value = true
-  if (direction === 'left' && currentIndex.value < poemStore.poems.length - 1) {
+  // isAnimating.value = true
+  // if (direction === 'left' && currentIndex.value < poemStore.poems.length - 1) {
+  //   currentIndex.value++
+  // } else if (direction === 'right' && currentIndex.value > 0) {
+  //   currentIndex.value--
+  // }
+  
+
+}
+
+// 处理动画完成
+const handleAnimationComplete = () => {
+  isAnimating.value = false
+  if (currentIndex.value < poemStore.poems.length - 1) {
     currentIndex.value++
-  } else if (direction === 'right' && currentIndex.value > 0) {
-    currentIndex.value--
   }
 }
 
@@ -200,6 +205,10 @@ onMounted(async () => {
           v-if="nextIndex !== null"
           :poem="poemStore.poems[nextIndex]"
           :is-top="false"
+          :top-margin="100"
+          :bottom-margin="300"
+          :left-margin="80"
+          :right-margin="80"
           class="poems__next-card"
         />
         
@@ -208,6 +217,10 @@ onMounted(async () => {
           v-if="poemStore.poems[currentIndex]"
           :poem="poemStore.poems[currentIndex]"
           :is-top="true"
+          :top-margin="100"
+          :bottom-margin="300"
+          :left-margin="80"
+          :right-margin="80"
           @swipe="handleSwipe"
           @animation-complete="handleAnimationComplete"
           class="poems__current-card"
@@ -312,6 +325,7 @@ onMounted(async () => {
     position: relative;
     background-color: #f8f8f8;
     overflow: hidden;
+    padding: 20rpx;
   }
   
   &__next-card {
