@@ -4,7 +4,8 @@
 			"path": "pages/poems/index",
 			"style": {
 				"navigationBarTitleText": "诗词摘录",
-				"enablePullDownRefresh": false
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
 			}
 		},
 		{

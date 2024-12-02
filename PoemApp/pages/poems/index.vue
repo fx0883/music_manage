@@ -161,25 +161,28 @@ onMounted(async () => {
 </script>
 
 <template>
-  <view class="poems" @touchmove.stop>
+  <view class="poems">
     <!-- 顶工具栏 -->
     <view class="poems__header">
-      <text class="poems__all">全部</text>
-      <view class="poems__tools">
-        <uni-icons type="star" size="24" color="#333" />
-        <uni-icons type="search" size="24" color="#333" />
-        <uni-icons type="compose" size="24" color="#333" />
-        <uni-icons type="upload" size="24" color="#333" />
-        <uni-icons 
-          type="more-filled" 
-          size="24" 
-          color="#333"
-          @click="handleMoreClick"
-        />
+      <view class="poems__status-bar" />
+      <view class="poems__nav">
+        <text class="poems__title">全部</text>
+        <view class="poems__tools">
+          <uni-icons type="star" size="24" color="#333" />
+          <uni-icons type="search" size="24" color="#333" />
+          <uni-icons type="compose" size="24" color="#333" />
+          <uni-icons type="upload" size="24" color="#333" />
+          <uni-icons 
+            type="more-filled" 
+            size="24" 
+            color="#333"
+            @click="handleMoreClick"
+          />
+        </view>
       </view>
     </view>
     
-    <!-- 卡片区域 -->
+    <!-- 内容区域 -->
     <view class="poems__content">
       <template v-if="poemStore.loading">
         <LoadingState />
@@ -235,83 +238,85 @@ onMounted(async () => {
       </template>
     </view>
 
-    <!-- 设置弹出层 -->
-    <uni-popup 
-      ref="popup" 
-      type="bottom"
-      :show="showSettings"
-      :mask-click="true"
-      :safe-area="true"
-      @change="handlePopupChange"
-    >
-      <view class="settings">
-        <view 
-          v-for="item in settingItems" 
-          :key="item.type"
-          class="settings__item"
-          @click="handleSettingClick(item.type)"
-        >
-          <text class="settings__title">{{ item.title }}</text>
-          <view class="settings__right">
-            <text 
-              v-if="item.type === 'font'" 
-              class="settings__value"
-            >{{ currentFont.name }}</text>
-            <uni-icons 
-              v-if="item.showArrow" 
-              type="right" 
-              size="16" 
-              color="#999" 
-            />
-          </view>
-        </view>
 
-        <!-- 字体大小滑块 -->
-        <view class="settings__item">
-          <text class="settings__title">字体大小</text>
-          <view class="settings__slider-container">
-            <slider 
-              :value="fontSize" 
-              @change="handleFontSizeChange"
-              min="18"
-              max="32"
-              :step="1"
-              show-value
-              class="settings__slider"
-              :block-size="20"
-              block-color="#3cc51f"
-              active-color="#3cc51f"
-              background-color="#eee"
-            />
-          </view>
-        </view>
-        <view class="settings__safe-area"></view>
-      </view>
-    </uni-popup>
-
-    <!-- 字体选择弹出层 -->
-    <uni-popup
-      ref="fontPopup"
-      type="bottom"
-      :mask-click="true"
-      :safe-area="true"
-      @change="handlePopupChange"
-    >
-      <view class="font-popup">
-        <scroll-view 
-          scroll-y 
-          class="font-popup__scroll"
-          @touchmove.stop
-        >
-          <FontSelector
-            v-model="currentFont.name"
-            @select="handleFontSelect"
-          />
-        </scroll-view>
-        <view class="font-popup__safe-area"></view>
-      </view>
-    </uni-popup>
   </view>
+  
+  <!-- 设置弹出层 -->
+  <uni-popup 
+    ref="popup" 
+    type="bottom"
+    :show="showSettings"
+    :mask-click="true"
+    :safe-area="true"
+    @change="handlePopupChange"
+  >
+    <view class="settings">
+      <view 
+        v-for="item in settingItems" 
+        :key="item.type"
+        class="settings__item"
+        @click="handleSettingClick(item.type)"
+      >
+        <text class="settings__title">{{ item.title }}</text>
+        <view class="settings__right">
+          <text 
+            v-if="item.type === 'font'" 
+            class="settings__value"
+          >{{ currentFont.name }}</text>
+          <uni-icons 
+            v-if="item.showArrow" 
+            type="right" 
+            size="16" 
+            color="#999" 
+          />
+        </view>
+      </view>
+  
+      <!-- 字体大小块 -->
+      <view class="settings__item">
+        <text class="settings__title">字体大小</text>
+        <view class="settings__slider-container">
+          <slider 
+            :value="fontSize" 
+            @change="handleFontSizeChange"
+            min="18"
+            max="32"
+            :step="1"
+            show-value
+            class="settings__slider"
+            :block-size="20"
+            block-color="#3cc51f"
+            active-color="#3cc51f"
+            background-color="#eee"
+          />
+        </view>
+      </view>
+      <view class="settings__safe-area"></view>
+    </view>
+  </uni-popup>
+  
+  <!-- 字体选择弹出层 -->
+  <uni-popup
+    ref="fontPopup"
+    type="bottom"
+    :mask-click="true"
+    :safe-area="true"
+    @change="handlePopupChange"
+  >
+    <view class="font-popup">
+      <scroll-view 
+        scroll-y 
+        class="font-popup__scroll"
+        @touchmove.stop
+      >
+        <FontSelector
+          v-model="currentFont.name"
+          @select="handleFontSelect"
+        />
+      </scroll-view>
+      <view class="font-popup__safe-area"></view>
+    </view>
+  </uni-popup>
 </template>
 
 <style lang="scss">
@@ -320,23 +325,46 @@ onMounted(async () => {
   flex-direction: column;
   min-height: 100vh;
   background-color: #f8f8f8;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
   
   &__header {
-    padding: 20rpx 40rpx;
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
     background-color: #fff;
     border-bottom: 1rpx solid #eee;
-    height: 100rpx;
     box-sizing: border-box;
     z-index: 10;
     flex-shrink: 0;
+	padding: 0 30rpx 0 50rpx;
   }
   
-  &__all {
+  &__status-bar {
+    width: 100%;
+    height: var(--status-bar-height);
+  }
+  
+  &__nav {
+    width: 100%;
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40rpx;
+  }
+  
+  &__title {
     font-size: 32rpx;
     color: #333;
+    font-weight: 500;
   }
   
   &__tools {
@@ -348,10 +376,7 @@ onMounted(async () => {
     flex: 1;
     position: relative;
     background-color: #f8f8f8;
-    overflow: hidden;
     box-sizing: border-box;
-    padding: 0rpx;
-    padding-bottom: 50px;
   }
   
   &__next-card {
