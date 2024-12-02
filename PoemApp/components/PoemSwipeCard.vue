@@ -210,10 +210,11 @@ onMounted(async () => {
     :style="[
       cardStyle,
       {
+        position: 'fixed',
         top: `${topMargin}rpx`,
-        bottom: `${bottomMargin}rpx`,
         left: `${leftMargin}rpx`,
-        right: `${rightMargin}rpx`
+        right: `${rightMargin}rpx`,
+        bottom: `${bottomMargin}rpx`
       }
     ]"
     @touchstart="handleTouchStart"
@@ -248,7 +249,6 @@ onMounted(async () => {
 
 <style lang="scss">
 .poem-card {
-  position: absolute;
   background-color: #fff;
   box-shadow: 0 2rpx 8rpx rgba(0, 0, 0, 0.05);
   display: flex;
@@ -274,7 +274,6 @@ onMounted(async () => {
   }
   
   &__line {
-    height: 100%;
     display: grid;
     grid-auto-rows: min-content;
     row-gap: 30rpx;

@@ -21,7 +21,32 @@ const nextIndex = computed(() => {
   return null
 })
 
-
+// 计算边距
+const margins = computed(() => {
+  const paddingHeight = 150
+  const systemInfo = uni.getSystemInfoSync()
+  const screenHeight = systemInfo.screenHeight
+  const statusBarHeight = systemInfo.statusBarHeight
+  const navBarHeight = 44 // 导航栏固定高度
+  const tabBarHeight = 50 // tabBar 固定高度
+  
+  // 计算卡片可用空间
+  const availableHeight = screenHeight - statusBarHeight - navBarHeight - tabBarHeight
+  
+  // 计算合适的上下边距
+  const topMargin = statusBarHeight + navBarHeight + 20
+  const bottomMargin = tabBarHeight + 20
+  
+  // 计算左右边距 (根据屏幕宽度的比例)
+  const sideMargin = Math.floor(systemInfo.screenWidth * 0.2) // 屏幕宽度的10%
+  
+  return {
+    top: topMargin + paddingHeight,
+    bottom: bottomMargin + paddingHeight,
+    left: sideMargin,
+    right: sideMargin
+  }
+})
 
 // 处理滑动
 const handleSwipe = (direction) => {
@@ -210,10 +235,10 @@ onMounted(async () => {
           v-if="nextIndex !== null"
           :poem="poemStore.poems[nextIndex]"
           :is-top="false"
-          :top-margin="100"
-          :bottom-margin="300"
-          :left-margin="80"
-          :right-margin="80"
+          :top-margin="margins.top"
+          :bottom-margin="margins.bottom"
+          :left-margin="margins.left"
+          :right-margin="margins.right"
           :font-family="currentFont.fontFamily"
           :font-size="cardFontSize"
           class="poems__next-card"
@@ -224,10 +249,10 @@ onMounted(async () => {
           v-if="poemStore.poems[currentIndex]"
           :poem="poemStore.poems[currentIndex]"
           :is-top="true"
-          :top-margin="100"
-          :bottom-margin="300"
-          :left-margin="80"
-          :right-margin="80"
+          :top-margin="margins.top"
+          :bottom-margin="margins.bottom"
+          :left-margin="margins.left"
+          :right-margin="margins.right"
           :font-family="currentFont.fontFamily"
           :font-size="cardFontSize"
           @swipe="handleSwipe"
