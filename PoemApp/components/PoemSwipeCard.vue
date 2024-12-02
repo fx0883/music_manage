@@ -30,6 +30,10 @@ const props = defineProps({
   fontFamily: {
     type: String,
     default: 'SimSun'
+  },
+  fontSize: {
+    type: Number,
+    default: 42
   }
 })
 
@@ -205,6 +209,7 @@ onMounted(async () => {
             v-for="(char, charIndex) in segment"
             :key="charIndex"
             class="poem-card__character"
+            :style="{ fontSize: `${fontSize}rpx` }"
           >{{ char }}</text>
         </view>
       </view>
@@ -239,21 +244,22 @@ onMounted(async () => {
     flex: 1;
     display: flex;
     flex-direction: row-reverse;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
-    gap: 40rpx;
+    gap: 30rpx;
+    padding-right: 20rpx;
   }
   
   &__line {
-    display: flex;
-    flex-direction: column;
     height: 100%;
+    display: grid;
+    grid-auto-rows: min-content;
+    row-gap: 30rpx;
   }
   
   &__character {
-    font-size: 42rpx;
+    font-size: 50rpx;
     color: #333;
-    line-height: 1.8;
     writing-mode: vertical-rl;
   }
   

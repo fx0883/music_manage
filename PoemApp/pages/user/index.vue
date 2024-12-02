@@ -31,6 +31,7 @@ const menuItems = [
         <uni-icons type="right" size="16" color="#999" />
       </view>
     </view>
++   <custom-tab-bar :selected="3" />
   </view>
 </template>
 

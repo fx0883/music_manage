@@ -6,6 +6,7 @@ import PoemSwipeCard from '@/components/PoemSwipeCard.vue'
 import LoadingState from '@/components/LoadingState.vue'
 import EmptyState from '@/components/EmptyState.vue'
 import FontSelector from '@/components/FontSelector.vue'
+import { debounce } from '@/utils/debounce'
 
 // Store
 const poemStore = usePoemStore()
@@ -13,8 +14,6 @@ const languageStore = useLanguageStore()
 
 // 当前诗词索引
 const currentIndex = ref(0)
-
-// 计算下一张卡片的索引
 const nextIndex = computed(() => {
   if (currentIndex.value < poemStore.poems.length - 1) {
     return currentIndex.value + 1
@@ -28,15 +27,6 @@ const isAnimating = ref(false)
 // 处理滑动
 const handleSwipe = (direction) => {
   if (isAnimating.value) return
-  
-  // isAnimating.value = true
-  // if (direction === 'left' && currentIndex.value < poemStore.poems.length - 1) {
-  //   currentIndex.value++
-  // } else if (direction === 'right' && currentIndex.value > 0) {
-  //   currentIndex.value--
-  // }
-  
-
 }
 
 // 处理动画完成
@@ -47,45 +37,39 @@ const handleAnimationComplete = () => {
   }
 }
 
-// 弹出层控制
+// 状态管理
 const showSettings = ref(false)
 const currentFont = ref({
   name: '默认字体',
-  fontFamily: 'SimSun' // 默认使用宋体
+  fontFamily: 'SimSun'
 })
 const fontSize = ref(16)
+const cardFontSize = ref(42)
 const showFontSelector = ref(false)
-
-// 弹出层引用
 const popup = ref(null)
 const fontPopup = ref(null)
 
+// 字体大小变化处理
+const handleFontSizeChange = debounce((e) => {
+  const size = e.detail.value
+  fontSize.value = size
+  cardFontSize.value = Math.floor(36 + ((size - 12) / 12) * 12)
+  
+  uni.setStorageSync('poem-font-size', {
+    slider: size,
+    actual: cardFontSize.value
+  })
+}, 100)
+
 // 设置选项
 const settingItems = [
-  { 
-    title: '字体切换',
-    value: currentFont.value,
-    type: 'font',
-    showArrow: true 
-  },
-  { 
-    title: '卡片样式',
-    type: 'card',
-    showArrow: true 
-  },
-  { 
-    title: '练字模式',
-    type: 'practice',
-    showArrow: true 
-  },
-  { 
-    title: '浏览记录',
-    type: 'history',
-    showArrow: true 
-  }
+  { title: '字体切换', value: currentFont.value, type: 'font', showArrow: true },
+  { title: '卡片样式', type: 'card', showArrow: true },
+  { title: '练字模式', type: 'practice', showArrow: true },
+  { title: '浏览记录', type: 'history', showArrow: true }
 ]
 
-// 处理设置项点击
+// 事件处理
 const handleSettingClick = (type) => {
   if (type === 'font') {
     popup.value?.close()
@@ -95,24 +79,20 @@ const handleSettingClick = (type) => {
   }
 }
 
-// 处理字体选择
 const handleFontSelect = (font) => {
   currentFont.value = font
   fontPopup.value?.close()
-  
-  // 可以保存字体设置到本地存储
   uni.setStorageSync('poem-font', {
     name: font.name,
     fontFamily: font.fontFamily
   })
 }
 
-// 处理更多按钮点击
 const handleMoreClick = () => {
   popup.value?.open()
 }
 
-// 优化的滚动锁定函数
+// 滚动锁定
 const lockScroll = (lock) => {
   // #ifdef H5
   const body = document.querySelector('body')
@@ -145,7 +125,7 @@ const lockScroll = (lock) => {
   // #endif
 }
 
-// 处理弹出层状态变化
+// 弹出层状态变化
 const handlePopupChange = (e) => {
   showFontSelector.value = e.show
   lockScroll(e.show)
@@ -164,11 +144,15 @@ onMounted(async () => {
   languageStore.initLanguage()
   await poemStore.fetchRecommendations(languageStore.currentLanguage)
   
-  // 从本地存储恢复字体设置
   try {
     const savedFont = uni.getStorageSync('poem-font')
     if (savedFont) {
       currentFont.value = savedFont
+    }
+    const savedFontSize = uni.getStorageSync('poem-font-size')
+    if (savedFontSize) {
+      fontSize.value = savedFontSize.slider
+      cardFontSize.value = savedFontSize.actual
     }
   } catch (error) {
     console.error('Failed to restore font settings:', error)
@@ -229,6 +213,7 @@ onMounted(async () => {
           :left-margin="80"
           :right-margin="80"
           :font-family="currentFont.fontFamily"
+          :font-size="cardFontSize"
           class="poems__next-card"
         />
         
@@ -242,6 +227,7 @@ onMounted(async () => {
           :left-margin="80"
           :right-margin="80"
           :font-family="currentFont.fontFamily"
+          :font-size="cardFontSize"
           @swipe="handleSwipe"
           @animation-complete="handleAnimationComplete"
           class="poems__current-card"
@@ -283,14 +269,21 @@ onMounted(async () => {
         <!-- 字体大小滑块 -->
         <view class="settings__item">
           <text class="settings__title">字体大小</text>
-          <slider 
-            :value="fontSize" 
-            @change="e => fontSize = e.detail.value"
-            min="12"
-            max="24"
-            show-value
-            class="settings__slider"
-          />
+          <view class="settings__slider-container">
+            <slider 
+              :value="fontSize" 
+              @change="handleFontSizeChange"
+              min="18"
+              max="32"
+              :step="1"
+              show-value
+              class="settings__slider"
+              :block-size="20"
+              block-color="#3cc51f"
+              active-color="#3cc51f"
+              background-color="#eee"
+            />
+          </view>
         </view>
         <view class="settings__safe-area"></view>
       </view>
@@ -323,15 +316,10 @@ onMounted(async () => {
 
 <style lang="scss">
 .poems {
-  min-height: 100vh;
-  background-color: #f8f8f8;
   display: flex;
   flex-direction: column;
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  touch-action: none;
+  min-height: 100vh;
+  background-color: #f8f8f8;
   
   &__header {
     padding: 20rpx 40rpx;
@@ -340,6 +328,10 @@ onMounted(async () => {
     align-items: center;
     background-color: #fff;
     border-bottom: 1rpx solid #eee;
+    height: 100rpx;
+    box-sizing: border-box;
+    z-index: 10;
+    flex-shrink: 0;
   }
   
   &__all {
@@ -357,7 +349,9 @@ onMounted(async () => {
     position: relative;
     background-color: #f8f8f8;
     overflow: hidden;
-    padding: 20rpx;
+    box-sizing: border-box;
+    padding: 0rpx;
+    padding-bottom: 50px;
   }
   
   &__next-card {
@@ -436,9 +430,16 @@ onMounted(async () => {
     color: #999;
   }
   
+  &__slider-container {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 30rpx;
+  }
+  
   &__slider {
     flex: 1;
-    margin: 0 20rpx;
+    margin: 0;
   }
   
   &__safe-area {
@@ -474,7 +475,7 @@ onMounted(async () => {
   }
 }
 
-/* 修改 uni-popup 的样式 */
+/* uni-popup 样式覆盖 */
 :deep(.uni-popup) {
   z-index: 99999 !important;
 }
@@ -486,40 +487,19 @@ onMounted(async () => {
 
 :deep(.uni-popup__wrapper) {
   z-index: 99999 !important;
+  max-height: 90vh !important;
+  overflow: hidden !important;
   
   &.bottom {
     bottom: 0 !important;
+    padding-bottom: constant(safe-area-inset-bottom) !important;
+    padding-bottom: env(safe-area-inset-bottom) !important;
+    animation: popup-bottom 0.2s ease-out;
   }
 }
 
-/* 确保 tabbar 被遮住 */
-:deep(.uni-tabbar) {
-  z-index: 99 !important;
-}
-
-/* 修复滚动问题 */
-:deep(.uni-popup__wrapper) {
-  max-height: 90vh !important;
-  overflow: hidden !important;
-}
-
-:deep(.uni-popup__wrapper.bottom) {
-  bottom: 0 !important;
-  padding-bottom: constant(safe-area-inset-bottom) !important;
-  padding-bottom: env(safe-area-inset-bottom) !important;
-}
-
-/* 动画优化 */
 @keyframes popup-bottom {
-  0% {
-    transform: translateY(100%);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}
-
-:deep(.uni-popup__wrapper.bottom) {
-  animation: popup-bottom 0.2s ease-out;
+  0% { transform: translateY(100%); }
+  100% { transform: translateY(0); }
 }
 </style> 

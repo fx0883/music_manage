@@ -2,6 +2,7 @@
 import { ref, onMounted } from 'vue'
 import PoemCard from '@/components/PoemCard.vue'
 import { poemApi } from '@/api/poem'
+import CustomTabBar from '@/custom-tab-bar/index.vue'
 
 const recommendations = ref([])
 const loading = ref(false)
@@ -48,6 +49,7 @@ onMounted(() => {
         />
       </template>
     </view>
+    <custom-tab-bar :selected="1" />
   </view>
 </template>
 

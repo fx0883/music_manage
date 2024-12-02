@@ -33,6 +33,7 @@ const activeGame = ref('quiz') // 当前选中的游戏类型
         <text>游戏开发中...</text>
       </view>
     </view>
+    <custom-tab-bar :selected="2" />
   </view>
 </template>
 
