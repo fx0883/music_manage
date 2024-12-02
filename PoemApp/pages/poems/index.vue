@@ -21,18 +21,17 @@ const nextIndex = computed(() => {
   return null
 })
 
-// 动画状态控制
-const isAnimating = ref(false)
+
 
 // 处理滑动
 const handleSwipe = (direction) => {
-  if (isAnimating.value) return
+
 }
 
 // 处理动画完成
-const handleAnimationComplete = () => {
-  isAnimating.value = false
-  if (currentIndex.value < poemStore.poems.length - 1) {
+const handleAnimationComplete = (isAnimating) => {
+  console.log('Animation state:', isAnimating)
+  if (isAnimating &&currentIndex.value < poemStore.poems.length - 1) {
     currentIndex.value++
   }
 }

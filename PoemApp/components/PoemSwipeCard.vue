@@ -98,39 +98,62 @@ const handleTouchMove = (event) => {
 }
 
 const handleTouchEnd = (event) => {
+  // 如果不是顶层卡片、没有在拖动中、或正在执行动画,则直接返回
   if (!props.isTop || !isDragging.value || isAnimating.value) return
   
+  // 阻止事件冒泡和默认行为
   event.stopPropagation()
   event.preventDefault()
   
+  // 结束拖动状态
   isDragging.value = false
+
+  // 定义滑动判定的阈值(像素)
   const swipeThreshold = 180
+  // 计算水平方向滑动的速度(绝对值)
   const velocity = Math.abs(offsetX.value)
+  // 根据滑动速度计算动画持续时间(速度越快,动画时间越短)
   const animationDuration = Math.max(300, 600 - velocity)
+  // 判断滑动方向: 右滑为1,左滑为-1
   const direction = offsetX.value > 0 ? 1 : -1
+  // 计算总偏移量(考虑水平和垂直方向的位移)
   const totalOffset = Math.sqrt(offsetX.value * offsetX.value + offsetY.value * offsetY.value)
+  // 获取屏幕宽度
   const screenWidth = uni.getSystemInfoSync().windowWidth
   
+  // 如果总偏移量超过阈值或速度足够快,触发滑动效果
   if (totalOffset > swipeThreshold || velocity > 50) {
+    // 设置动画状态
     isAnimating.value = true
+    // 设置卡片滑出屏幕的终点位置
+    // 水平方向: 向左或向右移动1.5倍屏幕宽度
     offsetX.value = direction * screenWidth * 1.5
+    // 垂直方向: 保持当前偏移的1.5倍
     offsetY.value = offsetY.value * 1.5
     
+    // 动画结束后的处理
     setTimeout(() => {
+      // 触发滑动事件,传递方向
       emit('swipe', direction > 0 ? 'right' : 'left')
+      // 重置动画状态
       isAnimating.value = false
+      // 重置位置偏移
       offsetX.value = 0
       offsetY.value = 0
-      emit('animation-complete')
+      // 触发动画完成事件
+      emit('animation-complete', true)
     }, animationDuration)
   } else {
+    // 如果未达到滑动条件,执行回弹动画
     isAnimating.value = true
+    // 重置位置到原点
     offsetX.value = 0
     offsetY.value = 0
     
+    // 动画结束后重置状态
     setTimeout(() => {
       isAnimating.value = false
-      emit('animation-complete')
+      emit('animation-complete', false)
     }, animationDuration)
   }
 }
