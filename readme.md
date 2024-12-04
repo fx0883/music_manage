@@ -77,3 +77,6 @@ python manage.py import_languages
 python manage.py import_poem --file=doc/importData/tang_poem.json
 
 python manage.py export_poem 静夜思
+
+
+venv\Scripts\Activate.ps1

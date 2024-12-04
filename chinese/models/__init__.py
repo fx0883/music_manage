@@ -9,6 +9,8 @@ from .poem_genre import PoemGenre
 from .poem_genre_relation import PoemGenreRelation
 from .font_category import FontCategory
 from .font_info import FontInfo
+from .image_category import ImageCategory
+from .image_info import ImageInfo
 
 __all__ = [
     'Poem',
@@ -22,5 +24,7 @@ __all__ = [
     'PoemGenre',
     'PoemGenreRelation',
     'FontCategory',
-    'FontInfo'
+    'FontInfo',
+    'ImageCategory',
+    'ImageInfo'
 ] 

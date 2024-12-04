@@ -3,13 +3,14 @@ from django.apps import apps
 from .models import (
     Author, Poem, PoemType, Language,
     Annotation, Interpretation, Appreciation,
-    PoemGenre, PoemGenreRelation, FontCategory, FontInfo
+    PoemGenre, PoemGenreRelation, FontCategory, FontInfo,
+    ImageCategory, ImageInfo
 )
 from .admin_classes import (
     AuthorAdmin, PoemAdmin, PoemTypeAdmin,
     LanguageAdmin, AnnotationAdmin, InterpretationAdmin,
     AppreciationAdmin, PoemGenreAdmin, PoemGenreRelationAdmin,
-    FontCategoryAdmin, FontInfoAdmin
+    FontCategoryAdmin, FontInfoAdmin, ImageCategoryAdmin, ImageInfoAdmin
 )
 
 # 注册所有模型和对应的管理类
@@ -24,3 +25,5 @@ admin.site.register(PoemGenre, PoemGenreAdmin)
 admin.site.register(PoemGenreRelation, PoemGenreRelationAdmin)
 admin.site.register(FontCategory, FontCategoryAdmin)
 admin.site.register(FontInfo, FontInfoAdmin)
+admin.site.register(ImageCategory, ImageCategoryAdmin)
+admin.site.register(ImageInfo, ImageInfoAdmin)
