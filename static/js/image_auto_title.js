@@ -55,7 +55,7 @@
                 var reader = new FileReader();
                 reader.onload = function(e) {
                     $previewContainer.html(
-                        `<img src="${e.target.result}" style="max-width: 400px; display: block;" />`
+                        `<img src="${e.target.result}" style="max-width: 100px; display: block;" />`
                     );
                     console.log('Preview image updated'); // 预览图更新日志
                 };

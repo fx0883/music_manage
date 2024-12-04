@@ -6,8 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="to js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/dev_log.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/dev_log.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/admin_classes/image_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/admin_classes/image_admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/models/image_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/models/image_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224154.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224210.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224221.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224241.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224257.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224306.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224313.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224322.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/image_auto_title.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/image_auto_title.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +132,7 @@
       <workItem from="1732944150842" duration="6176000" />
       <workItem from="1733106314806" duration="2671000" />
       <workItem from="1733313339586" duration="627000" />
-      <workItem from="1733314257320" duration="5311000" />
+      <workItem from="1733314257320" duration="6644000" />
     </task>
     <task id="LOCAL-00001" summary="to js">
       <option name="closed" value="true" />
@@ -148,11 +157,10 @@
     <option name="version" value="3" />
     <option name="exactExcludedFiles">
       <list>
+        <option value="$PROJECT_DIR$/PoemApp/api/poem.js" />
         <option value="$PROJECT_DIR$/PoemApp/stores/usePoemStore.js" />
         <option value="$PROJECT_DIR$/PoemApp/utils/request.js" />
         <option value="$PROJECT_DIR$/PoemApp/stores/useLanguageStore.js" />
-        <option value="$PROJECT_DIR$/PoemApp/vite.config.js" />
-        <option value="$PROJECT_DIR$/PoemApp/api/poem.js" />
       </list>
     </option>
   </component>

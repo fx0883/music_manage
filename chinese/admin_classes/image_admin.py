@@ -29,7 +29,7 @@ class ImageInfoAdmin(admin.ModelAdmin):
         """在详情页显示大图预览"""
         if obj.image:
             return format_html(
-                '<img src="{}" style="max-width: 400px; max-height: 400px;" />',
+                '<img src="{}" style="max-width: 100px; max-height: 100px;" />',
                 obj.image.url
             )
         return "无图片"

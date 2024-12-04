@@ -1,5 +1,6 @@
 import os
 import time
+import datetime
 from django.db import models
 from django.db.models.signals import pre_delete
 from django.dispatch import receiver
@@ -12,14 +13,27 @@ logger = logging.getLogger(__name__)
 def image_upload_path(instance, filename):
     """
     生成图片上传路径
-    格式: images/{category_code}/{category_code}_{timestamp}_{filename}
+    格式: images/{category_code}/{filename的拼音}_{timestamp}_{filename}
     """
     # 获取文件扩展名
     ext = filename.split('.')[-1]
-    # 生成时间戳
-    timestamp = time.strftime('%Y%m%d%H%M%S')
-    # 生成新的文件名
-    new_filename = f"{instance.category.code}_{timestamp}.{ext}"
+    
+    # 生成时间戳,精确到微秒
+    now = datetime.datetime.now()
+    timestamp = now.strftime('%Y%m%d%H%M%S') + str(now.microsecond)[:3]
+    
+    # 获取文件名(不含扩展名)
+    name_without_ext = os.path.splitext(filename)[0]
+    
+    # 如果文件名包含中文,则需要转换为拼音
+    if any('\u4e00' <= char <= '\u9fff' for char in name_without_ext):
+        from pypinyin import lazy_pinyin
+        pinyin_name = '_'.join(lazy_pinyin(name_without_ext))
+        new_filename = f"{pinyin_name}_{timestamp}.{ext}"
+    else:
+        # 英文文件名不做转换
+        new_filename = f"{name_without_ext}_{timestamp}.{ext}"
+        
     # 返回完整的上传路径
     return os.path.join('images', instance.category.code, new_filename)
 
