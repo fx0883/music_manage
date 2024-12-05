@@ -80,3 +80,7 @@ python manage.py export_poem 静夜思
 
 
 venv\Scripts\Activate.ps1
+
+python manage.py makemigrations chinese
+
+python manage.py migrate chinese

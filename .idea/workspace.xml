@@ -6,17 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="to js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese/admin_classes/image_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/admin_classes/image_admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese/models/image_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/models/image_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224154.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224210.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224221.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224241.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224306.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224313.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/card_backgroud/card_backgroud_20241204224322.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/image_auto_title.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/image_auto_title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/admin_classes/poem_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/admin_classes/poem_admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/models/poem.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/models/poem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +124,8 @@
       <workItem from="1732944150842" duration="6176000" />
       <workItem from="1733106314806" duration="2671000" />
       <workItem from="1733313339586" duration="627000" />
-      <workItem from="1733314257320" duration="6644000" />
+      <workItem from="1733314257320" duration="6750000" />
+      <workItem from="1733374110768" duration="3593000" />
     </task>
     <task id="LOCAL-00001" summary="to js">
       <option name="closed" value="true" />
@@ -199,28 +192,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
           <line>70</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
-          <line>66</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/chinese/admin_classes/font_info_admin.py</url>
           <line>79</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chinese/models/poem.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chinese/models/poem.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chinese/models/poem.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chinese/models/poem.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chinese/models/poem.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
