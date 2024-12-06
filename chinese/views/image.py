@@ -61,7 +61,8 @@ class ImageListByCategory(APIView):
                                     "id": {"type": "integer", "description": "图片ID"},
                                     "title": {"type": "string", "description": "图片标题"},
                                     "description": {"type": "string", "description": "图片描述"},
-                                    "image_url": {"type": "string", "description": "图片URL"},
+                                    "image_url": {"type": "string", "description": "原图URL"},
+                                    "thumbnail_url": {"type": "string", "description": "缩略图URL"},
                                     "is_active": {"type": "boolean", "description": "是否启用"},
                                     "created_at": {"type": "string", "format": "date-time", "description": "创建时间"}
                                 }
@@ -109,6 +110,7 @@ class ImageListByCategory(APIView):
                     'title': img.title,
                     'description': img.description,
                     'image_url': request.build_absolute_uri(img.image.url),
+                    'thumbnail_url': request.build_absolute_uri(img.thumbnail.url) if img.thumbnail else None,
                     'is_active': img.is_active,
                     'created_at': img.created_at
                 } for img in images

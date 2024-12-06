@@ -31,6 +31,7 @@ const fetchBackgrounds = async () => {
           id: 'none',
           title: '无背景',
           image_url: '',
+          thumbnail_url: '',
           is_active: true
         },
         ...result.images
@@ -131,7 +132,7 @@ onMounted(async () => {
             </template>
             <template v-else>
               <image 
-                :src="item.image_url" 
+                :src="item.thumbnail_url || item.image_url" 
                 mode="aspectFill"
                 class="card-style__image"
                 @load="() => handleImageLoad(item.id)"

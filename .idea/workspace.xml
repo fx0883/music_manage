@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="to js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PoemApp/components/CardStyleSelector.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/components/CardStyleSelector.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/admin_classes/image_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/admin_classes/image_admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/models/image_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/models/image_info.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +127,7 @@
       <workItem from="1733314257320" duration="6750000" />
       <workItem from="1733374110768" duration="3593000" />
       <workItem from="1733410690994" duration="1652000" />
-      <workItem from="1733451967622" duration="2460000" />
+      <workItem from="1733451967622" duration="3750000" />
     </task>
     <task id="LOCAL-00001" summary="to js">
       <option name="closed" value="true" />
