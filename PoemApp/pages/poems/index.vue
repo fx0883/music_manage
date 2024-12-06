@@ -177,8 +177,13 @@ const currentBackground = ref(null)
 
 // 处理背景选择
 const handleBackgroundSelect = (background) => {
-  currentBackground.value = background
-  uni.setStorageSync('poem-background', background)
+  if (background.id === 'none') {
+    currentBackground.value = null
+    uni.removeStorageSync('poem-background')
+  } else {
+    currentBackground.value = background
+    uni.setStorageSync('poem-background', background)
+  }
   cardStylePopup.value?.close()
 }
 
@@ -577,7 +582,7 @@ onMounted(async () => {
 
 .card-style-popup {
   width: 100%;
-  height: 278rpx;
+  height: 378rpx;
   background-color: #fff;
   position: relative;
   z-index: 999;

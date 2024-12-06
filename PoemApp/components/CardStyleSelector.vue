@@ -26,9 +26,16 @@ const fetchBackgrounds = async () => {
     const result = await imageApi.getCategoryImages()
     console.log('获取背景图片结果:', result)
     if (result?.images) {
-      backgrounds.value = result.images
+      backgrounds.value = [
+        {
+          id: 'none',
+          title: '无背景',
+          image_url: '',
+          is_active: true
+        },
+        ...result.images
+      ]
       console.log('背景图片列表已更新:', backgrounds.value)
-      await nextTick()
       await nextTick()
       isReady.value = true
     }
@@ -50,7 +57,6 @@ const handleImageLoad = (id) => {
 const handleSelect = (background) => {
   console.log('选择背景:', background)
   emit('select', background)
-  emit('close')
 }
 
 // 关闭弹窗
@@ -111,15 +117,26 @@ onMounted(async () => {
             v-for="item in backgrounds" 
             :key="item.id"
             class="card-style__item"
-            :class="{ 'card-style__item--active': currentStyle?.id === item.id }"
+            :class="{ 
+              'card-style__item--active': currentStyle?.id === item.id || (!currentStyle && item.id === 'none'),
+              'card-style__item--none': item.id === 'none'
+            }"
             @click="handleSelect(item)"
           >
-            <image 
-              :src="item.image_url" 
-              mode="aspectFill"
-              class="card-style__image"
-              @load="() => handleImageLoad(item.id)"
-            />
+            <template v-if="item.id === 'none'">
+              <view class="card-style__none-bg">
+                <uni-icons type="close" size="24" color="#999" />
+                <text class="card-style__none-text">无背景</text>
+              </view>
+            </template>
+            <template v-else>
+              <image 
+                :src="item.image_url" 
+                mode="aspectFill"
+                class="card-style__image"
+                @load="() => handleImageLoad(item.id)"
+              />
+            </template>
           </view>
         </view>
       </scroll-view>
@@ -129,8 +146,8 @@ onMounted(async () => {
 
 <style lang="scss">
 .card-style {
-  height: 278rpx;
-  padding: 20rpx 0;
+  height: 378rpx;
+  padding: 20rpx 20rpx 30rpx 20rpx;
   
   &__header {
     display: flex;
@@ -182,10 +199,15 @@ onMounted(async () => {
     position: relative;
     width: 100rpx;
     height: 178rpx;
-    margin-right: 30rpx;
+    margin-right: 60rpx;
     border-radius: 12rpx;
     overflow: hidden;
     flex-shrink: 0;
+    
+    &--none {
+      border: 2rpx dashed #ddd;
+      background-color: #f8f8f8;
+    }
     
     &:last-child {
       margin-right: 30rpx;
@@ -208,6 +230,21 @@ onMounted(async () => {
     width: 100%;
     height: 100%;
     object-fit: cover;
+  }
+  
+  &__none-bg {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10rpx;
+  }
+  
+  &__none-text {
+    font-size: 20rpx;
+    color: #999;
   }
 }
 </style> 
