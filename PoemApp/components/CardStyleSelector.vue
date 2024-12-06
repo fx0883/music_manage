@@ -203,6 +203,7 @@ onMounted(async () => {
     border-radius: 12rpx;
     overflow: hidden;
     flex-shrink: 0;
+    border: 2rpx solid rgba(0, 0, 0, 0.05);
     
     &--none {
       border: 2rpx dashed #ddd;
