@@ -272,6 +272,7 @@ onMounted(async () => {
           :right-margin="margins.right"
           :font-family="currentFont.fontFamily"
           :font-size="cardFontSize"
+		  :background-image="currentBackground?.image_url"
           class="poems__next-card"
         />
         
@@ -283,6 +284,10 @@ onMounted(async () => {
           :background-image="currentBackground?.image_url"
           :font-family="currentFont.fontFamily"
           :font-size="cardFontSize"
+		  :top-margin="margins.top"
+		  :bottom-margin="margins.bottom"
+		  :left-margin="margins.left"
+		  :right-margin="margins.right"
           @swipe="handleSwipe"
           @animation-complete="handleAnimationComplete"
           class="poems__current-card"

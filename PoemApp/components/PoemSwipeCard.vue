@@ -169,9 +169,6 @@ const cardStyle = computed(() => {
     transform: '',
     transition: '',
     fontFamily: props.fontFamily,
-    backgroundImage: props.backgroundImage ? `url(${props.backgroundImage})` : '',
-    backgroundSize: 'cover',
-    backgroundPosition: 'center'
   }
 
   if (isAnimating.value || !props.isTop) {
@@ -212,7 +209,8 @@ onMounted(async () => {
     class="poem-card" 
     :class="{
       'poem-card--top': isTop,
-      'poem-card--animating': isAnimating
+      'poem-card--animating': isAnimating,
+      'poem-card--with-bg': backgroundImage
     }"
     :style="[
       cardStyle,
@@ -221,7 +219,8 @@ onMounted(async () => {
         top: `${topMargin}rpx`,
         left: `${leftMargin}rpx`,
         right: `${rightMargin}rpx`,
-        bottom: `${bottomMargin}rpx`
+        bottom: `${bottomMargin}rpx`,
+        backgroundImage: backgroundImage ? `url(${backgroundImage})` : 'none'
       }
     ]"
     @touchstart="handleTouchStart"
@@ -262,8 +261,27 @@ onMounted(async () => {
   flex-direction: column;
   padding: 60rpx 40rpx;
   box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  
+  &--with-bg {
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(255, 255, 255, 0.8); // 白色半透明遮罩
+      z-index: 0;
+    }
+  }
   
   &__content {
+    position: relative;
+    z-index: 1;
     flex: 1;
     display: flex;
     flex-direction: column;
