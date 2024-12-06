@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted, computed } from 'vue'
+import { ref, onMounted, computed, nextTick } from 'vue'
 import { usePoemStore } from '@/stores/usePoemStore'
 import { useLanguageStore } from '@/stores/useLanguageStore'
 import PoemSwipeCard from '@/components/PoemSwipeCard.vue'
@@ -7,6 +7,7 @@ import LoadingState from '@/components/LoadingState.vue'
 import EmptyState from '@/components/EmptyState.vue'
 import FontSelector from '@/components/FontSelector.vue'
 import { debounce } from '@/utils/debounce'
+import CardStyleSelector from '@/components/CardStyleSelector.vue'
 
 // Store
 const poemStore = usePoemStore()
@@ -72,6 +73,7 @@ const cardFontSize = ref(42)
 const showFontSelector = ref(false)
 const popup = ref(null)
 const fontPopup = ref(null)
+const cardStylePopup = ref(null)
 
 // 字体大小变化处理
 const handleFontSizeChange = debounce((e) => {
@@ -100,6 +102,12 @@ const handleSettingClick = (type) => {
     setTimeout(() => {
       fontPopup.value?.open()
     }, 100)
+  } else if (type === 'card') {
+    popup.value?.close()
+    nextTick(async () => {
+      await new Promise(resolve => setTimeout(resolve, 100))
+      cardStylePopup.value?.open()
+    })
   }
 }
 
@@ -151,6 +159,7 @@ const lockScroll = (lock) => {
 
 // 弹出层状态变化
 const handlePopupChange = (e) => {
+  console.log('Popup change:', e.show)
   showFontSelector.value = e.show
   lockScroll(e.show)
   
@@ -160,6 +169,24 @@ const handlePopupChange = (e) => {
     setTimeout(() => {
       lockScroll(false)
     }, 300)
+  }
+}
+
+// 添加背景样式状态
+const currentBackground = ref(null)
+
+// 处理背景选择
+const handleBackgroundSelect = (background) => {
+  currentBackground.value = background
+  uni.setStorageSync('poem-background', background)
+  cardStylePopup.value?.close()
+}
+
+// 处理卡片样式弹窗关闭
+const handleCardStyleClose = () => {
+  console.log('关闭卡片样式弹窗')
+  if (cardStylePopup.value) {
+    cardStylePopup.value.close()
   }
 }
 
@@ -178,8 +205,12 @@ onMounted(async () => {
       fontSize.value = savedFontSize.slider
       cardFontSize.value = savedFontSize.actual
     }
+    const savedBackground = uni.getStorageSync('poem-background')
+    if (savedBackground) {
+      currentBackground.value = savedBackground
+    }
   } catch (error) {
-    console.error('Failed to restore font settings:', error)
+    console.error('Failed to restore settings:', error)
   }
 })
 </script>
@@ -249,10 +280,7 @@ onMounted(async () => {
           v-if="poemStore.poems[currentIndex]"
           :poem="poemStore.poems[currentIndex]"
           :is-top="true"
-          :top-margin="margins.top"
-          :bottom-margin="margins.bottom"
-          :left-margin="margins.left"
-          :right-margin="margins.right"
+          :background-image="currentBackground?.image_url"
           :font-family="currentFont.fontFamily"
           :font-size="cardFontSize"
           @swipe="handleSwipe"
@@ -339,6 +367,24 @@ onMounted(async () => {
         />
       </scroll-view>
       <view class="font-popup__safe-area"></view>
+    </view>
+  </uni-popup>
+  
+  <!-- 添加卡片样式弹出层 -->
+  <uni-popup 
+    ref="cardStylePopup" 
+    type="bottom" 
+    :mask-click="true"
+    :safe-area="true"
+    @change="handlePopupChange"
+  >
+    <view class="card-style-popup">
+      <CardStyleSelector
+        :current-style="currentBackground"
+        @select="handleBackgroundSelect"
+        @close="handleCardStyleClose"
+      />
+      <view class="card-style-popup__safe-area"></view>
     </view>
   </uni-popup>
 </template>
@@ -515,6 +561,23 @@ onMounted(async () => {
     overflow-y: auto;
     overscroll-behavior: contain;
   }
+  
+  &__safe-area {
+    height: constant(safe-area-inset-bottom);
+    height: env(safe-area-inset-bottom);
+    width: 100%;
+    background-color: #fff;
+  }
+}
+
+.card-style-popup {
+  width: 100%;
+  height: 278rpx;
+  background-color: #fff;
+  position: relative;
+  z-index: 999;
+  display: flex;
+  flex-direction: column;
   
   &__safe-area {
     height: constant(safe-area-inset-bottom);

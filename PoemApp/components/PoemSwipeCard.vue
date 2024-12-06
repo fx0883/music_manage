@@ -34,6 +34,10 @@ const props = defineProps({
   fontSize: {
     type: Number,
     default: 42
+  },
+  backgroundImage: {
+    type: String,
+    default: ''
   }
 })
 
@@ -164,7 +168,10 @@ const cardStyle = computed(() => {
     pointerEvents: 'auto',
     transform: '',
     transition: '',
-    fontFamily: props.fontFamily
+    fontFamily: props.fontFamily,
+    backgroundImage: props.backgroundImage ? `url(${props.backgroundImage})` : '',
+    backgroundSize: 'cover',
+    backgroundPosition: 'center'
   }
 
   if (isAnimating.value || !props.isTop) {
