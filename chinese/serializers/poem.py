@@ -12,13 +12,17 @@ class PoemListSerializer(serializers.ModelSerializer):
     author_image = serializers.ImageField(source='author.image')
     poem_type_name = serializers.CharField(source='poem_type.name')
     image_url = serializers.SerializerMethodField()
+    banner_image_url = serializers.SerializerMethodField()
+    audio_url = serializers.URLField()
+    excerpt = serializers.CharField()
     
     class Meta:
         model = Poem
         fields = [
             'id', 'title', 'title_pinyin', 'content', 
             'author_id', 'author_name', 'author_pinyin', 'author_image',
-            'poem_type_name', 'difficulty', 'image_url'
+            'poem_type_name', 'difficulty', 'image_url',
+            'banner_image_url', 'audio_url', 'excerpt'
         ]
     
     def get_image_url(self, obj):
@@ -27,6 +31,14 @@ class PoemListSerializer(serializers.ModelSerializer):
             if request:
                 return request.build_absolute_uri(obj.image.url)
             return obj.image.url
+        return None
+
+    def get_banner_image_url(self, obj):
+        if obj.banner_image:
+            request = self.context.get('request')
+            if request:
+                return request.build_absolute_uri(obj.banner_image.url)
+            return obj.banner_image.url
         return None
 
 class AuthorSerializer(serializers.ModelSerializer):
@@ -53,6 +65,9 @@ class PoemDetailSerializer(serializers.ModelSerializer):
     genre = serializers.SerializerMethodField()
     type = serializers.SerializerMethodField()
     image_url = serializers.SerializerMethodField()
+    banner_image_url = serializers.SerializerMethodField()
+    audio_url = serializers.URLField()
+    excerpt = serializers.CharField()
 
     class Meta:
         model = Poem
@@ -60,7 +75,7 @@ class PoemDetailSerializer(serializers.ModelSerializer):
             'title', 'difficulty', 'author',
             'annotations', 'appreciations', 'interpretations',
             'genre', 'type', 'content', 'title_pinyin', 'pinyin',
-            'image_url'
+            'image_url', 'banner_image_url', 'audio_url', 'excerpt'
         ]
 
     def get_content_by_language(self, content_dict, current_language):
@@ -147,6 +162,14 @@ class PoemDetailSerializer(serializers.ModelSerializer):
             return obj.image.url
         return None
 
+    def get_banner_image_url(self, obj):
+        if obj.banner_image:
+            request = self.context.get('request')
+            if request:
+                return request.build_absolute_uri(obj.banner_image.url)
+            return obj.banner_image.url
+        return None
+
     def to_representation(self, instance):
         result = super().to_representation(instance)
         
@@ -154,7 +177,7 @@ class PoemDetailSerializer(serializers.ModelSerializer):
             'title', 'difficulty', 'author',
             'annotations', 'appreciations', 'interpretations',
             'genre', 'type', 'content', 'title_pinyin', 'pinyin',
-            'image_url'
+            'image_url', 'banner_image_url', 'audio_url', 'excerpt'
         ]
         
         return {
