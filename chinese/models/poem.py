@@ -82,6 +82,13 @@ class Poem(models.Model):
         null=True,
         help_text='用于展示页面顶部的横幅图片，建议尺寸 1920x480'
     )
+    audio_url = models.URLField(
+        '朗诵音频',
+        max_length=500,
+        blank=True,
+        null=True,
+        help_text='诗词朗诵的音频链接，支持mp3格式'
+    )
 
     class Meta:
         verbose_name = '古诗词'
