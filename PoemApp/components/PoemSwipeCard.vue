@@ -109,6 +109,18 @@ const handleTouchEnd = (event) => {
   event.stopPropagation()
   event.preventDefault()
   
+  // 计算移动距离
+  const moveDistance = Math.sqrt(
+    Math.pow(offsetX.value, 2) + Math.pow(offsetY.value, 2)
+  )
+  
+  // 如果移动距离很小，认为是点击
+  if (moveDistance < 10) {
+    isDragging.value = false
+    emit('click')
+    return
+  }
+  
   // 结束拖动状态
   isDragging.value = false
 

@@ -31,7 +31,7 @@ const margins = computed(() => {
   const navBarHeight = 44 // 导航栏固定高度
   const tabBarHeight = 50 // tabBar 固定高度
   
-  // 计算卡片可用空间
+  // 计算���片可用空间
   const availableHeight = screenHeight - statusBarHeight - navBarHeight - tabBarHeight
   
   // 计算合适的上下边距
@@ -195,6 +195,16 @@ const handleCardStyleClose = () => {
   }
 }
 
+const handlePoemClick = (poem) => {
+  console.log('Navigating to poem:', poem.id)
+  uni.navigateTo({
+    url: `/pages/poems/detail?id=${poem.id}`,
+    fail: (err) => {
+      console.error('Navigation failed:', err)
+    }
+  })
+}
+
 // 初始化
 onMounted(async () => {
   languageStore.initLanguage()
@@ -295,6 +305,7 @@ onMounted(async () => {
 		  :right-margin="margins.right"
           @swipe="handleSwipe"
           @animation-complete="handleAnimationComplete"
+          @click="handlePoemClick(poemStore.poems[currentIndex])"
           class="poems__current-card"
         />
       </template>

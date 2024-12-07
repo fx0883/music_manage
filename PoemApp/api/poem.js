@@ -18,11 +18,11 @@ export const poemApi = {
   },
 
   // 获取诗词详情
-  getPoemDetail(id) {
+  getPoemDetail(id, language = 'zh') {
     return request.request({
       url: `${config.baseUrl}/poems/${id}/`,
       method: 'GET',
-      retryTimes: 2,
+      data: { language },
       custom: {
         showLoading: true,
         loadingMsg: '加载诗词详情...'
