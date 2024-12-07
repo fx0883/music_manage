@@ -96,10 +96,19 @@ class PoemDetailSerializer(serializers.ModelSerializer):
         # 只返回当前语言的介绍（或英文）
         introduction = self.get_content_by_language(introductions, current_language)
         
+        # 处理作者头像URL
+        image_url = None
+        if obj.author.image:
+            request = self.context.get('request')
+            if request:
+                image_url = request.build_absolute_uri(obj.author.image.url)
+            else:
+                image_url = obj.author.image.url
+        
         return {
             'name': obj.author.name,
             'name_pinyin': obj.author.name_pinyin,
-            'image': obj.author.image.name if obj.author.image else None,
+            'image': image_url,
             'introduction': introduction
         }
 

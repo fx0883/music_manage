@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="to js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/api/poem.js" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/api/poem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/poems/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoemApp/pages/poems/detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/PoemApp/pages/poems/detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/serializers/author.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/serializers/author.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinese/serializers/poem.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese/serializers/poem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +128,7 @@
       <workItem from="1733374110768" duration="3593000" />
       <workItem from="1733410690994" duration="1652000" />
       <workItem from="1733451967622" duration="3750000" />
-      <workItem from="1733564758821" duration="4975000" />
+      <workItem from="1733564758821" duration="10768000" />
     </task>
     <task id="LOCAL-00001" summary="to js">
       <option name="closed" value="true" />
@@ -227,6 +227,16 @@
           <url>file://$PROJECT_DIR$/chinese/models/poem.py</url>
           <line>22</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chinese/serializers/author.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chinese/serializers/author.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
