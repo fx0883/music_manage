@@ -84,3 +84,5 @@ venv\Scripts\Activate.ps1
 python manage.py makemigrations chinese
 
 python manage.py migrate chinese
+
+pip freeze > requirements.txt
