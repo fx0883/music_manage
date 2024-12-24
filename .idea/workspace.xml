@@ -7,7 +7,6 @@
     <list default="true" id="d7e89105-1f1e-4bbf-9211-be73bf894a48" name="Changes" comment="to js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Github/music_manage&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Github/todo2/todoServer&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -129,6 +128,14 @@
       <workItem from="1733451967622" duration="3750000" />
       <workItem from="1733564758821" duration="10825000" />
       <workItem from="1733660336355" duration="158000" />
+      <workItem from="1733835610728" duration="45000" />
+      <workItem from="1733924976091" duration="1085000" />
+      <workItem from="1733926146727" duration="750000" />
+      <workItem from="1734067925104" duration="663000" />
+      <workItem from="1734965098412" duration="3901000" />
+      <workItem from="1735006930903" duration="68000" />
+      <workItem from="1735007768553" duration="386000" />
+      <workItem from="1735009239233" duration="3097000" />
     </task>
     <task id="LOCAL-00001" summary="to js">
       <option name="closed" value="true" />

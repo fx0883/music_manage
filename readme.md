@@ -18,6 +18,8 @@ sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 
 
+sudo curl -L "https://mirrors.huaweicloud.com/docker-compose/linux/$(uname -s)/$(uname -m)/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
 # 克隆项目代码
 git clone https://github.com/fx0883/music_manage.git
 cd music_manage
